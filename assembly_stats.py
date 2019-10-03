@@ -2,12 +2,12 @@
 
 from Bio import Entrez
 Entrez.email = "mike.rayko@gmail.com" 
-handle = Entrez.esearch(db="assembly", term="metagenome",retmax = 10500) #10500)
+handle = Entrez.esearch(db="assembly", term="metagenome",retmax = 10500) 
 record = Entrez.read(handle)
 print ("got assembly ids")
 
 id_list = record["IdList"]
-print len(id_list)
+print (len(id_list))
 i = 0
 
 spl = []
@@ -34,9 +34,10 @@ for id_l in spl:
         sptaxid = elem["SpeciesTaxid"]
         spname = elem["SpeciesName"]
         size = elem["Meta"].split("</Stat>")[14].split(">")[-1]
-    
-        sample_list.append({"gbid":gbid, "acc":acc,"taxid":taxid,"orgn":orgn,"sptaxid":sptaxid,"spname":spname,"size":size})
+
+        sample_list.append([gbid,acc,taxid,orgn,sptaxid,spname,size])    
     
 with open('assembly_stats.txt', 'w') as f:
+    f.write("# GbID,Accession,TaxID,Organism,SpeciesTaxID,SpeciesName,Size" + "\n")
     for item in sample_list:
-        f.write("%s\n" % item)
+        f.write("%s\n" % ",".join(item))
