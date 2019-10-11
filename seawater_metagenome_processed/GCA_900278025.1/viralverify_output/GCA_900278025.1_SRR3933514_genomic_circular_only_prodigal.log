@@ -1,0 +1,24 @@
+-------------------------------------
+PRODIGAL v2.6.3 [February, 2016]         
+Univ of Tenn / Oak Ridge National Lab
+Doug Hyatt, Loren Hauser, et al.     
+-------------------------------------
+Request:  Metagenomic, Phase:  Training
+Initializing training files...done!
+-------------------------------------
+Request:  Metagenomic, Phase:  Gene Finding
+Finding genes in sequence #1 (10386 bp)...done!
+Finding genes in sequence #2 (2779 bp)...done!
+Finding genes in sequence #3 (2773 bp)...done!
+Finding genes in sequence #4 (2629 bp)...done!
+Finding genes in sequence #5 (1849 bp)...done!
+Finding genes in sequence #6 (1483 bp)...done!
+Finding genes in sequence #7 (1387 bp)...done!
+Finding genes in sequence #8 (1387 bp)...done!
+Finding genes in sequence #9 (1155 bp)...done!
+Finding genes in sequence #10 (1015 bp)...done!
+Finding genes in sequence #11 (997 bp)...done!
+Finding genes in sequence #12 (991 bp)...done!
+Finding genes in sequence #13 (991 bp)...done!
+Finding genes in sequence #14 (991 bp)...done!
+Finding genes in sequence #15 (949 bp)...done!

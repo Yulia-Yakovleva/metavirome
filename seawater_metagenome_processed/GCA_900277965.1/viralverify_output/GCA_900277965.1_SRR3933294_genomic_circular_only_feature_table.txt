@@ -1,0 +1,2 @@
+OJCW01004880.1,Rep_trans
+OJCW01019678.1,Pro_isomerase

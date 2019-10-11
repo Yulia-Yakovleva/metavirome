@@ -1,0 +1,21 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJEC01003990.1_2     -            356 Peptidase_S9         PF00326.20   212     1e-13   43.3   0.0   1   1   2.3e-09   1.4e-07   23.2   0.0   142   210   213   280   201   282 0.88 # 559 # 1626 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.471
+OJEC01003990.1_2     -            356 Esterase             PF00756.19   251   4.2e-12   38.2   0.0   1   1   1.1e-13   6.8e-12   37.5   0.0     4   148    56   198    54   261 0.85 # 559 # 1626 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.471
+OJEC01003990.1_2     -            356 DLH                  PF01738.17   217   1.9e-07   22.9   0.0   1   1   5.5e-09   3.5e-07   22.0   0.0    79   188   146   258    69   282 0.75 # 559 # 1626 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.471
+OJEC01031304.1_1     -            164 Pro_isomerase        PF00160.20   158   1.3e-48  157.3   2.2   1   1   2.3e-50   1.4e-48  157.1   2.2     2   158     4   162     3   162 0.91 # 240 # 731 # -1 # ID=59_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.343
+OJEC01003990.1_2     -            356 Abhydrolase_2        PF02230.15   217   1.2e-08   27.1   0.0   1   1   3.1e-09     2e-07   23.1   0.0     9   202    71   260    69   279 0.72 # 559 # 1626 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.471
+OJEC01020111.1_1     -            110 DUF4440              PF14534.5    107   1.9e-10   33.2   0.0   1   1   3.2e-12     2e-10   33.1   0.0     3    67     2    72     1   100 0.84 # 311 # 640 # 1 # ID=37_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.394
+OJEC01018322.1_1     -            261 Lipoprotein_18       PF06804.10   319   8.2e-16   49.9   2.9   1   1   2.9e-15   1.8e-13   42.2   2.8   103   264    13   216     4   237 0.69 # 123 # 905 # 1 # ID=34_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.398
+OJEC01003990.1_2     -            356 Esterase_phd         PF10503.8    220   2.8e-10   32.1   0.0   1   1   1.4e-10   8.9e-09   27.1   0.0     2   126    61   194    60   205 0.80 # 559 # 1626 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.471
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278265.1/viralverify_output/GCA_900278265.1_SRR3933269_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278265.1/viralverify_output/GCA_900278265.1_SRR3933269_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278265.1/viralverify_output/GCA_900278265.1_SRR3933269_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278265.1/viralverify_output/GCA_900278265.1_SRR3933269_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:42:26 2019
+# [ok]

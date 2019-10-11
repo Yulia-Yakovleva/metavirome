@@ -1,0 +1,9 @@
+OJEF01010496.1,DDE_Tnp_ISL3
+OJEF01032344.1,Y1_Tnp
+OJEF01010702.1,Flagellin_N Flagellin_C
+OJEF01013854.1,Flagellin_N Flagellin_C
+OJEF01006457.1,HTH_17 Rep_3 Resolvase Recombinase
+OJEF01008613.1,Glucosaminidase tRNA-synt_2
+OJEF01036356.1,HTH_3
+OJEF01012539.1,Y1_Tnp Bac_DnaA_C
+OJEF01017317.1,Flagellin_N Flagellin_C

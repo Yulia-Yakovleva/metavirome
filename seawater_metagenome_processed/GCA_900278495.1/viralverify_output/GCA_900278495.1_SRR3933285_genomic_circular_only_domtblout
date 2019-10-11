@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OLHN01003658.1_1     -            488 MFS_2                PF13347.5    427   9.7e-81  262.8  25.3   1   1   2.7e-82   1.1e-80  262.6  25.3     2   426    28   470    27   471 0.90 # 368 # 1831 # -1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.468
+OLHN01008044.1_1     -            371 Flagellin_N          PF00669.19   139   5.1e-42  134.7  17.2   1   1   1.3e-43   5.1e-42  134.7  17.2     1   137     4   140     4   142 0.99 # 521 # 1633 # -1 # ID=7_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.473
+OLHN01008044.1_1     -            371 Flagellin_C          PF00700.20    86   6.8e-25   78.8  20.4   1   1   4.5e-26   1.9e-24   77.4   9.1     2    86   285   369   284   369 0.98 # 521 # 1633 # -1 # ID=7_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.473
+OLHN01026721.1_1     -             87 Ribosomal_S20p       PF01649.17    82   4.5e-25   79.6  14.2   1   1   1.2e-26     5e-25   79.5  14.2     1    82     2    84     2    84 0.97 # 57 # 317 # 1 # ID=30_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.345
+OLHN01004932.1_1     -            212 Rep_trans            PF02486.18   200   3.1e-16   51.1   0.3   1   1     2e-17   4.2e-16   50.7   0.3    37   102    57   125    25   186 0.81 # 6 # 641 # 1 # ID=5_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.549
+OLHN01004932.1_3     -            276 Rep_trans            PF02486.18   200   4.6e-16   50.5   0.1   1   1   2.8e-17   5.7e-16   50.2   0.1    37   102   121   189    64   255 0.83 # 1383 # 2210 # 1 # ID=5_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.550
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278495.1/viralverify_output/GCA_900278495.1_SRR3933285_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278495.1/viralverify_output/GCA_900278495.1_SRR3933285_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278495.1/viralverify_output/GCA_900278495.1_SRR3933285_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278495.1/viralverify_output/GCA_900278495.1_SRR3933285_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:23:57 2019
+# [ok]

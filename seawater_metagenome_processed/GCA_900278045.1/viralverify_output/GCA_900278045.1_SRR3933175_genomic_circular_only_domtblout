@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJDA01000239.1_2     -            248 HTH_18               PF12833.6     81   8.1e-22   66.9   3.8   1   1   1.6e-22   1.6e-21   65.9   3.8     2    77   166   239   165   242 0.96 # 1222 # 1965 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.695
+OJDA01000239.1_2     -            248 HTH_AraC             PF00165.22    42   6.6e-13   38.0   0.5   1   1   9.7e-11   9.7e-10   27.9   0.0     7    39   206   239   203   240 0.92 # 1222 # 1965 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.695
+OJDA01000239.1_8     -            545 OEP                  PF02321.17   188   6.1e-32  100.3  33.1   1   2     2e-14     2e-13   40.0  15.7     5   188    75   248    71   248 0.80 # 5364 # 6998 # -1 # ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.675
+OJDA01000239.1_8     -            545 OEP                  PF02321.17   188   6.1e-32  100.3  33.1   2   2   1.8e-22   1.8e-21   66.2   9.4     1   188   272   450   272   450 0.97 # 5364 # 6998 # -1 # ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.675
+OJDA01000239.1_5     -            293 Cytochrome_CBB3      PF13442.5     67   9.3e-14   41.1   4.7   1   1   6.1e-14   6.1e-13   38.5   4.7     5    67    71   166    67   166 0.77 # 2671 # 3549 # -1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.658
+OJDA01000239.1_6     -            485 Cu-oxidase_3         PF07732.14   119   8.6e-41  128.2   3.8   1   1   2.2e-40   2.2e-39  123.7   0.1     6   118    95   206    91   207 0.93 # 3567 # 5021 # -1 # ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.649
+OJDA01000239.1_6     -            485 Cu-oxidase_2         PF07731.13   137   7.7e-28   86.4  10.7   1   1   2.5e-22   2.5e-21   65.3   4.3    21   127   242   340   228   346 0.82 # 3567 # 5021 # -1 # ID=1_6;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.649
+OJDA01000239.1_10    -            152 Adenine_glyco        PF03352.12   177   2.4e-52  166.7   0.0   1   1   3.2e-53   3.2e-52  166.3   0.0    42   176     3   137     2   138 0.99 # 7961 # 8416 # -1 # ID=1_10;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640
+OJDA01000239.1_1     -            283 FA_hydroxylase       PF04116.12   133   3.3e-30   94.6   5.7   1   1   3.3e-31   3.3e-30   94.6   5.7     2   133   117   250   116   250 0.93 # 309 # 1157 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.651
+OJDA01000239.1_3     -            194 DUF4396              PF14342.5    141   5.1e-34  107.1  11.3   1   1   6.2e-35   6.2e-34  106.8  11.3     2   141    56   189    55   189 0.94 # 1967 # 2548 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.660
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278045.1/viralverify_output/GCA_900278045.1_SRR3933175_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278045.1/viralverify_output/GCA_900278045.1_SRR3933175_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278045.1/viralverify_output/GCA_900278045.1_SRR3933175_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278045.1/viralverify_output/GCA_900278045.1_SRR3933175_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 01:59:48 2019
+# [ok]

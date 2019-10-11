@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJDL01015617.1_1     -            222 NUDIX                PF00293.27   131     3e-10   31.8   0.0   1   1   9.3e-12   4.2e-10   31.4   0.0     4   119     4   119     1   129 0.75 # 374 # 1039 # 1 # ID=9_1;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.434
+OJDL01021781.1_2     -            195 Cytochrom_C          PF00034.20    92     5e-10   32.1   0.1   1   1   1.7e-11   7.5e-10   31.5   0.1     4    90    85   182    82   184 0.85 # 435 # 1019 # 1 # ID=21_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.393
+OJDL01001565.1_4     -            300 AAA_25               PF13481.5    194   8.6e-41  131.2   0.1   1   1   2.6e-42   1.2e-40  130.7   0.1     7   193    15   193     9   194 0.84 # 3752 # 4651 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.589
+OJDL01001811.1_2     -            100 ParE_toxin           PF05016.14    90   4.8e-22   70.0   0.1   1   1   2.4e-23   5.3e-22   69.9   0.1     1    89     4    94     4    95 0.90 # 1175 # 1474 # -1 # ID=2_2;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.577
+OJDL01020657.1_1     -             88 ParE_toxin           PF05016.14    90   2.4e-11   35.8   0.5   1   1   1.3e-12     3e-11   35.4   0.5     2    90     7    84     6    84 0.88 # 117 # 380 # -1 # ID=19_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.303
+OJDL01028041.1_1     -            183 SCPU                 PF05229.14   139   9.4e-30   95.4  12.4   1   1   2.5e-31   1.1e-29   95.2  12.4     3   139    34   179    32   179 0.87 # 183 # 731 # 1 # ID=25_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.483
+OJDL01001811.1_3     -             93 RHH_1                PF01402.20    39   5.7e-12   36.9   0.1   1   1   2.5e-13   1.1e-11   35.9   0.1     3    39     6    42     4    42 0.96 # 1462 # 1740 # -1 # ID=2_3;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.627
+OJDL01008267.1_3     -            276 Rep_trans            PF02486.18   200   5.1e-16   50.5   0.1   1   1   1.4e-17   6.2e-16   50.2   0.1    37   102   121   189    64   255 0.83 # 1563 # 2390 # -1 # ID=6_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.548
+OJDL01001565.1_3     -            723 Relaxase             PF03432.13   242   6.4e-16   50.2   0.0   1   1   2.3e-17   1.1e-15   49.5   0.0    55   234    57   253    32   261 0.70 # 1465 # 3633 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.577
+OJDL01001811.1_5     -            336 Rep_3                PF01051.20   222   3.9e-19   60.8   0.2   1   1     2e-20   9.2e-19   59.6   0.1    19   220    39   239    30   241 0.83 # 3179 # 4186 # 1 # ID=2_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.568
+OJDL01001565.1_5     -            297 RepC                 PF06504.10   273    1e-118  387.0   0.0   1   1  2.6e-120  1.2e-118  386.8   0.0     2   273    13   290    12   290 0.96 # 4611 # 5501 # 1 # ID=1_5;partial=00;start_type=GTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.540
+OJDL01001565.1_3     -            723 RepB_primase         PF16793.4    240   6.6e-31   99.8   0.1   1   1   2.4e-32   1.1e-30   99.1   0.1    26   175   444   594   403   644 0.85 # 1465 # 3633 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.577
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278085.1/viralverify_output/GCA_900278085.1_SRR3933295_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278085.1/viralverify_output/GCA_900278085.1_SRR3933295_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278085.1/viralverify_output/GCA_900278085.1_SRR3933295_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278085.1/viralverify_output/GCA_900278085.1_SRR3933295_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:22:31 2019
+# [ok]

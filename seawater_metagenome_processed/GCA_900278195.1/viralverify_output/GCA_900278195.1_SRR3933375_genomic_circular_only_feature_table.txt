@@ -1,0 +1,6 @@
+OJDQ01002224.1,MobC Replicase PriCT_1 ToxN_toxin Relaxase
+OJDQ01001307.1,DUF3018 Rep_3 MobC Relaxase HTH_Crp_2 PemK_toxin
+OJDQ01009610.1,Flagellin_N Flagellin_C
+OJDQ01009697.1,rve_3 Transposase_mut
+OJDQ01007924.1,Rep_1
+OJDQ01020402.1,Cupin_2

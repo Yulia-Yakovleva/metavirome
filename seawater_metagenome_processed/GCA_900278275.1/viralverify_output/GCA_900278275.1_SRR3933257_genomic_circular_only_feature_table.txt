@@ -1,0 +1,9 @@
+OJDZ01002298.1,Relaxase MobC Relaxase Replicase PriCT_1
+OJDZ01001143.1,MobA_MobL Rep_3 NTP_transf_2 His_Phos_1 Alkyl_sulf_dimr Lactamase_B Alkyl_sulf_C Lactamase_B_2 HD
+OJDZ01001251.1,Y2_Tnp HATPase_c HisKA CopB Cu-oxidase_3 Cu-oxidase Cu-oxidase_2 DUF305 DUF4440 Response_reg Trans_reg_C CopD CopC Glutaredoxin
+OJDZ01029654.1,Pro_isomerase Pro_isomerase
+OJDZ01002114.1,MobA_MobL RPA ParE_toxin ParD_antitoxin HdeA
+OJDZ01002090.1,AAA AAA
+OJDZ01002341.1,Relaxase MobC Rep_3 YafQ_toxin RelB
+OJDZ01000771.1,CbiA Response_reg Phage_integrase
+OJDZ01006837.1,Rep_1 Rep_1

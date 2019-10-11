@@ -1,0 +1,5 @@
+OJFC01000004.1,RNA_pol RPOL_N Phage_integrase HTH_27 Phage_T7_tail GP38 DNA_pol_A FA_desaturase FA_desaturase Head-tail_con PRA-PH Ribonuc_red_lgC Ribonuc_red_sm Thy1 Dam 5_3_exonuc_N HTH_39 Toprim_2 DnaB_C Amidase_2 Phage_endo_I P22_CoatProtein Phage_T7_Capsid Tube
+OJFC01015664.1,OMP_b-brl OMP_b-brl
+OJFC01006116.1,Polysacc_lyase Polysacc_lyase
+OJFC01008210.1,EamA
+OJFC01023566.1,TPMT

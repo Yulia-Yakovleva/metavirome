@@ -1,0 +1,2 @@
+OJDF01000148.1,Phage_GPA Phage_F Phage_F
+OJDF01006758.1,Pkinase_Tyr

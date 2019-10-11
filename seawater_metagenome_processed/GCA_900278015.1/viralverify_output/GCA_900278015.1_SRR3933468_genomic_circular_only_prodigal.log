@@ -1,0 +1,37 @@
+-------------------------------------
+PRODIGAL v2.6.3 [February, 2016]         
+Univ of Tenn / Oak Ridge National Lab
+Doug Hyatt, Loren Hauser, et al.     
+-------------------------------------
+Request:  Metagenomic, Phase:  Training
+Initializing training files...done!
+-------------------------------------
+Request:  Metagenomic, Phase:  Gene Finding
+Finding genes in sequence #1 (10386 bp)...done!
+Finding genes in sequence #2 (5041 bp)...done!
+Finding genes in sequence #3 (3199 bp)...done!
+Finding genes in sequence #4 (3148 bp)...done!
+Finding genes in sequence #5 (2069 bp)...done!
+Finding genes in sequence #6 (1723 bp)...done!
+Finding genes in sequence #7 (1597 bp)...done!
+Finding genes in sequence #8 (1411 bp)...done!
+Finding genes in sequence #9 (1405 bp)...done!
+Finding genes in sequence #10 (1393 bp)...done!
+Finding genes in sequence #11 (1345 bp)...done!
+Finding genes in sequence #12 (1327 bp)...done!
+Finding genes in sequence #13 (1327 bp)...done!
+Finding genes in sequence #14 (1267 bp)...done!
+Finding genes in sequence #15 (1134 bp)...done!
+Finding genes in sequence #16 (1221 bp)...done!
+Finding genes in sequence #17 (1099 bp)...done!
+Finding genes in sequence #18 (1091 bp)...done!
+Finding genes in sequence #19 (1063 bp)...done!
+Finding genes in sequence #20 (1051 bp)...done!
+Finding genes in sequence #21 (1045 bp)...done!
+Finding genes in sequence #22 (1033 bp)...done!
+Finding genes in sequence #23 (1033 bp)...done!
+Finding genes in sequence #24 (1023 bp)...done!
+Finding genes in sequence #25 (983 bp)...done!
+Finding genes in sequence #26 (977 bp)...done!
+Finding genes in sequence #27 (961 bp)...done!
+Finding genes in sequence #28 (949 bp)...done!

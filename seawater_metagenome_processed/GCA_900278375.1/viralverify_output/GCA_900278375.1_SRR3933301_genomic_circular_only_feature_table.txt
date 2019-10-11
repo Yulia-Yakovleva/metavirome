@@ -1,0 +1,2 @@
+OLHM01000657.1,Rep_3 CbiA PemK_toxin DDE_Tnp_1
+OLHM01005620.1,Rep_trans Rep_trans

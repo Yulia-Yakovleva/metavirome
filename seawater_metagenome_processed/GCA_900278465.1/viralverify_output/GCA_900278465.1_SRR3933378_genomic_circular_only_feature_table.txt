@@ -1,0 +1,20 @@
+OJEN01000672.1,N6_N4_Mtase N6_N4_Mtase N6_N4_Mtase CbiA N6_N4_Mtase Mob_Pre DUF3987 RPA
+OJEN01000006.1,Methyltransf_2 ParBc NMT1_3 ECH_1 DctM MaoC_dehydratas MaoC_dehydrat_N AMP-binding AMP-binding_C ACR_tran Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N Alpha-amylase HlyD_D23 APH DctQ DctM Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N AMP-binding AMP-binding_C Alpha-amylase Fic AAA_31 ECH_1 OEP OEP Rep_3 DUF3467 HlyD_3 Biotin_lipoyl_2 Radical_SAM HlyD_D23 HlyD_D23 GAF DUF3467 DctP TetR_N CoA_transf_3 DDE_Tnp_IS66 GntR FCD Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N GntR FCD CoA_transf_3 LysR_substrate HTH_1 Aldedh CoA_transf_3 CoA_trans IclR HTH_IclR CoA_trans Rieske CoA_transf_3 CoA_transf_3 Fer2 NAD_binding_1 adh_short_C2 SecA_DEAD PqqD CMD Dioxygenase_C PCDO_beta_N Dioxygenase_C Lyase_1 HMGL-like CoA_transf_3 DctM LysR_substrate HTH_1 Abhydrolase_6 DctP DctQ Cas_CT1975 Cas_Cas5d PLDc_2 GntR UTRA MmgE_PrpD Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N MerR Fic DDE_Tnp_IS1595 Zn_Tnp_IS1595 AI-2E_transport Acyl-CoA_dh_1 Acyl-CoA_dh_N DUF35_N OB_aCoA_assoc Acyl-CoA_dh_M Acyl-CoA_dh_N Acyl-CoA_dh_1
+OJEN01000825.1,PemK_toxin DDE_Tnp_1 Rep_3 CbiA
+OJEN01000065.1,Glutaredoxin GTA_holin_3TM Terminase_6C DUF1073 Phage_Mu_F DUF2213 DUF2184 HTH_3 Peptidase_S24 Phage_CP76 YdaS_antitoxin HNH_3 DnaB_C DnaB Phage_rep_O DUF968 HNH_3 DNA_methylase NinB DUF4128 HNH_3 AP2 DUF551 HNH_3 YqaJ ERF DUF2493 Imm_superinfect HTH_17 Phage_integrase
+OJEN01000277.1,CbtA MobA_MobL CbtB Cation_efflux DUF1636 MerR_1 TniB rve Mu-transpos_C Resolvase Radical_SAM Resolvase HTH_7 HTH_23 CbiA ParG ParD_antitoxin ParE_toxin T4SS-DNA_transf RPA WGR HTH_3
+OJEN01001313.1,HTH_36 BrnA_antitoxin MobA_MobL RPA BrnT_toxin
+OJEN01001468.1,HTH_3 Phage_CRI Phage_X Zot Phage_DNA_bind
+OJEN01000033.1,YjhX_toxin Acetyltransf_1 DUF1738 HTH_23 VirC1 T4SS-DNA_transf Relaxase SSB CagX VirB8 TrbL T2SSE TrbI T4SS SLT CagE_TrbE_VirB Cation_efflux PEMT YkuD YkuD SLT TrbC VirB3 CN_hydrolase SCO1-SenC DsbB UPF0060 MerR-DNA-bind MerR SCO1-SenC Peptidase_M23 Thioredoxin_4 PCuAC Transglut_core Cation_efflux Peptidase_A8 DUF3768 ParBc SNase YkuD Transposase_20 DEDD_Tnp_IS110 E1-E2_ATPase Hydrolase Resolvase Zip DUF411 SIR2_2 CSD RP-C RP-C_C RPA Hydrolase_4 ResIII N6_N4_Mtase PIN
+OJEN01007370.1,Phage_integrase
+OJEN01000060.1,GerE AAA_15 RecT N6_N4_Mtase DUF4373 DnaB_C DnaB N6_N4_Mtase SNF2_N Helicase_C Lactamase_B_2 PcfJ PcfK Phage_integrase
+OJEN01004085.1,HTH_Tnp_1 TnpB_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C zf-IS66 LZ_Tnp_IS66 HTH_Tnp_1
+OJEN01000691.1,Phage_GPA
+OJEN01004980.1,RepL
+OJEN01009554.1,DEDD_Tnp_IS110 Transposase_20 DEDD_Tnp_IS110 Transposase_20
+OJEN01018754.1,RHH_1 ParE_toxin
+OJEN01007742.1,Rep_trans
+OJEN01005087.1,HTH_psq rve
+OJEN01018164.1,Collar
+OJEN01001184.1,Rep_3 Relaxase MobC DUF3018 PemK_toxin HTH_Crp_2
+OJEN01006248.1,Phage_CRI Phage_X

@@ -1,0 +1,7 @@
+OJDJ01004294.1,DnaJ
+OJDJ01000060.1,Phage_F Phage_F Phage_GPA
+OJDJ01017912.1,Lactamase_B
+OJDJ01023168.1,Aldo_ket_red Aldo_ket_red
+OJDJ01016221.1,Copper-bind Copper-bind
+OJDJ01002052.1,FAD_binding_3 FAD_binding_3
+OJDJ01005854.1,Flagellin_N Flagellin_C

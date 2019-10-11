@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OLHF01002015.1_1     -            291 Flagellin_N          PF00669.19   139     3e-34  107.3  21.6   1   1   3.7e-35     3e-34  107.3  21.6     1   137     3   139     3   141 0.99 # 81 # 953 # -1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.326
+OLHF01000649.1_1     -            443 RVT_1                PF00078.26   222   1.6e-46  147.7   0.0   1   1   3.1e-47   2.5e-46  147.0   0.0     1   221    92   298    92   299 0.94 # 120 # 1448 # 1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.421
+OLHF01002015.1_1     -            291 Flagellin_C          PF00700.20    86   3.7e-28   87.0   5.9   1   1   4.6e-29   3.7e-28   87.0   5.9     3    86   206   289   204   289 0.98 # 81 # 953 # -1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.326
+OLHF01000649.1_1     -            443 GIIM                 PF08388.10    80   3.2e-20   61.2   8.1   1   1     1e-20     8e-20   59.9   8.1     2    72   312   382   311   390 0.90 # 120 # 1448 # 1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.421
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278425.1/viralverify_output/GCA_900278425.1_SRR3933265_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278425.1/viralverify_output/GCA_900278425.1_SRR3933265_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278425.1/viralverify_output/GCA_900278425.1_SRR3933265_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278425.1/viralverify_output/GCA_900278425.1_SRR3933265_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:38:29 2019
+# [ok]

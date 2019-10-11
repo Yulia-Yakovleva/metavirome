@@ -1,0 +1,18 @@
+OLHJ01012320.1,Fic
+OLHJ01017148.1,AIRS AIRS_C
+OLHJ01000027.1,DNA_pol_B_exo2 dUTPase dUTPase Cpn10 Prim-Pol Ribonuc_red_lgC Thy1 RNase_H_2 Cpn60_TCP1 DUF5011 Y_phosphatase2 DUF3293 Resolvase DUF1064 PDDEXK_1
+OLHJ01001343.1,DUF2523 Zot DUF2523 Rep_trans
+OLHJ01005145.1,DUF1254 DUF1214 DUF1214 DUF1254
+OLHJ01000067.1,Peptidase_M15_4 DNA_pol_A Endonuclease_7 DnaB_C Toprim_2 Toprim_4 DNA_ligase_aden GATase_4 Terminase_6C Phage_endo_I GGACT PRA-PH
+OLHJ01000066.1,Toprim_2 Head-tail_con Tube Acetyltransf_1 AAA_33 Laminin_G_3 AAA_25 Laminin_G_3 Phage_T7_tail Endonuclease_7 RNA_pol RPOL_N Phage_lysozyme DNA_pol_A
+OLHJ01000564.1,rve rve
+OLHJ01001091.1,RepA_C CbiA Resolvase Recombinase
+OLHJ01022343.1,Collagen
+OLHJ01025324.1,Response_reg GerE
+OLHJ01000856.1,CHU_C OmpA CarboxypepD_reg PD40 PD40 PD40 PorP_SprF
+OLHJ01004961.1,DUF1566 DUF1566
+OLHJ01032864.1,MazE_antitoxin MazE_antitoxin
+OLHJ01024297.1,OMP_b-brl OMP_b-brl
+OLHJ01042092.1,GIY-YIG
+OLHJ01007475.1,Y1_Tnp Bac_DnaA_C
+OLHJ01007165.1,Rep_trans

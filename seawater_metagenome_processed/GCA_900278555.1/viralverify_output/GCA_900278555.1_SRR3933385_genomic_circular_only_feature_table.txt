@@ -1,0 +1,16 @@
+OJEP01000108.1,DnaB_C DnaB Phage_stabilise DNA_methylase Cpn10 Terminase_6C Terminase_6 Terminase_6 DUF3560 MT-A70 DUF3799
+OJEP01000765.1,PemK_toxin HTH_Crp_2 Rep_3 MobC DUF3018
+OJEP01003660.1,Mob_Pre GntR
+OJEP01007307.1,Esterase_phd DDE_Tnp_IS240 DDE_Tnp_IS240
+OJEP01000981.1,Zot HTH_3 Phage_CRI Phage_X Phage_DNA_bind
+OJEP01000172.1,NUMOD4 HNH_3 Phage_portal Peptidase_M15_3 Sigma70_r2 Metallophos Terminase_6C Peptidase_S78_2 ERF Bac_DnaA_C DUF3127
+OJEP01000190.1,NinG Phage_Mu_F DUF1071 YqaJ Terminase_6 Terminase_6C P22_CoatProtein Metallophos Hydrolase_2 HTH_3 Peptidase_M15_3 GTA_holin_3TM DUF4055 Prim_Zn_Ribbon Toprim_3 Phage_tail_3 DUF4128 ResIII Helicase_C
+OJEP01006478.1,Phage_CRI Phage_X Phage_CRI Phage_X
+OJEP01000872.1,Rep_3 DUF1778
+OJEP01013451.1,CoaE
+OJEP01022893.1,PDDEXK_3
+OJEP01002629.1,Phage_CRI Phage_X HTH_3
+OJEP01008260.1,Pkinase
+OJEP01012120.1,DUF2330 DUF2330
+OJEP01018846.1,TonB_C
+OJEP01006911.1,Hexapep Hexapep Hexapep Hexapep Hexapep_2 Hexapep_2

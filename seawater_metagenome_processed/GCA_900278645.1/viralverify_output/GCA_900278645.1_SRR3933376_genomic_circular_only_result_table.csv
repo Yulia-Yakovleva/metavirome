@@ -1,0 +1,25 @@
+OJEX01000022.1,Chromosome,156404,+,-201.16,GerE GCHY-1 An_peroxidase Methyltransf_11 MttA_Hcf106 MttA_Hcf106 TatC DUF2065 tRNA-synt_His Adenylsucc_synt DUF839 DUF11 OMP_b-brl START DUF2254 FCD GntR SBF_like TonB_dep_Rec Plug START tRNA-synt_1e DALR_2 SpoU_methylase SpoU_sub_bind RNB OB_RNB S1 Ribosomal_L9_C Ribosomal_L9_N Ribosomal_S18 Ribosomal_S6 PRA-CH DctP DnaB_C DnaB Ala_racemase_N Ala_racemase_C Methyltransf_31 PBP_like_2 TonB_dep_Rec Plug Pyr_redox_2 Pyr_redox_dim SNARE_assoc DUF547 PepSY_TM AAA_25 ChlI Lon_C tRNA-synt_2b HGTP_anticodon tRNA_SAD TGS HD_5 Peptidase_M23 GreA_GreB GGDEF Arc 2-ph_phosp Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N AAA_26 Methyltransf_11 Metallophos PhoD PhoD_N BATS Radical_SAM Abhydrolase_6 Aminotran_1_2 BPD_transp_1 BPD_transp_1 RNase_T ABC_tran ABC_tran ABC_tran_Xtn PilZ 23S_rRNA_IVP SHMT ABC_tran Sigma70_r2 Sigma70_r4_2 Sigma70_r4 zf-HC2 Rhodanese Rhodanese HTH_1 LysR_substrate RsgA_GTPase FA_desaturase Pterin_4a DUF4442 ATP-cone RibD_C dCMP_cyt_deam_1 MafB19-deam Lum_binding Lum_binding DHBP_synthase GTP_cyclohydro2 DMRL_synthase NusB AIRS PgpA GGDEF DXP_synthase_N Transket_pyr Transketolase_C Glyco_transf_9 RNase_T IPPT MutL_C DNA_mis_repair HATPase_c_3 HATPase_c Band_7 Band_7 HflK_N GTP-bdg_N GTP-bdg_M MMR_HSR1 Hfq OmpA DUF11 DUF11 DUF1730 Fer4_16 Fer4_7 Fer4 Carb_kinase YjeF_N TsaE Amidase_3 AMIN LysM PS_Dcarbxylase Dus Abhydrolase_1 DUF294_C DUF294 cNMP_binding CBS SSF SSF DUF4212 Lactamase_B_2 Porin_4 Exonuc_VII_S polyprenyl_synt Ectoine_synth Aminotran_3 AMP-binding AMP-binding_C ACAS_N DctQ DctM Acetyltransf_1 MarR PAS_7 HATPase_c Response_reg HisKA Response_reg GerE
+OJEX01000056.1,Plasmid,57833,+,11.75,DctQ DctM BCCT SRAP GerE PAS_9 PAS PAS_8 Thiolase_N Thiolase_C AMP-binding AMP-binding_C DctP HTH_29 Glyco_transf_4 Glycos_transf_1 Glyco_trans_1_4 Sulfotransfer_3 PALP S6PP Glycos_transf_1 Glyco_trans_4_4 Glyco_transf_4 Glyco_trans_1_4 HTH_3 Glycos_transf_2 Glyco_transf_7C Glyco_tran_28_C NAD_binding_9 Orn_Arg_deC_N Polysacc_synt Glycos_transf_2 Hexapep_2 Hexapep_2 Glycos_transf_1 Glyco_transf_4 Glyco_trans_4_4 Glyco_transf_4 Glyco_trans_1_4 CPSase_L_D2 Polysacc_deac_1 DegT_DnrJ_EryC1 Hexapep Glycos_transf_1 Glyco_trans_4_2 Glyco_trans_4_4 FdtA Acetyltransf_3 UDPG_MGDP_dh_N UDPG_MGDP_dh UDPG_MGDP_dh_C GDP_Man_Dehyd HTH_24 NusG DUF218 AAA_31 ParBc RmlD_sub_bind NTP_transferase dTDP_sugar_isom GDP_Man_Dehyd DNA_methylase rve_3 EpsG IstB_IS21 DDE_Tnp_IS66 DDE_Tnp_IS66_C HTH_Tnp_1 HTH_7 RPA Glycos_transf_4
+OJEX01000206.1,Uncertain - viral or bacterial,11658,+,1.73,Phage_integrase HTH_3
+OJEX01000234.1,Plasmid,10478,+,14.41,Mob_Pre CbiA RPA DUF3987 N6_N4_Mtase N6_N4_Mtase N6_N4_Mtase
+OJEX01000254.1,Virus,9642,+,4.13,Phage_GPA RVT_1 Arm-DNA-bind_3 Phage_integrase HTH_17 AAA_15
+OJEX01000273.1,Plasmid,9257,+,10.24,CbiA Rep_3 DDE_Tnp_1 PemK_toxin
+OJEX01000534.1,Virus,5762,+,7.89,Zot HTH_3 Phage_CRI Phage_X Phage_DNA_bind
+OJEX01000538.1,Uncertain - viral or bacterial,5737,+,-2.81,HicA_toxin HicB Rep_3
+OJEX01000584.1,Virus,5434,+,5.17,DUF3268 YqaJ AAA_5
+OJEX01000769.1,Plasmid,4568,+,4.88,YafQ_toxin RelB HTH_17
+OJEX01000913.1,Plasmid,4028,+,3.91,Mob_Pre
+OJEX01001602.1,Uncertain - viral or bacterial,2733,+,--
+OJEX01002163.1,Uncertain - viral or bacterial,2251,+,0.61,RepL
+OJEX01002476.1,Uncertain - plasmid or chromosomal,2048,+,2.88,Transposase_20 DEDD_Tnp_IS110
+OJEX01002793.1,Uncertain - viral or bacterial,1900,+,2.62,Phage_CRI Phage_X
+OJEX01003813.1,Uncertain - viral or bacterial,1546,+,--
+OJEX01004437.1,Uncertain - viral or bacterial,1405,+,1.96,Rep_trans Rep_trans
+OJEX01007228.1,Uncertain - viral or bacterial,988,+,--
+OJEX01007601.1,Uncertain - viral or bacterial,949,+,--
+OJEX01008221.1,Uncertain - viral or bacterial,892,+,--
+OJEX01010527.1,Uncertain - plasmid or chromosomal,741,+,1.02,HMA
+OJEX01011329.1,Uncertain - viral or bacterial,703,+,--
+OJEX01012254.1,Uncertain - viral or bacterial,664,+,--
+OJEX01013642.1,Uncertain - viral or bacterial,613,+,--
+OJEX01015388.1,Uncertain - viral or bacterial,559,+,--

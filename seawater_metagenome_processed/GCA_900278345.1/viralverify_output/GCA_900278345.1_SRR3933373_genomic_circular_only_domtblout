@@ -1,0 +1,29 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJED01018387.1_1     -            176 DctM                 PF06808.11   416   3.1e-35  112.5  22.4   1   1   2.5e-36   3.4e-35  112.4  22.4   270   416     3   149     1   149 0.98 # 38 # 565 # 1 # ID=9_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.564
+OJED01018387.1_2     -            176 DctM                 PF06808.11   416   3.1e-35  112.5  22.4   1   1   2.5e-36   3.4e-35  112.4  22.4   270   416     3   149     1   149 0.98 # 550 # 1077 # 1 # ID=9_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.564
+OJED01000633.1_10    -            190 HTH_Crp_2            PF13545.5     68   9.4e-18   54.9   0.1   1   1   5.8e-19   1.6e-17   54.2   0.1     1    68    93   168    93   168 0.85 # 7027 # 7596 # -1 # ID=1_10;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=3-4bp;gc_cont=0.532
+OJED01000633.1_2     -            108 PemK_toxin           PF02452.16   110   4.7e-22   69.4   0.0   1   1   1.9e-23   5.2e-22   69.2   0.0     1   109     2   103     2   104 0.91 # 1082 # 1405 # -1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.546
+OJED01001898.1_2     -            201 HTH_36               PF13730.5     55   6.6e-09   26.6   0.0   1   1   3.6e-10   9.7e-09   26.0   0.0     6    55    48    97    46    97 0.91 # 1500 # 2102 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.544
+OJED01001138.1_6     -            473 Relaxase             PF03432.13   242   1.6e-20   64.5   0.0   1   1   2.6e-21   3.5e-20   63.4   0.0    39   233    39   237    18   246 0.87 # 3522 # 4940 # -1 # ID=2_6;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.566
+OJED01000633.1_8     -            646 Relaxase             PF03432.13   242   3.6e-13   40.5   2.5   1   1   1.3e-12   1.7e-11   34.9   0.0    59   231    59   243     9   254 0.76 # 3492 # 5429 # 1 # ID=1_8;partial=00;start_type=GTG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.613
+OJED01000633.1_9     -            296 Rep_3                PF01051.20   222   3.6e-63  204.1   0.0   1   1   1.6e-64   4.2e-63  203.9   0.0     4   222     9   228     6   228 0.93 # 5418 # 6305 # -1 # ID=1_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.597
+OJED01001138.1_5     -            344 PriCT_1              PF08708.10    67   4.2e-18   55.8   0.5   1   1   3.4e-19   9.2e-18   54.7   0.5     7    65   222   288   216   290 0.90 # 2540 # 3571 # -1 # ID=2_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+OJED01001898.1_1     -            389 Mob_Pre              PF01076.18   196   2.6e-46  148.7   0.3   1   1     2e-47   5.4e-46  147.7   0.0     1   194     1   187     1   189 0.97 # 331 # 1497 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.546
+OJED01010810.1_1     -            203 MerB                 PF03243.14   125   1.8e-26   83.5   0.0   1   1     9e-28   2.4e-26   83.1   0.0     1   118    78   193    78   198 0.97 # 579 # 1187 # 1 # ID=6_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.340
+OJED01001138.1_1     -            134 MobC                 PF05713.10    45   8.9e-18   55.5   0.3   1   1   1.1e-18   1.4e-17   54.8   0.3     1    44    82   125    82   126 0.97 # 410 # 811 # -1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.567
+OJED01000633.1_7     -            132 MobC                 PF05713.10    45   1.7e-15   48.2   0.8   1   1   2.5e-16   3.4e-15   47.2   0.8     1    45    72   116    72   116 0.97 # 3094 # 3489 # 1 # ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.631
+OJED01000633.1_3     -             77 DUF3018              PF11455.7     64     2e-30   95.5   0.2   1   1   8.5e-32   2.3e-30   95.3   0.2     2    61     8    69     7    73 0.95 # 1402 # 1632 # -1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.545
+OJED01001138.1_5     -            344 Replicase            PF03090.16   131   1.2e-45  145.5   0.0   1   1   6.1e-47   1.7e-45  145.0   0.0     3   131    80   208    78   208 0.98 # 2540 # 3571 # -1 # ID=2_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.558
+OJED01001138.1_4     -            179 ToxN_toxin           PF13958.5    159   4.9e-42  134.7   0.2   1   1   2.1e-43   5.6e-42  134.5   0.2     1   159    13   171    13   171 0.97 # 2031 # 2567 # 1 # ID=2_4;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.408
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278345.1/viralverify_output/GCA_900278345.1_SRR3933373_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278345.1/viralverify_output/GCA_900278345.1_SRR3933373_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278345.1/viralverify_output/GCA_900278345.1_SRR3933373_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278345.1/viralverify_output/GCA_900278345.1_SRR3933373_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:06:36 2019
+# [ok]

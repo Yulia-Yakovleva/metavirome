@@ -1,0 +1,12 @@
+OLHI01008935.1,TonB_C TonB_C
+OLHI01000049.1,SSB DUF1778 HTH_39 Amidase_2 Terminase_6C Terminase_3 Terminase_6 P22_portal P22_CoatProtein P22_Tail-4 Phage_stabilise Rad52_Rad22 NinB DUF2312 N6_N4_Mtase
+OLHI01000071.1,DUF1071 Peptidase_M15_3 Metallophos GTA_holin_3TM DUF4128 NinG Terminase_6 Terminase_6C Phage_Mu_F DUF4055 P22_CoatProtein HTH_3 Phage_tail_3 YqaJ Prim_Zn_Ribbon Toprim_3 Hydrolase_2 ResIII Helicase_C
+OLHI01000527.1,CbiA
+OLHI01000478.1,HTH_3 HigB-like_toxin T4SS TrbL CbiA
+OLHI01000040.1,DnaB_C Phage_Mu_F Mu-like_gpT HK97-gp10_like ERF RusA QueC N6_N4_Mtase SSB N6_N4_Mtase Sulfatase
+OLHI01000992.1,Replicase PriCT_1 MCPsignal
+OLHI01006668.1,Abi
+OLHI01000785.1,ResIII Phage_integrase
+OLHI01007529.1,RDD Barstar
+OLHI01006815.1,Flagellin_N Flagellin_C
+OLHI01004050.1,Flagellin_N Flagellin_C

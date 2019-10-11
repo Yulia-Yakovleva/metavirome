@@ -1,0 +1,4 @@
+OJDC01000167.1,Phage_F Phage_F Phage_GPA
+OJDC01015223.1,Sod_Fe_C Sod_Fe_N
+OJDC01004837.1,Flagellin_C Flagellin_N Flagellin_N Flagellin_C
+OJDC01013103.1,Sigma70_r2 Sigma70_r4_2 Sigma70_r4 Sigma70_ECF

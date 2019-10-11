@@ -1,0 +1,37 @@
+DEFINITION  seqnum=1;seqlen=949;seqhdr="OJCL01002044.1 seawater metagenome genome assembly, contig: NODE_2044_length_502_cov_8.769575, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="24|Ignisphaera_aggregans_DSM_17230|A|35.7|11|1";gc_cont=35.70;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             339..497
+                     /note="ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384;conf=53.95;score=0.69;cscore=8.60;sscore=-7.91;rscore=-4.75;uscore=-0.22;tscore=-2.94;"
+     CDS             786..944
+                     /note="ID=1_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.384;conf=50.21;score=0.04;cscore=8.60;sscore=-8.57;rscore=-4.75;uscore=-0.22;tscore=-2.94;"
+//
+DEFINITION  seqnum=2;seqlen=1047;seqhdr="OJCL01001880.1 seawater metagenome genome assembly, contig: NODE_1880_length_551_cov_82.455645, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=3;seqlen=1379;seqhdr="OJCL01001344.1 seawater metagenome genome assembly, contig: NODE_1344_length_717_cov_1.578550, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="6|Anaplasma_phagocytophilum_HZ|B|41.6|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(554..1198)
+                     /note="ID=3_1;partial=00;start_type=GTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.397;conf=100.00;score=95.10;cscore=85.37;sscore=9.73;rscore=5.57;uscore=4.50;tscore=-0.34;"
+//
+DEFINITION  seqnum=4;seqlen=1249;seqhdr="OJCL01001515.1 seawater metagenome genome assembly, contig: NODE_1515_length_652_cov_1.822446, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=5;seqlen=1191;seqhdr="OJCL01001590.1 seawater metagenome genome assembly, contig: NODE_1590_length_623_cov_10.080986, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=6;seqlen=1149;seqhdr="OJCL01001670.1 seawater metagenome genome assembly, contig: NODE_1670_length_602_cov_2.029250, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="22|Halorubrum_lacusprofundi_ATCC_49239|A|57.1|11|0";gc_cont=57.10;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(310..507)
+                     /note="ID=6_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.621;conf=86.53;score=8.09;cscore=7.35;sscore=0.74;rscore=0.00;uscore=-2.20;tscore=3.59;"
+     CDS             complement(857..1054)
+                     /note="ID=6_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.621;conf=88.19;score=8.74;cscore=7.35;sscore=1.39;rscore=0.00;uscore=-2.20;tscore=3.59;"
+//
+DEFINITION  seqnum=7;seqlen=1535;seqhdr="OJCL01001192.1 seawater metagenome genome assembly, contig: NODE_1192_length_795_cov_3.213514, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=8;seqlen=1675;seqhdr="OJCL01001078.1 seawater metagenome genome assembly, contig: NODE_1078_length_865_cov_2.539506, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=9;seqlen=1141;seqhdr="OJCL01001681.1 seawater metagenome genome assembly, contig: NODE_1681_length_598_cov_3.034991, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="5|Anaplasma_marginale_Maries|B|49.8|11|1";gc_cont=49.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+//

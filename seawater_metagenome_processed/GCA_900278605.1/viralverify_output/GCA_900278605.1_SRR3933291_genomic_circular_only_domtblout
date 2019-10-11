@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJEU01000064.1_3     -           1854 rve                  PF00665.25   119   1.7e-18   58.8   0.0   1   1   1.2e-18   9.7e-18   56.4   0.0     4   115   689   815   686   818 0.93 # 4884 # 10445 # 1 # ID=2_3;partial=00;start_type=TTG;rbs_motif=GGxGG;rbs_spacer=3-4bp;gc_cont=0.432
+OJEU01000064.1_1     -           1167 rve                  PF00665.25   119   1.9e-18   58.7   0.0   1   1     1e-18   7.9e-18   56.7   0.0     5   115     3   128     1   131 0.93 # 1 # 3501 # 1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424
+OJEU01000053.1_1     -           1388 rve                  PF00665.25   119   2.4e-16   51.9   0.0   1   1   9.3e-17   7.3e-16   50.3   0.0     5   115   232   356   229   359 0.96 # 2 # 4165 # -1 # ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+OJEU01000053.1_3     -           1388 rve                  PF00665.25   119   2.4e-16   51.9   0.0   1   1   9.3e-17   7.3e-16   50.3   0.0     5   115   232   356   229   359 0.96 # 7437 # 11600 # -1 # ID=1_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.480
+OJEU01000069.1_1     -           1521 rve                  PF00665.25   119   8.1e-16   50.2   0.0   1   1   4.2e-16   3.3e-15   48.2   0.0     3   115   359   486   357   487 0.94 # 301 # 4863 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.448
+OJEU01000069.1_2     -           1900 rve                  PF00665.25   119   9.5e-16   50.0   0.0   1   1   5.6e-16   4.4e-15   47.8   0.0     3   115   738   865   736   866 0.94 # 5942 # 11641 # 1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+OJEU01000126.1_1     -           1459 rve                  PF00665.25   119   4.6e-15   47.7   0.1   1   1     5e-15     4e-14   44.7   0.0     6   117   288   415   285   417 0.94 # 4583 # 8959 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395
+OJEU01003217.1_1     -            117 MmgE_PrpD            PF03972.13   439   6.3e-16   49.7   0.0   1   1   1.3e-17   7.1e-16   49.5   0.0   332   433     2   101     1   106 0.91 # 390 # 740 # -1 # ID=29_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+OJEU01003217.1_2     -            163 DUF2889              PF11136.7    123   3.4e-44  142.0   0.0   1   1   7.7e-46   4.2e-44  141.7   0.0     1   123    13   136    13   136 0.99 # 721 # 1209 # -1 # ID=29_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.472
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278605.1/viralverify_output/GCA_900278605.1_SRR3933291_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278605.1/viralverify_output/GCA_900278605.1_SRR3933291_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278605.1/viralverify_output/GCA_900278605.1_SRR3933291_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278605.1/viralverify_output/GCA_900278605.1_SRR3933291_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 01:51:44 2019
+# [ok]

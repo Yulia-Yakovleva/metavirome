@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJDI01001710.1_1     -           1750 rve                  PF00665.25   119   1.5e-13   42.7   0.0   1   1     5e-14   2.4e-12   38.8   0.0     9   115   823   932   815   935 0.83 # 326 # 5575 # -1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.667
+OJDI01009528.1_2     -            176 Acetyltransf_1       PF00583.24   117     3e-08   25.6   0.0   1   1   7.9e-10   3.8e-08   25.3   0.0    60   117    91   149    41   149 0.84 # 582 # 1109 # 1 # ID=8_2;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.360
+OJDI01009528.1_2     -            176 Acetyltransf_10      PF13673.6    127   2.5e-12   38.5   0.0   1   1   9.4e-14   4.5e-12   37.7   0.0    53   111    93   154    19   161 0.88 # 582 # 1109 # 1 # ID=8_2;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.360
+OJDI01009528.1_2     -            176 Acetyltransf_7       PF13508.6     76   4.9e-11   34.7   0.0   1   1   1.4e-12   6.5e-11   34.3   0.0    27    75    94   150    49   151 0.75 # 582 # 1109 # 1 # ID=8_2;partial=00;start_type=GTG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.360
+OJDI01029983.1_1     -            149 RNA_pol_Rpb1_1       PF04997.11   312   5.8e-16   50.3   0.0   1   1   2.8e-17   6.6e-16   50.1   0.0    96   229     2   145     1   148 0.63 # 50 # 496 # -1 # ID=49_1;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.324
+OJDI01029983.1_2     -            149 RNA_pol_Rpb1_1       PF04997.11   312   5.8e-16   50.3   0.0   1   1   2.8e-17   6.6e-16   50.1   0.0    96   229     2   145     1   148 0.63 # 499 # 945 # -1 # ID=49_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.324
+OJDI01002754.1_4     -            341 FA_hydroxylase       PF04116.12   133   6.7e-29   92.6  11.1   1   1   1.4e-30   6.7e-29   92.6  11.1     2   133   109   243   108   243 0.96 # 3167 # 4189 # -1 # ID=3_4;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.443
+OJDI01004567.1_4     -            337 HipA_C               PF07804.11   212   8.3e-46  147.9   0.0   1   1   2.2e-47     1e-45  147.6   0.0     1   211    56   301    56   302 0.86 # 1975 # 2985 # -1 # ID=5_4;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=14bp;gc_cont=0.406
+OJDI01004567.1_1     -            107 Couple_hipA          PF13657.5     99     1e-25   82.0   0.0   1   1   2.3e-27   1.1e-25   81.9   0.0     1    98     6    99     6   100 0.97 # 721 # 1041 # -1 # ID=5_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.402
+OJDI01009528.1_1     -             94 DUF1778              PF08681.10    80   2.8e-22   70.2   1.3   1   1   7.1e-24   3.4e-22   69.9   1.3     1    76    11    86    11    89 0.98 # 311 # 592 # 1 # ID=8_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.390
+OJDI01002754.1_1     -            481 Y2_Tnp               PF04986.12   183   1.7e-51  166.5   0.0   1   1     7e-53   3.4e-51  165.5   0.0     1   182   141   363   141   366 0.98 # 837 # 2279 # -1 # ID=3_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.459
+OJDI01002754.1_1     -            481 Zn_Tnp_IS91          PF14319.5    109   4.5e-28   88.8   0.1   1   1   1.6e-28   7.7e-27   84.8   0.0     7   107     9   111     1   113 0.93 # 837 # 2279 # -1 # ID=3_1;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.459
+OJDI01002754.1_3     -            136 DUF4345              PF14248.5    119   9.3e-22   68.9  10.6   1   1   2.4e-23   1.1e-21   68.6  10.6     3   113     6   116     4   124 0.95 # 2763 # 3170 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.485
+OJDI01015003.1_1     -            124 PDDEXK_3             PF13366.5    118   6.6e-44  140.8   0.0   1   1   1.5e-45   7.3e-44  140.6   0.0     2   118     5   121     4   121 0.98 # 159 # 530 # -1 # ID=12_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.336
+OJDI01000628.1_2     -           1370 DUF4326              PF14216.5     83   3.3e-11   35.5   0.1   1   1   2.8e-12   1.3e-10   33.5   0.0     9    82   491   603   485   604 0.77 # 651 # 4760 # -1 # ID=1_2;partial=00;start_type=GTG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.683
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278035.1/viralverify_output/GCA_900278035.1_SRR3933251_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278035.1/viralverify_output/GCA_900278035.1_SRR3933251_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278035.1/viralverify_output/GCA_900278035.1_SRR3933251_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278035.1/viralverify_output/GCA_900278035.1_SRR3933251_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:33:49 2019
+# [ok]
