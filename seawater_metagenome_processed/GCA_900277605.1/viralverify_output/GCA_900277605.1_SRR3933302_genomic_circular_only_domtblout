@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJBV01000470.1_2     -           1833 rve                  PF00665.25   119     3e-18   58.8   0.0   1   1     7e-19   1.7e-17   56.4   0.0     4   115   668   794   665   797 0.93 # 1231 # 6729 # 1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.432
+OJBV01000478.1_2     -           1958 rve                  PF00665.25   119   1.6e-17   56.5   0.0   1   1   2.5e-18   6.1e-17   54.6   0.0     2   115   741   869   740   872 0.94 # 3179 # 9052 # -1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.470
+OJBV01000476.1_2     -           1911 rve                  PF00665.25   119   3.5e-16   52.2   0.0   1   1   4.7e-17   1.1e-15   50.5   0.0     5   115   706   831   703   834 0.89 # 871 # 6603 # 1 # ID=3_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.437
+OJBV01000889.1_1     -           1517 rve                  PF00665.25   119     9e-15   47.6   0.1   1   1     3e-15   7.3e-14   44.7   0.0     6   117   346   473   343   475 0.94 # 4241 # 8791 # -1 # ID=6_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395
+OJBV01000888.1_5     -            320 Glycos_transf_2      PF00535.25   170   2.3e-31  101.5   0.0   1   1   3.5e-33   3.4e-31  100.9   0.0     1   167    12   173    12   175 0.92 # 4553 # 5512 # 1 # ID=5_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+OJBV01000888.1_3     -            208 Methyltransf_23      PF13489.5    165   3.9e-10   32.4   0.0   1   1   6.4e-12   6.2e-10   31.8   0.0    28   163     7   132     7   134 0.76 # 3032 # 3655 # -1 # ID=5_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.428
+OJBV01000888.1_5     -            320 Glyco_tranf_2_3      PF13641.5    230   1.5e-13   43.8   0.0   1   1   2.1e-15     2e-13   43.3   0.0     1   186     8   186     8   208 0.81 # 4553 # 5512 # 1 # ID=5_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.485
+OJBV01032994.1_1     -            131 Peptidase_M23        PF01551.21    96   2.4e-13   42.8   0.0   1   1   6.5e-15   3.2e-13   42.4   0.0     6    96    36   124    32   124 0.91 # 81 # 473 # 1 # ID=89_1;partial=00;start_type=ATG;rbs_motif=TAAA;rbs_spacer=9bp;gc_cont=0.450
+OJBV01032994.1_2     -            165 Peptidase_M23        PF01551.21    96   4.4e-13   42.0   0.0   1   1   1.3e-14   6.1e-13   41.5   0.0     6    96    70   158    66   158 0.91 # 483 # 977 # 1 # ID=89_2;partial=00;start_type=ATG;rbs_motif=AATAA;rbs_spacer=9bp;gc_cont=0.436
+OJBV01010662.1_1     -            240 Esterase             PF00756.19   251   2.7e-29   95.1   0.0   1   1   3.3e-31   3.2e-29   94.9   0.0     1   250    10   234    10   235 0.89 # 887 # 1606 # -1 # ID=24_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.460
+OJBV01025091.1_2     -            182 ATP-synt_A           PF00119.19   211   3.6e-38  124.2  14.9   1   1   8.5e-40   4.1e-38  124.0  14.9    80   210    47   173    16   174 0.84 # 548 # 1093 # 1 # ID=63_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.491
+OJBV01025091.1_1     -            162 ATP-synt_A           PF00119.19   211   3.6e-38  124.2  15.2   1   1   8.6e-40   4.2e-38  124.0  15.2    80   210    27   153     6   154 0.84 # 6 # 491 # 1 # ID=63_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.484
+OJBV01000888.1_2     -            768 ILEI                 PF15711.4     89   8.3e-10   31.7   0.0   1   1   1.3e-08   1.2e-06   21.6   0.0    28    85   625   681   609   685 0.90 # 600 # 2903 # 1 # ID=5_2;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.410
+OJBV01003950.1_3     -            266 RNA_helicase         PF00910.21   107   8.6e-08   25.2   0.0   1   1   3.1e-09     3e-07   23.5   0.0     2    62   155   205   154   241 0.75 # 1277 # 2074 # -1 # ID=9_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.429
+OJBV01003950.1_3     -            266 Viral_Rep            PF02407.15    82   7.9e-20   63.6   0.1   1   1   1.2e-21   1.2e-19   63.0   0.1     3    81     6    84     4    85 0.93 # 1277 # 2074 # -1 # ID=9_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.429
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900277605.1/viralverify_output/GCA_900277605.1_SRR3933302_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277605.1/viralverify_output/GCA_900277605.1_SRR3933302_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277605.1/viralverify_output/GCA_900277605.1_SRR3933302_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277605.1/viralverify_output/GCA_900277605.1_SRR3933302_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:45:24 2019
+# [ok]

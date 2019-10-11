@@ -1,0 +1,13 @@
+OJBT01002416.1,RepL Mob_Pre
+OJBT01000803.1,Zot Phage_CRI Phage_X HTH_3 Phage_DNA_bind
+OJBT01000221.1,GDP_Man_Dehyd ZipA_C DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT HHH_5 DNA_ligase_ZBD SLT Aminotran_1_2 UvrB Helicase_C ResIII UVR EI24 SMC_N 23S_rRNA_IVP APS_kinase
+OJBT01002093.1,ydhR Oxidored_FMN
+OJBT01000352.1,N6_N4_Mtase N6_N4_Mtase Mob_Pre RPA DUF3987 CbiA N6_N4_Mtase
+OJBT01000695.1,HTH_36 MobA_MobL BrnT_toxin BrnA_antitoxin RPA
+OJBT01000588.1,Arylsulfotrans Rep_3 Resolvase HTH_17 Pentapeptide Pentapeptide Pentapeptide
+OJBT01002836.1,Phage_CRI Phage_X Phage_CRI Phage_X
+OJBT01000417.1,PemK_toxin CbiA Rep_3 DDE_Tnp_1
+OJBT01001837.1,Phage_integrase
+OJBT01002025.1,HTH_Tnp_1 TnpB_IS66 DDE_Tnp_IS66 DDE_Tnp_IS66_C zf-IS66 LZ_Tnp_IS66
+OJBT01000552.1,DUF3987 Resolvase HTH_7
+OJBT01003361.1,Rep_trans

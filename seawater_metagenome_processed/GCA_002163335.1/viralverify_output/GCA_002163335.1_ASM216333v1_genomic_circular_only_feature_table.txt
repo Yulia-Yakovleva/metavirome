@@ -1,0 +1,35 @@
+MAAC01009679.1,Cytochrome_CBB3 Sigma70_r2 ParBc CN_hydrolase UCR_Fe-S_N Rieske Beta-Casp RMMBL Lactamase_B Lactamase_B_6 Lactamase_B_2 DUF302 Response_reg Trans_reg_C EF-hand_5 EF-hand_5 EF-hand_5 YkuD HATPase_c HAMP DUF1863 Thioredoxin_4 YkuD PG_binding_1 LGT Cofac_haem_bdg Methyltransf_11 YkuD Metallophos WYL WGR DUF2235 AbiEii DUF3768 AAA_23 SbcCD_C TraE TraK Autoind_synth GerE Autoind_bind TraL Ribosomal_S21 TIR_2 CAP TrwB_AAD_bind TrwC AAA_30 AAA_19 Viral_helicase1 Viral_helicase1 Phage_integrase Arm-DNA-bind_3 Phage_integrase Phage_int_SAM_3 Arm-DNA-bind_3 E1-E2_ATPase Hydrolase HMA HMA MerR_1 Cytochrome_CBB3 Cu-oxidase_3 Cu-oxidase_2 Cu-oxidase Cu-oxidase_3 CcmH DsbC Thioredoxin_7 DsbD HMA CcmF_C Cytochrom_C_asm Redoxin Sacchrp_dh_NADP BTAD Trans_reg_C DUF772 DDE_Tnp_1_6 DDE_Tnp_1 Methyltransf_11 DUF452 TIR_2 TraG_N TraN TraN TraF TraH DSBA Eco57I AAA_15 AAA_19 Ribosomal_S21 DUF1738 Cytochrom_C E1-E2_ATPase Hydrolase YHS Ferric_reduct AA_permease_2 DUF2933 SHOCT Pribosyltran_N Pribosyltran PYNP_C Glycos_transf_3 Glycos_trans_3N HTH_13 Phage_integrase Rep_3 HipA_C Couple_hipA ParBc AAA_31 HTH_3 TrbC_Ftype TraC_F_IV AAA_10 TraV TrbI TraU TraW_N Peptidase_S26 TrbI_Ftype
+MAAC01009572.1,FecR DUF2569 TrbI IMS DUF4113 IMS_C HNH AAA_31 AAA_31 Pkinase SmpA_OmlA ParBc Endonuclease_1 WYL SSB Fic Peptidase_S24 AAA_21
+MAAC01009751.1,dTDP_sugar_isom GFO_IDH_MocA Metallophos NTP_transferase RmlD_sub_bind GDP_Man_Dehyd UDPG_MGDP_dh_N UDPG_MGDP_dh UDPG_MGDP_dh_C Sulfotransfer_3 Glycos_transf_1 Glyco_transf_4 Sulfotransfer_3 Glycos_transf_2 Glyco_tran_WecB MannoseP_isomer NTP_transferase NTP_transf_3 Glyco_tranf_2_3 Sulfotransfer_1 Polysacc_synt_3 Glycos_transf_2 CbiA BTP BTP Sulfotransfer_1 Acyl_transf_3 ParBc AAA_31 RPA Acyl_transf_3 Exosortase_EpsH DUF3485 GFO_IDH_MocA Glycos_transf_1 Glyco_transf_4 Bac_transf AAA_22 Poly_export SLBB TPR_19 TPR_19 TPR_16 TPR_16 TPR_16 TPR_4 TPR_8 Rhomboid DDE_Tnp_IS240 OEP OEP ABC_tran ABC_membrane HlyD_3 Biotin_lipoyl_2
+MAAC01018447.1,Methyltransf_11 Pyr_redox_2 Pyr_redox_dim DUF924 MFS_1 Sugar_tr Queuosine_synth DUF3971 AsmA_2 MFS_1 SBP_bac_3 HTH_1 LysR_substrate SNARE_assoc DsbB ABC_tran BPD_transp_1 BPD_transp_1 HTH_Tnp_1 Multi_Drug_Res GATase_4 TetR_N OCD_Mu_crystall RecA tRNA-synt_2c DHHA1 tRNA_SAD DUF1330 GTP_EFTU EFG_C GTP_EFTU_D2 Arginase HTH_AsnC-type AsnC_trans_reg ABC_tran Yip1 DUF4445 Aminotran_5 IMPDH HATPase_c Response_reg HisKA TetR_N WHG rve_3 HTH_Tnp_1 Peptidase_M23 Bactofilin PPK2 AhpC-TSA DUF455 Acyl-CoA_dh_1 Acyl-CoA_dh_N Acyl-CoA_dh_M NAD_binding_2 NAD_binding_11 ECH_2 Hydrolase_4 Rrf2 HATPase_c Response_reg Aminotran_5 Aminotran_5 UPF0051 Methyltr_RsmB-F UPF0051 CBS CBS
+MAAC01005950.1,SLT DUF2859 TraG-D_C RadC HATPase_c HisKA Response_reg Trans_reg_C ACR_tran Ni_hydr_CYTB Cupredoxin_1 ParBc AAA_31 CSD Resolvase DUF2726 HigB_toxin DUF3570 ApbE Redoxin DUF4266 DUF1845 DUF1525 TraU DNA_methylase N6_Mtase TraG_N Patatin HTH_Tnp_1 Resolvase GGDEF Phosphonate-bd NMT1 EAL GGDEF PAS PAS_9 PAS_4 DUF2913 rve MCPsignal PAS_3 PAS_9 PAS PAS_4 DDE_Tnp_Tn3 DUF4158 Resolvase HTH_Tnp_1 DDE_Tnp_Tn3 DDE_Tnp_Tn3 DUF4158 rve HTH_21 Phage_int_SAM_2 Integrase_1 Y1_Tnp DDE_Tnp_1 DDE_Tnp_Tn3 DUF4158 Plasmid_RAQPRD DUF4400 TrbI DUF3438 TraC_F_IV DUF2976 DUF3262 DUF2895 DUF3487 GerE DDE_Tnp_IS1595 Zn_Tnp_IS1595 MarR GerE Ni_hydr_CYTB DndB Peptidase_S24 IMS DUF4113 Phage_integrase KfrA_N
+MAAC01009502.1,DUF1738 Resolvase HTH_38 HTH_7 HTH_23 AAA_13 MUG113 T4SS-DNA_transf T4SS-DNA_transf DUF3768 MipZ RPA Relaxase HigB-like_toxin HTH_3 MobC
+MAAC01002271.1,MR_MLE_C MR_MLE_N ABC_tran BPD_transp_1 BPD_transp_1 SBP_bac_3 FCD GntR EamA EamA Pro_racemase
+MAAC01011159.1,GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 NusG KOW SecE Ribosomal_L1 Ribosomal_L11_N Ribosomal_L11 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_L12 Ribosomal_L12_N Ribosomal_L10 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7 Ribosom_S12_S23
+MAAC01006009.1,Phage_Mu_F HNH_3 AP2 YopX NinG DnaB_C DnaB ERF Terminase_6 Terminase_6C Peptidase_M15_3 DUF4055 DUF4128
+MAAC01017007.1,DUF1800 DUF1501
+MAAC01003021.1,CHU_C Calx-beta Calx-beta
+MAAC01005991.1,Phage_endo_I DnaB_C Toprim_2 DNA_pol_A Endonuclease_7 5_3_exonuc_N Tube Laminin_G_3 Head-tail_con RNA_pol
+MAAC01005970.1,AAA_31 TraG-D_C Pmp3 TPR_12 TPR_12 TPR_12 TPR_12 TPR_12 SNAP TPR_11 TPR_1 TPR_1 SNAP TPR_1 TPR_1 TPR_10 TPR_10 TPR_10 TPR_10 TPR_10 TPR_10 TPR_17 TPR_8 TPR_10 TPR_8 TPR_8 TPR_8 TPR_16 TPR_7 TPR_7 TPR_8 TPR_8 TPR_7 TPR_7 TPR_8 TPR_8 Phage_integrase Phage_integrase Endonuclease_1 Rep_3 RepB_primase DUF1738 DUF1249 SprT-like
+MAAC01006247.1,Laminin_G_3 N-glycanase_C
+MAAC01002213.1,Zot DUF2523 CbiA
+MAAC01005623.1,p450 rve
+MAAC01001846.1,Rep_trans Zot DUF2523
+MAAC01014506.1,Arabinose_bd HTH_18 HTH_AraC AMP-binding AMP-binding_C TonB_dep_Rec Plug
+MAAC01009979.1,IstB_IS21 rve Phage_integrase Phage_int_SAM_5 KAP_NTPase Phage_integrase TatD_DNase rve HTH_21
+MAAC01005986.1,RNA_pol DUF2612 RNA_pol Endonuclease_7 DUF2184 DUF3383 5_3_exonuc_N Ribonuc_red_lgC dUTPase DNA_pol_A Laminin_G_3 DUF2213 DUF1073 DUF4054 Toprim_2
+MAAC01001494.1,CHU_C CHU_C PKD
+MAAC01004491.1,HdeA RPA ParD_antitoxin ParE_toxin MobA_MobL
+MAAC01004480.1,Zot Phage_X Phage_CRI
+MAAC01005702.1,HATPase_c His_kinase TPR_12 TPR_12 TPR_12 TPR_1 TPR_12 TPR_2 TPR_8 TPR_7 TPR_10 TPR_7 TPR_10 TPR_10 TPR_8 TPR_6 TPR_8 His_kinase
+MAAC01005978.1,Cpn10 AAA_25 DNA_pol_A DNA_pol_A_exo1 Acetyltransf_1 Phage_lysozyme PhoH
+MAAC01011291.1,DUF2461 BRCT GSDH Polyketide_cyc AAA_19 LprI AAA_15
+MAAC01009449.1,DUF4375 AAA_21 RadC HTH_3 LRR_8
+MAAC01005879.1,Redoxin Cleaved_Adhesin
+MAAC01002445.1,Zot
+MAAC01008467.1,rve_2 Response_reg Trans_reg_C rve
+MAAC01007497.1,TPR_8
+MAAC01001747.1,Laminin_G_3 CHU_C
+MAAC01016602.1,Collar Collar
+MAAC01000832.1,ADP_ribosyl_GH Phage_integrase DUF4240 Phage_integrase Y2_Tnp Zn_Tnp_IS91
+MAAC01001658.1,HTH_Tnp_1 rve HTH_21 rve HTH_21

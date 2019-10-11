@@ -1,0 +1,15 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OFRT01027192.1_1     -            147 adh_short            PF00106.24   195   3.1e-10   31.8   0.0   1   1   1.2e-11   3.6e-10   31.6   0.0     3    89     3    90     1   115 0.90 # 80 # 520 # 1 # ID=34_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.551
+OFRT01027192.1_2     -            147 adh_short            PF00106.24   195   3.1e-10   31.8   0.0   1   1   1.2e-11   3.6e-10   31.6   0.0     3    89     3    90     1   115 0.90 # 573 # 1013 # 1 # ID=34_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.551
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900247675.1/viralverify_output/GCA_900247675.1_ERR1424910_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900247675.1/viralverify_output/GCA_900247675.1_ERR1424910_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900247675.1/viralverify_output/GCA_900247675.1_ERR1424910_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900247675.1/viralverify_output/GCA_900247675.1_ERR1424910_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:11:53 2019
+# [ok]

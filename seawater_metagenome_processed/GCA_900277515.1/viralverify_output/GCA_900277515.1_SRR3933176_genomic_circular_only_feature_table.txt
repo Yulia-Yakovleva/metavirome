@@ -1,0 +1,4 @@
+OJBD01000078.1,Resolvase DNA_methylase Vsr EcoRII-C CbiA ParG RPA T4SS-DNA_transf MobA_MobL MobA_MobL Pyr_redox_2 Pyr_redox_dim Pyr_redox_2 Pyr_redox_dim DUF1738 Transport_MerF HATPase_c_3 MerR-DNA-bind MerR MerT DNA_methylase
+OJBD01000501.1,DNA_methylase DNA_methylase MobA_MobL
+OJBD01004251.1,DDE_Tnp_IS240
+OJBD01004233.1,PilS PilS

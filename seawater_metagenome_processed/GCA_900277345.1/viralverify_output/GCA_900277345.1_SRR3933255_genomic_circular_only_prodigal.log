@@ -1,0 +1,44 @@
+-------------------------------------
+PRODIGAL v2.6.3 [February, 2016]         
+Univ of Tenn / Oak Ridge National Lab
+Doug Hyatt, Loren Hauser, et al.     
+-------------------------------------
+Request:  Metagenomic, Phase:  Training
+Initializing training files...done!
+-------------------------------------
+Request:  Metagenomic, Phase:  Gene Finding
+Finding genes in sequence #1 (22925 bp)...done!
+Finding genes in sequence #2 (14204 bp)...done!
+Finding genes in sequence #3 (10175 bp)...done!
+Finding genes in sequence #4 (9595 bp)...done!
+Finding genes in sequence #5 (9277 bp)...done!
+Finding genes in sequence #6 (8945 bp)...done!
+Finding genes in sequence #7 (4021 bp)...done!
+Finding genes in sequence #8 (3931 bp)...done!
+Finding genes in sequence #9 (3373 bp)...done!
+Finding genes in sequence #10 (3131 bp)...done!
+Finding genes in sequence #11 (2899 bp)...done!
+Finding genes in sequence #12 (2875 bp)...done!
+Finding genes in sequence #13 (2629 bp)...done!
+Finding genes in sequence #14 (2531 bp)...done!
+Finding genes in sequence #15 (2341 bp)...done!
+Finding genes in sequence #16 (2241 bp)...done!
+Finding genes in sequence #17 (2167 bp)...done!
+Finding genes in sequence #18 (2061 bp)...done!
+Finding genes in sequence #19 (1947 bp)...done!
+Finding genes in sequence #20 (1933 bp)...done!
+Finding genes in sequence #21 (1831 bp)...done!
+Finding genes in sequence #22 (1779 bp)...done!
+Finding genes in sequence #23 (1767 bp)...done!
+Finding genes in sequence #24 (1729 bp)...done!
+Finding genes in sequence #25 (1653 bp)...done!
+Finding genes in sequence #26 (1345 bp)...done!
+Finding genes in sequence #27 (1195 bp)...done!
+Finding genes in sequence #28 (1159 bp)...done!
+Finding genes in sequence #29 (1135 bp)...done!
+Finding genes in sequence #30 (1119 bp)...done!
+Finding genes in sequence #31 (1117 bp)...done!
+Finding genes in sequence #32 (1107 bp)...done!
+Finding genes in sequence #33 (1081 bp)...done!
+Finding genes in sequence #34 (991 bp)...done!
+Finding genes in sequence #35 (945 bp)...done!

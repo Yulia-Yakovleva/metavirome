@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJCC01000061.1_2     -           2681 PTS_2-RNA            PF01885.15   181   8.8e-10   31.6   0.0   1   1   1.6e-11   1.7e-09   30.7   0.0     5   180   415   611   413   612 0.76 # 719 # 8761 # 1 # ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.482
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:42:00 2019
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJAZ01005037.1_5     -            105 Phage_integrase      PF00589.21   172   1.7e-14   44.8   0.1   1   1   7.3e-16   2.1e-14   44.6   0.1    92   167    10    88     2    92 0.93 # 2007 # 2321 # -1 # ID=3_5;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.406
+OJAZ01005037.1_4     -            126 MerR_1               PF13411.5     69   1.2e-20   64.4   0.0   1   1   7.5e-22   2.1e-20   63.6   0.0     2    67     3    69     2    71 0.96 # 1481 # 1858 # -1 # ID=3_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.392
+OJAZ01005037.1_4     -            126 MerR                 PF00376.22    38   4.8e-18   55.7   0.1   1   1   2.6e-19   7.4e-18   55.1   0.1     1    38     3    40     3    40 0.99 # 1481 # 1858 # -1 # ID=3_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.392
+OJAZ01005037.1_4     -            126 MerR-DNA-bind        PF09278.10    65   3.1e-17   53.8   0.7   1   1     4e-18   1.1e-16   52.1   0.3     1    64    45   104    45   105 0.95 # 1481 # 1858 # -1 # ID=3_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.392
+OJAZ01018536.1_1     -            254 Y1_Tnp               PF01797.15   121   6.7e-23   72.0   0.2   1   1   4.2e-24   1.2e-22   71.2   0.2     3   119    11   122     9   124 0.94 # 526 # 1287 # -1 # ID=9_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.374
+OJAZ01003910.1_2     -            255 RVT_1                PF00078.26   222   1.4e-33  107.1   0.0   1   1   6.9e-35   1.9e-33  106.7   0.0     1   158    93   243    93   250 0.92 # 1361 # 2125 # 1 # ID=1_2;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.412
+OJAZ01004136.1_1     -            818 Phage_sheath_1       PF04984.13   168   3.7e-16   50.3   0.1   1   1   4.7e-17   1.3e-15   48.5   0.1    10   168   523   706   515   706 0.76 # 114 # 2567 # -1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=TAAAAA;rbs_spacer=13bp;gc_cont=0.392
+OJAZ01004136.1_1     -            818 Phage_sheath_1C      PF17482.1    104   1.7e-15   47.8   0.0   1   1     5e-16   1.4e-14   44.9   0.0     4   103   714   812   713   813 0.96 # 114 # 2567 # -1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=TAAAAA;rbs_spacer=13bp;gc_cont=0.392
+OJAZ01021275.1_1     -             82 DUF2442              PF10387.8     79   1.3e-20   64.4   0.1   1   1   5.4e-22   1.5e-20   64.3   0.1     5    76    16    79    12    81 0.93 # 278 # 523 # -1 # ID=11_1;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.419
+OJAZ01021275.1_2     -             79 DUF4160              PF13711.5     66   6.5e-22   68.6   0.2   1   1   2.8e-23   7.9e-22   68.4   0.2     2    66    10    73    10    73 0.94 # 504 # 740 # -1 # ID=11_2;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.333
+OJAZ01004136.1_2     -            179 Phage_T4_gp19        PF06841.11   134   3.2e-48  153.9   0.2   1   1   1.4e-49   3.8e-48  153.7   0.2     1   134    17   165    17   165 0.97 # 2806 # 3342 # -1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=TATAA;rbs_spacer=3bp;gc_cont=0.458
+OJAZ01005037.1_3     -            130 MerC                 PF03203.13   117     1e-13   42.7   9.2   1   1   4.1e-15   1.2e-13   42.6   9.2     1   115     7   117     7   119 0.95 # 1035 # 1424 # -1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.423
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900277355.1/viralverify_output/GCA_900277355.1_SRR3933090_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277355.1/viralverify_output/GCA_900277355.1_SRR3933090_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277355.1/viralverify_output/GCA_900277355.1_SRR3933090_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277355.1/viralverify_output/GCA_900277355.1_SRR3933090_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:40:53 2019
+# [ok]

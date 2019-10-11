@@ -1,0 +1,2 @@
+OLGR01022695.1,Rho_RNA_bind ATP-synt_ab Rho_RNA_bind ATP-synt_ab
+OLGR01008759.1,zf-C2H2 zf-C2H2 zf-C2H2 zf-C2H2

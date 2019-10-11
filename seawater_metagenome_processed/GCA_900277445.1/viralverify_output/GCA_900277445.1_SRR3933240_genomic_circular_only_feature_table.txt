@@ -1,0 +1,4 @@
+OJAY01002753.1,NTP_transf_2 NTase_sub_bind
+OJAY01001214.1,Mob_Pre RepL RepL
+OJAY01002188.1,MobC Relaxase Replicase PriCT_1 HTH_23
+OJAY01005207.1,SUKH_6

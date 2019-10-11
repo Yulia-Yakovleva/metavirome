@@ -1,0 +1,28 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJBM01000890.1_3     -            384 HTH_23               PF13384.5     50   2.9e-12   37.0   0.2   1   1   7.3e-13   9.5e-12   35.3   0.0     1    48    37    85    37    87 0.95 # 1394 # 2545 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+OJBM01000890.1_1     -            345 HTH_23               PF13384.5     50   2.8e-11   33.8   0.1   1   1   8.3e-12   1.1e-10   32.0   0.0     4    48     1    46     1    48 0.95 # 27 # 1061 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+OJBM01000890.1_3     -            384 HTH_32               PF13565.5     73   4.7e-18   56.5   0.0   1   1   9.6e-18   1.2e-16   51.9   0.0     1    71    70   147    70   149 0.94 # 1394 # 2545 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+OJBM01000890.1_1     -            345 HTH_32               PF13565.5     73   1.8e-17   54.6   0.0   1   1     8e-18     1e-16   52.2   0.0     1    71    31   108    31   110 0.94 # 27 # 1061 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+OJBM01000890.1_2     -             86 MarR                 PF01047.21    59   5.9e-09   26.6   0.0   1   1     3e-10   7.7e-09   26.3   0.0    21    52    36    67    11    69 0.84 # 1114 # 1371 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.407
+OJBM01000890.1_1     -            345 HTH_29               PF13551.5     63   1.8e-12   38.0   0.0   1   1   2.9e-13   3.7e-12   37.0   0.0     1    63     4    66     4    66 0.94 # 27 # 1061 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+OJBM01000890.1_3     -            384 HTH_29               PF13551.5     63   2.1e-12   37.8   0.0   1   1   3.4e-13   4.4e-12   36.7   0.0     1    63    43   105    43   105 0.94 # 1394 # 2545 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+OJBM01000890.1_1     -            345 DDE_3                PF13358.5    146   6.9e-32  101.0   0.2   1   1   8.7e-33   1.1e-31  100.3   0.2     2   146   153   304   152   304 0.96 # 27 # 1061 # 1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.446
+OJBM01000890.1_3     -            384 DDE_3                PF13358.5    146   8.5e-32  100.7   0.2   1   1   1.1e-32   1.5e-31  100.0   0.2     2   146   192   343   191   343 0.96 # 1394 # 2545 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.438
+OJBM01000890.1_2     -             86 LexA_DNA_bind        PF01726.15    65   3.4e-09   27.2   0.0   1   1   1.7e-10   4.3e-09   26.9   0.0     4    64    11    70     9    71 0.96 # 1114 # 1371 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.407
+OJBM01000890.1_2     -             86 Fe_dep_repress       PF01325.18    60   6.1e-11   33.3   0.0   1   1     3e-12   7.7e-11   32.9   0.0     2    57    11    67    10    69 0.95 # 1114 # 1371 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.407
+OJBM01005014.1_1     -            153 DUF4440              PF14534.5    107   4.4e-14   43.7   0.0   1   1   4.2e-15   5.5e-14   43.3   0.0     3   107    33   140    32   140 0.83 # 34 # 492 # -1 # ID=16_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340
+OJBM01005014.1_2     -            153 DUF4440              PF14534.5    107   4.4e-14   43.7   0.0   1   1   4.2e-15   5.5e-14   43.3   0.0     3   107    33   140    32   140 0.83 # 621 # 1079 # -1 # ID=16_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340
+OJBM01005014.1_1     -            153 SnoaL_3              PF13474.5    121   8.6e-08   23.3   0.3   1   1   9.3e-09   1.2e-07   22.8   0.3     3   112    33   141    32   145 0.85 # 34 # 492 # -1 # ID=16_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340
+OJBM01005014.1_2     -            153 SnoaL_3              PF13474.5    121   8.6e-08   23.3   0.3   1   1   9.3e-09   1.2e-07   22.8   0.3     3   112    33   141    32   145 0.85 # 621 # 1079 # -1 # ID=16_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.340
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:41:30 2019
+# [ok]

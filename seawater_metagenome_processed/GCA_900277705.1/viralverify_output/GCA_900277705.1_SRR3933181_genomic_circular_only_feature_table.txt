@@ -1,0 +1,8 @@
+OJCR01010061.1,DUF4369 Beta-lactamase2
+OJCR01002480.1,Phage_integrase RPA AAA
+OJCR01023491.1,DDE_3 HTH_32 HTH_29 HTH_28 HTH_23 DDE_3
+OJCR01002083.1,Condensation AMP-binding AMP-binding Condensation PP-binding AMP-binding_C PP-binding AMP-binding_C
+OJCR01027661.1,Flagellin_N Flagellin_C Flagellin_N Flagellin_C
+OJCR01040040.1,MerB
+OJCR01039219.1,NUDIX NUDIX
+OJCR01056629.1,Nif11

@@ -1,0 +1,221 @@
+DEFINITION  seqnum=1;seqlen=3557;seqhdr="OJAJ01001564.1 seawater metagenome genome assembly, contig: NODE_1564_length_1806_cov_5.183324, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="40|Rothia_dentocariosa_ATCC_17931|B|53.7|11|1";gc_cont=53.70;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             57..926
+                     /note="ID=1_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.554;conf=100.00;score=68.79;cscore=79.17;sscore=-10.39;rscore=-5.94;uscore=-1.67;tscore=-2.78;"
+     CDS             1679..2677
+                     /note="ID=1_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.562;conf=100.00;score=89.15;cscore=92.51;sscore=-3.36;rscore=-5.94;uscore=-0.35;tscore=3.58;"
+//
+DEFINITION  seqnum=2;seqlen=3319;seqhdr="OJAJ01001795.1 seawater metagenome genome assembly, contig: NODE_1795_length_1687_cov_5.374387, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="42|Synechococcus_CC9605|B|59.2|11|0";gc_cont=59.20;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(965..2290)
+                     /note="ID=2_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650;conf=100.00;score=57.01;cscore=61.67;sscore=-4.66;rscore=0.00;uscore=-0.35;tscore=-3.66;"
+     CDS             complement(2597..3235)
+                     /note="ID=2_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.673;conf=99.80;score=27.08;cscore=28.56;sscore=-1.47;rscore=0.00;uscore=2.19;tscore=-3.66;"
+//
+DEFINITION  seqnum=3;seqlen=3103;seqhdr="OJAJ01002041.1 seawater metagenome genome assembly, contig: NODE_2041_length_1579_cov_3.761155, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="49|_Nostoc_azollae__0708|B|38.5|11|1";gc_cont=38.40;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(1206..1400)
+                     /note="ID=3_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=57.87;score=1.38;cscore=6.94;sscore=-5.56;rscore=-1.55;uscore=0.70;tscore=-4.06;"
+     CDS             complement(2730..2924)
+                     /note="ID=3_2;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.395;conf=61.47;score=2.03;cscore=6.94;sscore=-4.91;rscore=-1.55;uscore=0.70;tscore=-4.06;"
+//
+DEFINITION  seqnum=4;seqlen=2467;seqhdr="OJAJ01003091.1 seawater metagenome genome assembly, contig: NODE_3091_length_1261_cov_1.938640, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(172..690)
+                     /note="ID=4_1;partial=00;start_type=GTG;rbs_motif=GGTG;rbs_spacer=5bp;gc_cont=0.570;conf=93.52;score=11.61;cscore=5.26;sscore=6.35;rscore=9.88;uscore=-1.31;tscore=-2.21;"
+     CDS             complement(654..860)
+                     /note="ID=4_2;partial=00;start_type=ATG;rbs_motif=GGGTG;rbs_spacer=7bp;gc_cont=0.676;conf=96.62;score=14.58;cscore=9.24;sscore=5.34;rscore=9.22;uscore=-2.45;tscore=-0.77;"
+     CDS             complement(1378..1896)
+                     /note="ID=4_3;partial=00;start_type=GTG;rbs_motif=GGTG;rbs_spacer=5bp;gc_cont=0.570;conf=93.52;score=11.61;cscore=5.26;sscore=6.35;rscore=9.88;uscore=-1.31;tscore=-2.21;"
+     CDS             complement(1860..2066)
+                     /note="ID=4_4;partial=00;start_type=ATG;rbs_motif=GGGTG;rbs_spacer=7bp;gc_cont=0.676;conf=97.07;score=15.23;cscore=9.24;sscore=5.99;rscore=9.22;uscore=-2.45;tscore=-0.77;"
+//
+DEFINITION  seqnum=5;seqlen=1805;seqhdr="OJAJ01005349.1 seawater metagenome genome assembly, contig: NODE_5349_length_930_cov_1.122286, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="30|Mycobacterium_leprae_TN|B|57.8|11|1";gc_cont=57.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             462..1205
+                     /note="ID=5_1;partial=00;start_type=ATG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.543;conf=99.95;score=33.45;cscore=14.99;sscore=18.46;rscore=14.27;uscore=0.55;tscore=3.65;"
+//
+DEFINITION  seqnum=6;seqlen=1801;seqhdr="OJAJ01005359.1 seawater metagenome genome assembly, contig: NODE_5359_length_928_cov_4.148912, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="14|Cenarchaeum_symbiosum_B|A|57.2|11|0";gc_cont=57.20;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             71..412
+                     /note="ID=6_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.640;conf=80.46;score=6.16;cscore=3.33;sscore=2.83;rscore=-0.97;uscore=1.20;tscore=2.60;"
+     CDS             428..1285
+                     /note="ID=6_2;partial=00;start_type=TTG;rbs_motif=GGGG;rbs_spacer=8bp;gc_cont=0.639;conf=99.95;score=33.26;cscore=30.45;sscore=2.82;rscore=3.29;uscore=-0.10;tscore=-1.49;"
+//
+DEFINITION  seqnum=7;seqlen=1785;seqhdr="OJAJ01005445.1 seawater metagenome genome assembly, contig: NODE_5445_length_920_cov_3.042775, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="17|Desulfotomaculum_acetoxidans_DSM_771|B|41.5|11|1";gc_cont=41.60;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(656..961)
+                     /note="ID=7_1;partial=00;start_type=TTG;rbs_motif=AGGAGG;rbs_spacer=5-10bp;gc_cont=0.428;conf=96.88;score=14.95;cscore=5.06;sscore=9.89;rscore=14.49;uscore=-0.97;tscore=-3.64;"
+//
+DEFINITION  seqnum=8;seqlen=1649;seqhdr="OJAJ01005539.1 seawater metagenome genome assembly, contig: NODE_5539_length_910_cov_21.171930, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="21|Haloquadratum_walsbyi_DSM_16790|A|47.9|11|0";gc_cont=47.90;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             644..877
+                     /note="ID=8_1;partial=00;start_type=ATG;rbs_motif=ATA;rbs_spacer=3bp;gc_cont=0.611;conf=65.82;score=2.85;cscore=-6.13;sscore=8.98;rscore=6.52;uscore=-0.99;tscore=3.94;"
+     CDS             1383..1616
+                     /note="ID=8_2;partial=00;start_type=ATG;rbs_motif=ATA;rbs_spacer=3bp;gc_cont=0.611;conf=62.37;score=2.20;cscore=-6.13;sscore=8.32;rscore=6.52;uscore=-0.99;tscore=3.94;"
+//
+DEFINITION  seqnum=9;seqlen=1765;seqhdr="OJAJ01005542.1 seawater metagenome genome assembly, contig: NODE_5542_length_910_cov_2.543860, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=10;seqlen=1717;seqhdr="OJAJ01005779.1 seawater metagenome genome assembly, contig: NODE_5779_length_886_cov_3.812274, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="2|Mycoplasma_suis_Illinois|B|31.1|4|0";gc_cont=31.10;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(829..1155)
+                     /note="ID=10_1;partial=00;start_type=TTG;rbs_motif=TAA;rbs_spacer=12bp;gc_cont=0.321;conf=85.51;score=7.72;cscore=8.42;sscore=-0.70;rscore=3.35;uscore=0.03;tscore=-4.08;"
+//
+DEFINITION  seqnum=11;seqlen=1639;seqhdr="OJAJ01006253.1 seawater metagenome genome assembly, contig: NODE_6253_length_847_cov_4.872475, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="13|Catenulispora_acidiphila_DSM_44928|B|69.8|11|1";gc_cont=69.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(196..573)
+                     /note="ID=11_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.778;conf=98.82;score=19.27;cscore=19.10;sscore=0.17;rscore=-4.48;uscore=-0.79;tscore=4.54;"
+     CDS             complement(607..945)
+                     /note="ID=11_2;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.761;conf=97.77;score=16.45;cscore=22.85;sscore=-6.40;rscore=-4.01;uscore=0.17;tscore=-3.38;"
+     CDS             complement(988..1365)
+                     /note="ID=11_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.778;conf=98.55;score=18.36;cscore=19.10;sscore=-0.74;rscore=-4.48;uscore=-0.79;tscore=4.54;"
+//
+DEFINITION  seqnum=12;seqlen=1597;seqhdr="OJAJ01006531.1 seawater metagenome genome assembly, contig: NODE_6531_length_826_cov_4.927367, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=13;seqlen=1479;seqhdr="OJAJ01007428.1 seawater metagenome genome assembly, contig: NODE_7428_length_767_cov_209.643258, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=14;seqlen=1459;seqhdr="OJAJ01007615.1 seawater metagenome genome assembly, contig: NODE_7615_length_757_cov_2.139601, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="21|Haloquadratum_walsbyi_DSM_16790|A|47.9|11|0";gc_cont=47.90;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             550..852
+                     /note="ID=14_1;partial=00;start_type=ATG;rbs_motif=ATA;rbs_spacer=5bp;gc_cont=0.512;conf=51.44;score=0.25;cscore=-6.42;sscore=6.67;rscore=4.35;uscore=-1.45;tscore=4.27;"
+//
+DEFINITION  seqnum=15;seqlen=1447;seqhdr="OJAJ01007720.1 seawater metagenome genome assembly, contig: NODE_7720_length_751_cov_3.913793, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="13|Catenulispora_acidiphila_DSM_44928|B|69.8|11|1";gc_cont=69.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=16;seqlen=1441;seqhdr="OJAJ01007776.1 seawater metagenome genome assembly, contig: NODE_7776_length_748_cov_3.388167, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(610..1053)
+                     /note="ID=16_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.457;conf=71.63;score=4.03;cscore=0.40;sscore=3.63;rscore=0.02;uscore=-1.79;tscore=5.40;"
+//
+DEFINITION  seqnum=17;seqlen=1367;seqhdr="OJAJ01008491.1 seawater metagenome genome assembly, contig: NODE_8491_length_711_cov_2.152439, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="34|Prochlorococcus_marinus_MIT_9313|B|50.7|11|0";gc_cont=50.70;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(223..936)
+                     /note="ID=17_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.471;conf=99.93;score=31.75;cscore=27.88;sscore=3.86;rscore=0.00;uscore=-0.74;tscore=4.60;"
+     CDS             complement(879..1316)
+                     /note="ID=17_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.463;conf=99.73;score=25.68;cscore=19.71;sscore=5.97;rscore=0.00;uscore=1.37;tscore=4.60;"
+//
+DEFINITION  seqnum=18;seqlen=1361;seqhdr="OJAJ01008541.1 seawater metagenome genome assembly, contig: NODE_8541_length_708_cov_10.534456, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="12|Candidatus_Korarchaeum_cryptofilum_OPF8|A|49.0|11|0";gc_cont=49.00;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(461..910)
+                     /note="ID=18_1;partial=00;start_type=TTG;rbs_motif=GTG;rbs_spacer=10bp;gc_cont=0.484;conf=83.23;score=6.97;cscore=5.24;sscore=1.73;rscore=0.76;uscore=2.58;tscore=-1.61;"
+//
+DEFINITION  seqnum=19;seqlen=1321;seqhdr="OJAJ01008987.1 seawater metagenome genome assembly, contig: NODE_8987_length_688_cov_3.004739, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="48|Xylella_fastidiosa_Temecula1|B|51.8|11|1";gc_cont=51.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(333..521)
+                     /note="ID=19_1;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.603;conf=61.24;score=1.99;cscore=-2.43;sscore=4.42;rscore=2.41;uscore=-0.39;tscore=3.55;"
+     CDS             complement(966..1154)
+                     /note="ID=19_2;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.603;conf=64.74;score=2.64;cscore=-2.43;sscore=5.07;rscore=2.41;uscore=-0.39;tscore=3.55;"
+//
+DEFINITION  seqnum=20;seqlen=1313;seqhdr="OJAJ01009083.1 seawater metagenome genome assembly, contig: NODE_9083_length_684_cov_6.766296, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=21;seqlen=1285;seqhdr="OJAJ01009447.1 seawater metagenome genome assembly, contig: NODE_9447_length_670_cov_3.333333, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=22;seqlen=1231;seqhdr="OJAJ01010211.1 seawater metagenome genome assembly, contig: NODE_10211_length_643_cov_0.792517, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="9|Brucella_canis_ATCC_23365|B|57.2|11|1";gc_cont=57.20;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=23;seqlen=1209;seqhdr="OJAJ01010508.1 seawater metagenome genome assembly, contig: NODE_10508_length_632_cov_2.873484, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="12|Candidatus_Korarchaeum_cryptofilum_OPF8|A|49.0|11|0";gc_cont=49.00;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             220..675
+                     /note="ID=23_1;partial=00;start_type=TTG;rbs_motif=GGCGG;rbs_spacer=15bp;gc_cont=0.561;conf=59.69;score=1.71;cscore=0.42;sscore=1.29;rscore=1.02;uscore=1.88;tscore=-1.61;"
+     CDS             complement(504..944)
+                     /note="ID=23_2;partial=00;start_type=TTG;rbs_motif=GGGGT;rbs_spacer=4bp;gc_cont=0.571;conf=88.11;score=8.71;cscore=5.02;sscore=3.69;rscore=6.26;uscore=-0.96;tscore=-1.61;"
+//
+DEFINITION  seqnum=24;seqlen=1209;seqhdr="OJAJ01010509.1 seawater metagenome genome assembly, contig: NODE_10509_length_632_cov_2.800693, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="4|Akkermansia_muciniphila_ATCC_BAA_835|B|55.8|11|0";gc_cont=55.80;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=25;seqlen=1207;seqhdr="OJAJ01010553.1 seawater metagenome genome assembly, contig: NODE_10553_length_631_cov_1.088542, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="47|Xenorhabdus_nematophila_ATCC_19061|B|44.1|11|1";gc_cont=44.20;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             139..537
+                     /note="ID=25_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.404;conf=80.63;score=6.20;cscore=-0.37;sscore=6.58;rscore=3.02;uscore=0.07;tscore=3.99;"
+     CDS             715..1113
+                     /note="ID=25_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.404;conf=80.63;score=6.20;cscore=-0.37;sscore=6.58;rscore=3.02;uscore=0.07;tscore=3.99;"
+//
+DEFINITION  seqnum=26;seqlen=1169;seqhdr="OJAJ01011123.1 seawater metagenome genome assembly, contig: NODE_11123_length_612_cov_0.761221, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="30|Mycobacterium_leprae_TN|B|57.8|11|1";gc_cont=57.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(197..763)
+                     /note="ID=26_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.628;conf=86.70;score=8.15;cscore=5.93;sscore=2.22;rscore=2.24;uscore=0.49;tscore=-0.51;"
+//
+DEFINITION  seqnum=27;seqlen=1167;seqhdr="OJAJ01011130.1 seawater metagenome genome assembly, contig: NODE_11130_length_611_cov_3.334532, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=28;seqlen=1149;seqhdr="OJAJ01011417.1 seawater metagenome genome assembly, contig: NODE_11417_length_602_cov_3.389397, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="48|Xylella_fastidiosa_Temecula1|B|51.8|11|1";gc_cont=51.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(428..664)
+                     /note="ID=28_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.650;conf=86.40;score=8.04;cscore=8.07;sscore=-0.02;rscore=-3.16;uscore=-1.33;tscore=4.47;"
+//
+DEFINITION  seqnum=29;seqlen=1135;seqhdr="OJAJ01011655.1 seawater metagenome genome assembly, contig: NODE_11655_length_595_cov_3.309259, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="30|Mycobacterium_leprae_TN|B|57.8|11|1";gc_cont=57.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             319..750
+                     /note="ID=29_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.664;conf=50.48;score=0.08;cscore=-16.03;sscore=16.11;rscore=10.73;uscore=2.24;tscore=3.65;"
+//
+DEFINITION  seqnum=30;seqlen=1076;seqhdr="OJAJ01012056.1 seawater metagenome genome assembly, contig: NODE_12056_length_584_cov_19.514178, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=31;seqlen=1109;seqhdr="OJAJ01012142.1 seawater metagenome genome assembly, contig: NODE_12142_length_582_cov_2.254269, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=32;seqlen=1097;seqhdr="OJAJ01012405.1 seawater metagenome genome assembly, contig: NODE_12405_length_576_cov_1.264875, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=33;seqlen=1087;seqhdr="OJAJ01012575.1 seawater metagenome genome assembly, contig: NODE_12575_length_571_cov_3.238372, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="30|Mycobacterium_leprae_TN|B|57.8|11|1";gc_cont=57.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             418..849
+                     /note="ID=33_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.625;conf=64.75;score=2.64;cscore=-3.45;sscore=6.09;rscore=2.24;uscore=0.71;tscore=3.65;"
+//
+DEFINITION  seqnum=34;seqlen=1083;seqhdr="OJAJ01012693.1 seawater metagenome genome assembly, contig: NODE_12693_length_569_cov_1.317121, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="27|Methanosphaerula_palustris_E1_9c|A|55.4|11|1";gc_cont=55.40;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             293..538
+                     /note="ID=34_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537;conf=81.57;score=6.47;cscore=-0.13;sscore=6.60;rscore=1.09;uscore=2.35;tscore=3.66;"
+     CDS             807..1052
+                     /note="ID=34_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.537;conf=79.20;score=5.82;cscore=-0.13;sscore=5.95;rscore=1.09;uscore=2.35;tscore=3.66;"
+//
+DEFINITION  seqnum=35;seqlen=1077;seqhdr="OJAJ01012789.1 seawater metagenome genome assembly, contig: NODE_12789_length_566_cov_3.311155, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=36;seqlen=931;seqhdr="OJAJ01013577.1 seawater metagenome genome assembly, contig: NODE_13577_length_548_cov_17.251521, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="28|Methanothermobacter_thermautotrophicus_Delta_H|B|49.5|11|1";gc_cont=49.50;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             41..784
+                     /note="ID=36_1;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.543;conf=97.31;score=15.61;cscore=5.86;sscore=9.76;rscore=5.29;uscore=2.13;tscore=2.33;"
+//
+DEFINITION  seqnum=37;seqlen=1039;seqhdr="OJAJ01013625.1 seawater metagenome genome assembly, contig: NODE_13625_length_547_cov_3.089431, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="14|Cenarchaeum_symbiosum_B|A|57.2|11|0";gc_cont=57.20;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+     CDS             complement(289..567)
+                     /note="ID=37_1;partial=00;start_type=GTG;rbs_motif=GGGG;rbs_spacer=7bp;gc_cont=0.588;conf=98.37;score=17.84;cscore=22.63;sscore=-4.79;rscore=3.29;uscore=-2.16;tscore=-5.27;"
+     CDS             complement(781..1023)
+                     /note="ID=37_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.580;conf=99.13;score=20.58;cscore=19.05;sscore=1.53;rscore=-1.01;uscore=0.05;tscore=2.50;"
+//
+DEFINITION  seqnum=38;seqlen=1033;seqhdr="OJAJ01013784.1 seawater metagenome genome assembly, contig: NODE_13784_length_544_cov_1.830266, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=39;seqlen=1033;seqhdr="OJAJ01013793.1 seawater metagenome genome assembly, contig: NODE_13793_length_544_cov_1.535787, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="5|Anaplasma_marginale_Maries|B|49.8|11|1";gc_cont=49.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(482..940)
+                     /note="ID=39_1;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.562;conf=77.31;score=5.33;cscore=5.32;sscore=0.01;rscore=0.86;uscore=1.00;tscore=-1.85;"
+//
+DEFINITION  seqnum=40;seqlen=1027;seqhdr="OJAJ01013939.1 seawater metagenome genome assembly, contig: NODE_13939_length_541_cov_1.580247, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=41;seqlen=985;seqhdr="OJAJ01015018.1 seawater metagenome genome assembly, contig: NODE_15018_length_520_cov_1.387097, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=42;seqlen=961;seqhdr="OJAJ01015653.1 seawater metagenome genome assembly, contig: NODE_15653_length_508_cov_1.796909, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="1|Mycoplasma_pneumoniae_M129|B|40.0|4|0";gc_cont=40.00;transl_table=4;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=43;seqlen=959;seqhdr="OJAJ01015708.1 seawater metagenome genome assembly, contig: NODE_15708_length_507_cov_2.168142, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="5|Anaplasma_marginale_Maries|B|49.8|11|1";gc_cont=49.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=44;seqlen=957;seqhdr="OJAJ01015761.1 seawater metagenome genome assembly, contig: NODE_15761_length_506_cov_2.654102, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="3|Aeropyrum_pernix_K1|A|56.3|11|0";gc_cont=56.30;transl_table=11;uses_sd=0
+FEATURES             Location/Qualifiers
+//
+DEFINITION  seqnum=45;seqlen=955;seqhdr="OJAJ01015820.1 seawater metagenome genome assembly, contig: NODE_15820_length_505_cov_1.604444, whole genome shotgun sequence";version=Prodigal.v2.6.3;run_type=Metagenomic;model="45|Treponema_pallidum_Nichols|B|52.8|11|1";gc_cont=52.80;transl_table=11;uses_sd=1
+FEATURES             Location/Qualifiers
+     CDS             complement(5..424)
+                     /note="ID=45_1;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.555;conf=100.00;score=56.08;cscore=45.64;sscore=10.44;rscore=12.09;uscore=-0.90;tscore=-1.70;"
+     CDS             complement(455..874)
+                     /note="ID=45_2;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.555;conf=100.00;score=55.14;cscore=45.64;sscore=9.50;rscore=12.09;uscore=-0.90;tscore=-1.70;"
+//

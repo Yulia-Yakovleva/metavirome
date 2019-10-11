@@ -1,0 +1,12 @@
+OJBO01001182.1,CbiA DUF3987 RPA Mob_Pre N6_N4_Mtase N6_N4_Mtase N6_N4_Mtase
+OJBO01000648.1,HTH_36 Vsr DNA_methylase DNA_methylase Abi_C RPA Resolvase HTH_7 HTH_28 MobA_MobL CbiA
+OJBO01000743.1,Response_reg CbiA Phage_integrase
+OJBO01008799.1,Rep_1
+OJBO01009045.1,FA_desaturase FA_desaturase
+OJBO01032279.1,Y1_Tnp Y1_Tnp
+OJBO01007853.1,AbiEii HTH_3
+OJBO01005128.1,Phage_CRI Phage_X Phage_CRI Phage_X
+OJBO01041469.1,DAP_epimerase
+OJBO01025309.1,Pribosyltran
+OJBO01002152.1,Mob_Pre OMP_b-brl Rep_3
+OJBO01004236.1,MobC Relaxase

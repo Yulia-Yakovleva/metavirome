@@ -1,0 +1,3 @@
+OJCE01000025.1,Rop Beta-lactamase2 MMR_HSR1 Peripla_BP_3 LacI DNA_pol_A DNA_pol_A_exo1
+OJCE01000088.1,Phage_GPA Phage_F Phage_F
+OJCE01004001.1,LacI LacI

@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OFRW01028635.1_1     -            197 Acyl-CoA_dh_1        PF00441.23   150   8.2e-30   96.8   0.0   1   1     1e-31   1.1e-29   96.4   0.0     1   110    86   195    86   196 0.99 # 115 # 705 # 1 # ID=47_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.464
+OFRW01028635.1_1     -            197 Acyl-CoA_dh_M        PF02770.18    97   1.5e-19   62.9   0.0   1   1   2.5e-21   2.7e-19   62.0   0.0    27    97     4    74     1    74 0.92 # 115 # 705 # 1 # ID=47_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.464
+OFRW01028635.1_1     -            197 Acyl-CoA_dh_2        PF08028.10   134   2.2e-11   37.0   0.0   1   1   2.6e-13   2.8e-11   36.6   0.0     8    99   108   193   101   195 0.88 # 115 # 705 # 1 # ID=47_1;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=11bp;gc_cont=0.464
+OFRW01078973.1_1     -            143 SLT                  PF01464.19   117   2.7e-21   68.2   0.0   1   1   3.3e-23   3.6e-21   67.9   0.0     5    86    61   136    57   141 0.92 # 102 # 530 # 1 # ID=122_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.527
+OFRW01006549.1_1     -            319 Transposase_mut      PF00872.17   381   5.6e-44  143.2   0.0   1   1   6.1e-46   6.6e-44  143.0   0.0    23   304    21   315     1   317 0.87 # 385 # 1341 # -1 # ID=6_1;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.562
+OFRW01014529.1_1     -            223 N6_N4_Mtase          PF01555.17   231   3.5e-22   72.0   0.0   1   1   3.9e-23   4.2e-21   68.5   0.0   168   230   146   211    56   212 0.77 # 542 # 1210 # -1 # ID=21_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.572
+OFRW01009867.1_1     -            210 CAP                  PF00188.25   126   5.5e-16   52.4   0.0   1   1   1.3e-17   7.2e-16   52.0   0.0     1   126    87   205    87   205 0.94 # 43 # 672 # 1 # ID=14_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+OFRW01009867.1_2     -            210 CAP                  PF00188.25   126   5.5e-16   52.4   0.0   1   1   1.3e-17   7.2e-16   52.0   0.0     1   126    87   205    87   205 0.94 # 925 # 1554 # 1 # ID=14_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.610
+OFRW01078973.1_1     -            143 DUF4124              PF13511.5     56   3.1e-08   26.7   0.0   1   1   5.7e-10   6.2e-08   25.8   0.0    13    40     2    29     2    30 0.90 # 102 # 530 # 1 # ID=122_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.527
+OFRW01067698.1_1     -             94 NHase_alpha          PF02979.15   184   2.7e-11   35.9   0.0   1   1     6e-13   3.3e-11   35.6   0.0   112   173    16    77     7    80 0.95 # 19 # 300 # 1 # ID=101_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.560
+OFRW01067698.1_2     -             94 NHase_alpha          PF02979.15   184   2.7e-11   35.9   0.0   1   1     6e-13   3.3e-11   35.6   0.0   112   173    16    77     7    80 0.95 # 421 # 702 # 1 # ID=101_2;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.560
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900247655.1/viralverify_output/GCA_900247655.1_ERR1424909_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900247655.1/viralverify_output/GCA_900247655.1_ERR1424909_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900247655.1/viralverify_output/GCA_900247655.1_ERR1424909_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900247655.1/viralverify_output/GCA_900247655.1_ERR1424909_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:20:57 2019
+# [ok]

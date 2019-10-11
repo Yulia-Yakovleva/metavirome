@@ -1,0 +1,10 @@
+OJBC01004068.1,Acetyltransf_10
+OJBC01002019.1,MobC Replicase PriCT_1 Relaxase Replicase PriCT_1
+OJBC01002825.1,RepL
+OJBC01003371.1,Phage_CRI Phage_X
+OJBC01006746.1,Methyltransf_25
+OJBC01006292.1,RelE MqsA_antitoxin MqsA_antitoxin
+OJBC01009340.1,RHH_1 ParE_toxin
+OJBC01003961.1,Rep_trans Rep_trans
+OJBC01010452.1,Y1_Tnp
+OJBC01013638.1,BPD_transp_2

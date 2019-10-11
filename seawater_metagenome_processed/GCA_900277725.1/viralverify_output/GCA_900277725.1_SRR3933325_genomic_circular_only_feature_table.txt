@@ -1,0 +1,2 @@
+OJBW01007193.1,TonB_C
+OJBW01004177.1,CPSase_L_D2 Biotin_carb_C Biotin_carb_C CPSase_L_D2 HMGL-like

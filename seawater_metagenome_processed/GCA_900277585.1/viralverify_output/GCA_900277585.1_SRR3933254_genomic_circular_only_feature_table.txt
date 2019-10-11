@@ -1,0 +1,12 @@
+OJBP01001724.1,BrnT_toxin MobA_MobL RPA
+OJBP01001535.1,Chromate_transp Chromate_transp RepL PemK_toxin Chrome_Resist Rhodanese
+OJBP01000555.1,HTH_36 Abi_C Vsr DNA_methylase DNA_methylase Resolvase HTH_7 HTH_28 CbiA MobA_MobL RPA
+OJBP01001176.1,Resolvase PhdYeFM_antitox PIN MobA_MobL Chrome_Resist Rhodanese RVT_1 Rep_3 Chromate_transp Chromate_transp
+OJBP01000110.1,N6_Mtase RecT DUF5131 DUF2280 Terminase_6 LAGLIDADG_3 Terminase_6C VRR_NUC DUF2312 N6_N4_Mtase
+OJBP01014049.1,Lumazine_bd_2
+OJBP01008287.1,DDE_3 HTH_32 HTH_29 HTH_28 HTH_23
+OJBP01009803.1,Y1_Tnp
+OJBP01007443.1,DDE_Tnp_ISL3 HTH_Tnp_ISL3 zf-ISL3
+OJBP01005433.1,HTH_29 rve
+OJBP01001868.1,Mob_Pre OMP_b-brl Rep_3
+OJBP01002799.1,RloB AAA_21 4HBT

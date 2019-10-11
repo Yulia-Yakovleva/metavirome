@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJCA01021666.1_2     -            198 MFS_1                PF07690.15   353   1.5e-16   52.1  14.2   1   1   3.4e-18   1.9e-16   51.7  14.2     6   184    16   191     9   196 0.80 # 574 # 1167 # -1 # ID=31_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.379
+OJCA01016359.1_1     -            263 adh_short            PF00106.24   195   6.3e-55  177.5   0.2   1   1   1.4e-56   8.1e-55  177.2   0.2     1   191    10   201    10   205 0.96 # 126 # 914 # 1 # ID=15_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.517
+OJCA01016359.1_1     -            263 adh_short_C2         PF13561.5    234   5.8e-58  188.1   1.5   1   1   1.4e-59   7.7e-58  187.6   1.5     3   233    18   260    12   261 0.90 # 126 # 914 # 1 # ID=15_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.517
+OJCA01016359.1_1     -            263 KR                   PF08659.9    180     2e-11   36.0   0.1   1   1   8.1e-13   4.6e-11   34.8   0.1     4   110    13   115    11   174 0.84 # 126 # 914 # 1 # ID=15_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.517
+OJCA01041706.1_1     -            155 M20_dimer            PF07687.13   109   1.8e-15   48.8   0.1   1   1   3.8e-17   2.2e-15   48.5   0.1     1   106    27   140    27   143 0.94 # 60 # 524 # 1 # ID=65_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.523
+OJCA01007104.1_1     -            220 Methyltransf_24      PF13578.5    106   2.6e-17   55.7   0.0   1   1   1.4e-18     4e-17   55.1   0.0     1   106    54   170    54   170 0.74 # 31 # 690 # 1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.467
+OJCA01007104.1_3     -            244 Methyltransf_24      PF13578.5    106   3.4e-17   55.4   0.0   1   1   1.9e-18   5.3e-17   54.8   0.0     1   106    78   194    78   194 0.74 # 1432 # 2163 # 1 # ID=4_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.462
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900277685.1/viralverify_output/GCA_900277685.1_SRR3933335_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277685.1/viralverify_output/GCA_900277685.1_SRR3933335_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277685.1/viralverify_output/GCA_900277685.1_SRR3933335_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277685.1/viralverify_output/GCA_900277685.1_SRR3933335_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:14:53 2019
+# [ok]

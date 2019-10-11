@@ -1,0 +1,4 @@
+OJBG01001969.1,Peripla_BP_6
+OJBG01020673.1,Pro_isomerase
+OJBG01000169.1,rve
+OJBG01016328.1,Acetyltransf_4
