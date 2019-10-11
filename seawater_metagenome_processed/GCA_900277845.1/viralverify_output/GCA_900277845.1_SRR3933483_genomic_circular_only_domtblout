@@ -12,5 +12,5 @@ OJCG01000037.1_4     -            428 Phage_F              PF02305.16   510  7.3
 # Target file:     ./seawater_metagenome/GCA_900277845.1/viralverify_output/GCA_900277845.1_SRR3933483_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277845.1/viralverify_output/GCA_900277845.1_SRR3933483_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277845.1/viralverify_output/GCA_900277845.1_SRR3933483_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277845.1/viralverify_output/GCA_900277845.1_SRR3933483_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:46:59 2019
+# Date:            Fri Oct 11 15:56:23 2019
 # [ok]

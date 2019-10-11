@@ -18,5 +18,5 @@ OFRQ01025891.1_1     -             94 CopC                 PF04234.11    92   8.
 # Target file:     ./seawater_metagenome/GCA_900247635.1/viralverify_output/GCA_900247635.1_ERR1424899_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900247635.1/viralverify_output/GCA_900247635.1_ERR1424899_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900247635.1/viralverify_output/GCA_900247635.1_ERR1424899_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900247635.1/viralverify_output/GCA_900247635.1_ERR1424899_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:13:58 2019
+# Date:            Fri Oct 11 16:31:27 2019
 # [ok]

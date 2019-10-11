@@ -12,5 +12,5 @@ OJCU01000054.1_2     -           1422 RVT_1                PF00078.26   222   5.
 # Target file:     ./seawater_metagenome/GCA_900277945.1/viralverify_output/GCA_900277945.1_SRR3933297_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277945.1/viralverify_output/GCA_900277945.1_SRR3933297_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277945.1/viralverify_output/GCA_900277945.1_SRR3933297_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277945.1/viralverify_output/GCA_900277945.1_SRR3933297_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:46:34 2019
+# Date:            Fri Oct 11 15:55:55 2019
 # [ok]

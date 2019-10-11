@@ -51,5 +51,5 @@ OJBE01002305.1_6     -            139 NTase_sub_bind       PF08780.10   126   9.
 # Target file:     ./seawater_metagenome/GCA_900277535.1/viralverify_output/GCA_900277535.1_SRR3933172_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277535.1/viralverify_output/GCA_900277535.1_SRR3933172_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277535.1/viralverify_output/GCA_900277535.1_SRR3933172_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277535.1/viralverify_output/GCA_900277535.1_SRR3933172_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:44:11 2019
+# Date:            Fri Oct 11 15:52:49 2019
 # [ok]

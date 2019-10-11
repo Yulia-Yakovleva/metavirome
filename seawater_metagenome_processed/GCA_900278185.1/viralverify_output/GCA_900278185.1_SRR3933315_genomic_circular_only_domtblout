@@ -14,5 +14,5 @@ OJDM01000212.1_1     -           2022 zf-CCHC              PF00098.22    18   1.
 # Target file:     ./seawater_metagenome/GCA_900278185.1/viralverify_output/GCA_900278185.1_SRR3933315_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278185.1/viralverify_output/GCA_900278185.1_SRR3933315_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278185.1/viralverify_output/GCA_900278185.1_SRR3933315_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278185.1/viralverify_output/GCA_900278185.1_SRR3933315_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:23:29 2019
+# Date:            Fri Oct 11 16:46:05 2019
 # [ok]

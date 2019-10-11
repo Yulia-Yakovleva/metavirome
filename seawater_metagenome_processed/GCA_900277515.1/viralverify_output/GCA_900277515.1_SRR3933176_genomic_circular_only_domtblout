@@ -54,5 +54,5 @@ OJBD01000078.1_15    -             70 ParG                 PF09274.9     76   1.
 # Target file:     ./seawater_metagenome/GCA_900277515.1/viralverify_output/GCA_900277515.1_SRR3933176_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277515.1/viralverify_output/GCA_900277515.1_SRR3933176_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277515.1/viralverify_output/GCA_900277515.1_SRR3933176_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277515.1/viralverify_output/GCA_900277515.1_SRR3933176_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:33:11 2019
+# Date:            Fri Oct 11 17:01:54 2019
 # [ok]

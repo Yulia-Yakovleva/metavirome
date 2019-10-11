@@ -10,5 +10,5 @@ OJCC01000061.1_2     -           2681 PTS_2-RNA            PF01885.15   181   8.
 # Target file:     ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277745.1/viralverify_output/GCA_900277745.1_SRR3933338_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:42:00 2019
+# Date:            Fri Oct 11 17:14:23 2019
 # [ok]

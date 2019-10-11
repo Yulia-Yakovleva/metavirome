@@ -16,5 +16,5 @@ OJBG01020673.1_1     -            164 Pro_isomerase        PF00160.20   158   5.
 # Target file:     ./seawater_metagenome/GCA_900277465.1/viralverify_output/GCA_900277465.1_SRR3933342_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277465.1/viralverify_output/GCA_900277465.1_SRR3933342_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277465.1/viralverify_output/GCA_900277465.1_SRR3933342_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277465.1/viralverify_output/GCA_900277465.1_SRR3933342_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:01:13 2019
+# Date:            Fri Oct 11 16:12:51 2019
 # [ok]

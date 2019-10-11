@@ -32,5 +32,5 @@ OFLJ01021278.1_2     -             92 Peptidase_S49_N      PF08496.9    153   6.
 # Target file:     ./seawater_metagenome/GCA_900247625.1/viralverify_output/GCA_900247625.1_ERR1424908_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900247625.1/viralverify_output/GCA_900247625.1_ERR1424908_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900247625.1/viralverify_output/GCA_900247625.1_ERR1424908_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900247625.1/viralverify_output/GCA_900247625.1_ERR1424908_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:15:32 2019
+# Date:            Fri Oct 11 16:33:52 2019
 # [ok]

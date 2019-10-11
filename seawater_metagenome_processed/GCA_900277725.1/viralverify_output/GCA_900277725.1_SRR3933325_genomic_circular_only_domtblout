@@ -16,5 +16,5 @@ OJBW01007193.1_1     -            202 TonB_C               PF03544.13    79   3.
 # Target file:     ./seawater_metagenome/GCA_900277725.1/viralverify_output/GCA_900277725.1_SRR3933325_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277725.1/viralverify_output/GCA_900277725.1_SRR3933325_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277725.1/viralverify_output/GCA_900277725.1_SRR3933325_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277725.1/viralverify_output/GCA_900277725.1_SRR3933325_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:02:12 2019
+# Date:            Fri Oct 11 16:14:20 2019
 # [ok]

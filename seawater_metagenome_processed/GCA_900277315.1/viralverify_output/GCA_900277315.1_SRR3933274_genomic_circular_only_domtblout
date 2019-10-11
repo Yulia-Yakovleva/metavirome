@@ -17,5 +17,5 @@ OLGR01008759.1_1     -            130 zf-C2H2              PF00096.25    23   2.
 # Target file:     ./seawater_metagenome/GCA_900277315.1/viralverify_output/GCA_900277315.1_SRR3933274_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277315.1/viralverify_output/GCA_900277315.1_SRR3933274_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277315.1/viralverify_output/GCA_900277315.1_SRR3933274_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277315.1/viralverify_output/GCA_900277315.1_SRR3933274_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:46:06 2019
+# Date:            Fri Oct 11 17:18:50 2019
 # [ok]

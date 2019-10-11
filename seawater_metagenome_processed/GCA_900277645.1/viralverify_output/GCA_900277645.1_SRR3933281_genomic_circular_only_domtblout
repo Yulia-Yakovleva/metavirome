@@ -24,5 +24,5 @@ OJBM01005014.1_2     -            153 SnoaL_3              PF13474.5    121   8.
 # Target file:     ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277645.1/viralverify_output/GCA_900277645.1_SRR3933281_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:41:30 2019
+# Date:            Fri Oct 11 17:13:47 2019
 # [ok]

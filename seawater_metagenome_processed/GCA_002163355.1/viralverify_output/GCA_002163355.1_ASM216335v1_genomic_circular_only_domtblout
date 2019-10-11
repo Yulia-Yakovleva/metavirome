@@ -179,5 +179,5 @@ MAAB01001292.1_37    -            419 T4_gp9_10            PF07880.10   285   2.
 # Target file:     ./seawater_metagenome/GCA_002163355.1/viralverify_output/GCA_002163355.1_ASM216335v1_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_002163355.1/viralverify_output/GCA_002163355.1_ASM216335v1_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_002163355.1/viralverify_output/GCA_002163355.1_ASM216335v1_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_002163355.1/viralverify_output/GCA_002163355.1_ASM216335v1_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:13:07 2019
+# Date:            Fri Oct 11 16:30:16 2019
 # [ok]

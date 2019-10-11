@@ -12,5 +12,5 @@ OJBB01003640.1_4     -            101 HTH_Tnp_1            PF01527.19    75   1.
 # Target file:     ./seawater_metagenome/GCA_900277475.1/viralverify_output/GCA_900277475.1_SRR3933391_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900277475.1/viralverify_output/GCA_900277475.1_SRR3933391_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900277475.1/viralverify_output/GCA_900277475.1_SRR3933391_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900277475.1/viralverify_output/GCA_900277475.1_SRR3933391_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:54:24 2019
+# Date:            Fri Oct 11 16:06:18 2019
 # [ok]
