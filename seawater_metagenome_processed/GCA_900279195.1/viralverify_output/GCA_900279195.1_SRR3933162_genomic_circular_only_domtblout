@@ -17,5 +17,5 @@ OJGO01001057.1_4     -           2164 Condensation         PF00668.19   457  3.4
 # Target file:     ./seawater_metagenome/GCA_900279195.1/viralverify_output/GCA_900279195.1_SRR3933162_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279195.1/viralverify_output/GCA_900279195.1_SRR3933162_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279195.1/viralverify_output/GCA_900279195.1_SRR3933162_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279195.1/viralverify_output/GCA_900279195.1_SRR3933162_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:22:18 2019
+# Date:            Fri Oct 11 16:44:09 2019
 # [ok]

@@ -31,5 +31,5 @@ OJIE01000005.1_2     -             64 Rop                  PF01815.15    57     
 # Target file:     ./seawater_metagenome/GCA_900279695.1/viralverify_output/GCA_900279695.1_SRR3933447_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279695.1/viralverify_output/GCA_900279695.1_SRR3933447_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279695.1/viralverify_output/GCA_900279695.1_SRR3933447_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279695.1/viralverify_output/GCA_900279695.1_SRR3933447_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:18:29 2019
+# Date:            Fri Oct 11 16:38:19 2019
 # [ok]

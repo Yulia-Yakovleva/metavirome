@@ -128,5 +128,5 @@ OJGS01001403.1_3     -            190 RepL                 PF05732.10   165   3.
 # Target file:     ./seawater_metagenome/GCA_900279025.1/viralverify_output/GCA_900279025.1_SRR3933182_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279025.1/viralverify_output/GCA_900279025.1_SRR3933182_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279025.1/viralverify_output/GCA_900279025.1_SRR3933182_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279025.1/viralverify_output/GCA_900279025.1_SRR3933182_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:38:02 2019
+# Date:            Fri Oct 11 17:09:08 2019
 # [ok]

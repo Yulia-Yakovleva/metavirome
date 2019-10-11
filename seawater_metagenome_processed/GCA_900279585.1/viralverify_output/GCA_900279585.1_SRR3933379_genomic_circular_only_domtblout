@@ -46,5 +46,5 @@ OLID01008146.1_1     -            330 Rep_1                PF01446.16   237   7.
 # Target file:     ./seawater_metagenome/GCA_900279585.1/viralverify_output/GCA_900279585.1_SRR3933379_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279585.1/viralverify_output/GCA_900279585.1_SRR3933379_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279585.1/viralverify_output/GCA_900279585.1_SRR3933379_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279585.1/viralverify_output/GCA_900279585.1_SRR3933379_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:23:12 2019
+# Date:            Fri Oct 11 16:45:38 2019
 # [ok]

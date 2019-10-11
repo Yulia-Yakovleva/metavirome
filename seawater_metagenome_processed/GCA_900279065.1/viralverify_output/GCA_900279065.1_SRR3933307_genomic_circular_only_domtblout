@@ -19,5 +19,5 @@ OJGM01015157.1_1     -            223 2OG-FeII_Oxy_3       PF13640.5     96   4.
 # Target file:     ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:29:49 2019
+# Date:            Fri Oct 11 16:57:52 2019
 # [ok]

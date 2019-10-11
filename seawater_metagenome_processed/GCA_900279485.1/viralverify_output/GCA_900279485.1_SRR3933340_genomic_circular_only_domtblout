@@ -13,5 +13,5 @@ OJIG01002444.1_1     -            187 Peptidase_S74        PF13884.5     58   9.
 # Target file:     ./seawater_metagenome/GCA_900279485.1/viralverify_output/GCA_900279485.1_SRR3933340_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279485.1/viralverify_output/GCA_900279485.1_SRR3933340_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279485.1/viralverify_output/GCA_900279485.1_SRR3933340_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279485.1/viralverify_output/GCA_900279485.1_SRR3933340_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:22:46 2019
+# Date:            Fri Oct 11 16:44:54 2019
 # [ok]

@@ -80,5 +80,5 @@ OJHF01000048.1_23    -            261 Phage_T7_Capsid      PF05396.10   123   3.
 # Target file:     ./seawater_metagenome/GCA_900279205.1/viralverify_output/GCA_900279205.1_SRR3933334_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279205.1/viralverify_output/GCA_900279205.1_SRR3933334_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279205.1/viralverify_output/GCA_900279205.1_SRR3933334_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279205.1/viralverify_output/GCA_900279205.1_SRR3933334_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:51:16 2019
+# Date:            Fri Oct 11 16:00:59 2019
 # [ok]
