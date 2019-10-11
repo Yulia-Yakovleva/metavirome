@@ -1,0 +1,3 @@
+OJIE01000024.1,Phage_GPA Phage_F Phage_F Phage_F
+OJIE01000005.1,Rop Beta-lactamase2 MMR_HSR1 Peripla_BP_3 LacI DNA_pol_A DNA_pol_A_exo1
+OJIE01002673.1,Sel1 Sel1 Sel1 Sel1 Sel1 Sel1

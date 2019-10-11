@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJHL01000113.1_3     -            304 Phage_integrase      PF00589.21   172   1.3e-15   48.4   0.0   1   1   8.3e-17   2.2e-15   47.7   0.0    20   167   123   283   111   287 0.90 # 4653 # 5564 # 1 # ID=2_3;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.505
+OJHL01001495.1_1     -            481 DDE_Tnp_1            PF01609.20   214   6.8e-28   88.5   0.0   1   1   3.9e-29     1e-27   87.9   0.0     2   214   139   373   138   373 0.92 # 80 # 1522 # -1 # ID=5_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.537
+OJHL01000113.1_2     -            657 RVT_1                PF00078.26   222   1.3e-22   71.1   0.0   1   1   1.8e-23   4.7e-22   69.3   0.0     3   222   121   283   119   283 0.86 # 2632 # 4602 # 1 # ID=2_2;partial=00;start_type=TTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.476
+OJHL01000934.1_3     -            266 RNA_helicase         PF00910.21   107   2.3e-08   25.2   0.0   1   1   3.1e-09     8e-08   23.5   0.0     2    62   155   205   154   241 0.75 # 939 # 1736 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.429
+OJHL01000934.1_3     -            266 Viral_Rep            PF02407.15    82   2.1e-20   63.6   0.1   1   1   1.2e-21   3.2e-20   63.0   0.1     3    81     6    84     4    85 0.93 # 939 # 1736 # 1 # ID=3_3;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.429
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900279405.1/viralverify_output/GCA_900279405.1_SRR3933087_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279405.1/viralverify_output/GCA_900279405.1_SRR3933087_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279405.1/viralverify_output/GCA_900279405.1_SRR3933087_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279405.1/viralverify_output/GCA_900279405.1_SRR3933087_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:04:17 2019
+# [ok]

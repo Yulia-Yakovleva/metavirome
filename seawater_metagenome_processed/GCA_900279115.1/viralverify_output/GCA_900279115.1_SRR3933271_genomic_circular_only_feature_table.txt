@@ -1,0 +1,5 @@
+OJGP01005284.1,Flagellin_N Flagellin_C
+OJGP01002731.1,OTU
+OJGP01009845.1,Flagellin_N Flagellin_C
+OJGP01000354.1,Rep_3 rve RHH_1 Sulfotransfer_2 HTH_Tnp_1 ParE_toxin
+OJGP01004078.1,Rep_trans

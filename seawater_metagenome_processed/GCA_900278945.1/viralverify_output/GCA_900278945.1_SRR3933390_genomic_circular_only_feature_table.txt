@@ -1,0 +1,2 @@
+OLHZ01008124.1,Rep_trans
+OLHZ01013922.1,Flagellin_N Flagellin_C

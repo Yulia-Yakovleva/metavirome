@@ -1,0 +1,11 @@
+OLHY01021265.1,Flagellin_N Flagellin_C
+OLHY01052088.1,Penicillinase_R
+OLHY01015023.1,TIR_2
+OLHY01019282.1,Peptidase_M23 Peptidase_M23 DUF411
+OLHY01017343.1,Flagellin_N Flagellin_C
+OLHY01008680.1,Flagellin_N Flagellin_C Flagellin_N Flagellin_C
+OLHY01000066.1,N6_N4_Mtase DNA_methylase Terminase_6 Terminase_6C Methyltransf_23 Rad52_Rad22 DUF1367 Terminase_2 HTH_36 Bac_DnaA_C Hjc HNH GcrA DUF1353
+OLHY01018986.1,Bac_surface_Ag Bac_surface_Ag
+OLHY01013177.1,DUF900
+OLHY01021731.1,Flagellin_N Flagellin_C
+OLHY01012137.1,Phe_tRNA-synt_N

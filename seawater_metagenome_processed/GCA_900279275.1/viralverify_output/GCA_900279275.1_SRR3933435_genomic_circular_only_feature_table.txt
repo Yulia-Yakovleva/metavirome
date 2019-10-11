@@ -1,0 +1,2 @@
+OJGR01000017.1,Phage_GPA Phage_F Phage_F
+OJGR01001689.1,OMP_b-brl

@@ -1,0 +1,9 @@
+OJFP01000204.1,Beta_helix Phage_Mu_F Thy1 dCMP_cyt_deam_1 Muraidase PG_binding_1 RepB_primase PriCT_2 MazG Terminase_2 DUF2800 DUF4128 PhageMin_Tail Tape_meas_lam_C Helicase_C ResIII P22_CoatProtein DUF2493 DUF4055 He_PIG
+OJFP01001594.1,Arabinose_bd HTH_18 HTH_AraC Amino_oxidase Cytochrom_C TetR_N Acyl-CoA_dh_C Acyl-CoA_dh_1 Acyl-CoA_dh_M AcylCoA_DH_N Acyl-CoA_dh_N DDE_Tnp_ISL3 zf-ISL3 Thiolase_N Thiolase_C
+OJFP01018132.1,YccF YccF
+OJFP01004292.1,Rep_3 ParE_toxin Phage_integrase RelB
+OJFP01000998.1,APS_kinase 23S_rRNA_IVP Aminotran_1_2 GDP_Man_Dehyd SLT DNA_ligase_aden DNA_ligase_OB HHH_2 BRCT HHH_5 DNA_ligase_ZBD ZipA_C SMC_N EI24 UvrB Helicase_C ResIII UVR
+OJFP01003527.1,Rep_3
+OJFP01036075.1,ABM
+OJFP01009483.1,Nitroreductase HxlR
+OJFP01014035.1,DUF285 DUF285

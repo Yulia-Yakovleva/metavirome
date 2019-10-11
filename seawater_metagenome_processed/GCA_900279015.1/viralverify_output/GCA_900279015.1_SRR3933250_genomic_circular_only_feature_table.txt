@@ -1,0 +1,4 @@
+OJGW01000788.1,Acyl-CoA_dh_C Acyl-CoA_dh_1 Acyl-CoA_dh_M AcylCoA_DH_N Acyl-CoA_dh_N DDE_Tnp_ISL3 zf-ISL3 Amino_oxidase Arabinose_bd HTH_18 HTH_AraC Thiolase_N Thiolase_C TetR_N Cytochrom_C
+OJGW01038926.1,PDDEXK_3
+OJGW01001898.1,Ank_2 Ank_5 Ank_2 Ank Ank_3 Ank Rep_3 Ank_5 Terminase_2 Resolvase
+OJGW01022880.1,YbjQ_1 YbjQ_1

@@ -1,0 +1,4 @@
+OJHC01000678.1,HdeA ParD_antitoxin RPA ParE_toxin MobA_MobL
+OJHC01000159.1,ResIII EcoEI_R_C Helicase_C HSDR_N_2 Methylase_S Methylase_S N6_Mtase HsdM_N Methylase_S Gp49 HTH_37 SecB RNase_T Metallophos TniQ rve Mu-transpos_C TniB
+OJHC01021401.1,DUF4242
+OJHC01000639.1,RepL Mob_Pre RepL RepL

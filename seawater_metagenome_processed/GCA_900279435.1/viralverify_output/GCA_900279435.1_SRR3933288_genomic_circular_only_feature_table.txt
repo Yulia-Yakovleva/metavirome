@@ -1,0 +1,11 @@
+OJHO01000045.1,Glyco_transf_4 Glycos_transf_1 Glyco_trans_1_4 GDP_Man_Dehyd Glycos_transf_4 RPA HTH_7 HTH_Tnp_1 AAA_31 ParBc EpsG BCCT DctM AMP-binding AMP-binding_C GerE PAS_9 PAS PAS_8 Thiolase_N Thiolase_C NAD_binding_9 Orn_Arg_deC_N DNA_methylase DDE_Tnp_IS66 DDE_Tnp_IS66_C rve_3 IstB_IS21 Glycos_transf_1 Glyco_transf_4 Glyco_trans_4_4 Glyco_trans_1_4 CPSase_L_D2 Hexapep Glycos_transf_2 Hexapep_2 Hexapep_2 HTH_3 IstB_IS21 DctP FdtA SRAP Polysacc_deac_1 Glyco_transf_4 UDPG_MGDP_dh_N UDPG_MGDP_dh UDPG_MGDP_dh_C S6PP Glycos_transf_1 Glyco_trans_4_4 Glyco_transf_4 Glyco_trans_1_4 PALP Sulfotransfer_3 Glycos_transf_2 Glyco_transf_7C dTDP_sugar_isom Acetyltransf_3 RmlD_sub_bind NTP_transferase DctQ Polysacc_synt NusG DUF218 Glycos_transf_1 Glyco_trans_4_2 Glyco_trans_4_4 GDP_Man_Dehyd HTH_24 Glyco_tran_28_C DegT_DnrJ_EryC1 HTH_29
+OJHO01001125.1,PemK_toxin Rep_3 CbiA DDE_Tnp_1
+OJHO01004389.1,Mob_Pre GntR
+OJHO01003759.1,Replicase PriCT_1 MobC Relaxase
+OJHO01006365.1,Phage_CRI Phage_X
+OJHO01006935.1,DDE_Tnp_ISL3 DDE_Tnp_ISL3 zf-ISL3
+OJHO01001556.1,DUF3018 MobC Rep_3 HTH_Crp_2 Rep_3 PemK_toxin
+OJHO01006556.1,DUF4288 Y1_Tnp
+OJHO01005314.1,RepL
+OJHO01001704.1,RPA BrnA_antitoxin BrnT_toxin MobA_MobL HTH_36
+OJHO01000953.1,RPA DUF3987 CbiA N6_N4_Mtase N6_N4_Mtase N6_N4_Mtase Mob_Pre

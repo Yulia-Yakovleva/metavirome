@@ -1,0 +1,3 @@
+OJFU01004337.1,RepL
+OJFU01001395.1,Phage_CRI Phage_X HTH_3 Zot Phage_DNA_bind
+OJFU01006557.1,Rep_trans

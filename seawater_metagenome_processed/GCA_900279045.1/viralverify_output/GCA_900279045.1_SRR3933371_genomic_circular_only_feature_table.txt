@@ -1,0 +1,9 @@
+OJGD01000020.1,Cas_Cas5d MerR Cas_CT1975 GntR UTRA MmgE_PrpD PLDc_2 ECH_1 Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N DctP DDE_Tnp_IS1595 Zn_Tnp_IS1595 Acyl-CoA_dh_M Acyl-CoA_dh_N Acyl-CoA_dh_1 Acyl-CoA_dh_1 Acyl-CoA_dh_N DUF35_N OB_aCoA_assoc adh_short_C2 Fic AI-2E_transport Alpha-amylase Alpha-amylase HlyD_D23 ACR_tran Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N MaoC_dehydratas MaoC_dehydrat_N AMP-binding AMP-binding_C ParBc Fic AMP-binding AMP-binding_C Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N DctM DctP APH DctQ TetR_N SecA_DEAD HlyD_D23 HlyD_D23 GAF PqqD ECH_1 DUF3467 Methyltransf_2 CoA_transf_3 CoA_transf_3 LysR_substrate HTH_1 GntR FCD GntR FCD Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N Radical_SAM Aldedh DctM NMT1_3 OEP OEP HlyD_3 Biotin_lipoyl_2 DUF3467 AAA_31 Rep_3 CoA_transf_3 DDE_Tnp_IS66 Fer2 NAD_binding_1 DctM DctQ HMGL-like CoA_transf_3 Lyase_1 Dioxygenase_C PCDO_beta_N Dioxygenase_C Abhydrolase_6 CMD CoA_transf_3 CoA_transf_3 Rieske LysR_substrate HTH_1 CoA_trans CoA_trans IclR HTH_IclR
+OJGD01001543.1,Phage_CRI Phage_X
+OJGD01000186.1,Thiolase_N Thiolase_C ECH_1 adh_short Acyl-CoA_dh_1 Acyl-CoA_dh_M Acyl-CoA_dh_N Transposase_mut rve DDE_Tnp_Tn3 DUF4158 AMP-binding AMP-binding_C Fe-ADH DDE_Tnp_1 DUF772 TonB_dep_Rec Plug Aldedh Arabinose_bd HTH_18 HTH_AraC CoA_transf_3 Abhydrolase_3 Phage_integrase
+OJGD01001324.1,RepL
+OJGD01000244.1,WGR HTH_3 ParD_antitoxin ParE_toxin CbiA ParG RPA Resolvase T4SS-DNA_transf CbtB MobA_MobL TniB Resolvase HTH_7 HTH_23 Radical_SAM Cation_efflux rve Mu-transpos_C DUF1636 CbtA MerR_1
+OJGD01000408.1,CbiA DUF3987 RPA N6_N4_Mtase N6_N4_Mtase N6_N4_Mtase DUF3987 Mob_Pre
+OJGD01000601.1,RPA BrnA_antitoxin BrnT_toxin HTH_36 MobA_MobL
+OJGD01001862.1,Rep_trans
+OJGD01002201.1,Rep_trans

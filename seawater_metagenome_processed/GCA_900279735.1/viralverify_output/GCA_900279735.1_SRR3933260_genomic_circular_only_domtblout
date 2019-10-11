@@ -1,0 +1,25 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJIJ01000262.1_3     -            581 ABC_tran             PF00005.26   137   9.4e-34  107.3   0.2   1   1   1.1e-34   2.3e-33  106.1   0.0     1   136   347   494   347   495 0.89 # 1103 # 2845 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+OJIJ01000262.1_5     -            438 OEP                  PF02321.17   188   1.9e-53  171.4  28.6   1   2   1.7e-26   3.4e-25   79.3  16.7     3   188    30   211    28   211 0.95 # 4176 # 5489 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436
+OJIJ01000262.1_5     -            438 OEP                  PF02321.17   188   1.9e-53  171.4  28.6   2   2   2.5e-32   5.1e-31   98.3   4.0     1   188   234   420   234   420 0.96 # 4176 # 5489 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.436
+OJIJ01000262.1_3     -            581 ABC_membrane         PF00664.22   274   1.1e-19   61.4  11.1   1   1   8.9e-21   1.8e-19   60.8  11.1     3   264    22   277    20   284 0.92 # 1103 # 2845 # 1 # ID=1_3;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.453
+OJIJ01000262.1_4     -            438 HlyD_3               PF13437.5    106   6.5e-20   62.3   1.4   1   1     7e-18   1.4e-16   51.6   0.0     2    98   289   394   288   404 0.80 # 2855 # 4168 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+OJIJ01000262.1_4     -            438 Biotin_lipoyl_2      PF13533.5     50   2.6e-10   30.5   3.2   1   1   2.6e-11   5.1e-10   29.6   1.7    11    48    68   105    62   111 0.91 # 2855 # 4168 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+OJIJ01000262.1_7     -            362 Acyl_transf_3        PF01757.21   340     6e-27   84.9  32.9   1   1   6.8e-28   1.4e-26   83.7  32.9     3   337     4   331     2   336 0.78 # 5976 # 7061 # -1 # ID=1_7;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.400
+OJIJ01000262.1_4     -            438 HlyD                 PF00529.19    80   1.8e-12   37.5   0.0   1   1   1.8e-13   3.6e-12   36.5   0.0     2    76    31   392    30   412 0.98 # 2855 # 4168 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.441
+OJIJ01003189.1_2     -            280 Flagellin_N          PF00669.19   139   4.1e-36  114.6  19.2   1   1   2.1e-37   4.1e-36  114.6  19.2     1   139     3   141     3   141 0.99 # 709 # 1548 # 1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.332
+OJIJ01000262.1_8     -             86 DDE_Tnp_IS240        PF13610.5    140   5.5e-16   49.5   0.1   1   1   3.3e-17   6.6e-16   49.2   0.1    87   139    16    68     4    69 0.93 # 7450 # 7707 # -1 # ID=1_8;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.337
+OJIJ01003189.1_1     -             85 Flagellin_C          PF00700.20    86   2.3e-28   88.9   6.9   1   1   2.5e-29   2.5e-28   88.8   6.9     5    86     2    83     1    83 0.98 # 225 # 479 # 1 # ID=2_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.349
+OJIJ01003189.1_2     -            280 Flagellin_C          PF00700.20    86   2.2e-27   85.8   7.6   1   1   2.2e-28   2.2e-27   85.8   7.6     3    86   195   278   193   278 0.98 # 709 # 1548 # 1 # ID=2_2;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.332
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900279735.1/viralverify_output/GCA_900279735.1_SRR3933260_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279735.1/viralverify_output/GCA_900279735.1_SRR3933260_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279735.1/viralverify_output/GCA_900279735.1_SRR3933260_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279735.1/viralverify_output/GCA_900279735.1_SRR3933260_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:27:34 2019
+# [ok]

@@ -1,0 +1,5 @@
+OJFS01000452.1,Response_reg CbiA Phage_integrase
+OJFS01001636.1,HdeA MobA_MobL ParE_toxin ParD_antitoxin RPA
+OJFS01005381.1,HNH_3
+OJFS01001695.1,rve
+OJFS01001980.1,TonB_dep_Rec Plug PhoD

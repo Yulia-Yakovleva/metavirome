@@ -1,0 +1,8 @@
+OJHD01000813.1,rve
+OJHD01028975.1,Hexapep Hexapep
+OJHD01000007.1,TMP_2 Terminase_6C Terminase_6 Phage-tail_3 Phage_endo_I 5_3_exonuc_N Toprim_2 DnaB_C HNH_3 Peptidase_S78_2 DNA_pol_A DUF2479 Collagen Collagen Glyco_transf_25 DUF4128 Glutaredoxin DUF1127 MazG Glyco_hydro_108 PG_binding_3 DUF3310 Phage_cap_E
+OJHD01006879.1,Fib_succ_major Fib_succ_major
+OJHD01020561.1,DUF1127 DUF1127
+OJHD01000038.1,PfkB TauD EamA EamA Lyx_isomer DeoC GFO_IDH_MocA Transket_pyr Transketolase_C Biotin_lipoyl Peptidase_M24 Creatinase_N E1_dh Abhydrolase_3 Aldedh GMC_oxred_N GMC_oxred_C BPD_transp_2 SBP_bac_1 RbsD_FucU ROK HTH_24 ABC_tran PRK Peripla_BP_4 BPD_transp_2 ABC_tran ABC_tran BPD_transp_2 adh_short_C2 Peripla_BP_4
+OJHD01000374.1,rve
+OJHD01024330.1,CBS CBS

@@ -1,0 +1,2 @@
+OJFA01000009.1,Phage_GPA Phage_GPA Phage_F Phage_F
+OJFA01001501.1,TetR_N

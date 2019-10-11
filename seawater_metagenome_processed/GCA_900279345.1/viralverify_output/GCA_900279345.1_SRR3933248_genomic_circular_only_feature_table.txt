@@ -1,0 +1,11 @@
+OJHK01005243.1,DoxX Lipase_GDSL_3
+OJHK01001596.1,ABC_membrane Rep_3 RelB ParE_toxin GerE
+OJHK01005486.1,GFA
+OJHK01001566.1,Cytochrom_C DDE_Tnp_ISL3 zf-ISL3 Amino_oxidase Arabinose_bd HTH_18 HTH_AraC Thiolase_N Thiolase_C Acyl-CoA_dh_C Acyl-CoA_dh_1 Acyl-CoA_dh_M AcylCoA_DH_N Acyl-CoA_dh_N TetR_N
+OJHK01009335.1,RES
+OJHK01030301.1,Glyco_trans_4_4 Glyco_trans_4_4
+OJHK01002317.1,Rep_3 Mob_Pre DNA_methylase
+OJHK01003139.1,rve
+OJHK01004917.1,Rep_3 ParE_toxin RelB Phage_integrase
+OJHK01002983.1,rve rve
+OJHK01017968.1,YccF YccF

@@ -1,0 +1,23 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJGM01000201.1_1     -           1303 rve                  PF00665.25   119   5.8e-22   70.7   0.2   1   1   6.8e-22   7.5e-21   67.1   0.0     3   116    74   199    72   201 0.95 # 18 # 3926 # 1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.438
+OJGM01000201.1_4     -           1929 rve                  PF00665.25   119   1.2e-21   69.7   0.2   1   1   1.1e-21   1.2e-20   66.4   0.0     3   116   700   825   698   827 0.95 # 8360 # 14146 # 1 # ID=2_4;partial=00;start_type=TTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.445
+OJGM01000396.1_4     -           1721 rve                  PF00665.25   119   1.1e-17   56.8   0.0   1   1   4.3e-18   4.7e-17   54.8   0.0     2   115   504   632   503   635 0.94 # 4646 # 9808 # -1 # ID=5_4;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.470
+OJGM01000398.1_2     -            999 rve                  PF00665.25   119   1.7e-16   53.0   0.0   1   1     4e-17   4.4e-16   51.7   0.0     5   115   671   796   668   799 0.89 # 2619 # 5615 # -1 # ID=6_2;partial=00;start_type=GTG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.456
+OJGM01000224.1_2     -           1832 rve                  PF00665.25   119   5.3e-16   51.4   0.1   1   1   1.5e-16   1.6e-15   49.9   0.1     3   117   590   722   588   724 0.90 # 356 # 5851 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.411
+OJGM01000422.1_1     -           1825 rve                  PF00665.25   119   6.5e-16   51.2   0.0   1   1   2.8e-16   3.1e-15   49.0   0.0     3   115   668   795   666   796 0.94 # 45 # 5519 # -1 # ID=7_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.445
+OJGM01000422.1_3     -           1606 rve                  PF00665.25   119   6.8e-16   51.1   0.0   1   1   2.4e-16   2.6e-15   49.2   0.0     3   115   449   576   447   577 0.94 # 6738 # 11555 # -1 # ID=7_3;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.450
+OJGM01000136.1_1     -           3941 rve                  PF00665.25   119     7e-11   34.9   0.0   1   1   2.1e-11   2.3e-10   33.3   0.0    22   117  3459  3556  3437  3558 0.86 # 169 # 11991 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+OJGM01000136.1_1     -           3941 RVT_1                PF00078.26   222   1.3e-15   50.0   0.0   1   1   3.1e-17   2.7e-15   48.9   0.0    72   220  2842  2956  2797  2958 0.90 # 169 # 11991 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.536
+OJGM01015157.1_1     -            223 2OG-FeII_Oxy_3       PF13640.5     96   4.6e-11   36.1   0.0   1   1   9.3e-13   8.2e-11   35.2   0.0     7    96   132   211   128   211 0.86 # 145 # 813 # 1 # ID=42_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.407
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279065.1/viralverify_output/GCA_900279065.1_SRR3933307_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:29:49 2019
+# [ok]

@@ -1,0 +1,16 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OLHZ01013922.1_1     -            323 Flagellin_N          PF00669.19   139   7.7e-44  139.0  13.8   1   1     6e-45   7.7e-44  139.0  13.8     1   137     4   140     4   142 0.99 # 238 # 1206 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.543
+OLHZ01013922.1_1     -            323 Flagellin_C          PF00700.20    86   2.1e-24   75.6  14.4   1   1   1.8e-25   2.4e-24   75.4   8.7     2    86   237   321   236   321 0.98 # 238 # 1206 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.543
+OLHZ01008124.1_1     -            276 Rep_trans            PF02486.18   200   1.5e-16   50.5   0.1   1   1   1.4e-17   1.8e-16   50.2   0.1    37   102   121   189    64   255 0.83 # 582 # 1409 # -1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.548
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900278945.1/viralverify_output/GCA_900278945.1_SRR3933390_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278945.1/viralverify_output/GCA_900278945.1_SRR3933390_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278945.1/viralverify_output/GCA_900278945.1_SRR3933390_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278945.1/viralverify_output/GCA_900278945.1_SRR3933390_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:40:15 2019
+# [ok]

@@ -1,0 +1,3 @@
+OJHW01003782.1,Flagellin_N Flagellin_C Flagellin_N Flagellin_C
+OJHW01003207.1,MerR_1 MerB HTH_15
+OJHW01000034.1,Phage_GPA Phage_F Phage_F Phage_GPA

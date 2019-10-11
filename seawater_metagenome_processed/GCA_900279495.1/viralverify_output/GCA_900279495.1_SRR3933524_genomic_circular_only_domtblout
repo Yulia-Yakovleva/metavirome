@@ -1,0 +1,24 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+OJHW01003207.1_2     -            147 MerR_1               PF13411.5     69   2.5e-13   40.0   0.0   1   1   2.5e-14   3.4e-13   39.5   0.0     1    61     4    65     4    70 0.96 # 894 # 1334 # -1 # ID=3_2;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.562
+OJHW01003782.1_1     -            290 Flagellin_N          PF00669.19   139   5.4e-21   65.1   9.3   1   1   7.7e-22   5.4e-21   65.1   9.3     1   138     4   138     4   139 0.97 # 26 # 895 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.525
+OJHW01003782.1_2     -            290 Flagellin_N          PF00669.19   139   5.4e-21   65.1   9.3   1   1   7.7e-22   5.4e-21   65.1   9.3     1   138     4   138     4   139 0.97 # 1063 # 1932 # -1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.525
+OJHW01003782.1_1     -            290 Flagellin_C          PF00700.20    86     7e-17   51.6   6.9   1   1   4.5e-17   3.2e-16   49.5   6.9    12    86   214   288   198   288 0.91 # 26 # 895 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.525
+OJHW01003782.1_2     -            290 Flagellin_C          PF00700.20    86     7e-17   51.6   6.9   1   1   4.5e-17   3.2e-16   49.5   6.9    12    86   214   288   198   288 0.91 # 1063 # 1932 # -1 # ID=4_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.525
+OJHW01000034.1_8     -            514 Phage_GPA            PF05840.12   318   3.8e-71  229.6   0.2   1   1   1.2e-71   8.4e-71  228.4   0.2     2   318    75   355    74   355 0.99 # 4928 # 6469 # 1 # ID=1_8;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.448
+OJHW01000034.1_1     -            342 Phage_GPA            PF05840.12   318     1e-53  172.3   0.1   1   1     2e-54   1.4e-53  171.9   0.1   158   318     3   183     1   183 0.99 # 58 # 1083 # 1 # ID=1_1;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.452
+OJHW01003207.1_1     -            213 MerB                 PF03243.14   125   1.5e-39  124.8   0.6   1   1   1.5e-40     2e-39  124.4   0.6     1   123    79   199    79   200 0.98 # 189 # 827 # -1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.538
+OJHW01003207.1_1     -            213 HTH_15               PF12324.7     74   4.9e-23   70.9   0.2   1   1   1.6e-23   2.2e-22   68.8   0.0     5    74     9    78     6    78 0.97 # 189 # 827 # -1 # ID=3_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.538
+OJHW01000034.1_5     -            428 Phage_F              PF02305.16   510  1.1e-165  542.0   1.0   1   2   1.7e-76   2.4e-75  244.0   0.0     1   200     2   187     2   189 0.99 # 1948 # 3231 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.449
+OJHW01000034.1_5     -            428 Phage_F              PF02305.16   510  1.1e-165  542.0   1.0   2   2     4e-93   5.6e-92  298.9   0.4   259   510   187   425   185   425 0.99 # 1948 # 3231 # 1 # ID=1_5;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.449
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      /Users/alexey/viralVerify/nbc_hmms.hmm
+# Target file:     ./seawater_metagenome/GCA_900279495.1/viralverify_output/GCA_900279495.1_SRR3933524_genomic_circular_only_proteins_circ.fa
+# Option settings: hmmsearch -o ./seawater_metagenome/GCA_900279495.1/viralverify_output/GCA_900279495.1_SRR3933524_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900279495.1/viralverify_output/GCA_900279495.1_SRR3933524_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900279495.1/viralverify_output/GCA_900279495.1_SRR3933524_genomic_circular_only_proteins_circ.fa 
+# Current dir:     /Users/alexey/PycharmProjects/metavirome
+# Date:            Fri Oct 11 02:19:46 2019
+# [ok]

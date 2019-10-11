@@ -1,0 +1,4 @@
+OJIF01000033.1,Phage_F Phage_F Phage_GPA
+OJIF01000009.1,DNA_pol_A DNA_pol_A_exo1 Peripla_BP_3 LacI MMR_HSR1 Beta-lactamase2 Rop
+OJIF01001786.1,Gln-synt_N P-II
+OJIF01003015.1,SpoIIAA-like

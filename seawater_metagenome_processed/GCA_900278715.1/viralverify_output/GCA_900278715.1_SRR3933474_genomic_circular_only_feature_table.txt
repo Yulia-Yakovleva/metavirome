@@ -1,0 +1,7 @@
+OJFI01006342.1,Flagellin_N Flagellin_C
+OJFI01016464.1,Ribosomal_L2_C Ribosomal_L2
+OJFI01030542.1,TIG TIG TIG TIG
+OJFI01013298.1,KH_1 KH_1
+OJFI01014529.1,ubiquitin ubiquitin ubiquitin ubiquitin Rad60-SLD Rad60-SLD
+OJFI01000072.1,Phage_F Phage_F Phage_GPA
+OJFI01001599.1,HSP70
