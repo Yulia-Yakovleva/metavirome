@@ -10,5 +10,5 @@ OJET01000643.1_7     -             91 HMG_box              PF00505.18    69     
 # Target file:     ./seawater_metagenome/GCA_900278635.1/viralverify_output/GCA_900278635.1_SRR3933277_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278635.1/viralverify_output/GCA_900278635.1_SRR3933277_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278635.1/viralverify_output/GCA_900278635.1_SRR3933277_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278635.1/viralverify_output/GCA_900278635.1_SRR3933277_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:45:37 2019
+# Date:            Fri Oct 11 17:18:19 2019
 # [ok]

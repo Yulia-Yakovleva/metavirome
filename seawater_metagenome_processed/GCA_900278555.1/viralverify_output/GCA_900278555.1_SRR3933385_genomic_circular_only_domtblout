@@ -94,5 +94,5 @@ OJEP01000108.1_51    -            451 DUF3560              PF12083.7    124   5.
 # Target file:     ./seawater_metagenome/GCA_900278555.1/viralverify_output/GCA_900278555.1_SRR3933385_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278555.1/viralverify_output/GCA_900278555.1_SRR3933385_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278555.1/viralverify_output/GCA_900278555.1_SRR3933385_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278555.1/viralverify_output/GCA_900278555.1_SRR3933385_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 01:59:05 2019
+# Date:            Fri Oct 11 16:10:47 2019
 # [ok]

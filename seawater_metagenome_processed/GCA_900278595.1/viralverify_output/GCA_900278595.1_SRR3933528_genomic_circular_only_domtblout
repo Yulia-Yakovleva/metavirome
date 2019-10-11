@@ -28,5 +28,5 @@ OJES01000004.1_8     -             64 Rop                  PF01815.15    57   6.
 # Target file:     ./seawater_metagenome/GCA_900278595.1/viralverify_output/GCA_900278595.1_SRR3933528_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278595.1/viralverify_output/GCA_900278595.1_SRR3933528_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278595.1/viralverify_output/GCA_900278595.1_SRR3933528_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278595.1/viralverify_output/GCA_900278595.1_SRR3933528_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:22:05 2019
+# Date:            Fri Oct 11 16:43:53 2019
 # [ok]

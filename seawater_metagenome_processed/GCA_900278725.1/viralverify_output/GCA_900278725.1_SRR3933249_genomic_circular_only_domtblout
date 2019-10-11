@@ -98,5 +98,5 @@ OJFP01000204.1_45    -            782 RepB_primase         PF16793.4    240   3.
 # Target file:     ./seawater_metagenome/GCA_900278725.1/viralverify_output/GCA_900278725.1_SRR3933249_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278725.1/viralverify_output/GCA_900278725.1_SRR3933249_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278725.1/viralverify_output/GCA_900278725.1_SRR3933249_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278725.1/viralverify_output/GCA_900278725.1_SRR3933249_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:32:00 2019
+# Date:            Fri Oct 11 17:00:31 2019
 # [ok]

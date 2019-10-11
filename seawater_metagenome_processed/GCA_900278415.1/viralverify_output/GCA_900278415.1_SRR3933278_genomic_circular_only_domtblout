@@ -11,5 +11,5 @@ OLHD01002926.1_1     -            288 Flagellin_C          PF00700.20    86   1.
 # Target file:     ./seawater_metagenome/GCA_900278415.1/viralverify_output/GCA_900278415.1_SRR3933278_genomic_circular_only_proteins_circ.fa
 # Option settings: hmmsearch -o ./seawater_metagenome/GCA_900278415.1/viralverify_output/GCA_900278415.1_SRR3933278_genomic_circular_only_out_pfam --domtblout ./seawater_metagenome/GCA_900278415.1/viralverify_output/GCA_900278415.1_SRR3933278_genomic_circular_only_domtblout --noali --cut_nc --cpu 4 /Users/alexey/viralVerify/nbc_hmms.hmm ./seawater_metagenome/GCA_900278415.1/viralverify_output/GCA_900278415.1_SRR3933278_genomic_circular_only_proteins_circ.fa 
 # Current dir:     /Users/alexey/PycharmProjects/metavirome
-# Date:            Fri Oct 11 02:09:44 2019
+# Date:            Fri Oct 11 16:25:22 2019
 # [ok]
