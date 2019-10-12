@@ -1,0 +1,422 @@
+#profile_ID	consensus_length	profile_annot
+VP02536	242	NCLDV packaging ATPase|Mimi-, Phycodna-, Pandoraviruses
+VP02537	243	NCLDV packaging ATPase|Pitho-, Irido, Marseilleviruses
+VP02538	327	NCLDV packaging ATPase|Pox-, Asfarviruses
+VP02539	562	NCLDV MCP|Pox-, Asfarviruses
+VP02540	522	NCLDV MCP|Asfarviruses
+VP02541	428	NCLDV MCP|Mimi-, Phycodna-, Pandoraviruses
+VP02542	460	NCLDV MCP|Pitho-, Irido, Marseilleviruses
+VP02543	402	NCLDV MCP|Phycodnaviruses
+VP02544	561	NCLDV MCP|Poxviruses
+VP02545	369	VLTF3 (NCVOG0262)|Asfarviruses
+VP02546	381	VLTF3 (NCVOG0262)|Mimi-, Phycodna-, Pandoraviruses
+VP02547	402	VLTF3 (NCVOG0262)|Pitho-, Irido, Marseilleviruses
+VP02548	229	VLTF3 (NCVOG0262)|Poxviruses
+VP02549	1807	new poxvirus VETF-like|NCLDV
+VP00001	361	DJR major capsid protein|odin_group|prokaryotic DJR viruses/proviruses
+VP00015	300	DJR major capsid protein|flip_group|prokaryotic DJR viruses/proviruses
+VP00022	263	DJR major capsid protein|pm2_group|prokaryotic DJR viruses/proviruses
+VP00030	334	DJR major capsid protein|STIV_group|prokaryotic DJR viruses/proviruses
+VP00047	441	PLV major capsid protein|virophages, polintoviruses, polintons, transpovirons
+VP00048	463	PLV major capsid protein|TSV group|virophages, polintoviruses, polintons, transpovirons
+VP00049	453	PLV major capsid protein|PgVV group|virophages, polintoviruses, polintons, transpovirons
+VP00058	452	crab_MCP|DJR viruses (NCLDV)
+VP00062	570	virophage MCP|virophages, polintoviruses, polintons, transpovirons
+VP00063	564	viro_MCP|virophages, polintoviruses, polintons, transpovirons
+VP00071	588	MCP|virophages, polintoviruses, polintons, transpovirons
+VP00073	384	minor capsid protein|virophages, polintoviruses, polintons, transpovirons
+VP00076	297	thorarch capsid (T7-like, HK97 fold)|HK97 viruses (T7-like)
+VP00077	352	P23-77-like capsid (single jelly roll)|SJR viruses (P23-77-like)
+VP00375	482	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP00410	789	Portal|conserved crAssphage family protein|HK97 viruses/proviruses, crAssphage family
+VP00412	659	terminase|conserved crAssphage family protein|HK97 viruses/proviruses, crAssphage family
+VP00419	343	MCP_2groups|conserved Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00420	385	MCP_3groups|conserved Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00421	472	portal|conserved Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00422	445	prohead_prot|conserved Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00423	471	terminase|conserved Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00569	308	groupC_MCP_1|group C Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00570	300	groupC_Promal3D_MCP|group C Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00571	630	groupC_prohead_prot|group C Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00572	318	groupC_protease|group C Magrovirus protein|HK97 viruses of Marine group II Euryarchaeota
+VP00585	426	NCLDV major capsid protein|DJR viruses (NCLDV)
+VP02181	449	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02182	392	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02183	551	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02184	494	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02185	521	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02186	374	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02187	442	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02188	461	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02189	517	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02190	456	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02191	490	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02192	452	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02193	463	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02194	463	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02195	494	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02196	455	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02197	383	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02198	462	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02199	454	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02200	483	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02201	380	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02202	456	Major capsid protein (HK-97 fold)|HK97 viruses
+VP02206	483	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02207	463	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02208	499	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02209	504	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02210	479	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02211	490	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02203	498	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02204	484	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02205	482	Major capsid protein (HK-97 fold)|crAssphage family MCP|HK97 viruses/proviruses, crAssphage family
+VP02212	329	Major capsid protein (HK-97 fold)|
+VP02213	290	Major capsid protein (HK-97 fold)|
+VP02214	287	Major capsid protein (HK-97 fold)|
+VP02215	328	Major capsid protein (HK-97 fold)|
+VP02216	294	Major capsid protein (HK-97 fold)|
+VP02217	296	Major capsid protein (HK-97 fold)|
+VP02218	344	Major capsid protein (HK-97 fold)|
+VP02219	288	Major capsid protein (HK-97 fold)|
+VP02220	301	Major capsid protein (HK-97 fold)|
+VP02221	310	Major capsid protein (HK-97 fold)|
+VP02222	310	Major capsid protein (HK-97 fold)|
+VP02223	294	Major capsid protein (HK-97 fold)|
+VP02224	307	Major capsid protein (HK-97 fold)|
+VP02225	311	Major capsid protein (HK-97 fold)|
+VP02226	288	Major capsid protein (HK-97 fold)|
+VP02227	364	DJR major capsid protein, a subset of VP00001|
+VP02228	325	DJR major capsid protein, a subset of VP00001|
+VP02229	295	DJR major capsid protein, a subset of VP00015|
+VP02230	301	DJR major capsid protein, a subset of VP00015|
+VP02231	270	DJR major capsid protein, a subset of VP00022|
+VP02232	271	DJR major capsid protein, a subset of VP00022|
+VP02233	263	DJR major capsid protein, a subset of VP00022|
+VP02234	266	DJR major capsid protein, a subset of VP00022|
+VP02235	331	DJR major capsid protein, a subset of VP00030|
+VP02236	327	DJR major capsid protein, a subset of VP00030|
+VP02237	352	DJR major capsid protein, a subset of VP00030|
+VP02238	369	DJR major capsid protein, a subset of VP00030|
+VP02239	325	DJR major capsid protein, a subset of VP00030|
+VP02240	635	DJR major capsid protein, a subset of VP00048 (PLV)|
+VP02241	475	DJR major capsid protein, a subset of VP00048 (PLV)|
+VP02242	483	DJR major capsid protein, a subset of VP00049 (PLV)|
+VP02243	452	DJR major capsid protein, a subset of VP00049 (PLV)|
+VP02244	365	DJR major capsid protein, a subset of VP00049|
+VP02245	585	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02246	570	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02247	628	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02248	575	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02249	587	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02250	606	DJR major capsid protein, a subset of VP00062 (virophages)|
+VP02252	283	Major capsid protein (HK-97 fold)|
+VP02253	338	Major capsid protein (HK-97 fold), clostridiales|
+VP02254	303	possible_phage_capsid_assembly_protease|
+VP02533	526	HK97 MCP, extended crassphage family
+VP02534	376	DJR MCP (protista, likely polintons)
+VP02535	438	DJR MCP (worms, likely polintons)
+CDD0001	273	pfam17236|Family of unknown function (DUF5309). This is a family of uncharacterized proteins found in viruses and bacteria|HK97-type major capsid protein
+CDD0002	542	pfam03340|Poxvirus rifampicin resistance protein|NCLDV MCP (Poxviruses)
+CDD0003	315	TIGR04387|capsid_maj_N4|major capsid protein, N4-gp56 family. Members of this family are phage major capsid proteins as found in phage N4 (a double-stranded DNA virus) plu
+CDD0004	618	TIGR04235|seadorna_VP4|seadornavirus VP4 protein. This protein family occurs in the seadornavirus virus group, with designation VP4 in Banna virus, Kadipiro virus, and Li
+CDD0005	114	TIGR02763|chlamy_scaf|chlamydiaphage internal scaffolding protein. Members of this protein family are encoded by genes in chlamydiaphage such as Chp2, viruses with aroun
+CDD0006	188	TIGR02215|phage_chp_gp8|phage conserved hypothetical protein, phiE125 gp8 family. This model describes a family of proteins found exclusively in phage or in prophage regio
+CDD0007	142	TIGR01630|psiM2_ORF9|phage uncharacterized protein (putative large terminase), C-terminal domain. This model represents the C-terminal region of a set of phage proteins
+CDD0008	91	TIGR01560|put_DNA_pack|uncharacterized phage protein (possible DNA packaging). This model describes a small (~ 100 amino acids) protein found in phage and in putative pro
+CDD0009	116	TIGR01558|sm_term_P27|phage terminase, small subunit, putative, P27 family. This model describes a distinct family of phage (and integrated prophage) putative terminase 
+CDD0010	386	TIGR01554|major_cap_HK97|phage major capsid protein, HK97 family. This model family represents the major capsid protein component of the heads (capsids) of bacteriophage HK
+CDD0011	327	TIGR01551|major_capsid_P2|phage major capsid protein, P2 family. This model family represents the major capsid protein component of the heads (capsids) of bacteriophage P2 a
+CDD0012	394	TIGR01547|phage_term_2|phage terminase, large subunit, PBSX family. This model detects members of a highly divergent family of the large subunit of phage terminase. All m
+CDD0013	145	TIGR01543|proheadase_HK97|phage prohead protease, HK97 family. This model describes the prohead protease of HK97 and related phage. It is generally encoded next to the gene 
+CDD0014	476	TIGR01542|A118_put_portal|phage portal protein, putative, A118 family. This model represents a family of phage minor structural proteins. The protein is suggested to be the 
+CDD0015	320	TIGR01540|portal_PBSX|phage portal protein, PBSX family. This model represents one of several distantly related families of phage portal protein. This protein forms a ho
+CDD0016	458	TIGR01539|portal_lambda|phage portal protein, lambda family. This model represents one of several distantly related families of phage portal protein. This protein forms a 
+CDD0017	412	TIGR01538|portal_SPP1|phage portal protein, SPP1 family. This model represents one of several distantly related families of phage portal protein. This protein forms a ho
+CDD0018	342	TIGR01537|portal_HK97|phage portal protein, HK97 family. This model represents one of several distantly related families of phage portal protein. This protein forms a ho
+CDD0019	135	PHA03385|IX|capsid protein IX,hexon associated protein IX; Provisional
+CDD0020	668	PHA03372|PHA03372|DNA packaging terminase subunit 1; Provisional
+CDD0021	663	PHA03369|PHA03369|capsid maturational protease; Provisional
+CDD0022	738	PHA03368|PHA03368|DNA packaging terminase subunit 1; Provisional
+CDD0023	752	PHA03333|PHA03333|putative ATPase subunit of terminase; Provisional
+CDD0024	332	PHA03263|PHA03263|Capsid triplex subunit 1; Provisional
+CDD0025	264	PHA03262|PHA03262|Capsid triplex subunit 1; Provisional
+CDD0026	469	PHA03261|PHA03261|Capsid triplex subunit 1; Provisional
+CDD0027	339	PHA03260|PHA03260|Capsid triplex subunit 2; Provisional
+CDD0028	302	PHA03259|PHA03259|Capsid triplex subunit 2; Provisional
+CDD0029	304	PHA03258|PHA03258|Capsid triplex subunit 2; Provisional
+CDD0030	316	PHA03257|PHA03257|Capsid triplex subunit 2; Provisional
+CDD0031	589	PHA03252|PHA03252|DNA packaging tegument protein UL25; Provisional
+CDD0032	653	PHA03249|PHA03249|DNA packaging tegument protein UL25; Provisional
+CDD0033	583	PHA03248|PHA03248|DNA packaging tegument protein UL25; Provisional
+CDD0034	127	PHA03236|PHA03236|DNA packaging protein UL33; Provisional
+CDD0035	409	PHA03235|PHA03235|DNA packaging protein UL33; Provisional
+CDD0036	338	PHA03234|PHA03234|DNA packaging protein UL33; Provisional
+CDD0037	518	PHA03233|PHA03233|DNA packaging protein UL32; Provisional
+CDD0038	586	PHA03232|PHA03232|DNA packaging protein UL32; Provisional
+CDD0039	132	PHA03229|PHA03229|DNA packaging protein UL33; Provisional
+CDD0040	125	PHA03225|PHA03225|DNA packaging protein UL33; Provisional
+CDD0041	503	PHA02778|PHA02778|major capsid L1 protein; Provisional
+CDD0042	555	PHA02777|PHA02777|major capsid L1 protein; Provisional
+CDD0043	245	PHA02759|PHA02759|virus coat protein VP2; Provisional
+CDD0044	149	PHA02734|PHA02734|coat protein; Provisional
+CDD0045	363	PHA02614|PHA02614|Major capsid protein VP1; Provisional
+CDD0046	161	PHA02585|16|small terminase protein; Provisional
+CDD0047	412	PHA02548|24|capsid vertex protein; Provisional
+CDD0048	518	PHA02541|23|major capsid protein; Provisional
+CDD0049	348	PHA02538|N|capsid protein; Provisional
+CDD0050	230	PHA02537|M|terminase endonuclease subunit; Provisional
+CDD0051	346	PHA02536|Q|portal vertex protein; Provisional
+CDD0052	581	PHA02535|P|terminase ATPase subunit; Provisional
+CDD0053	534	PHA02533|17|large terminase protein; Provisional
+CDD0054	514	PHA02531|20|portal vertex protein; Provisional
+CDD0055	278	PHA02529|O|capsid-scaffolding protein; Provisional
+CDD0056	93	PHA02508|PHA02508|putative minor coat protein; Provisional
+CDD0057	332	PHA02004|PHA02004|capsid protein
+CDD0058	134	PHA01749|PHA01749|coat protein
+CDD0059	430	PHA01511|PHA01511|coat protein
+CDD0060	104	PHA01081|PHA01081|putative minor coat protein
+CDD0061	378	PHA01076|PHA01076|putative encapsidation protein
+CDD0062	408	PHA01075|PHA01075|major capsid protein
+CDD0063	77	PHA00979|PHA00979|putative major coat protein
+CDD0064	329	PHA00665|PHA00665|major capsid protein
+CDD0065	330	PHA00520|PHA00520|packaging NTPase P4
+CDD0066	306	PHA00435|PHA00435|capsid assembly protein
+CDD0067	88	PHA00425|PHA00425|DNA packaging protein, small subunit
+CDD0068	557	PHA00363|PHA00363|major capsid protein
+CDD0069	187	PHA00327|PHA00327|minor capsid protein
+CDD0070	343	PHA00201|PHA00201|major capsid protein
+CDD0071	331	PHA00149|PHA00149|DNA encapsidation protein
+CDD0072	147	PHA00099|PHA00099|minor capsid protein
+CDD0073	112	PHA00094|VI|minor coat protein
+CDD0074	129	PHA00026|cp|coat protein
+CDD0075	76	PHA00025|VIII|major coat protein
+CDD0076	33	PHA00024|IX|minor coat protein
+CDD0077	28	PHA00022|VII|minor coat protein
+CDD0078	427	PHA00009|F|capsid protein
+CDD0079	25	PHA00008|J|DNA packaging protein
+CDD0080	40	pfam17091|Tail_VII|Inovirus G7P protein. Tail virion protein 7P is a viral transmembrane protein that interacts with the packaging signal of the viral genome leading 
+CDD0081	75	pfam17086|HV_small_capsid|Small capsid protein of Herpesviridae. This is a family of herpes-type viral small capsid proteins.
+CDD0082	276	pfam17071|Capsid_VP7|Outer capsid protein VP7. Outer capsid protein VP7 is a reoviral protein that interacts with VP4 to form the outer icosahedral capsid. Outer capsid
+CDD0083	196	pfam16903|Capsid_N|Major capsid protein N-terminus. This is the N-terminal domain of the major capsid protein in several dsDNA viruses.
+CDD0084	74	pfam16855|Soc|Small outer capsid protein. This protein attaches to and stabilizes the bacteriophage capsid.
+CDD0085	238	pfam16724|T4-gp15_tss|T4-like virus Myoviridae tail sheath stabilizer. T4-gp15_tss is the tail-sheath-stabilizer or tail-terminator protein of T4-like myoviridae phage. 
+CDD0086	111	pfam16710|CTXphi_pIII-N1|N-terminal N1 domain of Vibrio phage CTXphi pIII. CTXphi_pIII-N1 is the N-terminal domain, N1, of the pIII protein of the CTXphi bacteriophage of V
+CDD0087	103	pfam16677|GP3_package|DNA-packaging protein gp3. DNA-packaging protein gp3 (terminase small subunit) is involved in DNA packing in bacteriophage. it contains a channel w
+CDD0088	245	pfam16580|Astro_capsid_p2|C-terminal tail of astrovirus capsid projection or spike. Astro_capsid_p2 is a family of turkey astroviral spike projections. These are globular do
+CDD0089	323	pfam16530|IHHNV_capsid|Infectious hypodermal and haematopoietic necrosis virus, capsid. IHHNV_capsid is the single capsid protein of infectious hypodermal and haematopoie
+CDD0090	103	pfam16520|BDV_M|ssRNA-binding matrix protein of Bornaviridae. BDV_M is a family of matrix proteins from negative-strand Bornaviridae viruses. Its most stable oligo
+CDD0091	668	pfam16510|P22_portal|Phage P22-like portal protein. The portal protein of P22 and similar Podoviridae tail phages is a dodecameric structure consisting of a hip (2), a 
+CDD0092	98	pfam16459|Phage_TAC_13|Phage tail assembly chaperone, TAC. This family represents the phage-tail assembly chaperone proteins from a small set of Siphoviridae from Gammapr
+CDD0093	105	pfam15325|MRI|Modulator of retrovirus infection. MRI, or modulator of retrovirus infection, is a family of eukaryotic proteins that regulate the activity of the 
+CDD0094	58	pfam14313|Soyouz_module|N-terminal region of Paramyxovirinae phosphoprotein (P). The soyouz module moiety is the N-terminal region of the phosphoprotein (P) from the subfa
+CDD0095	125	pfam14071|YlbD_coat|Putative coat protein. This is a family of putative bacterial coat proteins. Proteins in this family are approximately 140 amino acids in length.
+CDD0096	131	pfam14000|Packaging_FI|DNA packaging protein FI. This family includes the lambda phage DNA-packaging protein FI. Proteins in this family are typically between 124 and 140
+CDD0097	129	pfam12691|Minor_capsid_3|Minor capsid protein from bacteriophage. This family is from one of three adjacent genes, all of which are involved in formation of the minor phage
+CDD0098	197	pfam12264|Waikav_capsid_1|Waikavirus capsid protein 1. The rice tungro spherical waikavirus polyprotein is cleaved into 7 proteins, including three capsid proteins, by the t
+CDD0099	362	pfam12226|Astro_capsid_p|Turkey astrovirus capsid protein. This family of proteins is found in viruses. Proteins in this family are typically between 241 and 261 amino acid
+CDD0100	69	pfam12193|Sulf_coat_C|Sulfolobus virus coat protein C terminal. This domain family is found in viruses, and is approximately 70 amino acids in length. It is the C termin
+CDD0101	213	pfam11733|NP1-WLL|Non-capsid protein NP1. This family is the non-capsid protein NP1 of the ssDNA, Parvovirinae virus Bocavirus of cattle and humans.
+CDD0102	340	pfam11729|Capsid-VNN|nodavirus capsid protein. The capsid or coat protein of this family is expressed in Nodaviridae, that are ssRNA positive-strand viruses, with no DN
+CDD0103	417	pfam11651|P22_CoatProtein|P22 coat protein - gene protein 5. This family of proteins represents gene product 5 from bacteriophage P22. This protein is involved in the format
+CDD0104	148	pfam11650|P22_Tail-4|P22 tail accessory factor. This tail accessory factor of the P22 virus is also referred to as gene product 4 (Gp4). The proteins structure consists
+CDD0105	320	pfam11602|NTPase_P4|ATPase P4 of dsRNA bacteriophage phi-12. P4 is a packaging motor which is involved in the packaging of phi-12 genome into preformed capsids using A
+CDD0106	131	pfam11507|Transcript_VP30|Ebola virus-specific transcription factor VP30. VP30 is a nucleocapsid-associated Ebola virus-specific transcription factor. It acts by stabilizing
+CDD0107	53	pfam11492|Dicistro_VP4|Cricket paralysis virus, VP4. This is a family of minor capsid proteins, known as VP4, from the dicistroviridae. The dicistroviridae is a group of 
+CDD0108	97	pfam11418|Scaffolding_pro|Phi29 scaffolding protein. This protein is also referred to as gp7. The protein contains a DNA-binding function and may halve a role in mediating t
+CDD0109	469	pfam11134|Phage_stabilize|Phage stabilisation protein. Members of this family are phage proteins that are probably involved with stabilizing the condensed DNA within the cap
+CDD0110	181	pfam11128|Nucleocap_ssRNA|Plant viral coat protein nucleocapsid. This family of nucleocapsid proteins is from ssRNA negative-strand viruses of plant origin.
+CDD0111	82	pfam11123|DNA_Packaging_2|DNA packaging protein. This DNA packaging protein is also referred to as gene 18 product (gp18). This protein is required for DNA packaging and fun
+CDD0112	113	pfam11114|Minor_capsid_2|Minor capsid protein. Most of the members of this family are annotated as being minor capsid proteins. The genomes carrying the genes usually have 
+CDD0113	157	pfam11053|DNA_Packaging|Terminase DNA packaging enzyme. Phage T4 terminase functions in packaging concatemeric DNA. The T4 terminase is composed of a large subunit, gp17 a
+CDD0114	167	pfam11030|Nucleocapsid-N|Nucleocapsid protein N. This is the N protein of the nucleocapsid. The nucleocapsid functions to protect the RNA against nuclease degradation and t
+CDD0115	60	pfam10668|Phage_terminase|Phage terminase small subunit. This family of small highly conserved proteins come from a subset of Firmicute species. Its putative function is as 
+CDD0116	104	pfam10665|Minor_capsid_1|Minor capsid protein. This is a putative tail-knob or minor capsid protein from bacteriophages.
+CDD0117	46	pfam10389|CoatB|Bacteriophage coat protein B. CoatB is a single filamentous bacteriophage alpha helix of approximately 44 residues. It is likely to assemble into a
+CDD0118	109	pfam09675|Chlamy_scaf|Chlamydia-phage Chp2 scaffold (Chlamy_scaf). Members of this entry are encoded by genes in chlamydia-phage such as Chp2. These viruses have around 
+CDD0119	83	pfam09300|Tecti-min-caps|Tectiviridae, minor capsid. Members of this family form the minor capsid protein of various Tectiviridae.
+CDD0120	439	pfam09220|LA-virus_coat|L-A virus, major coat protein. Members of this family form the major coat protein of the Saccharomyces cerevisiae L-A virus.
+CDD0121	127	pfam09063|Phage_coat|Phage PP7 coat protein. Members of this family form the capsid of P. aeruginosa phage PP7. They adopt a secondary structure consisting of a six str
+CDD0122	394	pfam09018|Phage_Capsid_P3|P3 major capsid protein. The P3 major capsid protein adopts a 'double-barrel' structure comprising two eight-stranded viral beta-barrels or jelly r
+CDD0123	280	pfam08978|Reoviridae_Vp9|Reoviridae VP9. This domain is found in various VP9 viral outer-coat proteins. It has no known function.
+CDD0124	84	pfam08935|VP4_2|Viral protein VP4 subunit. This domain is predominantly found in viral proteins from the family Picornaviridae. It is VP4 of the viral polyprotein 
+CDD0125	199	pfam08762|CRPV_capsid|CRPV capsid protein like. This is a family of capsid proteins found in positive stranded ssRNA viruses such as cricket paralysis virus (CRPV). It f
+CDD0126	192	pfam08475|Baculo_VP91_N|Viral capsid protein 91 N-terminal. This domain is found in Baculoviridae including the nucleopolyhedrovirus at the N-terminus of the viral capsid 
+CDD0127	99	pfam08462|Carmo_coat_C|Carmovirus coat protein. This domain is found to the C-terminus of the pfam00729 domain in Carmoviruses.
+CDD0128	229	pfam08435|Calici_coat_C|Calicivirus coat protein C-terminal. This is the calicivirus coat protein (pfam00915) C-terminal region.
+CDD0129	63	pfam08398|Parvo_coat_N|Parvovirus coat protein VP1. This is the N-terminal region of the Parvovirus VP1 coat protein. Also see Parvovirus coat protein VP2 (pfam00740).
+CDD0130	52	pfam08358|Flexi_CP_N|Carlavirus coat. This domain is found together with the viral coat protein domain (pfam00286) in coat/capsid proteins of Carlaviruses infecting pla
+CDD0131	285	pfam07880|T4_gp9_10|Bacteriophage T4 gp9/10-like protein. The members of this family are similar to gene products 9 (gp9) and 10 (gp10) of bacteriophage T4. Both prote
+CDD0132	164	pfam07471|Phage_Nu1|Phage DNA packaging protein Nu1. Terminase, the DNA packaging enzyme of bacteriophage lambda, is a heteromultimer composed of subunits Nu1 and A. T
+CDD0133	620	pfam07267|Nucleo_P87|Nucleopolyhedrovirus capsid protein P87. This family consists of several Nucleopolyhedrovirus capsid protein P87 sequences. P87 is expressed late i
+CDD0134	445	pfam07230|Peptidase_S80|Bacteriophage T4-like capsid assembly protein (Gp20). This family consists of several bacteriophage T4-like capsid assembly (or portal) proteins. T
+CDD0135	174	pfam07141|Phage_term_sma|Putative bacteriophage terminase small subunit. This family consists of several putative Lactococcus bacteriophage terminase small subunit proteins
+CDD0136	422	pfam07124|Phytoreo_P8|Phytoreovirus outer capsid protein P8. This family consists of several Phytoreovirus outer capsid protein P8 sequences.
+CDD0137	509	pfam07068|Gp23|Major capsid protein Gp23. This family contains a number of major capsid Gp23 proteins approximately 500 residues long, from T4-like bacteriophages
+CDD0138	347	pfam06673|L_lactis_ph-MCP|Lactococcus lactis bacteriophage major capsid protein. This family consists of several Lactococcus lactis bacteriophage major capsid proteins.
+CDD0139	274	pfam06593|RBDV_coat|Raspberry bushy dwarf virus coat protein. This family consists of several Raspberry bushy dwarf virus coat proteins.
+CDD0140	153	pfam06184|Potex_coat|Potexvirus coat protein. This family consists of several Potexvirus coat proteins.
+CDD0141	357	pfam06152|Phage_min_cap2|Phage minor capsid protein 2. Family of related phage minor capsid proteins.
+CDD0142	169	pfam06112|Herpes_capsid|Gammaherpesvirus capsid protein. This family consists of several Gammaherpesvirus capsid proteins. The exact function of this family is unknown.
+CDD0143	58	pfam06056|Terminase_5|Putative ATPase subunit of terminase (gpP-like). This family of proteins are annotated as ATPase subunits of phage terminase after. Terminases are 
+CDD0144	129	pfam05944|Phage_term_smal|Phage small terminase subunit. This family consists of several phage small terminase subunit proteins as well as some related bacterial sequences.
+CDD0145	270	pfam05929|Phage_GPO|Phage capsid scaffolding protein (GPO) serine peptidase. This family consists of several bacteriophage capsid scaffolding proteins (GPO) and some r
+CDD0146	139	pfam05926|Phage_GPL|Phage head completion protein (GPL). This family consists of several phage head completion protein (GPL) as well as related bacterial sequences. Me
+CDD0147	331	pfam05894|Podovirus_Gp16|Podovirus DNA encapsidation protein (Gp16). This family consists of several DNA encapsidation protein (Gp16) sequences from the phi-29-like viruses
+CDD0148	195	pfam05892|Tricho_coat|Trichovirus coat protein. This family consists of several coat proteins which are specific to the ssRNA positive-strand, no DNA stage viruses such 
+CDD0149	554	pfam05880|Fiji_64_capsid|Fijivirus 64 kDa capsid protein. This family consists of several Fijivirus 64 kDa capsid proteins.
+CDD0150	557	pfam05876|Terminase_GpA|Phage terminase large subunit (GpA). This family consists of several phage terminase large subunit proteins as well as related sequences from sever
+CDD0151	249	pfam05868|Rotavirus_VP7|Rotavirus major outer capsid protein VP7. This family consists of several Rotavirus major outer capsid protein VP7 sequences. The rotavirus capsid 
+CDD0152	379	pfam05789|Baculo_VP1054|Baculovirus VP1054 protein. This family consists of several VP1054 proteins from the Baculoviruses. VP1054 is a virus structural protein required f
+CDD0153	224	pfam05733|Tenui_N|Tenuivirus/Phlebovirus nucleocapsid protein. This family consists of several Tenuivirus and Phlebovirus nucleocapsid proteins. These are ssRNA viru
+CDD0154	176	pfam05674|DUF816|Baculovirus protein of unknown function (DUF816). This family includes proteins that are about 200 amino acids in length. The proteins are all from
+CDD0155	753	pfam05518|Totivirus_coat|Totivirus coat protein. 
+CDD0156	753	pfam05505|Ebola_NP|Ebola nucleoprotein. This family consists of Ebola and Marburg virus nucleoproteins. These proteins are responsible for encapsidation of genomic RN
+CDD0157	123	pfam05396|Phage_T7_Capsid|Phage T7 capsid assembly protein. 
+CDD0158	50	pfam05371|Phage_Coat_Gp8|Phage major coat protein, Gp8. Class I phage major coat protein Gp8 or B. The coat protein is largely alpha-helix with a slight curve.
+CDD0159	63	pfam05357|Phage_Coat_A|Phage Coat Protein A. Infection of Escherichia coli by filamentous bacteriophages is mediated by the minor phage coat protein A and involves two di
+CDD0160	83	pfam05356|Phage_Coat_B|Phage Coat protein B. The major coat protein in the capsid of filamentous bacteriophage forms a helical assembly of about 7000 identical protomers,
+CDD0161	141	pfam05290|Baculo_IE-1|Baculovirus immediate-early protein (IE-0). The Autographa californica multinucleocapsid nuclear polyhedrosis virus (AcMNPV) ie-1 gene product (IE-
+CDD0162	349	pfam05136|Phage_portal_2|Phage portal protein, lambda family. This protein forms a hole, or portal, that enables DNA passage during packaging and ejection. It also forms th
+CDD0163	416	pfam05133|Phage_prot_Gp6|Phage portal protein, SPP1 Gp6-like. This protein forms a hole, or portal, that enables DNA passage during packaging and ejection. It also forms th
+CDD0164	321	pfam05125|Phage_cap_P2|Phage major capsid protein, P2 family. 
+CDD0165	92	pfam05119|Terminase_4|Phage terminase, small subunit. 
+CDD0166	882	pfam05087|Rota_VP2|Rotavirus VP2 protein. Rotavirus particles consist of three concentric proteinaceous capsid layers. The innermost capsid (core) is made of VP2. The
+CDD0167	165	pfam05073|Baculo_p24|Baculovirus P24 capsid protein. Baculovirus P24 is associated with nucleocapsids of budded and polyhedra-derived virions.
+CDD0168	279	pfam05065|Phage_capsid|Phage capsid family. Family of bacteriophage hypothetical proteins and capsid proteins.
+CDD0169	173	pfam04876|Tenui_NCP|Tenuivirus major non-capsid protein. This protein of unknown function accumulates in large amounts in tenuivirus infected cells. It is found in all
+CDD0170	272	pfam04860|Phage_portal|Phage portal protein. Bacteriophage portal proteins form a dodecamer and is located at a five-fold vertex of the viral capsid. The portal complex f
+CDD0171	37	pfam04726|Microvir_J|Microvirus J protein. This small protein is involved in DNA packaging, interacting with DNA via its hydrophobic carboxyl terminus. In bacteriophage
+CDD0172	310	pfam04687|Microvir_H|Microvirus H protein (pilot protein). A single molecule of H protein is found on each of the 12 spikes on the microvirus shell. H is involved in th
+CDD0173	241	pfam04665|Pox_A32|Poxvirus A32 protein. The A32 protein is thought to be involved in viral DNA packaging.
+CDD0174	177	pfam04660|Nanovirus_coat|Nanovirus coat protein. Family of conserved Nanoviral coat proteins.
+CDD0175	326	pfam04582|Reo_sigmaC|Reovirus sigma C capsid protein. 
+CDD0176	496	pfam04559|Herpes_UL17|Herpesvirus UL17 protein. UL17 protein is required for DNA cleavage and packaging in herpes viruses. It has been shown to associate with immature B
+CDD0177	158	pfam04540|Herpes_UL51|Herpesvirus UL51 protein. UL51 protein is a virion protein. In pseudorabies virus, UL51 was identified as a component of the capsid. In herpes simp
+CDD0178	164	pfam04537|Herpes_UL55|Herpesvirus UL55 protein. In infected cells, UL55 is associated with the nuclear matrix, and found adjacent to compartments containing the capsid p
+CDD0179	906	pfam04523|Herpes_U30|Herpes virus tegument protein U30. This family is named after the human herpesvirus protein, but has been characterized in cytomegalovirus as UL47.
+CDD0180	307	pfam04501|Baculo_VP39|Baculovirus major capsid protein VP39. This family constitutes the 39 kDa major capsid protein of the Baculoviridae.
+CDD0181	217	pfam04498|Pox_VP8_L4R|Poxvirus nucleic acid binding protein VP8/L4R. The 25 kDa product of Vaccinia virus gene L4R is also known as VP8. VP8 is found in the cores of Vac
+CDD0182	109	pfam04496|Herpes_UL35|Herpesvirus UL35 family. UL35 represents a true late gene which encodes a 12-kDa capsid protein.
+CDD0183	201	pfam04466|Terminase_3|Phage terminase large subunit. Initiation of packaging of double-stranded viral DNA involves the specific interaction of the prohead with viral DNA
+CDD0184	192	pfam04451|Capsid_NCLDV|Large eukaryotic DNA virus major capsid protein. This family includes the major capsid protein of iridoviruses, chlorella virus and Spodoptera asco
+CDD0185	739	pfam04196|Bunya_RdRp|Bunyavirus RNA dependent RNA polymerase. The bunyaviruses are enveloped viruses with a genome consisting of 3 ssRNA segments (called L, M and S). T
+CDD0186	449	pfam04162|Gyro_capsid|Gyrovirus capsid protein (VP1). Gyroviruses are small circular single stranded viruses. This family includes the VP1 protein from the chicken anaem
+CDD0187	110	pfam03955|Adeno_PIX|Adenovirus hexon-associated protein (IX). Hexon (PF01065) is the major coat protein from adenovirus type 2. Hexon forms a homo-trimer. The 240 copi
+CDD0188	198	pfam03898|TNV_CP|Satellite tobacco necrosis virus coat protein. 
+CDD0189	332	pfam03864|Phage_cap_E|Phage major capsid protein E. Major capsid protein E is involved with the stabilisation of the condensed form of the DNA molecule in phage heads.
+CDD0190	91	pfam03689|Nepo_coat_N|Nepovirus coat protein, N-terminal domain. The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruses, n
+CDD0191	163	pfam03688|Nepo_coat_C|Nepovirus coat protein, C-terminal domain. The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruses, n
+CDD0192	241	pfam03678|Adeno_hexon_C|Hexon, adenovirus major coat protein, C-terminal domain. Hexon is the major coat protein from adenovirus type 2. Hexon forms a homo-trimer. The 240
+CDD0193	137	pfam03592|Terminase_2|Terminase small subunit. Packaging of double-stranded viral DNA concatemers requires interaction of the prohead with virus DNA. This process is med
+CDD0194	251	pfam03586|Herpes_UL36|Herpesvirus UL36 tegument protein. The UL36 open reading frame (ORF) encodes the largest herpes simplex virus type 1 (HSV-1) protein, a 270-kDa pol
+CDD0195	72	pfam03581|Herpes_UL33|Herpesvirus UL33-like protein. This is a family of Herpesvirus proteins including UL33 and UL51. The proteins in this family are involved in packag
+CDD0196	146	pfam03580|Herpes_UL14|Herpesvirus UL14-like protein. This is a family of Herpesvirus proteins including UL14. UL14 protein is a minor component of the virion tegument an
+CDD0197	285	pfam03563|Bunya_G2|Bunyavirus glycoprotein G2. Bunyavirus has three genomic segments: small (S), middle-sized (M), and large (L). The S segment encodes the nucleocaps
+CDD0198	879	pfam03557|Bunya_G1|Bunyavirus glycoprotein G1. Bunyavirus has three genomic segments: small (S), middle-sized (M), and large (L). The S segment encodes the nucleocaps
+CDD0199	167	pfam03391|Nepo_coat|Nepovirus coat protein, central domain. The members of this family are derived from nepoviruses. Together with comoviruses and picornaviruses, nepo
+CDD0200	466	pfam03354|Terminase_1|Phage Terminase. The majority of the members of this family are bacteriophage proteins, several of which are thought to be terminase large subunit 
+CDD0201	263	pfam03327|Herpes_VP19C|Herpesvirus capsid shell protein VP19C. 
+CDD0202	390	pfam03246|Pneumo_ncap|Pneumovirus nucleocapsid protein. 
+CDD0203	215	pfam03237|Terminase_6|Terminase-like family. This family represents a group of terminase proteins.
+CDD0204	444	pfam03231|Bunya_NS-S_2|Bunyavirus non-structural protein NS-S. This family represents the Bunyavirus NS-S family. Bunyavirus has three genomic segments: small (S), middle
+CDD0205	142	pfam03228|Adeno_VII|Adenoviral core protein VII. The function of this protein is unknown. It has a conserved amino terminus of 50 residues followed by a positively cha
+CDD0206	154	pfam03210|Paramyx_P_V_C|Paramyxovirus P/V phosphoprotein C-terminal. Paramyxoviridae P genes are able to generate more than one product, using alternative reading frames a
+CDD0207	207	pfam03187|Corona_I|Corona nucleocapsid I protein. 
+CDD0208	1368	pfam03122|Herpes_MCP|Herpes virus major capsid protein. This family represents the major capsid protein (MCP) of herpes viruses. The capsid shell consists of 150 MCP he
+CDD0209	416	pfam03115|Astro_capsid_N|Astrovirus capsid protein precursor. This product is encoded by astrovirus ORF2, one of the three astrovirus ORFs (1a, 1b, 2). The 87kD precursor p
+CDD0210	406	pfam03084|Sigma_1_2|Reoviral Sigma1/Sigma2 family. Reoviruses are double-stranded RNA viruses. They lack a membrane envelope and their capsid is organised in two conce
+CDD0211	198	pfam03052|Adeno_52K|Adenoviral protein L1 52/55-kDa. The adenoviral protein L1 52/55-kDa is expressed in both the early and late stages of infection which suggests tha
+CDD0212	328	pfam03044|Herpes_UL16|Herpesvirus UL16/UL94 family. This family groups together HSV-1 UL16, HSV-6 ORF11R, EHV-1 46, HCMV UL94, EBV BGLF2 and VZV 44. UL16 protein may pla
+CDD0213	226	pfam03035|RNA_capsid|Calicivirus putative RNA polymerase/capsid protein. 
+CDD0214	619	pfam03014|SP2|Structural protein 2. This family represents structural protein 2 of the hepatitis E virus. The high basic amino acid content of this protein has l
+CDD0215	225	pfam02993|MCPVI|Minor capsid protein VI. This minor capsid protein may act as a link between the external capsid and the internal DNA-protein core. The C-terminal 
+CDD0216	525	pfam02956|TT_ORF1|TT viral orf 1. TT virus (TTV), isolated initially from a Japanese patient with hepatitis of unknown aetiology, has since been found to infect both
+CDD0217	59	pfam02495|7kD_coat|7kD viral coat protein. This family consists of a 7kD coat protein from carlavirus and potexvirus.
+CDD0218	443	pfam02477|Nairo_nucleo|Nucleocapsid N protein. The nucleoprotein of the ssRNA negative-strand Nairovirus is an internal part of the virus particle.
+CDD0219	370	pfam02456|Adeno_IVa2|Adenovirus IVa2 protein. IVa2 protein can interact with the adenoviral packaging signal and that this interaction involves DNA sequences that have 
+CDD0220	539	pfam02455|Hex_IIIa|Hexon-associated protein (IIIa). The major capsid protein of the adenovirus strain is also known as a hexon. This is a family of hexon-associated p
+CDD0221	116	pfam02454|Sigma_1s|Sigma 1s protein. The reoviral gene S1 encodes for haemagglutinin (sigma 1 protein), an outer capsid protein and a major factor in determining viru
+CDD0222	114	pfam02444|HEV_ORF1|Hepatitis E virus ORF-2 (Putative capsid protein). The Hepatitis E virus (HEV) genome is a single-stranded, positive-sense RNA molecule of approxim
+CDD0223	200	pfam02443|Circo_capsid|capsid|Circovirus capsid protein. Circoviruses are small circular single stranded viruses. This family is the capsid protein from viruses such as porcine 
+CDD0224	56	pfam02346|Vac_Fusion|Chordopoxvirus multifunctional envelope protein A27. This is a family of viral fusion proteins from the chordopoxviruses. The A27L gene product, a 
+CDD0225	431	pfam02336|Denso_VP4|capsid|Capsid protein VP4. Four different translation initiation sites of the densovirus capsid protein mRNA give rise to four viral proteins, VP1 to VP4.
+CDD0226	510	pfam02305|Phage_F|capsid|Capsid protein (F protein). This is a family of proteins from single-stranded DNA bacteriophages. Protein F is the major capsid component, sixty co
+CDD0227	117	pfam02304|Phage_B|Scaffold protein B. This is a family of proteins from single-stranded DNA bacteriophages. Scaffold proteins B and D are required for procapsid form
+CDD0228	182	pfam02248|Como_SCP|Small coat protein. This family contains the small coat protein (SCP) of the comoviridae viral family.
+CDD0229	369	pfam02247|Como_LCP|Large coat protein. This family contains the large coat protein (LCP) of the comoviridae viral family.
+CDD0230	92	pfam02228|Gag_p19|capsid|Major core protein p19. p19 is a component of the inner protein layer of the viral nucleocapsid.
+CDD0231	68	pfam02226|Pico_P1A|Picornavirus coat protein (VP4). VP1, VP2, VP3 and VP4 for the basic unit that forms the icosahedral coat of picornaviruses. Five symmetry-related 
+CDD0232	132	pfam01819|Levi_coat|Levivirus coat protein. The Levivirus coat protein forms the bacteriophage coat that encapsidates the viral RNA. 180 copies of this protein form th
+CDD0233	248	pfam01806|Paramyxo_P|Paramyxovirinae P phosphoprotein C-terminal region. The subfamily Paramyxovirinae of the family Paramyxoviridae now contains as main genera the Rub
+CDD0234	294	pfam01802|Herpes_V23|capsid|Herpesvirus VP23 like capsid protein. This family consist of various capsid proteins from members of the herpesviridae. The capsid protein VP23 in 
+CDD0235	204	pfam01787|Ilar_coat|Ilarvirus coat protein. This family consists of various coat proteins from the ilarviruses part of the Bromoviridae, members include apple mosaic v
+CDD0236	188	pfam01785|Closter_coat|Closterovirus coat protein. This family consist of coat proteins from closteroviruses a member of the closteroviridae. The viral coat protein encap
+CDD0237	563	pfam01763|Herpes_UL6|Herpesvirus UL6 like. This family consists of various proteins from the herpesviridae that are similar to herpes simplex virus type I UL6 virion pr
+CDD0238	524	pfam01690|PLRV_ORF5|Potato leaf roll virus readthrough protein. This family consists mainly of the potato leaf roll virus readthrough protein. This is generated via a 
+CDD0239	219	pfam01664|Reo_sigma1|Reovirus viral attachment protein sigma 1. This family consists of the reovirus sigma 1 hemagglutinin, cell attachment protein. This glycoprotein i
+CDD0240	105	pfam01659|Luteo_Vpg|Luteovirus putative VPg genome linked protein. This family consists of several putative genome linked proteins. The genomic RNA of luteoviruses are
+CDD0241	121	pfam01543|HCV_capsid|capsid|Hepatitis C virus capsid protein. 
+CDD0242	75	pfam01542|HCV_core|Hepatitis C virus core protein. The viral core protein forms the internal viral coat that encapsidates the genomic RNA and is enveloped in a host c
+CDD0243	246	pfam01533|Tospo_nucleocap|capsid|Tospovirus nucleocapsid protein. The tospovirus genome consists of three linear ssRNA segments, denoted L, M and S complexed with the nucleocapsid 
+CDD0244	543	pfam01499|Herpes_UL25|Herpesvirus UL25 family. The herpesvirus UL25 gene product is a virion component involved in virus penetration and capsid assembly. The product of 
+CDD0245	116	pfam01481|Arteri_nucleo|capsid|Arterivirus nucleocapsid protein. 
+CDD0246	173	pfam01452|Rota_NSP4|Rotavirus non structural protein. This protein has been called NSP4, NSP5, NS28, and NCVP5. The final steps in the assembly of rotavirus occur in t
+CDD0247	126	pfam01440|Gemini_AL2|Geminivirus AL2 protein. Geminiviruses are small, ssDNA-containing plant viruses. Geminiviruses contain three ORFs (designated AL1, AL2, and AL3) t
+CDD0248	653	pfam01366|PRTP|Herpesvirus processing and transport protein. The members of this family are associate with capsid intermediates during packaging of the virus.
+CDD0249	187	pfam01318|Bromo_coat|Bromovirus coat protein. 
+CDD0250	85	pfam01141|Gag_p12|Gag polyprotein, inner coat protein p12. The retroviral p12 is a virion structural protein. p12 is proline rich. The function carried out by p12 in
+CDD0251	494	pfam01065|Adeno_hexon|Hexon, adenovirus major coat protein, N-terminal domain. Hexon is the major coat protein from adenovirus type 2. Hexon forms a homo-trimer. The 240
+CDD0252	117	pfam01003|Flavi_capsid|capsid|Flavivirus capsid protein C. Flaviviruses are small enveloped viruses with virions comprised of 3 proteins called C, M and E. Multiple copies of th
+CDD0253	170	pfam00983|Tymo_coat|Tymovirus coat protein. 
+CDD0254	396	pfam00980|Rota_Capsid_VP6|capsid|Rotavirus major capsid protein VP6. Rotaviruses consist of three concentric protein shells. The intermediate (middle) protein layer consists 260 tr
+CDD0255	367	pfam00979|Reovirus_cap|capsid|Reovirus outer capsid protein, Sigma 3. Sigma 3 is the major outer capsid protein of reovirus. Sigma 3 is encoded by genome segment 4. Sigma 3 bind
+CDD0256	502	pfam00974|Rhabdo_glycop|Rhabdovirus spike glycoprotein. Frequently abbreviated to G protein. The glycoprotein spike is made up of a trimer of G proteins. Channel formed by
+CDD0257	524	pfam00973|Paramyxo_ncap|capsid|Paramyxovirus nucleocapsid protein. The nucleocapsid protein is referred to as NP. NP is is the major structural component of the nucleocapsid. The
+CDD0258	385	pfam00971|EIAV_GP90|EIAV coat protein, gp90. Equine infectious anaemia (EIAV). EIAV belongs to the family Retroviridae. EIAV gp90 is hypervariable in the carboxyl-end 
+CDD0259	229	pfam00952|Bunya_nucleocap|capsid|Bunyavirus nucleocapsid (N) protein. The bunyaviruses are enveloped viruses with a genome consisting of 3 ssRNA segments (called L, M and S). The n
+CDD0260	409	pfam00945|Rhabdo_ncap|capsid|Rhabdovirus nucleocapsid protein. The Nucleocapsid (N) Protein is said to have a "tight" structure. The carboxyl end of the N-terminal domain posse
+CDD0261	157	pfam00944|Peptidase_S3|Alphavirus core protein. Also known as coat protein C and capsid protein C. This makes the literature very confusing. Alphaviruses consist of a nuc
+CDD0262	364	pfam00937|Corona_nucleoca|capsid|Coronavirus nucleocapsid protein. 
+CDD0263	288	pfam00915|Calici_coat|Calicivirus coat protein. 
+CDD0264	507	pfam00901|Orbi_VP5|capsid|Orbivirus outer capsid protein VP5. cryoelectron microscopy indicates that VP5 is a trimer implying that there are 360 copies of VP5 per virion.
+CDD0265	946	pfam00898|Orbi_VP2|capsid|Orbivirus outer capsid protein VP2. VP2 acts as an anchor for VP1 and VP3. VP2 contains a non-specific DNA and RNA binding domain in the N-terminus
+CDD0266	348	pfam00897|Orbi_VP7|capsid|Orbivirus inner capsid protein VP7. In BTV, 260 trimers of VP7 are found in the core. The major proteins of the core are VP7 and VP3. VP7 forms an 
+CDD0267	138	pfam00894|Luteo_coat|Luteovirus coat protein. 
+CDD0268	429	pfam00846|Hanta_nucleocap|capsid|Hantavirus nucleocapsid protein. 
+CDD0269	276	pfam00845|Gemini_BL1|Geminivirus BL1 movement protein. Geminiviruses encode two movement proteins that are essential for systemic infection of their host but dispensabl
+CDD0270	244	pfam00844|Gemini_coat|Geminivirus coat protein/nuclear export factor BR1 family. It has been shown that the 104 N-terminal amino acids of the maize streak virus coat pro
+CDD0271	334	pfam00843|Arena_nucleocap|capsid|Arenavirus nucleocapsid protein. 
+CDD0272	243	pfam00767|Poty_coat|Potyvirus coat protein. 
+CDD0273	322	pfam00761|Polyoma_coat2|Polyomavirus coat protein. 
+CDD0274	205	pfam00760|Cucumo_coat|Cucumovirus coat protein. 
+CDD0275	518	pfam00740|Parvo_coat|Parvovirus coat protein VP2. This protein, together with VP1 forms a capsomer. Both of these proteins are formed from the same transcript using alt
+CDD0276	199	pfam00729|Viral_coat|Viral coat protein (S domain). 
+CDD0277	163	pfam00721|TMV_coat|Virus coat protein (TMV like). This family contains coat proteins from tobamoviruses, hordeiviruses, Tobraviruses, Furoviruses and Potyviruses.
+CDD0278	293	pfam00718|Polyoma_coat|Polyomavirus coat protein. 
+CDD0279	201	pfam00607|Gag_p24|capsid|gag gene protein p24 (core nucleocapsid protein). p24 forms inner protein layer of the nucleocapsid. ELISA tests for p24 is the most commonly used 
+CDD0280	200	pfam00559|Vif|Retroviral Vif (Viral infectivity) protein. Human immunodeficiency virus type 1 (HIV-1) Vif is required for productive infection of T lymphocytes a
+CDD0281	560	pfam00429|TLV_coat|ENV polyprotein (coat polyprotein). 
+CDD0282	203	pfam00426|VP4_haemagglut|capsid|Outer Capsid protein VP4 (Hemagglutinin). 
+CDD0283	138	pfam00286|Flexi_CP|Viral coat protein. Family includes coat proteins from Potexviruses and carlaviruses.
+CDD0284	169	pfam00073|Rhv|capsid|picornavirus capsid protein. CAUTION: This alignment is very weak. It can not be generated by clustalw. If a representative set is used for a seed,
+CDD0285	79	COG5565|COG5565|Bacteriophage terminase large (ATPase) subunit and inactivated derivatives  [Mobilome: prophages, transposons]. 
+CDD0286	611	COG5525|YbcX|Phage terminase, large subunit GpA [Mobilome: prophages, transposons]. 
+CDD0287	492	COG5518|COG5518|Bacteriophage capsid portal protein  [Mobilome: prophages, transposons]. 
+CDD0288	492	COG5511|COG5511|capsid|Bacteriophage capsid protein  [Mobilome: prophages, transposons]. 
+CDD0289	202	COG5362|COG5362|Phage terminase large subunit [Mobilome: prophages, transposons]. 
+CDD0290	410	COG5323|COG5323|Large terminase phage packaging protein [Mobilome: prophages, transposons]. 
+CDD0291	398	COG4695|BeeE|Phage portal protein BeeE [Mobilome: prophages, transposons]. 
+CDD0292	422	COG4653|COG4653|capsid|Predicted phage phi-C31 gp36 major capsid-like protein  [Mobilome: prophages, transposons]. 
+CDD0293	546	COG4626|YmfN|Phage terminase-like protein, large subunit, contains N-terminal HTH domain [Mobilome: prophages, transposons]. 
+CDD0294	174	COG4220|Nu1|Phage DNA packaging protein, Nu1 subunit of terminase [Mobilome: prophages, transposons]. 
+CDD0295	160	COG3747|COG3747|Phage terminase, small subunit  [Mobilome: prophages, transposons]. 
+CDD0296	179	COG3728|XtmA|Phage terminase, small subunit  [Mobilome: prophages, transposons]. 
+CDD0297	414	COG1783|XtmB|Phage terminase large subunit  [Mobilome: prophages, transposons]. 
+CDD0298	1166	cd11674|lambda-1|capsid|inner capsid protein lambda-1 or VP3. The reovirus inner capsid protein lambda-1 displays nucleoside triphosphate phosphohydrolase (NTPase), RNA-5'
+CDD0299	95	cd08055|gp15|Head-Tail Connector Protein gp15 of Bacteriophage SPP1 and similar proteins. The bacteriophage SPP1 gp15 protein is critical in the assembly of the
+CDD0300	91	cd08054|gp6|Head-Tail Connector Protein gp6 of Bacteriophage HK97 and similar proteins. The bacteriophage HK97 gp6 protein is critical in the assembly of the c
+CDD0301	121	cd08053|Yqbg|Putative Head-Tail Connector Protein Yqbg from Bacillus subtilis and similar proteins. The uncharacterized Bacillus subtilis Yqbg protein, whose ge
+CDD0302	94	cd08051|gp6_gp15_like|Head-Tail Connector Proteins gp6 and gp15, and similar proteins. Members of this family include the proteins gp6 and gp15 from bacteriophage HK97 a
+CDD0303	195	cd00259|STNV|STNV domain; satellite tobacco necrosis virus (STNV) are small plant viruses which are completely dependent on the presence of a specific helper vi
+CDD0304	178	cd00205|rhv_like|capsid|Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 
