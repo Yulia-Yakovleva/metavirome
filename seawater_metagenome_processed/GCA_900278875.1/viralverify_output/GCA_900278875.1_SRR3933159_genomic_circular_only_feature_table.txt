@@ -1,2 +1,0 @@
-OJFQ01007646.1,Transposase_mut
-OJFQ01000049.1,rve

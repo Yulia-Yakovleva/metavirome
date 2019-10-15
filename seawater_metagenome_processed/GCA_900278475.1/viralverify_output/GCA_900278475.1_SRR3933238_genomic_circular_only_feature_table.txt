@@ -1,9 +1,0 @@
-OLHL01002117.1,Mob_Pre Rep_3 OMP_b-brl
-OLHL01001897.1,RepL Mob_Pre RepL
-OLHL01005291.1,Phage_CRI Phage_X Phage_X
-OLHL01012961.1,YacG CoaE
-OLHL01003084.1,Replicase PriCT_1 Replicase PriCT_1 MobA_MobL
-OLHL01000613.1,Phage_integrase CbiA Response_reg
-OLHL01002003.1,HTH_17
-OLHL01001809.1,Condensation AMP-binding AMP-binding Condensation PP-binding AMP-binding_C PP-binding AMP-binding_C
-OLHL01003448.1,Rep_trans MobA_MobL

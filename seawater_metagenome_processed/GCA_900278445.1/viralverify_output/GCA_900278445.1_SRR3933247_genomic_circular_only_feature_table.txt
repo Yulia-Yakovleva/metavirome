@@ -1,8 +1,0 @@
-OLHR01038953.1,HTH_23
-OLHR01000062.1,HTH_27 Phage_integrase Phage_T7_tail GP38 FA_desaturase FA_desaturase 5_3_exonuc_N Dam Thy1 Ribonuc_red_sm Ribonuc_red_lgC PRA-PH DNA_pol_A Amidase_2 HTH_39 Phage_endo_I RNA_pol RPOL_N P22_CoatProtein Tube Head-tail_con Phage_T7_Capsid Toprim_2 DnaB_C
-OLHR01007020.1,ArsP_1
-OLHR01034975.1,Sigma54_DBD
-OLHR01020614.1,TonB_C
-OLHR01005863.1,HTH_7 HTH_3 LysR_substrate HTH_1
-OLHR01001249.1,Phage_integrase RVT_1
-OLHR01013897.1,Peptidase_S74

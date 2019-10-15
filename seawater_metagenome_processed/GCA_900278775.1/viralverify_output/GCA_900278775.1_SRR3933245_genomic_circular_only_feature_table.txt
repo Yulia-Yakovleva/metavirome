@@ -1,4 +1,0 @@
-OJFX01000322.1,RepC RepB_primase AAA_25 MobC CbiA Resolvase KfrA_N Transposase_mut N6_Mtase T5orf172 HTH_37 Gp49 Rep_3
-OJFX01003957.1,Rep_3
-OJFX01001673.1,ParE_toxin Integrase_1 Rep_3
-OJFX01028484.1,OMP_b-brl OMP_b-brl

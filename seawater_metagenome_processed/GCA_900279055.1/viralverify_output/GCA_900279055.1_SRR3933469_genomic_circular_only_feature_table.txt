@@ -1,5 +1,0 @@
-OJGG01011493.1,Peptidase_M18
-OJGG01000060.1,DNA_pol_A DNA_pol_A_exo1 Peripla_BP_3 LacI MMR_HSR1 Rop Beta-lactamase2
-OJGG01000187.1,Phage_F Phage_F Phage_GPA
-OJGG01005094.1,Peptidase_A8 Peptidase_A8 Peptidase_A8
-OJGG01013089.1,BON BON BON

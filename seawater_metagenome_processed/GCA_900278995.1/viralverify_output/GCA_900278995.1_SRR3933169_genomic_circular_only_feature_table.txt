@@ -1,7 +1,0 @@
-OJGC01000538.1,PemK_toxin DDE_Tnp_1 CbiA Rep_3
-OJGC01003315.1,Flagellin_N Flagellin_C Flagellin_C
-OJGC01002755.1,RepL
-OJGC01003913.1,Rep_trans
-OJGC01010845.1,Y1_Tnp
-OJGC01001978.1,MobC Relaxase Replicase PriCT_1
-OJGC01003290.1,Phage_CRI Phage_X

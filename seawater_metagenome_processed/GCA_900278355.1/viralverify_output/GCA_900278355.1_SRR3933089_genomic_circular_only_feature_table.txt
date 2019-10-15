@@ -1,8 +1,0 @@
-OJEE01000022.1,TMP_2 Phage-tail_3 Collagen Collagen Glyco_transf_25 DUF2479 Peptidase_S78_2 Phage_endo_I 5_3_exonuc_N DUF1127 MazG Phage_cap_E DUF4128 Glutaredoxin DUF3310 HNH_3 DNA_pol_A Toprim_2 DnaB_C Glyco_hydro_108 PG_binding_3 Terminase_6C Terminase_6
-OJEE01000384.1,RVT_1 rve
-OJEE01000459.1,rve
-OJEE01000518.1,rve
-OJEE01000583.1,rve
-OJEE01000472.1,rve
-OJEE01000248.1,rve
-OJEE01005630.1,SBP_bac_6

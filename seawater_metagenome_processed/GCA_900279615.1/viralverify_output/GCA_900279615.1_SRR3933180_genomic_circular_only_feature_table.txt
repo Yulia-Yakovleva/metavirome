@@ -1,9 +1,0 @@
-OJIS01024961.1,YafO_toxin
-OJIS01015903.1,DDE_Tnp_ISL3 zf-ISL3 DDE_Tnp_ISL3 zf-ISL3
-OJIS01044648.1,Ank_4
-OJIS01038049.1,DUF1648
-OJIS01017952.1,Transposase_mut Transposase_mut
-OJIS01007787.1,DDE_Tnp_1 DDE_Tnp_1_assoc DDE_Tnp_1 DDE_Tnp_1_assoc
-OJIS01031001.1,rve_3 HTH_21 rve_3 HTH_21
-OJIS01001408.1,Condensation AMP-binding AMP-binding Condensation PP-binding PP-binding AMP-binding_C AMP-binding_C
-OJIS01008436.1,Tex_N

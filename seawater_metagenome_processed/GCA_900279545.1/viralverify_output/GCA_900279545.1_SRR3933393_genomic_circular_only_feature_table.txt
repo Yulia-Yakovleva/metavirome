@@ -1,6 +1,0 @@
-OJIK01000120.1,DUF3310 Phage_portal Phage_Mu_F HTH_36 Phage_capsid VRR_NUC Bac_DnaA_C DUF3799 Amidase_2 Phage_connect_1 Phage_H_T_join HK97-gp10_like ParBc Terminase_6C N6_N4_Mtase Toprim_4 Peptidase_S78 Phage_tail_2
-OJIK01003237.1,Rep_3 HTH_17 Resolvase Glutaredoxin
-OJIK01007559.1,Flagellin_N Flagellin_C
-OJIK01034949.1,GIY-YIG
-OJIK01005862.1,DUF3604
-OJIK01008461.1,Rep_trans

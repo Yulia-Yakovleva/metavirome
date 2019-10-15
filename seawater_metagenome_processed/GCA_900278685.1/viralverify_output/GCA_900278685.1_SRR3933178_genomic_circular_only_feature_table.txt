@@ -1,7 +1,0 @@
-OJFR01004420.1,Metallophos_2 Methyltransf_10 LysR_substrate HTH_1 Tautomerase_3
-OJFR01001321.1,RVT_1 rve
-OJFR01001348.1,DNA_pol_A_exo1
-OJFR01001125.1,rve
-OJFR01020795.1,Laminin_G_3
-OJFR01009947.1,Lactamase_B
-OJFR01053314.1,PDT

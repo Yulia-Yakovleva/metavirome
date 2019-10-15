@@ -1,2 +1,0 @@
-OJAS01001544.1,HTH_3 ParE_toxin PhdYeFM_antitox
-OJAS01000327.1,Phage_F Phage_F Phage_GPA

@@ -1,6 +1,0 @@
-OJEV01000133.1,DNA_pol_A DNA_pol_A_exo1 Beta-lactamase2 MMR_HSR1 Rop Peripla_BP_3 LacI
-OJEV01011094.1,Sigma70_r4_2
-OJEV01000275.1,Phage_GPA Phage_F Phage_F
-OJEV01008529.1,YqeY Ribosomal_S21
-OJEV01010940.1,Oxidored_molyb
-OJEV01005328.1,DEAD

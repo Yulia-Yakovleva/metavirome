@@ -1,3 +1,0 @@
-OJBE01000116.1,BBP2_2 dTDP_sugar_isom NTP_transferase FliD_C FliD_N FliD_C Flagellin_IN FlaG Bac_transf CoA_binding_3 Beta-Casp Lactamase_B RMMBL UDPG_MGDP_dh_N UDPG_MGDP_dh UDPG_MGDP_dh_C RmlD_sub_bind Flagellin_N Flagellin_C Flagellin_IN Flagellin_IN GNVR Wzz AAA_31 CbiA Poly_export SLBB GDP_Man_Dehyd
-OJBE01002305.1,NTase_sub_bind NTP_transf_2
-OJBE01003700.1,HTH_Tnp_1

@@ -1,2 +1,0 @@
-OJGZ01000062.1,DUF5131 N6_Mtase RecT DUF2280 Terminase_6C Terminase_6 LAGLIDADG_3 N6_N4_Mtase DUF2312 VRR_NUC
-OJGZ01000940.1,Chromate_transp Chromate_transp MobA_MobL RepL Chrome_Resist Rhodanese PemK_toxin

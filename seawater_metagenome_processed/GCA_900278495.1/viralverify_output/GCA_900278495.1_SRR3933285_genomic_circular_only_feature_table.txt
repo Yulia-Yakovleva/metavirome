@@ -1,4 +1,0 @@
-OLHN01003658.1,MFS_2
-OLHN01008044.1,Flagellin_N Flagellin_C
-OLHN01004932.1,Rep_trans Rep_trans
-OLHN01026721.1,Ribosomal_S20p

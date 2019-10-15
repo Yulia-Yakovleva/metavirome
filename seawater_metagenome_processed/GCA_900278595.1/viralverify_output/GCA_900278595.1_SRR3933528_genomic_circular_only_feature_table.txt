@@ -1,4 +1,0 @@
-OJES01005554.1,DUF2959
-OJES01004105.1,Epimerase Epimerase
-OJES01000004.1,Rop Beta-lactamase2 DNA_pol_A DNA_pol_A_exo1 MMR_HSR1 Peripla_BP_3 LacI
-OJES01000027.1,Phage_GPA Phage_GPA Phage_F Phage_F

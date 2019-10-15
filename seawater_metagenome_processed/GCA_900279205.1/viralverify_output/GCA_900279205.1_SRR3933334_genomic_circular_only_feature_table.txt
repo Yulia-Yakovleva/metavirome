@@ -1,9 +1,0 @@
-OJHF01000036.1,DUF2800 Terminase_3 DUF3310 Lar_restr_allev AAA_25 PriCT_2 Prim-Pol DUF4224 Phage_integrase Peptidase_M15_4 HTH_3 DUF2815 DNA_pol_A RNase_H_2 SNF2_N DNA_methylase
-OJHF01023865.1,ATP-grasp_5 ATP-grasp_5
-OJHF01000048.1,HTH_39 Phage_endo_I Amidase_2 RNA_pol RPOL_N Toprim_2 DnaB_C DNA_pol_A HTH_27 5_3_exonuc_N P22_CoatProtein Tube Head-tail_con PRA-PH Phage_T7_Capsid Phage_integrase Ribonuc_red_lgC Ribonuc_red_sm FA_desaturase FA_desaturase Phage_T7_tail GP38 Thy1 Dam
-OJHF01036675.1,Dus
-OJHF01046660.1,Nif11
-OJHF01000043.1,SNF2_N CHAP DNA_pol_A Head-tail_con DUF2800 QueC QueC Asn_synthase DUF2815 DNA_methylase
-OJHF01019994.1,adh_short_C2 adh_short_C2
-OJHF01009027.1,DUF1330 Rieske
-OJHF01022245.1,TonB_C

@@ -1,3 +1,0 @@
-OLGS01000328.1,Phage_F Phage_F Phage_GPA Phage_GPA
-OLGS01000225.1,Condensation AMP-binding AMP-binding Condensation PP-binding AMP-binding_C PP-binding AMP-binding_C
-OLGS01005010.1,Collar

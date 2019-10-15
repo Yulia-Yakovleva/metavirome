@@ -1,2 +1,0 @@
-OJIP01000029.1,Phage_GPA Phage_F Phage_F
-OJIP01028288.1,Kelch_1 Kelch_1 Kelch_6 Kelch_4 Kelch_1 Kelch_2 Kelch_1

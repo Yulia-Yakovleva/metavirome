@@ -1,2 +1,0 @@
-OJEM01000198.1,Response_reg CbiA Phage_integrase
-OJEM01000922.1,HTH_17

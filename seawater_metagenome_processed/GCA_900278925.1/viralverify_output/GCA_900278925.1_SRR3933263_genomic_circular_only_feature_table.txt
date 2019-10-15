@@ -1,2 +1,0 @@
-OJFV01000486.1,SNase Rep_3 Resolvase HTH_7 Glyoxalase Acetyltransf_10 MobA_MobL HTH_31 Gp49
-OJFV01003172.1,Flagellin_N Flagellin_C

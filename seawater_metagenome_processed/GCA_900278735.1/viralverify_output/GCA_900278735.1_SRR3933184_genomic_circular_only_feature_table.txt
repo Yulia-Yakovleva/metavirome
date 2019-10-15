@@ -1,6 +1,0 @@
-OJFG01000362.1,Ribosomal_L10 NusG KOW Ribosomal_L11_N Ribosomal_L11 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2 SecE Ribosomal_S7 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosom_S12_S23 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_3 RNA_pol_Rpb1_2 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 RNA_pol_Rpb2_7 Ribosomal_L1 Ribosomal_L12 Ribosomal_L12_N RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2
-OJFG01000160.1,Phage_capsid Peptidase_S78 Phage_portal_2 P22_Cro HTH_3 Phage_CP76 Dam SSB TMP_2 Terminase_GpA PapB DUF4065 GTA_holin_3TM HTH_19 DUF4224 Phage_integrase HTH_19 Phage_gp49_66
-OJFG01001839.1,Relaxase MobC
-OJFG01000281.1,Metallophos RNase_T TniQ Methylase_S N6_Mtase HsdM_N Methylase_S Methylase_S ResIII EcoEI_R_C Helicase_C HSDR_N_2 TniB rve Mu-transpos_C SecB HTH_37 Gp49
-OJFG01000369.1,Ribosomal_L10 Ribosomal_L1 RNA_pol_Rpb2_6 RNA_pol_Rpb2_1 RNA_pol_Rpb2_3 RNA_pol_Rpb2_7 RNA_pol_Rpb2_45 RNA_pol_Rpb2_2 RNA_pol_Rpb2_2 Ribosomal_L12 Ribosomal_L12_N SecE Ribosomal_L11_N Ribosomal_L11 NusG KOW Ribosom_S12_S23 RNA_pol_Rpb1_1 RNA_pol_Rpb1_5 RNA_pol_Rpb1_2 RNA_pol_Rpb1_3 RNA_pol_Rpb1_4 RNA_pol_Rpb1_2 GTP_EFTU EFG_IV EFG_II EFG_C GTP_EFTU_D2 Ribosomal_S7 GTP_EFTU GTP_EFTU_D3 GTP_EFTU_D2
-OJFG01005537.1,DUF285

@@ -1,3 +1,0 @@
-OJHS01000012.1,Phage_GPA Phage_F Phage_F
-OJHS01000002.1,Peripla_BP_3 LacI MMR_HSR1 Beta-lactamase2 Rop DNA_pol_A DNA_pol_A_exo1
-OJHS01003175.1,GIDA_assoc
