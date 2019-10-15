@@ -7,7 +7,7 @@ import logging
 from Bio import Entrez
 from ftplib import FTP
 
-term = 'seawater metagenome'
+term = 'soil metagenome'
 
 logging.basicConfig(
     format='%(asctime)s %(levelname)-8s %(message)s',
@@ -15,7 +15,7 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S')
 
 Entrez.email = 'a.zabelkin@itmo.ru'
-general_output_dir = term.replace(" ", "_") + "/"
+general_output_dir = term.replace(' ', '_') + '/'
 
 handle = Entrez.esearch(db='assembly', term=term, retmax=10500)
 record = Entrez.read(handle)
@@ -34,7 +34,7 @@ ftp.login()
 
 for i, elem in enumerate(elems):
     ftp_url = elem['FtpPath_GenBank']
-    if ftp_url == "":
+    if ftp_url == '':
         continue
 
     dir_path = ftp_url.replace('ftp://ftp.ncbi.nlm.nih.gov', '')
@@ -62,11 +62,5 @@ for i, elem in enumerate(elems):
                     ftp.retrbinary('RETR ' + file, local_file.write)
             except ftplib.error_perm:
                 pass
-            # Unarchiving
-            logging.info(f'<unarchiving file>: {file}')
-            if file.endswith(".gz"):
-                with gzip.open(output_file, 'rb') as f_in:
-                    with open(output_file[:-3], 'wb') as f_out:
-                        shutil.copyfileobj(f_in, f_out)
 
 ftp.quit()
