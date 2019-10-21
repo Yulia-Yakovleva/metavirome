@@ -1,0 +1,190 @@
+BCSF01000003.1;size=1
+gi|1074043110|gb|KU686210.1| Synechococcus phage S-WAM1 isolate 0810PA09, complete genome	 query coverage: 0.719126959992	 identity: 0.810296631621	 hsp_num: 55
+BCSF01000103.1;size=1
+gi|1211046149|gb|KY052826.1| Uncultured virus clone vSAG-37-M8 genomic sequence	 query coverage: 0.151037276707	 identity: 0.791629563669	 hsp_num: 4
+CESM01080861.1;size=1
+gi|557356537|dbj|AP013431.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-U-MedDCM-OCT-S25-C59	 query coverage: 0.138473031525	 identity: 0.794762614435	 hsp_num: 6
+FUIF01007744.1;size=1
+gi|1436204325|gb|MH616935.1| Phage sp. isolate ctbc49, complete genome	 query coverage: 0.80411046885	 identity: 0.913413014608	 hsp_num: 4
+FUIF01007967.1;size=1
+gi|557356639|dbj|AP013533.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G4, isolate: uvMED-CGR-U-MedDCM-OCT-S38-C34	 query coverage: 0.207715582451	 identity: 0.771527944351	 hsp_num: 3
+FUIF01014472.1;size=1
+gi|1436204325|gb|MH616935.1| Phage sp. isolate ctbc49, complete genome	 query coverage: 0.571396993811	 identity: 0.872643324356	 hsp_num: 5
+LULE01000056.1;size=8
+gi|465284450|gb|JF974286.1| Cyanophage MED4-184 genomic sequence	 query coverage: 0.231695746139	 identity: 0.770276342395	 hsp_num: 5
+LULJ01000071.1;size=1
+gi|557356540|dbj|AP013434.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-U-MedDCM-OCT-S32-C65	 query coverage: 0.307255691032	 identity: 0.812965650701	 hsp_num: 9
+LULK01000080.1;size=1
+gi|557356589|dbj|AP013483.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C20A-MedDCM-OCT-S30-C71	 query coverage: 0.311868449131	 identity: 0.76647834275	 hsp_num: 4
+LULK01000372.1;size=1
+gi|557356614|dbj|AP013508.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G2, isolate: uvMED-CGR-C15J-MedDCM-OCT-S37-C55	 query coverage: 0.538743364874	 identity: 0.814523369422	 hsp_num: 14
+LULN01000024.1;size=1
+gi|1043235226|gb|KT997872.1| Uncultured Mediterranean phage uvDeep-CGR2-AD8-C175, complete genome	 query coverage: 0.587925175469	 identity: 0.830137278992	 hsp_num: 12
+LULN01000038.1;size=1
+gi|1043234798|gb|KT997864.1| Uncultured Mediterranean phage uvDeep-CGR2-KM21-C345, complete genome	 query coverage: 0.846180113619	 identity: 0.924393983645	 hsp_num: 13
+LULO01000063.1;size=1
+gi|557356589|dbj|AP013483.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C20A-MedDCM-OCT-S30-C71	 query coverage: 0.255130860478	 identity: 0.767878787879	 hsp_num: 3
+LULO01000086.1;size=1
+gi|557356548|dbj|AP013442.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G17, isolate: uvMED-CGR-C22-MedDCM-OCT-S36-C18	 query coverage: 0.385629207664	 identity: 0.796233894945	 hsp_num: 8
+LULW01000035.1;size=1
+gi|291335040|gb|GU943038.1| Uncultured phage MedDCM-OCT-S08-C620 genomic sequence	 query coverage: 0.318260108812	 identity: 0.822422746233	 hsp_num: 6
+LULW01000134.1;size=1
+gi|557356591|dbj|AP013485.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C27-MedDCM-OCT-S28-C53	 query coverage: 0.669577874818	 identity: 0.819434511038	 hsp_num: 17
+LUMB01000010.1;size=2
+gi|557356545|dbj|AP013439.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G17, isolate: uvMED-CGR-C18A-MedDCM-OCT-S41-C53	 query coverage: 0.155072955548	 identity: 0.773869346734	 hsp_num: 6
+LUMB01000031.1;size=1
+gi|557356591|dbj|AP013485.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C27-MedDCM-OCT-S28-C53	 query coverage: 0.68990661379	 identity: 0.820993868399	 hsp_num: 16
+LUMC01000010.1;size=1
+gi|557356545|dbj|AP013439.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G17, isolate: uvMED-CGR-C18A-MedDCM-OCT-S41-C53	 query coverage: 0.272314760012	 identity: 0.761115067657	 hsp_num: 6
+LUMR01000024.1;size=1
+gi|557356628|dbj|AP013522.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G3, isolate: uvMED-CGR-C5-MedDCM-OCT-S26-C7	 query coverage: 0.298572003218	 identity: 0.839200998752	 hsp_num: 12
+LUMT01004074.1;size=1
+gi|1043237169|gb|KT997880.1| Uncultured Mediterranean phage clone uvDeep-GF2-KM20-C152 genomic sequence	 query coverage: 0.168650430324	 identity: 0.802127659574	 hsp_num: 2
+LUMU01000016.1;size=1
+gi|557356549|dbj|AP013443.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G17, isolate: uvMED-CGR-C22C-MedDCM-OCT-S23-C7	 query coverage: 0.401367093482	 identity: 0.779614975788	 hsp_num: 7
+LUMU01000038.1;size=1
+gi|1043235226|gb|KT997872.1| Uncultured Mediterranean phage uvDeep-CGR2-AD8-C175, complete genome	 query coverage: 0.586528069172	 identity: 0.831225211705	 hsp_num: 11
+MDSV01146417.1;size=1
+gi|1433291670|gb|MH552566.1| CRESS virus sp. isolate ctch18, complete genome	 query coverage: 0.157196423421	 identity: 0.780797101449	 hsp_num: 1
+MDSY01008942.1;size=1
+gi|797192782|gb|KP994596.1| Pseudoalteromonas Phage H103, complete genome	 query coverage: 0.453567603291	 identity: 0.92865647946	 hsp_num: 27
+MDSY01152583.1;size=1
+gi|557356584|dbj|AP013478.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G18, isolate: uvMED-CGR-U-MedDCM-OCT-S26-C62	 query coverage: 0.27767214239	 identity: 0.765872576177	 hsp_num: 5
+MDSZ01085920.1;size=1
+gi|914293554|gb|KP784182.1| Uncultured virus clone SAR_ssMCP_Sept_2010_100m_27 major capsid protein gene, partial cds	 query coverage: 0.113067027759	 identity: 0.780198019802	 hsp_num: 1
+MDTC01245416.1;size=1
+gi|309386173|gb|GU244497.1| Cafeteria roenbergensis virus BV-PW1, complete genome	 query coverage: 0.170445660672	 identity: 0.729306487696	 hsp_num: 1
+MDTD01020518.1;size=1
+gi|429891112|gb|JX904254.1| Uncultured marine virus clone GOM00597, complete genome	 query coverage: 0.115721231767	 identity: 0.861111111111	 hsp_num: 1
+MDTD01116350.1;size=1
+gi|557356591|dbj|AP013485.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C27-MedDCM-OCT-S28-C53	 query coverage: 0.261620817844	 identity: 0.769939339474	 hsp_num: 7
+MDTE01001872.1;size=1
+gi|388482645|gb|AY939843.2| Prochlorococcus phage P-SSP7, complete genome	 query coverage: 0.342531705026	 identity: 0.782378495791	 hsp_num: 10
+MDTE01115057.1;size=1
+gi|291334877|gb|GU943030.1| Uncultured phage MedDCM-OCT-S08-C151 genomic sequence	 query coverage: 0.104144116283	 identity: 0.739172749392	 hsp_num: 2
+MDTG01070504.1;size=1
+gi|1332543244|gb|MG592422.1| Vibrio phage 1.038.O._10N.286.51.C2, partial genome	 query coverage: 0.369168133803	 identity: 0.803493191237	 hsp_num: 9
+MDTG01299307.1;size=1
+gi|557356638|dbj|AP013532.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G4, isolate: uvMED-CGR-U-MedDCM-OCT-S28-C22	 query coverage: 0.574861744693	 identity: 0.895692809593	 hsp_num: 13
+MPLT02004365.1;size=1
+gi|848235127|gb|KP690676.1| Uncultured virus clone contig su17000001 genomic sequence	 query coverage: 0.15928906774	 identity: 0.881742738589	 hsp_num: 2
+MPLT02335343.1;size=1
+gi|669205193|gb|KJ645900.1| Aureococcus anophagefferens virus isolate BtV-01, complete genome	 query coverage: 0.152732060566	 identity: 0.815450643777	 hsp_num: 1
+MPLU02181807.1;size=1
+gi|1043235349|gb|KT997874.1| Uncultured Mediterranean phage uvDeep-CGR2-KM23-C198, complete genome	 query coverage: 0.768924657738	 identity: 0.893389127764	 hsp_num: 14
+MPLU02182275.1;size=1
+gi|1436204325|gb|MH616935.1| Phage sp. isolate ctbc49, complete genome	 query coverage: 0.675542194546	 identity: 0.919405815424	 hsp_num: 7
+MPLU02188134.1;size=1
+gi|429891184|gb|JX904306.1| Uncultured marine virus clone GOM01764, complete genome	 query coverage: 0.480363786689	 identity: 0.819658119658	 hsp_num: 1
+NTLX01000013.1;size=1
+gi|291334877|gb|GU943030.1| Uncultured phage MedDCM-OCT-S08-C151 genomic sequence	 query coverage: 0.114405126776	 identity: 0.782566819167	 hsp_num: 1
+OCZA010000070.1;size=1
+gi|557356530|dbj|AP013424.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C55-MedDCM-OCT-S33-C61	 query coverage: 0.94546434668	 identity: 0.987992922144	 hsp_num: 3
+OJFP01014035.1;size=1
+gi|669205193|gb|KJ645900.1| Aureococcus anophagefferens virus isolate BtV-01, complete genome	 query coverage: 0.20764552563	 identity: 0.788405797101	 hsp_num: 3
+OJIK01000120.1;size=1
+gi|821459404|gb|KR029593.1| Uncultured marine virus isolate H4084976 genomic sequence	 query coverage: 0.125557507771	 identity: 0.803628601921	 hsp_num: 5
+OKRO01000038.1;size=1
+gi|1436218678|gb|MH617701.1| CRESS virus sp. isolate ctgc218, complete genome	 query coverage: 0.509420289855	 identity: 0.759722222222	 hsp_num: 2
+OKRO01000307.1;size=1
+gi|429891134|gb|JX904269.1| Uncultured marine virus clone GOM00740, complete genome	 query coverage: 0.817675159236	 identity: 0.863720073665	 hsp_num: 3
+OLKC01000039.1;size=1
+gi|530695382|gb|KC131025.1| Marine gokushovirus isolate SOG2, complete genome	 query coverage: 0.160781701088	 identity: 0.736698499318	 hsp_num: 1
+OLKC01000044.1;size=1
+gi|914293554|gb|KP784182.1| Uncultured virus clone SAR_ssMCP_Sept_2010_100m_27 major capsid protein gene, partial cds	 query coverage: 0.103331067301	 identity: 0.80777537797	 hsp_num: 1
+OLKC01000048.1;size=1
+gi|914293500|gb|KP784155.1| Uncultured virus clone SAR_ssMCP_Sept_2010_0m_17 major capsid protein gene, partial cds	 query coverage: 0.118577075099	 identity: 0.811650485437	 hsp_num: 1
+OLKC01000055.1;size=1
+gi|914293558|gb|KP784184.1| Uncultured virus clone SAR_ssMCP_Sept_2010_100m_29 major capsid protein gene, partial cds	 query coverage: 0.109634551495	 identity: 0.734042553191	 hsp_num: 1
+OLKC01000073.1;size=1
+gi|429891221|gb|JX904333.1| Uncultured marine virus clone GOM02962, complete genome	 query coverage: 0.205620877545	 identity: 0.775342465753	 hsp_num: 1
+OLKC01000133.1;size=1
+gi|1436210855|gb|MH617309.1| CRESS virus sp. isolate ctcb222, complete genome	 query coverage: 0.999260628466	 identity: 0.998151571165	 hsp_num: 2
+OLKC01000171.1;size=1
+gi|856947151|gb|KR186219.1| Asterias forbesi associated circular virus isolate SS-2A, complete genome	 query coverage: 0.855289028706	 identity: 0.816086760054	 hsp_num: 3
+OLKC01000176.1;size=1
+gi|856947151|gb|KR186219.1| Asterias forbesi associated circular virus isolate SS-2A, complete genome	 query coverage: 0.160855784469	 identity: 0.785542168675	 hsp_num: 1
+OLKC01000214.1;size=1
+gi|856947151|gb|KR186219.1| Asterias forbesi associated circular virus isolate SS-2A, complete genome	 query coverage: 0.140423764022	 identity: 0.778761061947	 hsp_num: 1
+OLKC01000234.1;size=1
+gi|429890878|gb|JX904086.1| Uncultured marine virus clone SOG00432, complete genome	 query coverage: 0.402044293015	 identity: 0.832810867294	 hsp_num: 2
+OLKC01000241.1;size=1
+gi|1436205614|gb|MH617033.1| CRESS virus sp. isolate ctcj21, complete genome	 query coverage: 0.456959314775	 identity: 0.8	 hsp_num: 2
+OLKC01000243.1;size=1
+gi|761263266|gb|KM874335.1| Avon-Heathcote Estuary associated circular virus 14 isolate AHEaCV-14-NZ-2438TU-2012, complete genome	 query coverage: 0.503436426117	 identity: 0.833192209992	 hsp_num: 1
+OLKC01000282.1;size=1
+gi|1098497728|gb|KX246260.1| Uncultured virus clone SdaCV1, complete genome	 query coverage: 0.958666666667	 identity: 0.857993586807	 hsp_num: 2
+OLKC01000401.1;size=1
+gi|1436216096|gb|MH617565.1| CRESS virus sp. isolate ctid250, complete genome	 query coverage: 0.548951048951	 identity: 0.987223168654	 hsp_num: 4
+OLKC01000419.1;size=1
+gi|848234829|gb|KP690523.1| Uncultured virus clone contig su1040000000 genomic sequence	 query coverage: 0.456389452333	 identity: 0.793216630197	 hsp_num: 2
+OLKC01000499.1;size=1
+gi|848234995|gb|KP690609.1| Uncultured virus clone contig su54000001 genomic sequence	 query coverage: 0.431309904153	 identity: 0.731470230863	 hsp_num: 1
+OLKC01000530.1;size=1
+gi|429891139|gb|JX904273.1| Uncultured marine virus clone GOM00815, complete genome	 query coverage: 0.450244698206	 identity: 0.848920863309	 hsp_num: 1
+OLKC01000557.1;size=1
+gi|1436200740|gb|MH616789.1| CRESS virus sp. isolate cthi333, complete genome	 query coverage: 0.935698447894	 identity: 0.917550058893	 hsp_num: 2
+OLKC01001017.1;size=1
+gi|429891134|gb|JX904269.1| Uncultured marine virus clone GOM00740, complete genome	 query coverage: 0.673370876911	 identity: 0.819861431871	 hsp_num: 3
+OLKC01001190.1;size=1
+gi|429891694|gb|JX904665.1| Uncultured marine virus clone SI04570, complete genome	 query coverage: 0.159153633855	 identity: 0.775862068966	 hsp_num: 1
+PVBE010737318.1;size=1
+gi|1436205672|gb|MH617036.1| Phage sp. isolate ctcd45, complete genome	 query coverage: 0.786818376986	 identity: 0.816882416397	 hsp_num: 2
+PVBE010780306.1;size=1
+gi|848235127|gb|KP690676.1| Uncultured virus clone contig su17000001 genomic sequence	 query coverage: 0.155635648755	 identity: 0.881742738589	 hsp_num: 2
+VMHT01000080.1;size=1
+gi|468641659|gb|HQ633071.1| Synechococcus phage S-SKS1 genomic sequence	 query coverage: 0.191156123748	 identity: 0.797333714913	 hsp_num: 33
+VMHT01006997.1;size=1
+gi|557356629|dbj|AP013523.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G3, isolate: uvMED-CGR-C7-MedDCM-OCT-S37-C8	 query coverage: 0.234636616634	 identity: 0.814972023924	 hsp_num: 4
+VMHT01018661.1;size=1
+gi|459348686|gb|HQ332140.1| Prochlorococcus phage P-GSP1 genomic sequence	 query coverage: 0.584995251662	 identity: 0.810104279036	 hsp_num: 12
+VMHT01035626.1;size=4
+gi|557356539|dbj|AP013433.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-U-MedDCM-OCT-S27-C44	 query coverage: 0.363379275444	 identity: 0.800129001048	 hsp_num: 8
+VMHT01038178.1;size=1
+gi|557356603|dbj|AP013497.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G19, isolate: uvMED-CGR-C68A-MedDCM-OCT-S35-C79	 query coverage: 0.459073025621	 identity: 0.814992791927	 hsp_num: 7
+VMHT01042194.1;size=4
+gi|557356539|dbj|AP013433.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-U-MedDCM-OCT-S27-C44	 query coverage: 0.354895365106	 identity: 0.80107393639	 hsp_num: 7
+VMHT01042701.1;size=1
+gi|448937034|gb|KC465901.1| Pelagibacter phage HTVC019P, complete genome	 query coverage: 0.717285866718	 identity: 0.833411606843	 hsp_num: 13
+VMHT01060678.1;size=1
+gi|557356479|dbj|AP013373.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G13, isolate: uvMED-CGR-C70A-MedDCM-OCT-S39-C80	 query coverage: 0.902705167173	 identity: 0.941033657044	 hsp_num: 13
+VMHT01065951.1;size=2
+gi|557356481|dbj|AP013375.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G13, isolate: uvMED-CGR-U-MedDCM-OCT-S29-C4	 query coverage: 0.858066208739	 identity: 0.909487881049	 hsp_num: 11
+VMHT01070605.1;size=1
+gi|461222037|gb|JF974321.1| Cyanophage MED4-117 genomic sequence	 query coverage: 0.17064125676	 identity: 0.76446957298	 hsp_num: 3
+VMHT01074200.1;size=1
+gi|557356517|dbj|AP013411.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C108A-MedDCM-OCT-S29-C43	 query coverage: 0.314559222746	 identity: 0.774529899296	 hsp_num: 7
+VMHT01085678.1;size=1
+gi|557356498|dbj|AP013392.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G15, isolate: uvMED-CGR-C6A-MedDCM-OCT-S43-C64	 query coverage: 0.750318471338	 identity: 0.900371975304	 hsp_num: 13
+VMHT01104151.1;size=3
+gi|557356515|dbj|AP013409.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C105A-MedDCM-OCT-S28-C49	 query coverage: 0.565180259867	 identity: 0.870448817631	 hsp_num: 13
+VMHT01127980.1;size=3
+gi|557356576|dbj|AP013470.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G18, isolate: uvMED-CGR-C56A-MedDCM-OCT-S32-C59	 query coverage: 0.140137005452	 identity: 0.763847821802	 hsp_num: 4
+VMHT01141380.1;size=1
+gi|557356528|dbj|AP013422.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C53A-MedDCM-OCT-S26-C61	 query coverage: 0.452616021283	 identity: 0.800938252821	 hsp_num: 9
+VMHT01142746.1;size=1
+gi|422902364|gb|JX519266.1| Uncultured Mediterranean phage MEDS3 group fosmid MedDCM-OCT-S16-C5, complete sequence	 query coverage: 0.391747336781	 identity: 0.88813864506	 hsp_num: 5
+VMHT01150079.1;size=2
+gi|557356626|dbj|AP013520.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G21, isolate: uvMED-CGR-U-MedDCM-OCT-S39-C26	 query coverage: 0.367749388047	 identity: 0.810471049323	 hsp_num: 9
+VMHT01152096.1;size=1
+gi|557356639|dbj|AP013533.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G4, isolate: uvMED-CGR-U-MedDCM-OCT-S38-C34	 query coverage: 0.599836756904	 identity: 0.84631947248	 hsp_num: 16
+VMHT01155269.1;size=1
+gi|1211046149|gb|KY052826.1| Uncultured virus clone vSAG-37-M8 genomic sequence	 query coverage: 0.155818860575	 identity: 0.773217034377	 hsp_num: 3
+VMHT01155377.1;size=1
+gi|557356527|dbj|AP013421.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C49A-MedDCM-OCT-S31-C44	 query coverage: 0.127253145902	 identity: 0.757635253054	 hsp_num: 6
+VMHT01156905.1;size=1
+gi|557356616|dbj|AP013510.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G20, isolate: uvMED-CGR-C101A-MedDCM-OCT-S30-C6	 query coverage: 0.126003052233	 identity: 0.771061216657	 hsp_num: 3
+VMHT01172696.1;size=1
+gi|557356508|dbj|AP013402.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G15, isolate: uvMED-CGR-U-MedDCM-OCT-S38-C27	 query coverage: 0.262844225236	 identity: 0.783371723155	 hsp_num: 5
+VMHT01175586.1;size=1
+gi|557356648|dbj|AP013542.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G8, isolate: uvMED-CGR-U-MedDCM-OCT-S35-C6	 query coverage: 0.243685391067	 identity: 0.748180924287	 hsp_num: 5
+VMHT01208616.1;size=1
+gi|557356517|dbj|AP013411.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C108A-MedDCM-OCT-S29-C43	 query coverage: 0.373336297202	 identity: 0.772530931986	 hsp_num: 8
+VMHT01212528.1;size=1
+gi|557356513|dbj|AP013407.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C10-MedDCM-OCT-S30-C55	 query coverage: 0.633005143277	 identity: 0.926750564698	 hsp_num: 10
+VMHT01213949.1;size=1
+gi|557356517|dbj|AP013411.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C108A-MedDCM-OCT-S29-C43	 query coverage: 0.314559222746	 identity: 0.774271195507	 hsp_num: 7
+VMHT01216113.1;size=1
+gi|557356529|dbj|AP013423.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G16, isolate: uvMED-CGR-C53A-MedDCM-OCT-S34-C54	 query coverage: 0.452906048602	 identity: 0.8036121673	 hsp_num: 9
+VMHT01220856.1;size=1
+gi|557356480|dbj|AP013374.1| Uncultured Mediterranean phage uvMED DNA, complete genome, group G13, isolate: uvMED-CGR-C78-MedDCM-OCT-S42-C9	 query coverage: 0.320354889039	 identity: 0.796616244892	 hsp_num: 6

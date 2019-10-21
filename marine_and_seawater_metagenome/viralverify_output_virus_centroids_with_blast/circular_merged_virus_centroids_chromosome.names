@@ -1,0 +1,82 @@
+FLOH01001579.1;size=1
+gi|1184809263|gb|CP020612.1| Paracoccus contaminans strain RKI 16-01929T=LMG 29738T=CCM 8701T=CIP 111112T, complete genome	 query coverage: 0.304597701149	 identity: 0.789528577388	 hsp_num: 3
+FLOH01002349.1;size=1
+gi|117607074|gb|CP000471.1| Magnetococcus marinus MC-1, complete genome	 query coverage: 0.152128401954	 identity: 0.790432801822	 hsp_num: 1
+LULI01001009.1;size=2
+gi|1338973579|gb|CP026412.1| Acinetobacter sp. ACNIH2 chromosome, complete genome	 query coverage: 0.263812372108	 identity: 0.797752808989	 hsp_num: 2
+LULS01000645.1;size=1
+gi|1403616548|emb|LS483472.1| Acinetobacter baumannii strain NCTC13421 genome assembly, chromosome: 1	 query coverage: 0.302390766694	 identity: 0.773589584625	 hsp_num: 10
+LUMD01000006.1;size=1
+gi|996023808|gb|CP013930.1| Alteromonas mediterranea strain U10, complete genome	 query coverage: 0.501602837687	 identity: 0.909591223433	 hsp_num: 30
+MAAB01019942.1;size=1
+gi|71143482|gb|CP000083.1| Colwellia psychrerythraea 34H, complete genome	 query coverage: 0.234452394056	 identity: 0.895131086142	 hsp_num: 8
+MAAC01016602.1;size=1
+gi|442799322|gb|CP001397.1| Nonlabens dokdonensis DSW-6, complete genome	 query coverage: 0.997508896797	 identity: 0.825730180807	 hsp_num: 3
+MDSY01152424.1;size=1
+gi|1436208671|gb|MH617190.1| Inoviridae sp. isolate ctjd25, complete genome	 query coverage: 0.346984363366	 identity: 0.768740031898	 hsp_num: 1
+MDSZ01085446.1;size=1
+gi|1436208791|gb|MH617201.1| Microviridae sp. isolate ctca97, complete genome	 query coverage: 0.241272118604	 identity: 0.7236328125	 hsp_num: 1
+MDSZ01260067.1;size=1
+gi|1175431232|emb|LT838813.1| Aquiflexum balticum DSM 16537 genome assembly, chromosome: I	 query coverage: 0.137155205288	 identity: 0.770394133822	 hsp_num: 2
+MDTB01025159.1;size=1
+gi|1436213162|gb|MH617417.1| Microviridae sp. isolate ctce43, complete genome	 query coverage: 0.760302049622	 identity: 0.804317353518	 hsp_num: 3
+MDTB01086806.1;size=1
+gi|1436207332|gb|MH617123.1| Microviridae sp. isolate ctcd70, complete genome	 query coverage: 0.133967959136	 identity: 0.780821917808	 hsp_num: 1
+MDTC01136431.1;size=1
+gi|1436207332|gb|MH617123.1| Microviridae sp. isolate ctcd70, complete genome	 query coverage: 0.229822485207	 identity: 0.733805668016	 hsp_num: 1
+MDTG01049936.1;size=1
+gi|1337342338|gb|CP014042.2| Vibrio mimicus strain ATCC 33654 chromosome 1, complete sequence	 query coverage: 0.469561845677	 identity: 0.723524656427	 hsp_num: 4
+MDTG01238591.1;size=1
+gi|1169611727|gb|CP020384.1| Rhodovulum sp. MB263, complete genome	 query coverage: 0.351089335974	 identity: 0.803025527892	 hsp_num: 9
+MDTG01239970.1;size=1
+gi|1436207332|gb|MH617123.1| Microviridae sp. isolate ctcd70, complete genome	 query coverage: 0.229318878152	 identity: 0.750250752257	 hsp_num: 1
+MDTG01240435.1;size=1
+gi|1436213162|gb|MH617417.1| Microviridae sp. isolate ctce43, complete genome	 query coverage: 0.556142947769	 identity: 0.778153153153	 hsp_num: 2
+MDTG01428234.1;size=1
+gi|1436207332|gb|MH617123.1| Microviridae sp. isolate ctcd70, complete genome	 query coverage: 0.728068155653	 identity: 0.773478939158	 hsp_num: 2
+MEHZ011465439.1;size=1
+gi|1069148285|gb|CP017259.1| Formosa sp. Hel3_A1_48, complete genome	 query coverage: 0.183962264151	 identity: 0.87	 hsp_num: 1
+MPMD02022351.1;size=1
+gi|1031970224|gb|CP015658.1| Trypanosoma cruzi cruzi strain Sylvio X10/cl1 chromosome TcI8 sequence	 query coverage: 0.173469387755	 identity: 0.878671119103	 hsp_num: 203
+OANK01002956.1;size=2
+gi|930356181|gb|CP012678.1| Psychrobacter urativorans strain R10.10B, complete genome	 query coverage: 0.121061359867	 identity: 0.774834437086	 hsp_num: 1
+OJEX01000254.1;size=1
+gi|1172624823|gb|CP014943.1| Colwellia sp. PAMC 21821, complete genome	 query coverage: 0.155880522713	 identity: 0.943521594684	 hsp_num: 2
+OKRO01000002.1;size=1
+gi|1436212643|gb|MH617399.1| Circoviridae sp. isolate ctce76, complete genome	 query coverage: 0.17514871117	 identity: 0.826466916355	 hsp_num: 1
+OLHJ01001343.1;size=1
+gi|1345474566|gb|CP014037.1| Vibrio diabolicus strain FDAARGOS_105 chromosome 2, complete sequence	 query coverage: 0.18062088429	 identity: 0.726342710997	 hsp_num: 4
+OLHW01000235.1;size=1
+gi|1142996804|gb|CP010084.1| Vibrio anguillarum strain DSM 21597 chromosome I sequence	 query coverage: 0.169149353195	 identity: 0.931113662457	 hsp_num: 1
+OLKC01000056.1;size=1
+gi|1436209735|gb|MH617250.1| Microviridae sp. isolate ctge89, complete genome	 query coverage: 0.588333333333	 identity: 0.729370355886	 hsp_num: 1
+OLKC01000221.1;size=1
+gi|1436199337|gb|MH616644.1| Circoviridae sp. isolate ctbc359, complete genome	 query coverage: 0.999582114501	 identity: 0.991228070175	 hsp_num: 2
+VMHT01002995.1;size=1
+gi|1436205598|gb|MH617030.1| Microviridae sp. isolate ctbd804, complete genome	 query coverage: 0.154397520341	 identity: 0.739877300613	 hsp_num: 1
+VMHT01007020.1;size=1
+gi|1436207325|gb|MH617122.1| Microviridae sp. isolate ctcf586, complete genome	 query coverage: 0.174492753623	 identity: 0.744111349036	 hsp_num: 1
+VMHT01024968.1;size=2
+gi|1341756973|gb|CP026544.1| Cupriavidus metallidurans strain Ni-2 chromosome, complete genome	 query coverage: 0.11517627015	 identity: 0.781354670636	 hsp_num: 4
+VMHT01044723.1;size=1
+gi|1436207325|gb|MH617122.1| Microviridae sp. isolate ctcf586, complete genome	 query coverage: 0.167501391208	 identity: 0.740621650589	 hsp_num: 1
+VMHT01061444.1;size=1
+gi|1436208689|gb|MH617194.1| Microviridae sp. isolate ctbf575, complete genome	 query coverage: 0.169884169884	 identity: 0.743966421826	 hsp_num: 1
+VMHT01088571.1;size=1
+gi|1436207345|gb|MH617125.1| Microviridae sp. isolate ctcd912, complete genome	 query coverage: 0.175438596491	 identity: 0.713530655391	 hsp_num: 1
+VMHT01097695.1;size=1
+gi|1436207325|gb|MH617122.1| Microviridae sp. isolate ctcf586, complete genome	 query coverage: 0.176608187135	 identity: 0.742279020234	 hsp_num: 1
+VMHT01106446.1;size=1
+gi|1436207325|gb|MH617122.1| Microviridae sp. isolate ctcf586, complete genome	 query coverage: 0.176024868856	 identity: 0.735889243876	 hsp_num: 1
+VMHT01114057.1;size=1
+gi|1436206660|gb|MH617096.1| Microviridae sp. isolate ctch906, complete genome	 query coverage: 0.12692026335	 identity: 0.740845070423	 hsp_num: 1
+VMHT01151842.1;size=1
+gi|1436207325|gb|MH617122.1| Microviridae sp. isolate ctcf586, complete genome	 query coverage: 0.175929549902	 identity: 0.738428417653	 hsp_num: 1
+VMHT01157174.1;size=1
+gi|1436214800|gb|MH617495.1| Microviridae sp. isolate ctca896, complete genome	 query coverage: 0.170267301355	 identity: 0.710309278351	 hsp_num: 1
+VMHT01167191.1;size=1
+gi|1436205546|gb|MH617027.1| Microviridae sp. isolate ctda548, complete genome	 query coverage: 0.159122562674	 identity: 0.723628691983	 hsp_num: 1
+VMHT01210830.1;size=1
+gi|1436212179|gb|MH617366.1| Microviridae sp. isolate ctca596, complete genome	 query coverage: 0.13310518732	 identity: 0.720105124836	 hsp_num: 1
+VMHT01218022.1;size=1
+gi|292663142|gb|CP001751.1| Candidatus Puniceispirillum marinum IMCC1322, complete genome	 query coverage: 0.112052368117	 identity: 0.842905405405	 hsp_num: 7
