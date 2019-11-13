@@ -17,7 +17,7 @@ sample_list=[]
 
 for id_l in spl:
     joined=",".join(id_l)
-    handle = Entrez.esummary(db="assembly", id=joined, retmax = 10500)
+    handle = Entrez.esummary(db="assembly", id=joined, retmax=10500)
     entry = Entrez.read(handle)
     elems = entry["DocumentSummarySet"]["DocumentSummary"]
     print ("got summaries")
@@ -25,9 +25,10 @@ for id_l in spl:
     for elem in elems:
         i += 1
         if i % 500 == 0:
-            print i
+            print(i)
+        id = elem.attributes["uid"]
         taxid = elem["Taxid"]
-        gbid =elem["GbUid"]
+        gbid = elem["GbUid"]
         acc = elem["AssemblyAccession"]
         taxid = elem["Taxid"]
         orgn = elem["Organism"]
@@ -35,9 +36,9 @@ for id_l in spl:
         spname = elem["SpeciesName"]
         size = elem["Meta"].split("</Stat>")[14].split(">")[-1]
 
-        sample_list.append([gbid,acc,taxid,orgn,sptaxid,spname,size])    
+        sample_list.append([id, gbid, acc, taxid, orgn, sptaxid, spname, size])
     
 with open('assembly_stats.txt', 'w') as f:
-    f.write("# GbID,Accession,TaxID,Organism,SpeciesTaxID,SpeciesName,Size" + "\n")
+    f.write("# id, GbID,Accession,TaxID,Organism,SpeciesTaxID,SpeciesName,Size" + "\n")
     for item in sample_list:
         f.write("%s\n" % ",".join(item))
