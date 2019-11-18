@@ -1,0 +1,818 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>LULX01000886.1;size=5_7 # 4421 # 4747 # 1 # ID=344_7;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.391</BlastOutput_query-def>
+  <BlastOutput_query-len>109</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>LULX01000886.1;size=5_7 # 4421 # 4747 # 1 # ID=344_7;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.391</Iteration_query-def>
+  <Iteration_query-len>109</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1436199724|gb|AXH73371.1|</Hit_id>
+  <Hit_def>putative minor coat protein [Inoviridae sp.]</Hit_def>
+  <Hit_accession>AXH73371</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.9593</Hsp_bit-score>
+      <Hsp_score>206</Hsp_score>
+      <Hsp_evalue>1.16248e-18</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>58</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>99</Hsp_align-len>
+      <Hsp_qseq>GQW--IVDIIYQGVLTLTTFIADVFFVVLESVMTGAIALLDTFGTGLDGLNPTSYIQAIPSEVKGMMVATGFNECISIIVTAIGIRMILQIIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>ARWNEFVDYLYQIFISLVDLLKDLLFFVIDSLFAIVLFFLDMLGDLFTGLNPLQYFSLIPPETQYYMAVCGFNESMSMIVSALIIRMFLQLIPFVRLGS</Hsp_hseq>
+      <Hsp_midline> +W   VD +YQ  ++L   + D+ F V++S+    +  LD  G    GLNP  Y   IP E +  M   GFNE +S+IV+A+ IRM LQ+IPFVR GS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1247394703|gb|PCI54392.1|</Hit_id>
+  <Hit_def>hypothetical protein COB45_08410 [Gammaproteobacteria bacterium]</Hit_def>
+  <Hit_accession>PCI54392</Hit_accession>
+  <Hit_len>101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>82.4185</Hsp_bit-score>
+      <Hsp_score>202</Hsp_score>
+      <Hsp_evalue>4.44756e-18</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>VDIIYQGVLTLTTFIADVFFVVLESVMTGAIALLDTFGTGLDGLNPTSYIQAIPSEVKGMMVATGFNECISIIVTAIGIRMILQIIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>VKYIWDVCLSVFGFFKDMFWWVLDTIFSIGQTMLGSVSNGLSNLNPLMYFDSIPSSTKWFMNAVGFNESMGIIITAITIRFLMQAIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>V  I+   L++  F  D+F+ VL+++ +    +L +   GL  LNP  Y  +IPS  K  M A GFNE + II+TAI IR ++Q IPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|696551938|ref|WP_033084601.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Colwellia psychrerythraea] &gt;gi|694333239|gb|KGJ86459.1| Protein of unknown function DUF2523 [Colwellia psychrerythraea]</Hit_def>
+  <Hit_accession>WP_033084601</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>80.8777</Hsp_bit-score>
+      <Hsp_score>198</Hsp_score>
+      <Hsp_evalue>2.32475e-17</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>VDIIYQGVLTLTTFIADVFFVVLESVMTGAIALLDTFGTGLDGLNPTSYIQAIPSEVKGMMVATGFNECISIIVTAIGIRMILQIIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>IDFLWRLVLSIYDMLKDFFMWCIDSLMDVAIVILDGLGSIMDGLDVAKYFTMLPPETIYMLKIIGFSEAMGMIVTCIGIRFIIQMIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>+D +++ VL++   + D F   ++S+M  AI +LD  G+ +DGL+   Y   +P E   M+   GF+E + +IVT IGIR I+Q+IPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|500172435|ref|WP_011846860.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Shewanella baltica] &gt;gi|125997609|gb|ABN61684.1| hypothetical protein Sbal_2188 [Shewanella baltica OS155] &gt;gi|334863546|gb|AEH14017.1| Protein of unknown function DUF2523 [Shewanella baltica OS117]</Hit_def>
+  <Hit_accession>WP_011846860</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.337</Hsp_bit-score>
+      <Hsp_score>194</Hsp_score>
+      <Hsp_evalue>7.05754e-17</Hsp_evalue>
+      <Hsp_query-from>16</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>VDIIYQGVLTLTTFIADVFFVVLESVMTGAIALLDTFGTGLDGLNPTSYIQAIPSEVKGMMVATGFNECISIIVTAIGIRMILQIIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>VDYLYQIFTSAVDFLKDFLWWVLDNLFGAVLFIIDGLGSLFAGLNPLQYFSIIPPEVQYYMAICGFNESMGMIVTALSIRFILQLIPFVRLGS</Hsp_hseq>
+      <Hsp_midline>VD +YQ   +   F+ D  + VL+++    + ++D  G+   GLNP  Y   IP EV+  M   GFNE + +IVTA+ IR ILQ+IPFVR GS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1308635035|gb|PKM20076.1|</Hit_id>
+  <Hit_def>VSK receptor [Gammaproteobacteria bacterium HGW-Gammaproteobacteria-15]</Hit_def>
+  <Hit_accession>PKM20076</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>5.65567e-15</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>108</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>60</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>105</Hsp_align-len>
+      <Hsp_qseq>MWQSVKDFGQWIVDIIYQGVLTLTTFIADVFFVVLESVMTGAIALLDTFGTGLDGLNPTSYIQAIPSEVKGMMVATGFNECISIIVTAIGIRMILQIIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MPQWLIDFGNWLLDILKTMANTLLTMMKDVFLFAIEQLLILVNFILGTMGNLFEGLNFAQYFDGIPPEVAWVMSQIGFGQAMTMVIGSLIIRFFLQLIPFVRLGS</Hsp_hseq>
+      <Hsp_midline>M Q + DFG W++DI+     TL T + DVF   +E ++     +L T G   +GLN   Y   IP EV  +M   GF + +++++ ++ IR  LQ+IPFVR GS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>77</Statistics_hsp-len>
+      <Statistics_eff-space>2041378665280</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>MDTG01247374.1;size=1_9 # 5574 # 5879 # -1 # ID=616_9;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.529</Iteration_query-def>
+  <Iteration_query-len>102</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|664808130|gb|KES21075.1|</Hit_id>
+  <Hit_def>hypothetical protein FG99_26915 [Pseudomonas sp. AAC]</Hit_def>
+  <Hit_accession>KES21075</Hit_accession>
+  <Hit_len>98</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.5741</Hsp_bit-score>
+      <Hsp_score>205</Hsp_score>
+      <Hsp_evalue>1.10462e-18</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>101</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>98</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>98</Hsp_align-len>
+      <Hsp_qseq>LINFIKGIFSFLGDFWGFLQDVILWAPRAILSLIVDGLLSLLGSIPAPAFVQSIGGIFAAIPPGVVYFTSLFQLDFGIGVCMAALVLRFVIRLMPFIG</Hsp_qseq>
+      <Hsp_hseq>MIDMLDWLKSWLNDILKWFVDWAEWIPKKIYSVAMEGIGKFLSAIPVPDFMSQAGSAFAGIPSSVIWFASTFELSFGIKVCLAALLARFILRRIPFIG</Hsp_hseq>
+      <Hsp_midline>+I+ +  + S+L D   +  D   W P+ I S+ ++G+   L +IP P F+   G  FA IP  V++F S F+L FGI VC+AAL+ RF++R +PFIG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|966457834|ref|WP_058491135.1|</Hit_id>
+  <Hit_def>hypothetical protein [Pseudomonas sp. EGD-AKN5] &gt;gi|960440059|gb|KSW21487.1| hypothetical protein AOX63_08390 [Pseudomonas sp. ADP] &gt;gi|1038993254|gb|OBP12045.1| hypothetical protein BAE52_06115 [Pseudomonas sp. EGD-AKN5]</Hit_def>
+  <Hit_accession>WP_058491135</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.1889</Hsp_bit-score>
+      <Hsp_score>204</Hsp_score>
+      <Hsp_evalue>1.32359e-18</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>101</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>SFLGDFWGFLQDVILWAPRAILSLIVDGLLSLLGSIPAPAFVQSIGGIFAAIPPGVVYFTSLFQLDFGIGVCMAALVLRFVIRLMPFIG</Hsp_qseq>
+      <Hsp_hseq>SWLNDILKWFVDWAEWIPKKIYSVAMEGIGKFLNAIPVPDFMSQAGGAFAGIPSSVMWFASTFELSFGIKVCLAALLARFILRRIPFIG</Hsp_hseq>
+      <Hsp_midline>S+L D   +  D   W P+ I S+ ++G+   L +IP P F+   GG FA IP  V++F S F+L FGI VC+AAL+ RF++R +PFIG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|917272520|ref|WP_051879232.1|</Hit_id>
+  <Hit_def>hypothetical protein [Pseudomonas sp. AAC]</Hit_def>
+  <Hit_accession>WP_051879232</Hit_accession>
+  <Hit_len>95</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>5.29399e-18</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>101</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>95</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>SFLGDFWGFLQDVILWAPRAILSLIVDGLLSLLGSIPAPAFVQSIGGIFAAIPPGVVYFTSLFQLDFGIGVCMAALVLRFVIRLMPFIG</Hsp_qseq>
+      <Hsp_hseq>SWLNDILKWFVDWAEWIPKKIYSVAMEGIGKFLSAIPVPDFMSQAGSAFAGIPSSVIWFASTFELSFGIKVCLAALLARFILRRIPFIG</Hsp_hseq>
+      <Hsp_midline>S+L D   +  D   W P+ I S+ ++G+   L +IP P F+   G  FA IP  V++F S F+L FGI VC+AAL+ RF++R +PFIG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1183672803|ref|WP_084904820.1|</Hit_id>
+  <Hit_def>hypothetical protein [Pseudomonas stutzeri] &gt;gi|1187395983|gb|OSO75151.1| hypothetical protein B6N17_000935 [Pseudomonas stutzeri]</Hit_def>
+  <Hit_accession>WP_084904820</Hit_accession>
+  <Hit_len>91</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>1.94337e-16</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>101</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>91</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>56</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>SFLGDFWGFLQDVILWAPRAILSLIVDGLLSLLGSIPAPAFVQSIGGIFAAIPPGVVYFTSLFQLDFGIGVCMAALVLRFVIRLMPFIG</Hsp_qseq>
+      <Hsp_hseq>DLLSDFAGWLKDVLLWVPRKLWAELLDGLASLLTAIPTPDFVIQAQNAFGGIPANVVFFATKFAVPEGIAMALAAYGIRFLIRRIPIIG</Hsp_hseq>
+      <Hsp_midline>  L DF G+L+DV+LW PR + + ++DGL SLL +IP P FV      F  IP  VV+F + F +  GI + +AA  +RF+IR +P IG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1088419907|gb|OHC58114.1|</Hit_id>
+  <Hit_def>hypothetical protein A3J25_03855 [Pseudomonadales bacterium RIFCSPLOWO2_02_FULL_63_210]</Hit_def>
+  <Hit_accession>OHC58114</Hit_accession>
+  <Hit_len>99</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.7962</Hsp_bit-score>
+      <Hsp_score>190</Hsp_score>
+      <Hsp_evalue>2.22546e-16</Hsp_evalue>
+      <Hsp_query-from>21</Hsp_query-from>
+      <Hsp_query-to>101</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>99</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>54</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>81</Hsp_align-len>
+      <Hsp_qseq>FLQDVILWAPRAILSLIVDGLLSLLGSIPAPAFVQSIGGIFAAIPPGVVYFTSLFQLDFGIGVCMAALVLRFVIRLMPFIG</Hsp_qseq>
+      <Hsp_hseq>WLLDLVAWVPKKIWELLLDALASAIEAIPAPGFVSSAGGWFGGIPETVIYFGQFFAVAEGLGMIMSALVLRFLLRRIPIIG</Hsp_hseq>
+      <Hsp_midline>+L D++ W P+ I  L++D L S + +IPAP FV S GG F  IP  V+YF   F +  G+G+ M+ALVLRF++R +P IG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>71</Statistics_hsp-len>
+      <Statistics_eff-space>2018931142736</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>OCVR010006078.1;size=1_15 # 6562 # 6900 # 1 # ID=726_15;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.478</Iteration_query-def>
+  <Iteration_query-len>113</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|730351518|ref|WP_033995398.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1245048584|gb|PBW79968.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1245048594|gb|PBW79978.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_033995398</Hit_accession>
+  <Hit_len>112</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>158.303</Hsp_bit-score>
+      <Hsp_score>399</Hsp_score>
+      <Hsp_evalue>7.93751e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MKGIFDFFTALLSKIAQFAEWLILVIKRVFLDAFMFVQDCVCWVFESGLAIALAALNAIEVPFDPGTYYSMIPPEIAGVLGYIGIPQAISIIVGALIIRFLLQTIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MAGVFKFFTALLAKIVGFAKWLLLVFDQIFKDAWNMVTDVVCWVFEQTLSIAASALDAITIPFNPQTYYAMIPAEAANMLGYVGVPQAITLIVGALVVRFLLQTIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>M G+F FFTALL+KI  FA+WL+LV  ++F DA+  V D VCWVFE  L+IA +AL+AI +PF+P TYY+MIP E A +LGY+G+PQAI++IVGAL++RFLLQTIPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|685897253|ref|WP_031637909.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|725654177|gb|KHE32096.1| hypothetical protein LH31_26235 [Pseudomonas aeruginosa] &gt;gi|1206792564|gb|OWI92111.1| hypothetical protein CDC19_22000 [Pseudomonas aeruginosa] &gt;gi|1206792573|gb|OWI92120.1| hypothetical protein CDC19_22050 [Pseudomonas aeruginosa] &gt;gi|1521876084|gb|RPW94404.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1544721360|gb|RUI11596.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_031637909</Hit_accession>
+  <Hit_len>112</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.918</Hsp_bit-score>
+      <Hsp_score>398</Hsp_score>
+      <Hsp_evalue>9.35632e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MKGIFDFFTALLSKIAQFAEWLILVIKRVFLDAFMFVQDCVCWVFESGLAIALAALNAIEVPFDPGTYYSMIPPEIAGVLGYIGIPQAISIIVGALIIRFLLQTIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MAGVFKFFTALLAKIVGFAKWLLLVFDQIFKDAWNMVTDVVCWVFEQTLSIAASALDAIAIPFNPQTYYAMIPAEAANMLGYVGVPQAITLIVGALVVRFLLQTIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>M G+F FFTALL+KI  FA+WL+LV  ++F DA+  V D VCWVFE  L+IA +AL+AI +PF+P TYY+MIP E A +LGY+G+PQAI++IVGAL++RFLLQTIPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|544848860|ref|WP_021264007.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|532135339|gb|EQL42711.1| hypothetical protein M770_35135 [Pseudomonas aeruginosa VRFPA03] &gt;gi|953180282|gb|KRV00438.1| hypothetical protein AN457_29580 [Pseudomonas aeruginosa] &gt;gi|956066541|gb|KSF26971.1| hypothetical protein AO935_03655 [Pseudomonas aeruginosa] &gt;gi|956715249|gb|KSL64597.1| hypothetical protein APA58_24535 [Pseudomonas aeruginosa] &gt;gi|956836223|gb|KSM83213.1| hypothetical protein APA73_14610 [Pseudomonas aeruginosa] &gt;gi|957320457|gb|KSR57216.1| hypothetical protein APB46_21090 [Pseudomonas aeruginosa] &gt;gi|1078450640|gb|OFB75128.1| hypothetical protein AN471_31900 [Pseudomonas aeruginosa] &gt;gi|1351664285|gb|PQM12399.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1351664295|gb|PQM12409.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1454829362|gb|RFH28727.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1454829370|gb|RFH28735.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1454877800|gb|RFH65341.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1521147660|gb|RPP72224.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1521165158|gb|RPP89550.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1523037777|gb|RQI41864.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1523060133|gb|RQI64067.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1598565434|gb|TEE64696.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1698710423|gb|TQH00465.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1698710431|gb|TQH00473.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1698738475|gb|TQH28014.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|1746928103|gb|KAA5655835.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_021264007</Hit_accession>
+  <Hit_len>112</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.918</Hsp_bit-score>
+      <Hsp_score>398</Hsp_score>
+      <Hsp_evalue>9.77576e-48</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MKGIFDFFTALLSKIAQFAEWLILVIKRVFLDAFMFVQDCVCWVFESGLAIALAALNAIEVPFDPGTYYSMIPPEIAGVLGYIGIPQAISIIVGALIIRFLLQTIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MAGVFKFFTALLAKIVGFAKWLLLVFAQIFKDAWNMVTDVVCWVFEQTLSIAASALDAIAIPFNPQTYYAMIPAEAANMLGYVGVPQAITLIVGALVVRFLLQTIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>M G+F FFTALL+KI  FA+WL+LV  ++F DA+  V D VCWVFE  L+IA +AL+AI +PF+P TYY+MIP E A +LGY+G+PQAI++IVGAL++RFLLQTIPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1391280522|ref|WP_109410287.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_109410287</Hit_accession>
+  <Hit_len>112</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.918</Hsp_bit-score>
+      <Hsp_score>398</Hsp_score>
+      <Hsp_evalue>1.21724e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>73</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MKGIFDFFTALLSKIAQFAEWLILVIKRVFLDAFMFVQDCVCWVFESGLAIALAALNAIEVPFDPGTYYSMIPPEIAGVLGYIGIPQAISIIVGALIIRFLLQTIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MAGVFKFFTALLAKIVGFAKWLLLVFAQIFKDAWNMVTDVVCWVFEQTLSIAATALDAIAIPFNPQTYYAMIPAEAANMLGYVGVPQAITLIVGALVVRFLLQTIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>M G+F FFTALL+KI  FA+WL+LV  ++F DA+  V D VCWVFE  L+IA  AL+AI +PF+P TYY+MIP E A +LGY+G+PQAI++IVGAL++RFLLQTIPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|685890297|ref|WP_031631646.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Pseudomonas aeruginosa] &gt;gi|611823602|gb|EZO00359.1| hypothetical protein AJ65_06207 [Pseudomonas aeruginosa 3578] &gt;gi|1521414932|gb|RPS37395.1| DUF2523 domain-containing protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_031631646</Hit_accession>
+  <Hit_len>112</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>157.532</Hsp_bit-score>
+      <Hsp_score>397</Hsp_score>
+      <Hsp_evalue>1.35828e-47</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>112</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>112</Hsp_align-len>
+      <Hsp_qseq>MKGIFDFFTALLSKIAQFAEWLILVIKRVFLDAFMFVQDCVCWVFESGLAIALAALNAIEVPFDPGTYYSMIPPEIAGVLGYIGIPQAISIIVGALIIRFLLQTIPFVRWGS</Hsp_qseq>
+      <Hsp_hseq>MAGVFKFFTALLAKIVGFAKWLLLVFAQIFKDAWNMVTDVVCWVFEQTLSIAASALDAVAIPFNPQTYYAMIPAEAANMLGYVGVPQAITLIVGALVVRFLLQTIPFVRWGS</Hsp_hseq>
+      <Hsp_midline>M G+F FFTALL+KI  FA+WL+LV  ++F DA+  V D VCWVFE  L+IA +AL+A+ +PF+P TYY+MIP E A +LGY+G+PQAI++IVGAL++RFLLQTIPFVRWGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>81</Statistics_hsp-len>
+      <Statistics_eff-space>2012925806272</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_4</Iteration_query-ID>
+  <Iteration_query-def>OLHJ01001343.1;size=1_1 # 1 # 231 # 1 # ID=869_1;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;gc_cont=0.416</Iteration_query-def>
+  <Iteration_query-len>77</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1722129264|ref|WP_146449886.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio kanaloae]</Hit_def>
+  <Hit_accession>WP_146449886</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>6.92173e-44</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>VFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>+FIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1330517798|ref|WP_102467478.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DUF2523 domain-containing protein [Vibrio] &gt;gi|1326327546|gb|PMF30560.1| VSK receptor [Vibrio splendidus] &gt;gi|1326411556|gb|PMG11463.1| VSK receptor [Vibrio cyclitrophicus] &gt;gi|1326986194|gb|PML57514.1| VSK receptor [Vibrio lentus] &gt;gi|1327083707|gb|PMM51374.1| VSK receptor [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_102467478</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>146.362</Hsp_bit-score>
+      <Hsp_score>368</Hsp_score>
+      <Hsp_evalue>8.3413e-44</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>76</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>VFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>+FIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1040480334|ref|WP_065105751.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DUF2523 domain-containing protein [Vibrio] &gt;gi|1040443381|gb|OBT16573.1| VSK receptor [Vibrio tasmaniensis]</Hit_def>
+  <Hit_accession>WP_065105751</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>142.895</Hsp_bit-score>
+      <Hsp_score>359</Hsp_score>
+      <Hsp_evalue>2.07758e-42</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>72</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>VFIWALDEILSLCQALLDWVFAFFEPMDISQYLTAIPSEISWVLSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>+FIWALDEILSLCQ+LLDWVFAFFEPMDISQYLTAIPSE+SWVLSAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1634412008|ref|WP_137003148.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio lentus] &gt;gi|1633151045|gb|TKG22577.1| DUF2523 domain-containing protein [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_137003148</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>139.428</Hsp_bit-score>
+      <Hsp_score>350</Hsp_score>
+      <Hsp_evalue>3.52354e-41</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>70</Hsp_identity>
+      <Hsp_positive>74</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>VFIWALDEILSLCQALLDWVFAFFEPIDISQYLTTIPSEISWVLSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>+FIWALDEILSLCQ+LLDWVFAFFEP+DISQYLT IPSE+SWVLSAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1330693900|ref|WP_102561625.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio lentus] &gt;gi|1327050952|gb|PMM19642.1| VSK receptor [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_102561625</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>138.272</Hsp_bit-score>
+      <Hsp_score>347</Hsp_score>
+      <Hsp_evalue>1.28599e-40</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>76</Hsp_query-to>
+      <Hsp_hit-from>29</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>68</Hsp_identity>
+      <Hsp_positive>75</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>76</Hsp_align-len>
+      <Hsp_qseq>MFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>VFIWALDEILTLCQALIDWVFSFFEPIDISQYLTAIPSEVSWVMSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>+FIWALDEIL+LCQ+L+DWVF+FFEP+DISQYLTAIPSEVSWV+SAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>48</Statistics_hsp-len>
+      <Statistics_eff-space>2036943590611</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_5</Iteration_query-ID>
+  <Iteration_query-def>OLHJ01001343.1;size=1_11 # 6240 # 6554 # 1 # ID=869_11;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.387</Iteration_query-def>
+  <Iteration_query-len>105</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1330517798|ref|WP_102467478.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DUF2523 domain-containing protein [Vibrio] &gt;gi|1326327546|gb|PMF30560.1| VSK receptor [Vibrio splendidus] &gt;gi|1326411556|gb|PMG11463.1| VSK receptor [Vibrio cyclitrophicus] &gt;gi|1326986194|gb|PML57514.1| VSK receptor [Vibrio lentus] &gt;gi|1327083707|gb|PMM51374.1| VSK receptor [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_102467478</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>201.06</Hsp_bit-score>
+      <Hsp_score>510</Hsp_score>
+      <Hsp_evalue>5.28918e-65</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>104</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1722129264|ref|WP_146449886.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio kanaloae]</Hit_def>
+  <Hit_accession>WP_146449886</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>201.06</Hsp_bit-score>
+      <Hsp_score>510</Hsp_score>
+      <Hsp_evalue>5.52662e-65</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>103</Hsp_identity>
+      <Hsp_positive>104</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>MDWIVDLFNKLIEFLYRLVISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>MDWIVDLFNKLIEFLYRL+ISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1040480334|ref|WP_065105751.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DUF2523 domain-containing protein [Vibrio] &gt;gi|1040443381|gb|OBT16573.1| VSK receptor [Vibrio tasmaniensis]</Hit_def>
+  <Hit_accession>WP_065105751</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>197.593</Hsp_bit-score>
+      <Hsp_score>501</Hsp_score>
+      <Hsp_evalue>1.09457e-63</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>101</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQALLDWVFAFFEPMDISQYLTAIPSEISWVLSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQ+LLDWVFAFFEPMDISQYLTAIPSE+SWVLSAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1634412008|ref|WP_137003148.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio lentus] &gt;gi|1633151045|gb|TKG22577.1| DUF2523 domain-containing protein [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_137003148</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>192.971</Hsp_bit-score>
+      <Hsp_score>489</Hsp_score>
+      <Hsp_evalue>8.09158e-62</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>98</Hsp_identity>
+      <Hsp_positive>102</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>MDWIVELFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQALLDWVFAFFEPIDISQYLTTIPSEISWVLSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>MDWIV+LFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQ+LLDWVFAFFEP+DISQYLT IPSE+SWVLSAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1330693900|ref|WP_102561625.1|</Hit_id>
+  <Hit_def>DUF2523 domain-containing protein [Vibrio lentus] &gt;gi|1327050952|gb|PMM19642.1| VSK receptor [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_102561625</Hit_accession>
+  <Hit_len>104</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.815</Hsp_bit-score>
+      <Hsp_score>486</Hsp_score>
+      <Hsp_evalue>2.76662e-61</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>104</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>104</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>103</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>104</Hsp_align-len>
+      <Hsp_qseq>MDWIVDLFNKLIEFLYRLIISLVDMIKDVFIWALDEILSLCQSLLDWVFAFFEPMDISQYLTAIPSEVSWVLSAIGLPQGLSIILASLVARLLLQLIPFTRLGS</Hsp_qseq>
+      <Hsp_hseq>MDWIVELFNKLIEFLYRLIISLVDMIKDVFIWALDEILTLCQALIDWVFSFFEPIDISQYLTAIPSEVSWVMSAIGLPQALSIILASLVARLLLQLIPFTRLGS</Hsp_hseq>
+      <Hsp_midline>MDWIV+LFNKLIEFLYRLIISLVDMIKDVFIWALDEIL+LCQ+L+DWVF+FFEP+DISQYLTAIPSEVSWV+SAIGLPQ LSIILASLVARLLLQLIPFTRLGS</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>74</Statistics_hsp-len>
+      <Statistics_eff-space>1998258362363</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

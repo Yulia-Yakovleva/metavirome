@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>LULX01000886.1;size=5_5 # 2616 # 2750 # 1 # ID=344_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.430</BlastOutput_query-def>
+  <BlastOutput_query-len>45</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>LULX01000886.1;size=5_5 # 2616 # 2750 # 1 # ID=344_5;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.430</Iteration_query-def>
+  <Iteration_query-len>45</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|334863544|gb|AEH14015.1|</Hit_id>
+  <Hit_def>hypothetical protein Sbal117_2294 [Shewanella baltica OS117]</Hit_def>
+  <Hit_accession>AEH14015</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.3806</Hsp_bit-score>
+      <Hsp_score>137</Hsp_score>
+      <Hsp_evalue>7.77987e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MADIFAAVDLGAVAAFVGATGAIIITIAMAEKGIGIGKRNVKKA</Hsp_qseq>
+      <Hsp_hseq>MDDLFAAVSLTAVAAFVIATGIVIIGIRMSEKGIGISTRNIKKA</Hsp_hseq>
+      <Hsp_midline>M D+FAAV L AVAAFV ATG +II I M+EKGIGI  RN+KKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|374571545|gb|EHR42671.1|</Hit_id>
+  <Hit_def>major coat protein [Alishewanella jeotgali KCTC 22429]</Hit_def>
+  <Hit_accession>EHR42671</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>1.31824e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MADIFAAVDLGAVAAFVGATGAIIITIAMAEKGIGIGKRNVKKA</Hsp_qseq>
+      <Hsp_hseq>MADIFAAVDMTAVATFVGAVGILIIGIAMAFKGISLGKRAVNKA</Hsp_hseq>
+      <Hsp_midline>MADIFAAVD+ AVA FVGA G +II IAMA KGI +GKR V KA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1087351429|emb|SDC52407.1|</Hit_id>
+  <Hit_def>hypothetical protein SAMN05216345_102614 [Cupriavidus sp. YR651]</Hit_def>
+  <Hit_accession>SDC52407</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.225</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>1.75407e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MADIFAAVDLGAVAAFVGATGAIIITIAMAEKGIGIGKRNVKKA</Hsp_qseq>
+      <Hsp_hseq>MADIFAAVDFSTVTAFVAATGVVVIAINMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>MADIFAAVD   V AFV ATG ++I I MA KGI +GKR VKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|950112895|gb|KRS22351.1|</Hit_id>
+  <Hit_def>membrane protein [Alishewanella sp. WH16-1]</Hit_def>
+  <Hit_accession>KRS22351</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>9.11409e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>43</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>43</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>43</Hsp_align-len>
+      <Hsp_qseq>MADIFAAVDLGAVAAFVGATGAIIITIAMAEKGIGIGKRNVKK</Hsp_qseq>
+      <Hsp_hseq>MADIFAAVDFTTVATFVAATGVIVIGIHMAYKGIDLGKRAVRK</Hsp_hseq>
+      <Hsp_midline>MADIFAAVD   VA FV ATG I+I I MA KGI +GKR V+K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1482731930|ref|WP_119784412.1|</Hit_id>
+  <Hit_def>phage coat protein [Noviherbaspirillum sp. K1S02-23] &gt;gi|1481325253|gb|RJG00959.1| phage coat protein [Noviherbaspirillum sp. K1S02-23]</Hit_def>
+  <Hit_accession>WP_119784412</Hit_accession>
+  <Hit_len>73</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.0694</Hsp_bit-score>
+      <Hsp_score>131</Hsp_score>
+      <Hsp_evalue>9.3414e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>31</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MADIFAAVDLGAVAAFVGATGAIIITIAMAEKGIGIGKRNVKKA</Hsp_qseq>
+      <Hsp_hseq>LAAIFAAVDLSTVAAFVAATGVIVIGITMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>+A IFAAVDL  VAAFV ATG I+I I MA KGI +GKR VKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>19</Statistics_hsp-len>
+      <Statistics_eff-space>1993830410728</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>OCVR010006078.1;size=1_13 # 4823 # 4957 # 1 # ID=726_13;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.548</Iteration_query-def>
+  <Iteration_query-len>45</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|663683449|gb|KER98604.1|</Hit_id>
+  <Hit_def>membrane protein [Pseudomonas mendocina] &gt;gi|1539752275|emb|VEE14534.1| Uncharacterised protein [Pseudomonas mendocina]</Hit_def>
+  <Hit_accession>KER98604</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>9.42184e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MAEIFAAVDFSTVATWVGSAGVAIIGIALAFKGIDLGKRGVKKA</Hsp_qseq>
+      <Hsp_hseq>MEAIFAAVDFSTVATWVGTAGVAIIGIAMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>M  IFAAVDFSTVATWVG+AGVAIIGIA+AFKGIDLGKRGVKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1415859771|emb|SPZ02320.1|</Hit_id>
+  <Hit_def>Uncharacterised protein [Pseudomonas luteola]</Hit_def>
+  <Hit_accession>SPZ02320</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>9.89586e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>41</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MAEIFAAVDFSTVATWVGSAGVAIIGIALAFKGIDLGKRGVKKA</Hsp_qseq>
+      <Hsp_hseq>MDTIFAAVDFSSVATWVGTAGVAIIGICMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>M  IFAAVDFS+VATWVG+AGVAIIGI +AFKGIDLGKRGVKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|532135319|gb|EQL42691.1|</Hit_id>
+  <Hit_def>membrane protein [Pseudomonas aeruginosa VRFPA03] &gt;gi|552304023|gb|ERV63750.1| hypothetical protein Q063_00004 [Pseudomonas aeruginosa BL09] &gt;gi|552608205|gb|ERY24752.1| hypothetical protein Q074_03010 [Pseudomonas aeruginosa BL20] &gt;gi|574060496|gb|ETV37099.1| hypothetical protein Q048_00008 [Pseudomonas aeruginosa BWHPSA043] &gt;gi|611814386|gb|EZN91286.1| hypothetical protein AJ66_06215 [Pseudomonas aeruginosa 3579] &gt;gi|611823604|gb|EZO00361.1| hypothetical protein AJ65_06209 [Pseudomonas aeruginosa 3578] &gt;gi|611932187|gb|EZP08181.1| hypothetical protein V550_06112 [Pseudomonas aeruginosa BWH049] &gt;gi|725654175|gb|KHE32094.1| membrane protein [Pseudomonas aeruginosa] &gt;gi|1432109840|gb|RCM12134.1| putative major coat protein [Pseudomonas aeruginosa] &gt;gi|1440680007|emb|SUD17412.1| Uncharacterised protein [Pseudomonas aeruginosa] &gt;gi|1440680018|emb|SUD17434.1| Uncharacterised protein [Pseudomonas aeruginosa] &gt;gi|1523935652|emb|VDL49003.1| hypothetical protein BANRA_06280 [Pseudomonas aeruginosa] &gt;gi|1523935664|emb|VDL49067.1| hypothetical protein BANRA_06292 [Pseudomonas aeruginosa] &gt;gi|1523938942|emb|VDL37136.1| hypothetical protein BANRA_03162 [Pseudomonas aeruginosa] &gt;gi|1523938954|emb|VDL37210.1| hypothetical protein BANRA_03174 [Pseudomonas aeruginosa] &gt;gi|1591876077|emb|VFT63541.1| Uncharacterised protein [Pseudomonas aeruginosa] &gt;gi|1591876090|emb|VFT63576.1| Uncharacterised protein [Pseudomonas aeruginosa] &gt;gi|1677347183|emb|VTR00297.1| Uncharacterised protein [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>EQL42691</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>1.79129e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MAEIFAAVDFSTVATWVGSAGVAIIGIALAFKGIDLGKRGVKKA</Hsp_qseq>
+      <Hsp_hseq>MADIFGAVDFSSVSTWVVSAGVAIIGIAMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>MA+IF AVDFS+V+TWV SAGVAIIGIA+AFKGIDLGKRGVKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|686990067|gb|KGD62912.1|</Hit_id>
+  <Hit_def>major coat protein [Alcanivorax jadensis T9]</Hit_def>
+  <Hit_accession>KGD62912</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>65.0846</Hsp_bit-score>
+      <Hsp_score>157</Hsp_score>
+      <Hsp_evalue>5.70139e-13</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>39</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MAEIFAAVDFSTVATWVGSAGVAIIGIALAFKGIDLGKRGVKKA</Hsp_qseq>
+      <Hsp_hseq>MADIFAAVDFSGVATFVGAAGVAIVGIALAYKGITLSKRAVNKA</Hsp_hseq>
+      <Hsp_midline>MA+IFAAVDFS VAT+VG+AGVAI+GIALA+KGI L KR V KA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1087351429|emb|SDC52407.1|</Hit_id>
+  <Hit_def>hypothetical protein SAMN05216345_102614 [Cupriavidus sp. YR651]</Hit_def>
+  <Hit_accession>SDC52407</Hit_accession>
+  <Hit_len>44</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>64.3142</Hsp_bit-score>
+      <Hsp_score>155</Hsp_score>
+      <Hsp_evalue>1.12679e-12</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MAEIFAAVDFSTVATWVGSAGVAIIGIALAFKGIDLGKRGVKKA</Hsp_qseq>
+      <Hsp_hseq>MADIFAAVDFSTVTAFVAATGVVVIAINMAFKGIDLGKRGVKKA</Hsp_hseq>
+      <Hsp_midline>MA+IFAAVDFSTV  +V + GV +I I +AFKGIDLGKRGVKKA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>19</Statistics_hsp-len>
+      <Statistics_eff-space>1993830410728</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>OLHJ01001343.1;size=1_8 # 4305 # 4526 # 1 # ID=869_8;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.446</Iteration_query-def>
+  <Iteration_query-len>74</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1330566115|ref|WP_102481852.1|</Hit_id>
+  <Hit_def>phage coat protein [Vibrio splendidus] &gt;gi|1326327548|gb|PMF30562.1| hypothetical protein BCV19_23585 [Vibrio splendidus]</Hit_def>
+  <Hit_accession>WP_102481852</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.931</Hsp_bit-score>
+      <Hsp_score>289</Hsp_score>
+      <Hsp_evalue>3.19765e-32</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KKLLQQANAKVAVASLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_qseq>
+      <Hsp_hseq>RKFASKVKTQAAVGSLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_hseq>
+      <Hsp_midline>+K   +   + AV SLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1040480332|ref|WP_065105749.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Vibrio] &gt;gi|1040443379|gb|OBT16571.1| hypothetical protein A9266_18365 [Vibrio tasmaniensis]</Hit_def>
+  <Hit_accession>WP_065105749</Hit_accession>
+  <Hit_len>73</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.161</Hsp_bit-score>
+      <Hsp_score>287</Hsp_score>
+      <Hsp_evalue>6.94475e-32</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>65</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>MKKLLQQANAKVAVASLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_qseq>
+      <Hsp_hseq>MKKLLGQANAKVAVASLLLMASAGARAEGVDDIWAAIDLTGTTAKVTAAGVLIIGIAMAFKAVVLGKRTVSKV</Hsp_hseq>
+      <Hsp_midline>MKKLL QANAKVAVASLLLMASAGARAEG DDIWAAIDLTGTT KV  AGV+IIGIAMA K + LGKRTV+K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1330517806|ref|WP_102467480.1|</Hit_id>
+  <Hit_def>MULTISPECIES: phage coat protein [Vibrio] &gt;gi|1326411558|gb|PMG11465.1| hypothetical protein BCU99_17325 [Vibrio cyclitrophicus] &gt;gi|1326986196|gb|PML57516.1| hypothetical protein BCT74_19855 [Vibrio lentus] &gt;gi|1327083705|gb|PMM51372.1| hypothetical protein BCT53_01140 [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_102467480</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>114.775</Hsp_bit-score>
+      <Hsp_score>286</Hsp_score>
+      <Hsp_evalue>9.68896e-32</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>64</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KKLLQQANAKVAVASLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_qseq>
+      <Hsp_hseq>RKFAGKVKTQAAVGSLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_hseq>
+      <Hsp_midline>+K   +   + AV SLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1634412003|ref|WP_137003143.1|</Hit_id>
+  <Hit_def>phage coat protein [Vibrio lentus] &gt;gi|1633151043|gb|TKG22575.1| phage coat protein [Vibrio lentus]</Hit_def>
+  <Hit_accession>WP_137003143</Hit_accession>
+  <Hit_len>73</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>111.309</Hsp_bit-score>
+      <Hsp_score>277</Hsp_score>
+      <Hsp_evalue>2.06452e-30</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>73</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>59</Hsp_identity>
+      <Hsp_positive>63</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>73</Hsp_align-len>
+      <Hsp_qseq>MKKLLQQANAKVAVASLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_qseq>
+      <Hsp_hseq>MKKLLGQANAKVAVASLLLMASVGARAEGVDDIWSAIDLTGTTAKVTAAGVLIIGITMAFKAIVLGKRTVSKV</Hsp_hseq>
+      <Hsp_midline>MKKLL QANAKVAVASLLLMAS GARAEG DDIW+AIDLTGTT KV  AGV+IIGI MA K I LGKRTV+K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1722129268|ref|WP_146449890.1|</Hit_id>
+  <Hit_def>phage coat protein [Vibrio kanaloae]</Hit_def>
+  <Hit_accession>WP_146449890</Hit_accession>
+  <Hit_len>79</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>106.301</Hsp_bit-score>
+      <Hsp_score>264</Hsp_score>
+      <Hsp_evalue>2.53265e-28</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>73</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>79</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>59</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>72</Hsp_align-len>
+      <Hsp_qseq>KKLLQQANAKVAVASLLLMASAGARAEGADDIWAAIDLTGTTTKVVGAGVVIIGIAMALKTIGLGKRTVNKI</Hsp_qseq>
+      <Hsp_hseq>RNFASKVKTQAAVGSLLLMASAGARAEGADDIWAAIDLTGTTVKVVAAGVVIIGIAMTLKTISLGKRTVNKI</Hsp_hseq>
+      <Hsp_midline>+    +   + AV SLLLMASAGARAEGADDIWAAIDLTGTT KVV AGVVIIGIAM LKTI LGKRTVNKI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>46</Statistics_hsp-len>
+      <Statistics_eff-space>1979152282268</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

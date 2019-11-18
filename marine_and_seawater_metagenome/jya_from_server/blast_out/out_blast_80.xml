@@ -1,0 +1,1772 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>CAACVD010000007.1;size=1_13 # 9107 # 10528 # 1 # ID=35_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371</BlastOutput_query-def>
+  <BlastOutput_query-len>474</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>CAACVD010000007.1;size=1_13 # 9107 # 10528 # 1 # ID=35_13;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.371</Iteration_query-def>
+  <Iteration_query-len>474</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707895231|gb|QDP51900.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP51900</Hit_accession>
+  <Hit_len>484</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>777.704</Hsp_bit-score>
+      <Hsp_score>2007</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>484</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>361</Hsp_identity>
+      <Hsp_positive>418</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>MEIDALNLEHEMDMKLSKNSFPYFFQNVL-------KLDFAQHQQEWHELMNTTQRTVIICSRGHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTMVHMRDIDKLFQHPLLKKFKPARGWAIGNITLTNGNQILERSVGSQIRGLHPQEIIIDDPLKEFSVSGIQKVTDWFYGDMIPTLHHTASLRVIGTPFSYTDIYQQLSENQAYTVRNYPCLNALNEPLWPARWDYDSLMERKAEIGSLKFTREYMCVPISTGTSLFNPEHLDSAKNKDLVLKPMRREGYKYFVGVDPAISTDGDYNVITVLEMDSNENKSIVYIDRAKNVEFRENINKVKLIGQMFRPEVILFETNTFAKSFTQELRQVADLNVHDFNTTRRKKQEVILNLQMTLENNKMNFPYGNEESRRVTSALIEELSMFAITERGKFEGVGAHDDMVMSLALANAATYQATDNFILLDDMGIFDDKPKATANFG----LGLNF</Hsp_qseq>
+      <Hsp_hseq>MEIEAFNLEHQMDFELSRNSFPYFFQHVCGPAMGIDKYFYPHYMEEWLELMNSTQRTVLICSRDHGKSVFMHCWVIWNLIFQPKGYQMLYISSNQKQTLVHMREIDKYFSHPMLQKFKPIRGWSVGHIRLTNGNELLARSVGSQIRGLHPNEIVIDDPLKEFSMSAIQKVTDWFYSDMIPTLHHSASLRVIGTPFSYTDIYSQLAENEVYEVRTYPCLNALNEPLWPDRWDYNSLMLRKGEIGTIAFTREYLCVPMSTGTSLFNPEYLDNAKSKDYILKPHRRKDFKYYVGVDPAISTDGDYNVITVLEVDENDNKTVVYVDRAKNVEFRQNIEKVKMIGKIFNPEVVLFETNIFAKSFTQELKHVSDINVHDFTTTRKKKQEIILNLQMNFENGKMRLPYGNEESRRVTSTLIEELSMFAITEGGKFEGIGAHDDMVMSLALANAATYTMSEKFIHLDDLGIFDDKPVAPKPFAGRGIMGLNF</Hsp_hseq>
+      <Hsp_midline>MEI+A NLEH+MD +LS+NSFPYFFQ+V        K  +  + +EW ELMN+TQRTV+ICSR HGKSVFMH WV+WNLIFQ   YQMLYISSNQKQT+VHMR+IDK F HP+L+KFKP RGW++G+I LTNGN++L RSVGSQIRGLHP EI+IDDPLKEFS+S IQKVTDWFY DMIPTLHH+ASLRVIGTPFSYTDIY QL+EN+ Y VR YPCLNALNEPLWP RWDY+SLM RK EIG++ FTREY+CVP+STGTSLFNPE+LD+AK+KD +LKP RR+ +KY+VGVDPAISTDGDYNVITVLE+D N+NK++VY+DRAKNVEFR+NI KVK+IG++F PEV+LFETN FAKSFTQEL+ V+D+NVHDF TTR+KKQE+ILNLQM  EN KM  PYGNEESRRVTS LIEELSMFAITE GKFEG+GAHDDMVMSLALANAATY  ++ FI LDD+GIFDDKP A   F     +GLNF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1707909372|gb|QDP65190.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP65190</Hit_accession>
+  <Hit_len>479</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>745.732</Hsp_bit-score>
+      <Hsp_score>1924</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>479</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>348</Hsp_identity>
+      <Hsp_positive>413</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>EIDALNLEHEMDMKLSKNSFPYFFQNVLKLDFAQHQQEWHELMNTTQRTVIICSRGHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTMVHMRDIDKLFQHPLLKKFKPARGWAIGNITLTNGNQILERSVGSQIRGLHPQEIIIDDPLKEFSVSGIQKVTDWFYGDMIPTLHHTASLRVIGTPFSYTDIYQQLSENQAYTVRNYPCLNALNEPLWPARWDYDSLMERKAEIGSLKFTREYMCVPISTGTSLFNPEHLDSAKNKDLVLKPMRR--EGYKYFVGVDPAISTDGDYNVITVLEMDSNENKSIVYIDRAKNVEFRENINKVKLIGQMFRPEVILFETNTFAKSFTQELRQVADLNVHDFNTTRRKKQEVILNLQMTLENNKMNFPYGNEESRRVTSALIEELSMFAITERGKFEGVGAHDDMVMSLALANAATYQATDNFILLDDMGIFD--DKPKATANFGL-GLNF</Hsp_qseq>
+      <Hsp_hseq>EIEELDFMSSMDMELSKTSFPYFFQNVLGMMYPDYMQEWLETMQRTDRTVIVCSRDHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTLVHMREIDRYFNLPPLKKYKPTRGWAIGNITLTNGNSILERSVGSQIRGLHPQEIIIDDPLKEFSLAGINRVTDWFFGDMIPTLHHTANLRMIGTPFTYTDIFSQLEENPAYTVRKYPCLNSLNEPLWPARWDYDALMQRKAEIGSLKFTREYLCIPISTGTSLFSPEHLENSKHKDLILRLGNRKDKGYKYYVGVDPAISTDGDYNVIMVLEVDDEKNKSIVHVDRAKNVQFRENIEKLRLIGKIFQPEAVLYETNTFAKAFTQELRSVTDMNIKDFNTTRRKKQEIILNLQMNFENKKIHLPYGDNNSKRMSGMLIEELSMFSITDTGKFEGVGAHDDLVMALALANAATQTPSESFMLLDDMEIFDAPETPLLNNYSGMIGLNF</Hsp_hseq>
+      <Hsp_midline>EI+ L+    MDM+LSK SFPYFFQNVL + +  + QEW E M  T RTVI+CSR HGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQT+VHMR+ID+ F  P LKK+KP RGWAIGNITLTNGN ILERSVGSQIRGLHPQEIIIDDPLKEFS++GI +VTDWF+GDMIPTLHHTA+LR+IGTPF+YTDI+ QL EN AYTVR YPCLN+LNEPLWPARWDYD+LM+RKAEIGSLKFTREY+C+PISTGTSLF+PEHL+++K+KDL+L+   R  +GYKY+VGVDPAISTDGDYNVI VLE+D  +NKSIV++DRAKNV+FRENI K++LIG++F+PE +L+ETNTFAK+FTQELR V D+N+ DFNTTRRKKQE+ILNLQM  EN K++ PYG+  S+R++  LIEELSMF+IT+ GKFEGVGAHDD+VM+LALANAAT   +++F+LLDDM IFD  + P      G+ GLNF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1707903251|gb|QDP59598.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP59598</Hit_accession>
+  <Hit_len>478</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>737.643</Hsp_bit-score>
+      <Hsp_score>1903</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>478</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>345</Hsp_identity>
+      <Hsp_positive>411</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>478</Hsp_align-len>
+      <Hsp_qseq>MEIDALNLEHEMDMKLSKNSFPYFFQNVLKLDFAQHQQEWHELMNTTQRTVIICSRGHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTMVHMRDIDKLFQHPLLKKFKPARGWAIGNITLTNGNQILERSVGSQIRGLHPQEIIIDDPLKEFSVSGIQKVTDWFYGDMIPTLHHTASLRVIGTPFSYTDIYQQLSENQAYTVRNYPCLNALNEPLWPARWDYDSLMERKAEIGSLKFTREYMCVPISTGTSLFNPEHLDSAKNKDLVLKPMRR--EGYKYFVGVDPAISTDGDYNVITVLEMDSNENKSIVYIDRAKNVEFRENINKVKLIGQMFRPEVILFETNTFAKSFTQELRQVADLNVHDFNTTRRKKQEVILNLQMTLENNKMNFPYGNEESRRVTSALIEELSMFAITERGKFEGVGAHDDMVMSLALANAATYQATDNFILLDDMGIFDD--KPKATANFGL-GLNF</Hsp_qseq>
+      <Hsp_hseq>MTIEDLNFTHRMDMELSKHSFPYFFKNVLGMMYPKYMEEWLESMETTDRTVIICSRDHGKSVFMHSWVVWNLIFQEPPFQMLYISSNQKQTMVHMREIDRYFNIPALKQFKPSRGWAIGNITLTNGNSVLERSVGSQIRGLHPQEIIIDDPLKEFSIAGISRVTDWFFGDMIPTLHHTAKLRMIGTPFTYTDIFSQLEENPAYFVRKYPCFNSLEEPLWPERWDYDSLMQRRAEIGSLKFTREYLCIPVSTGTALFGIEHLENAKNKDFVLRLGQRRDKGFRYCVGVDPAISTDGDYNVIMVLEVDDEGNKTIVHVDRAKNVSFRENIDKLRIIGQVFQPDNILYETNTFAKAFTQELRAVSDLNVRDFDTTRKKKQEIILNLQMNFENNKINLPYGDNNSRAVTNMLIEELSMFSITDSGRFEGVGAHDDLVMALALANSAAQTHTESFVLLDDMEIFDSPIKPNYGINRGMVGLNF</Hsp_hseq>
+      <Hsp_midline>M I+ LN  H MDM+LSK+SFPYFF+NVL + + ++ +EW E M TT RTVIICSR HGKSVFMHSWVVWNLIFQEPP+QMLYISSNQKQTMVHMR+ID+ F  P LK+FKP+RGWAIGNITLTNGN +LERSVGSQIRGLHPQEIIIDDPLKEFS++GI +VTDWF+GDMIPTLHHTA LR+IGTPF+YTDI+ QL EN AY VR YPC N+L EPLWP RWDYDSLM+R+AEIGSLKFTREY+C+P+STGT+LF  EHL++AKNKD VL+  +R  +G++Y VGVDPAISTDGDYNVI VLE+D   NK+IV++DRAKNV FRENI+K+++IGQ+F+P+ IL+ETNTFAK+FTQELR V+DLNV DF+TTR+KKQE+ILNLQM  ENNK+N PYG+  SR VT+ LIEELSMF+IT+ G+FEGVGAHDD+VM+LALAN+A    T++F+LLDDM IFD   KP    N G+ GLNF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1707900529|gb|QDP57069.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP57069</Hit_accession>
+  <Hit_len>482</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>700.664</Hsp_bit-score>
+      <Hsp_score>1807</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>482</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>328</Hsp_identity>
+      <Hsp_positive>396</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>481</Hsp_align-len>
+      <Hsp_qseq>IDALNLEHEMDMKLSKNSFPYFFQNVLKLDFAQHQQEWHELMNTTQRTVIICSRGHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTMVHMRDIDKLFQHPLLKKFKPARGWAIGNITLTNGNQILERSVGSQIRGLHPQEIIIDDPLKEFSVSGIQKVTDWFYGDMIPTLHHTASLRVIGTPFSYTDIYQQLSEN---QAYTVRNYPCLNALNEPLWPARWDYDSLMERKAEIGSLKFTREYMCVPISTGTSLFNPEHLDSAK--NKDLVLKPMRRE--GYKYFVGVDPAISTDGDYNVITVLEMDSNENKSIVYIDRAKNVEFRENINKVKLIGQMFRPEVILFETNTFAKSFTQELRQVADLNVHDFNTTRRKKQEVILNLQMTLENNKMNFPYGNEESRRVTSALIEELSMFAITERGKFEGVGAHDDMVMSLALANAATYQATDNFILLDDMGIFD-DKPKATANFG--LGLNF</Hsp_qseq>
+      <Hsp_hseq>LDDLDFSKQMDLELSKTSFPYFFTEVLGFEFTSFHQEWLDLMQGTDRTVIICSRDHGKSVFMHSWAVWQLCFQPPPYQMLYISSNHKQTMVHMREIDKIFNNPTIAHFRPSRGWAVGNITLTNGNSILERSVGSQIRGLHPQEIIIDDPLKEFSLTAIKKVTDWFFGDMIPTLHHTATLRMIGTPFTYTDIFALLASDEYSEVYTVRNYPCLNQNNEPLWPSRWDYDSLMQRKKEVGSLKFTREYLCIPISTGTALFGQEHIEACKKLGKDSILRLRHRKDSGYTYYVGVDPAISTDGDFNVIIVLEVDENRNKSIIYVDRQKNVEFRDNINKIKMIGKLFDPDAIYFETNTFAKSFTQELRNETDLNIKDVTMTRRKKEEIILNLQMNIENTKIIFPRGNDESRKVTDNIIEELSMFSITDKGKFEGVGAHDDLVMGLALANSATHDMLESFVLLDDMEIFDNEQPQAQFMGGGMFGLNF</Hsp_hseq>
+      <Hsp_midline>+D L+   +MD++LSK SFPYFF  VL  +F    QEW +LM  T RTVIICSR HGKSVFMHSW VW L FQ PPYQMLYISSN KQTMVHMR+IDK+F +P +  F+P+RGWA+GNITLTNGN ILERSVGSQIRGLHPQEIIIDDPLKEFS++ I+KVTDWF+GDMIPTLHHTA+LR+IGTPF+YTDI+  L+ +   + YTVRNYPCLN  NEPLWP+RWDYDSLM+RK E+GSLKFTREY+C+PISTGT+LF  EH+++ K   KD +L+   R+  GY Y+VGVDPAISTDGD+NVI VLE+D N NKSI+Y+DR KNVEFR+NINK+K+IG++F P+ I FETNTFAKSFTQELR   DLN+ D   TRRKK+E+ILNLQM +EN K+ FP GN+ESR+VT  +IEELSMF+IT++GKFEGVGAHDD+VM LALAN+AT+   ++F+LLDDM IFD ++P+A    G   GLNF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1707896974|gb|QDP53602.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP53602</Hit_accession>
+  <Hit_len>482</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>689.108</Hsp_bit-score>
+      <Hsp_score>1777</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>482</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>321</Hsp_identity>
+      <Hsp_positive>385</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>481</Hsp_align-len>
+      <Hsp_qseq>IDALNLEHEMDMKLSKNSFPYFFQNVLKLDFAQHQQEWHELMNTTQRTVIICSRGHGKSVFMHSWVVWNLIFQEPPYQMLYISSNQKQTMVHMRDIDKLFQHPLLKKFKPARGWAIGNITLTNGNQILERSVGSQIRGLHPQEIIIDDPLKEFSVSGIQKVTDWFYGDMIPTLHHTASLRVIGTPFSYTDIYQQLSE---NQAYTVRNYPCLNALNEPLWPARWDYDSLMERKAEIGSLKFTREYMCVPISTGTSLFNPEHLDSA----KNKDLVLKPMRREGYKYFVGVDPAISTDGDYNVITVLEMDSNENKSIVYIDRAKNVEFRENINKVKLIGQMFRPEVILFETNTFAKSFTQELRQVADLNVHDFNTTRRKKQEVILNLQMTLENNKMNFPYGNEESRRVTSALIEELSMFAITERGKFEGVGAHDDMVMSLALANAATYQATDNFILLDDMGIFDDK---PKATANFGLGLNF</Hsp_qseq>
+      <Hsp_hseq>LEDLDFSKQMDLEMSKNSFPYFFTEVLGFDFTSFHQEWLDLMKSTDRTVVICSRDHGKSVFMHSWAVWQLCFQPAPYQMLYISSNHKQTMVHMREIDKMFNNDTIAHFRPSRGWAVGNITLTNGNSILERSVGSQIRGLHPQEIIIDDPLKEFSLTAIKKVTDWFFGDMIPTLHHTATLRMIGTPFTYTDIFALLASEEYSKVYTVRTYPCLNQNNEPLWPERWSYDNLMQRKQEVGSLKFTREYLCIPISTGTALFGQEHIDNCKQLGKNDILRLRHRKDSGYSYYVGVDPAISTDGDYNVIIVLEVDEDRNKRVIYIDRQKNVEFRENINKIKMIGKLFEPDAIYFETNTFAKSFTQELRNETDLNIRDVTMTRRKKEEIILNLQMNIENGKIIFPRGNDESRKVTDNIIEELSMFSITENGKFEGVGAHDDLVMGLAIANSATHDMLESFILLDDMEIFDSKEPQPMLAGGGMFGINF</Hsp_hseq>
+      <Hsp_midline>++ L+   +MD+++SKNSFPYFF  VL  DF    QEW +LM +T RTV+ICSR HGKSVFMHSW VW L FQ  PYQMLYISSN KQTMVHMR+IDK+F +  +  F+P+RGWA+GNITLTNGN ILERSVGSQIRGLHPQEIIIDDPLKEFS++ I+KVTDWF+GDMIPTLHHTA+LR+IGTPF+YTDI+  L+    ++ YTVR YPCLN  NEPLWP RW YD+LM+RK E+GSLKFTREY+C+PISTGT+LF  EH+D+     KN  L L+  +  GY Y+VGVDPAISTDGDYNVI VLE+D + NK ++YIDR KNVEFRENINK+K+IG++F P+ I FETNTFAKSFTQELR   DLN+ D   TRRKK+E+ILNLQM +EN K+ FP GN+ESR+VT  +IEELSMF+ITE GKFEGVGAHDD+VM LA+AN+AT+   ++FILLDDM IFD K   P        G+NF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>162</Statistics_hsp-len>
+      <Statistics_eff-space>14008365260760</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>FLOH01000719.1;size=1_67 # 27953 # 29341 # -1 # ID=89_67;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.362</Iteration_query-def>
+  <Iteration_query-len>463</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1147723001|gb|AQQ75489.1|</Hit_id>
+  <Hit_def>terminase large subunit [uncultured archaeal virus]</Hit_def>
+  <Hit_accession>AQQ75489</Hit_accession>
+  <Hit_len>452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.297</Hsp_bit-score>
+      <Hsp_score>521</Hsp_score>
+      <Hsp_evalue>4.81115e-57</Hsp_evalue>
+      <Hsp_query-from>29</Hsp_query-from>
+      <Hsp_query-to>451</Hsp_query-to>
+      <Hsp_hit-from>20</Hsp_hit-from>
+      <Hsp_hit-to>429</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>227</Hsp_positive>
+      <Hsp_gaps>31</Hsp_gaps>
+      <Hsp_align-len>432</Hsp_align-len>
+      <Hsp_qseq>SMFSKIFLGHDLFDYNVKYVDCQDRFIVYRSGRQVGKTMSTAVKAVHFAFFAPLMLKTVKNDCTIVIAAPTQNQATIMFDRIRSLVMNSEFLKGYVVRNTQSELWVNFLDNTGMSKIITRATGETGVGLRGYSPHVIIADECSFIKTDILRAFLPSGMATQAKVWLTSTPFSKSGYFYEACMNSKPKNPDGMWTEFHVKSLDNPLIQEDPTFIEEIKRL-TKEEYVQEVEGEFLDIGNALIPNSLIMEALT----DGHPKGRVKYYMGVDVARSGRDETVFTIIGVDEDGIVFVEDVAAESQSNVVDVAGRIGDFVAQYQLQTVFIDETGLGGGLIDLVRERGLPA---RGVVFTLQEKAEMYKNLRLLFENHKIKLKKIDKMIYQISYLR-REYTESGIMKIKSYEHDDYPDSLVLACRAVDTGEGWHVLE</Hsp_qseq>
+      <Hsp_hseq>NVISKAVLGRELYDYQAKFIADTNRRICFVSGRQIGKTTATALKALVFAF--------TEDDKVVLILSKSLRQSKIMFERIRMFLLAIDALADYTFRMTINEIQLK-----NGSRIYCIPVGRTAEAARGYTADMIIADEAAYVPDLVFEAMMPSLAVTGGYLLLLGTPGGKTGFFYRAWMTEEG------WSKYRVTCYDCPRIPKE--FIEEYRHLVTEARFKREILAEFVEVEDMFFPIPVIEDLMVLPKRYSKPQKGFRYIAGLDIARHGKDETVLAIVGIAPDGHYELHAYYRRAKSTITQIVKFVLEKMEHWNVEKLIVDITGMGVGSYDILRE-FIPKSKLKGITMSVKKKKDLYDNLLKLIENHKIYFFEDDMLIEQFSNFEIQSHSVYGIIAKKGSGRDDIVDAIALAVYGAKKGGTFHYLK</Hsp_hseq>
+      <Hsp_midline>++ SK  LG +L+DY  K++   +R I + SGRQ+GKT +TA+KA+ FAF         ++D  ++I + +  Q+ IMF+RIR  ++  + L  Y  R T +E+ +        S+I     G T    RGY+  +IIADE +++   +  A +PS   T   + L  TP  K+G+FY A M  +       W+++ V   D P I ++  FIEE + L T+  + +E+  EF+++ +   P  +I + +        P+   +Y  G+D+AR G+DETV  I+G+  DG   +      ++S +  +   + + +  + ++ + +D TG+G G  D++RE  +P    +G+  ++++K ++Y NL  L ENHKI   + D +I Q S    + ++  GI+  K    DD  D++ LA      G  +H L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1490227787|gb|RKY98248.1|</Hit_id>
+  <Hit_def>hypothetical protein DRQ10_07620 [Candidatus Hydrothermae bacterium]</Hit_def>
+  <Hit_accession>RKY98248</Hit_accession>
+  <Hit_len>472</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.43</Hsp_bit-score>
+      <Hsp_score>485</Hsp_score>
+      <Hsp_evalue>1.06342e-51</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>438</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>433</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>44</Hsp_gaps>
+      <Hsp_align-len>433</Hsp_align-len>
+      <Hsp_qseq>PSMFSKIFLGHDLFDYNVKYVDCQDRFIVYRSGRQVGKTMSTAVKAVHFAFFAPLMLKTVKND-CTIVIAAPTQNQATIMFDRIRSLVMNSEFLKGYVVRNTQSELWVNFLDNTGMSKIITRATGETGVGLRGYSPHVIIADECSFIKTDILRAFLPSGMATQAKVWLTSTPFSKSGYFYEACMNSKPKNPDGMWTEFHVKSLDNPLIQEDPTFIEEIKRLTKE-EYVQEVEGEFLDIGNALIPNSLIMEALTDGHP-KGRVK------YYMGVDVARSGRDETVFTIIGV-----DEDGIVFVEDVAAESQSNVVDVAGRIGDFVAQYQLQTVFIDETGLGGGLIDLVR-----ERGLPARGVVFTLQEKAEMYKNLRLLFENHKIKL-KKIDKMIYQISYLRREYTESGIMKIKSYEH--DDYPDSLVLAC</Hsp_qseq>
+      <Hsp_hseq>PALFMSKIYGMKPFQYQTEFLRDDHPYIIVASARQVGKSTMVSARA---------LWEALANDGITVLILAPTFRQSQITFRKIRAAIERNKRIFSRLIKRLRSD-YIQFIND---SEIYCLPAGEEGITIRGFTADVLIIDEAAFVPDEVFASVLPSITTRHSKLYLLGTPAGKTGFFWKAWNNPQ-------FKRYRIRASDCPIHKKEK--IELAKTLMPSLKFKTEYEAEFVEEMDTFFSPSDINSAVIDIPPLTGPINNPAIRGYYIGVDVARMGKDETVYIVIEASKAESDLQPVYRIVYAKAEAKTPLTAVAENVKELIRIWKPKAVAIDETGMGGGVIDILRSYEEEEITTQIIGITFTLKTKADLYRRLRLLFEQRRIFIPSRFERLINQLKAIRYQYTQSGNLKILPDDNIGDDWADALALAT</Hsp_hseq>
+      <Hsp_midline>P++F     G   F Y  +++     +I+  S RQVGK+   + +A         + + + ND  T++I APT  Q+ I F +IR+ +  ++ +   +++  +S+ ++ F+++   S+I     GE G+ +RG++  V+I DE +F+  ++  + LPS     +K++L  TP  K+G+F++A  N +       +  + +++ D P+ +++   IE  K L    ++  E E EF++  +     S I  A+ D  P  G +       YY+GVDVAR G+DETV+ +I       D   +  +    AE+++ +  VA  + + +  ++ + V IDETG+GGG+ID++R     E      G+ FTL+ KA++Y+ LRLLFE  +I +  + +++I Q+  +R +YT+SG +KI   ++  DD+ D+L LA </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|939572620|gb|KPV62526.1|</Hit_id>
+  <Hit_def>Terminase-like family protein [Candidatus Bathyarchaeota archaeon BA2]</Hit_def>
+  <Hit_accession>KPV62526</Hit_accession>
+  <Hit_len>438</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>177.563</Hsp_bit-score>
+      <Hsp_score>449</Hsp_score>
+      <Hsp_evalue>8.83925e-47</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>450</Hsp_query-to>
+      <Hsp_hit-from>24</Hsp_hit-from>
+      <Hsp_hit-to>434</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>223</Hsp_positive>
+      <Hsp_gaps>44</Hsp_gaps>
+      <Hsp_align-len>439</Hsp_align-len>
+      <Hsp_qseq>PSMFSKIFLGHDLFDYNVKYVDCQDRFIVYRSGRQVGKTMSTAVKAVHFAFFAPLMLKTVKNDCTIVIAAPTQNQATIMFDRIRSLVMNSEFLKGYVVRNTQSELWVNFLDNTGMSKIITRATGETGVGLRGYSPHVIIADECSFIKTDILRAFL-PSGMATQAKVWLTSTPFSKSGYFYEACMNSKPKNPDGMWTEFHVKSLDNPLIQEDPTFIEEIKR-LTKEEYVQEVEGEFLDIGNALIPNSLI---------MEALTDGHPKGRVKYYMGVDVARSGRDETVFTIIGVDEDGI--VFVEDVAAESQSNVVDVAGRIGDFVAQYQLQTVFIDETGLGGGLIDLVRERGLP-ARGVVFTLQEKAEMYKNLRLLFENHKIKLKKIDKMIYQISYLRREYTESGIMKI--KSYEHDDYPDSLVLACRAVDTGEGWHVL</Hsp_qseq>
+      <Hsp_hseq>PVLFAEVVLGVKPFRYQEKLLRDQSKRLVACMGRQTGKTTTIAIKAVHFAF--------CNADVTVLITAPSRRQSIIMFSKIAGFIFRT-VLRRSVIRSTQTTIQL-----SNGSEII--ALPCSGHLLRGFTAQMVIVDEASYIPEEVITNILYPMLATTNGSLILLSTPWGKDHFFYRAFV-----DPD--FSVYRVKSSECPLISEK--FLKKQREFMTTETYRMEYEAEFVEAATSYFPQDLIRSCIDPELELERDLEGLARQEGDFYAGCDLGKL-QDYSVFAVVQKTRDHIKLVFLREFPLETSYS--SIIGFMVQANKKFNLRRILIDRSGVGEVAIEEIKAQGLANAEGQSFTMQSKAEMLANLRVKMEQGAFKMPYNHRLCQQINEQRYEYTKSGKLMFWHPPNSHDDQLWALALACYASKDDEPRGVL</Hsp_hseq>
+      <Hsp_midline>P +F+++ LG   F Y  K +  Q + +V   GRQ GKT + A+KAVHFAF           D T++I AP++ Q+ IMF +I   +  +  L+  V+R+TQ+ + +     +  S+II  A   +G  LRG++  ++I DE S+I  +++   L P    T   + L STP+ K  +FY A +     +PD  ++ + VKS + PLI E   F+++ +  +T E Y  E E EF++   +  P  LI         +E   +G  +    +Y G D+ +  +D +VF ++    D I  VF+ +   E+  +   + G +     ++ L+ + ID +G+G   I+ ++ +GL  A G  FT+Q KAEM  NLR+  E    K+    ++  QI+  R EYT+SG +        HDD   +L LAC A    E   VL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|509140332|ref|YP_008059213.1|</Hit_id>
+  <Hit_def>terminase large subunit [Halovirus HGTV-1] &gt;gi|505832626|gb|AGM11335.1| terminase large subunit [Halovirus HGTV-1]</Hit_def>
+  <Hit_accession>YP_008059213</Hit_accession>
+  <Hit_len>437</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.555</Hsp_bit-score>
+      <Hsp_score>436</Hsp_score>
+      <Hsp_evalue>6.55754e-45</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>440</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>414</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>41</Hsp_gaps>
+      <Hsp_align-len>429</Hsp_align-len>
+      <Hsp_qseq>KPSMFSKIFLGHDLFDYNVKYVDCQDRFIVYRSGRQVGKTMSTAVKAVHFAFFAPLMLKTVKNDCTIVIAAPTQNQATIMFDRIRSLVMNSEFLKGY--VVRNTQSELWVNFLDNTGMSKIITRATGETGVGLRGYSPHVIIADECSFIKTDILRAFLPSGMAT-QAKVWLTSTPFSKSGYFYEACMNSKPKNPDGMWTEFHVKSLDNPLIQEDPTFIEEIK-RLTKEEYVQEVEGEFLDIGNALIPNSLIME-ALTDGHPKGRVKYYMGVDVARSGRDETVFTIIGVDEDGIVFVEDVAAESQSNVVDVAGRIGDFVAQYQLQTVFIDETGLGGGLIDLVRER-GLPARGVVFTLQEKAEMYKNLRLLFENHKIKLKKI-------DKMIYQISYLRREYTESGIMKIK--SYEHDDYPDSLVLACRA</Hsp_qseq>
+      <Hsp_hseq>EPSYFVEHYLDEEPFDYQKDFMDHNASRKAAVCGRRVGKST--------MASWLALWYGITHANAEILITAKAQRQSMELFNEVKKQIRQSDIEEDQWGITRDTRTE--INF-DNG--SRIICLPVGTDGSNIRGYGTDLLIVDEAAFINDSIFQEVLSPMLAVGDSSFVLLSTPFGKKGFLYERFNDEK-------WYTLQVPTWANPMIDDD--FIEEQKSNLTSIQFRQEIKGEFVESADSFFTREELMNCAYESVDRKDKQIAYLGVDLASTGGDESVY--VSIDGDGNVF--DIEHTKNKSMTDAMGRVRELDSYHDYTKIMIDSTGLGTGVVDQVKEDLGRKVEGFKFTNEKKQSLYNTLKNHLQDGKIRYSFVPGKDEPENKMVDQCLELEYEYTSTGKTKIHHPSGGHDDFSDALALAVWA</Hsp_hseq>
+      <Hsp_midline>+PS F + +L  + FDY   ++D          GR+VGK+          A +  L       +  I+I A  Q Q+  +F+ ++  +  S+  +    + R+T++E  +NF DN   S+II    G  G  +RGY   ++I DE +FI   I +  L   +A   +   L STPF K G+ YE   + K       W    V +  NP+I +D  FIEE K  LT  ++ QE++GEF++  ++      +M  A      K +   Y+GVD+A +G DE+V+  + +D DG VF  D+      ++ D  GR+ +  + +    + ID TGLG G++D V+E  G    G  FT ++K  +Y  L+   ++ KI+   +       +KM+ Q   L  EYT +G  KI   S  HDD+ D+L LA  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1491191874|gb|RLG72479.1|</Hit_id>
+  <Hit_def>hypothetical protein DRO11_02150 [Euryarchaeota archaeon]</Hit_def>
+  <Hit_accession>RLG72479</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>172.94</Hsp_bit-score>
+      <Hsp_score>437</Hsp_score>
+      <Hsp_evalue>2.81713e-44</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>438</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>463</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>235</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>467</Hsp_align-len>
+      <Hsp_qseq>DEEINDRKDFMQSIADCAKKPSMFSKIFLGHDLFDYNVKYVDCQDRFIVYRSGRQVGKTMSTAVKAVHFAFFAPLMLKTVKNDCTIVIAAPTQNQATIMFDRIRSLVMNSEFLKGYVVRNTQSELWVNFLDNTGMSKIITRATGETGVGLRGYSPHVIIADECSFIKTDILRAFLPSGMATQAKVWLTSTPFSKSGYFYEACMNSKPKNPD----GMWTEFHVKSLD--------NPLIQEDPTFIEEIKR---------LTKEEYVQEVEGEFLDIGNALIPNSLIMEALTDGHP-----KGRVKYYMGVDVARSGRDETVFTIIGVDEDG---IVFVEDVAAESQSNVVDVAGRIGDFVAQYQLQTVFIDETGLGGGLIDLVRE--RGLPA-RGV-VFTLQEKAEMYKNLRLLFENHKIKLKKIDK-MIYQISYLRREYTESGIMKIKSYE--HDDYPDSLVLAC</Hsp_qseq>
+      <Hsp_hseq>EEEVQLNADL---IAQVRKDPVMFAKVFCKFYPHWYQVKILRDNSKNIAIRMGRQMGKTAATAVKALWFAYTRP-EAHSVDEEVTTVIIAPSQRQSKIMYNQIRAYIHANPILESSIIKSTQNTIR---LDNN--STIHNFPVGDDAEKVRGFSINLLIVDEAAYIKQRIFTALLPSLAGTDGSLILIGTPAARTGLFYQAFYPNTLKGANLKFSTHWYPYS-DALDVVKMGRDGVPLSYADGRPVTQLSRERIEYQYETMSRVEFAQEYEARFVDESMGYFNREDIIANVED-YPMEFSHDGESMYFMGVDFAKY-RDSYVAVVVKRPLEGPMRVVYTMEAKKRDYAETIPLTVKIAK---RFKCKYVFCDSTGVGEPNVEIIKSSLRGVSTVEGVNMSSLQKQNDMYANLQRLFGEGMLKIPTSNREMITQLSLVMRTITPSGRVKVEAPEGQHDDYVDALSLAC</Hsp_hseq>
+      <Hsp_midline>+EE+    D    IA   K P MF+K+F       Y VK +    + I  R GRQ+GKT +TAVKA+ FA+  P    +V  + T VI AP+Q Q+ IM+++IR+ +  +  L+  ++++TQ+ +    LDN   S I     G+    +RG+S +++I DE ++IK  I  A LPS   T   + L  TP +++G FY+A   +  K  +      W  +   +LD         PL   D   + ++ R         +++ E+ QE E  F+D          I+  + D +P      G   Y+MGVD A+  RD  V  ++    +G   +V+  +      +  + +  +I     +++ + VF D TG+G   +++++   RG+    GV + +LQ++ +MY NL+ LF    +K+   ++ MI Q+S + R  T SG +K+++ E  HDDY D+L LAC</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>162</Statistics_hsp-len>
+      <Statistics_eff-space>13514480588105</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>FUIF01018593.1;size=1_37 # 25389 # 26585 # 1 # ID=252_37;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.617</Iteration_query-def>
+  <Iteration_query-len>399</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|489138709|ref|WP_003048488.1|</Hit_id>
+  <Hit_def>hypothetical protein [Thermus aquaticus] &gt;gi|218242816|gb|EED09350.1| protein of unknown function DUF264 [Thermus aquaticus Y51MC23] &gt;gi|939577121|gb|ALJ91029.1| Mu-like prophage terminase large subunit protein gp28 [Thermus aquaticus Y51MC23]</Hit_def>
+  <Hit_accession>WP_003048488</Hit_accession>
+  <Hit_len>425</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>238.81</Hsp_bit-score>
+      <Hsp_score>608</Hsp_score>
+      <Hsp_evalue>6.57612e-71</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>377</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>406</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>149</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>388</Hsp_align-len>
+      <Hsp_qseq>MEAAIYAAKD-GSTWVIASRSQRQSNEVKRRAKLFLAMMCPQLGLNVVTDNNDDG-------LIFNNGGRILAVPSNPDTISGFTGNVVLDEYARHKDQAGIWEALYATISSRPDLRLSVVSTPLGCEGMFYKLVDAARSGRPNFPWSMHEVNIHDAIANGCRHNVDELRAGCFDDTIFRQSYLCEFVDEAYALLPYELLSRAS---DAGLPYRPQWEKLRKRPNLYAGCDVGRTRDLFVITVGEQHPGGRWTVHGVTELKQNDYEQMEREIHRTMSLPSLRRMCIDRNGIGDQLTERAEKRYGGRIEGVKPSLPFNNEIGHLMKRLFVQGHIAIPDVDELHDDLHSVRREVTTAGNLRLVAPTENGSHADRYYSMALMAHAGDGPKG</Hsp_qseq>
+      <Hsp_hseq>LEAALHAVEHRGSTWVLLSAGERQSRELAEKAKAHLDAM-KQVGTLMESRFFEGGESVTQLEIRLPNLSRLIFLPANPRTARGYTGNVVLDEFAFHQDSEAIWAAMYPIITRRPDLKIRVMSTPNGPRGKFWELWE---KGGPA--WSRHKVTIYDAVAQGLPVDPEELRAGLADDFIWQQEYLCEFLSAEEAFLPWSLILEAEAREDPRGPWNPD--------QAYLGVDVGRHRDLTVFVVLER-VGDVYWVRLLETLHRAPFAQQEARLHAL--LPQVRRACLDATGLGEMLAENARRAFGYKVEPVKFTPEVKADLAQRLRLFFEDRRVRIPEDRALREDLHSVRRIVTPSGNVRYDAERSERGHADRFWALALALHAAENPRG</Hsp_hseq>
+      <Hsp_midline>+EAA++A +  GSTWV+ S  +RQS E+  +AK  L  M  Q+G  + +   + G       +   N  R++ +P+NP T  G+TGNVVLDE+A H+D   IW A+Y  I+ RPDL++ V+STP G  G F++L +    G P   WS H+V I+DA+A G   + +ELRAG  DD I++Q YLCEF+    A LP+ L+  A    D   P+ P           Y G DVGR RDL V  V E+  G  + V  +  L +  + Q E  +H    LP +RR C+D  G+G+ L E A + +G ++E VK +     ++   ++  F    + IP+   L +DLHSVRR VT +GN+R  A      HADR++++AL  HA + P+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|502923366|ref|WP_013158342.1|</Hit_id>
+  <Hit_def>hypothetical protein [Meiothermus silvanus] &gt;gi|296850771|gb|ADH63786.1| protein of unknown function DUF264 [Meiothermus silvanus DSM 9946]</Hit_def>
+  <Hit_accession>WP_013158342</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>229.18</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>2.7886e-67</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>377</Hsp_query-to>
+      <Hsp_hit-from>52</Hsp_hit-from>
+      <Hsp_hit-to>409</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>145</Hsp_identity>
+      <Hsp_positive>209</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>375</Hsp_align-len>
+      <Hsp_qseq>STWVIASRSQRQSNEVKRRAKLFLAMMCPQLGLNVVTDNNDDG---------LIFNNGGRILAVPSNPDTISGFTGNVVLDEYARHKDQAGIWEALYATISSRPDLRLSVVSTPLGCEGMFYKLVDAARSGRPNFPWSMHEVNIHDAIANGCRHNVDELRAGCFDDTIFRQSYLCEFVDEAYALLPYELLSRASDAGLPYRPQWEKLRKRPNLYAGCDVGRTRDLFVITVGEQHPGGRWTVHGVTELKQNDYEQMEREIHRTMSLPSLRRMCIDRNGIGDQLTERAEKRYGGRIEGVKPSLPFNNEIGHLMKRLFVQGHIAIPDVDELHDDLHSVRREVTTAGNLRLVAPTENGSHADRYYSMALMAHAGDGPKG</Hsp_qseq>
+      <Hsp_hseq>SLWVFLSRGERQSKELAEKAQRHLE------AIQVVAEMYDEPFDAESTQTVIRLPNGSRIISLPANPDTARGYSGNVLLDEFALHKDSREIWGALYPTITRSKRYRLRVLSTPKGQQGKFYEIWQPEPGGDL---WSRHRVDIYDAVQQGLEVDPEELRKGLKDPVLWQQEYLLEFVDEASAWLPYELITSCESSQARTDGALEG-----DLYLGMDIGRHRDLSVIWVAERVGDVLWT-RRVIWLERTPF-ATQREVLYSL-LPQVRRACIDASGLGMQLAEEAQSRFGSRVEPVMFTRAVKEDLAVTLRRKFEDRLIRIPPDDRIRESLHAVRRITTSAGHIRFDADRDDAGHADEFWAAALMAHAAASPSG</Hsp_hseq>
+      <Hsp_midline>S WV  SR +RQS E+  +A+  L        + VV +  D+          +   NG RI+++P+NPDT  G++GNV+LDE+A HKD   IW ALY TI+     RL V+STP G +G FY++      G     WS H V+I+DA+  G   + +ELR G  D  +++Q YL EFVDEA A LPYEL++    +        E      +LY G D+GR RDL VI V E+     WT   V  L++  +   +RE+  ++ LP +RR CID +G+G QL E A+ R+G R+E V  +     ++   ++R F    I IP  D + + LH+VRR  T+AG++R  A  ++  HAD +++ ALMAHA   P G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1407282956|ref|WP_111154024.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Paenibacillaceae] &gt;gi|1404586878|gb|PZM65701.1| hypothetical protein DOE73_10350 [Paenibacillus dendritiformis] &gt;gi|1713463522|dbj|GEN33844.1| hypothetical protein ADA01nite_13040 [Aneurinibacillus danicus]</Hit_def>
+  <Hit_accession>WP_111154024</Hit_accession>
+  <Hit_len>433</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>229.18</Hsp_bit-score>
+      <Hsp_score>583</Hsp_score>
+      <Hsp_evalue>4.08678e-67</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>369</Hsp_align-len>
+      <Hsp_qseq>STWVIASRSQRQSNEVKRRAKLF---LAMMCPQLGLNVVTDNNDDGLI---FNNGGRILAVPSNPDTISGFTGNVVLDEYARHKDQAGIWEALYATISSRPDLRLSVVSTPLGCEGMFYKL-VDAARSGRPNFPWSMHEVNIHDAIANGCRHNVDELRAGCFDDTIFRQSYLCEFVDEAYALLPYELLSRA-SDAGLPYRPQWEKLRKRPNLYAGCDVGRTRDLFVITVGEQHPGGRWTVHGVTELKQNDYEQMEREIHRTMSLPSLRRMCIDRNGIGDQLTERAEKRYGGRIEGVKPSLPFNNEIGHLMKRLFVQGHIAIPDVDELHDDLHSVRREVTTAGNLRLVAPTENGSHADRYYSMALMAHAG</Hsp_qseq>
+      <Hsp_hseq>TTWVLLSRGERQSKELMEKVATHTRAIGVACEELETTFKIDDQAIKQLEVRFPNGSKIIGLPANPDTARGFSGNVVLDEFAFHADSRKIWTALYPTITRGYKLR--VISTPNGKSGKFYDLWMDNTGT------WSKHFVDIYMAKEQGLDIDIDELRKGCESEDDWLQEFCCEFIDEAGSLLPYELITPCETDEATFMLP--EDFSPVGDLTLGVDIGRKRDLTVMWILEYTGTLYWT-RAIHVLEKQKFSVQREQLFTYLSMPRMRRACIDATGIGMQLAEEAVEAFGSKAEAVEFTGPVKQELAITQRRAFEDRVVRIPIDRVLRNDLHSVQKITTAAGNIRYAAERSENGHADRFWALALSLHAA</Hsp_hseq>
+      <Hsp_midline>+TWV+ SR +RQS E+  +       + + C +L      D+     +   F NG +I+ +P+NPDT  GF+GNVVLDE+A H D   IW ALY TI+    LR  V+STP G  G FY L +D   +      WS H V+I+ A   G   ++DELR GC  +  + Q + CEF+DEA +LLPYEL++   +D      P  E      +L  G D+GR RDL V+ + E      WT   +  L++  +     ++   +S+P +RR CID  GIG QL E A + +G + E V+ + P   E+    +R F    + IP    L +DLHSV++  T AGN+R  A      HADR++++AL  HA </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1553022629|ref|WP_127488455.1|</Hit_id>
+  <Hit_def>hypothetical protein [Paenibacillus ehimensis]</Hit_def>
+  <Hit_accession>WP_127488455</Hit_accession>
+  <Hit_len>433</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>228.794</Hsp_bit-score>
+      <Hsp_score>582</Hsp_score>
+      <Hsp_evalue>4.45114e-67</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>372</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>198</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>369</Hsp_align-len>
+      <Hsp_qseq>STWVIASRSQRQSNEVKRRAKLF---LAMMCPQLGLNVVTDNNDDGLI---FNNGGRILAVPSNPDTISGFTGNVVLDEYARHKDQAGIWEALYATISSRPDLRLSVVSTPLGCEGMFYKL-VDAARSGRPNFPWSMHEVNIHDAIANGCRHNVDELRAGCFDDTIFRQSYLCEFVDEAYALLPYELLSRA-SDAGLPYRPQWEKLRKRPNLYAGCDVGRTRDLFVITVGEQHPGGRWTVHGVTELKQNDYEQMEREIHRTMSLPSLRRMCIDRNGIGDQLTERAEKRYGGRIEGVKPSLPFNNEIGHLMKRLFVQGHIAIPDVDELHDDLHSVRREVTTAGNLRLVAPTENGSHADRYYSMALMAHAG</Hsp_qseq>
+      <Hsp_hseq>TTWVLLSRGERQSKELMEKVATHTRAIGVACEELETTFKIDDQAIKQLEVRFPNGSKIIGLPANPDTARGFSGNVVLDEFAFHADSRKIWTALYPTITRGYKLR--VISTPNGKSGKFYDLWMDNTGT------WSKHFVDIYMAKEQGLDIDIDELRKGCESEDDWLQEFCCEFIDEAGSLLPYELITPCETDEATFMLP--EDFSPVGDLTLGVDIGRKRDLTVMWILEYTGTLYWT-RAIHVLEKQKFSVQREQLFTYLSMPRMRRACIDATGIGMQLAEEAVEAFGSKAEAVEFTGPVKQELAITQRRAFEDRIVRIPIDRVLRNDLHSVQKITTAAGNIRYAAERSENGHADRFWALALSLHAA</Hsp_hseq>
+      <Hsp_midline>+TWV+ SR +RQS E+  +       + + C +L      D+     +   F NG +I+ +P+NPDT  GF+GNVVLDE+A H D   IW ALY TI+    LR  V+STP G  G FY L +D   +      WS H V+I+ A   G   ++DELR GC  +  + Q + CEF+DEA +LLPYEL++   +D      P  E      +L  G D+GR RDL V+ + E      WT   +  L++  +     ++   +S+P +RR CID  GIG QL E A + +G + E V+ + P   E+    +R F    + IP    L +DLHSV++  T AGN+R  A      HADR++++AL  HA </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1209188928|ref|WP_088248324.1|</Hit_id>
+  <Hit_def>hypothetical protein [Deinococcus indicus] &gt;gi|1208207456|gb|OWL96536.1| hypothetical protein CBQ26_09165 [Deinococcus indicus]</Hit_def>
+  <Hit_accession>WP_088248324</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>228.024</Hsp_bit-score>
+      <Hsp_score>580</Hsp_score>
+      <Hsp_evalue>6.49031e-67</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>363</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>403</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>372</Hsp_align-len>
+      <Hsp_qseq>MEAAIYAAKDGSTWVIASRSQRQSNEVKRRAKLFLAMMCPQLGLNVVTDNNDDG-------LIFNNGGRILAVPSNPDTISGFTGNVVLDEYARHKDQAGIWEALYATISSRPDLRLSVVSTPLGCEGMFYKLVDAA--RSGRPNFPWSMHEVNIHDAIANGCRHNVDELRAGCFDDTIFRQSYLCEFVDEAYALLPYELLSRASDAGLPYRPQWEKLRKRPNLYAGCDVGRTRDLFVITVGEQHPGGRWTVHGVTELKQNDYEQMEREIHRTMSLPSLRRMCIDRNGIGDQLTERAEKRYGGRIEGVKPSLPFNNEIGHLMKRLFVQGHIAIPDVDELHDDLHSVRREVTTAGNLRLVAPTENGSHADRYY</Hsp_qseq>
+      <Hsp_hseq>LEAVDDSLERQTTWIYLSRGERQALELANTAKKHLEAYRTAAESVEGWFKTDDGERITEYQLRLPNGSRHIFLPANPDTARGYSGNVLLDEFAFHKDSRAIWGALYPIITRRPDYKIRVISTPNGRNNKFYELWEGKGERAGVKAV-WSRHKVTIHDAVAQGLPVDAEELKAGLDDDEMWTQEYLCEFLDEATSFLSYALIASVEDPRATLDYDLKQLLQMSERYLGVDIGRRRDLTVLWLLERVGDVYWT-RLMERIQGASFSQQAARLDAV--LPLVTRACIDATGLGMQLAEQAQERHGGKVEPVTFTGAVKNDLATSFRRMFEDRTIRIPEEERLRRSLHKVRKVTTSAGNVRYDAESESDGHADEFW</Hsp_hseq>
+      <Hsp_midline>+EA   + +  +TW+  SR +RQ+ E+   AK  L                DDG       L   NG R + +P+NPDT  G++GNV+LDE+A HKD   IW ALY  I+ RPD ++ V+STP G    FY+L +    R+G     WS H+V IHDA+A G   + +EL+AG  DD ++ Q YLCEF+DEA + L Y L++   D         ++L +    Y G D+GR RDL V+ + E+     WT   +  ++   + Q    +     LP + R CID  G+G QL E+A++R+GG++E V  +    N++    +R+F    I IP+ + L   LH VR+  T+AGN+R  A +E+  HAD ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>160</Statistics_hsp-len>
+      <Statistics_eff-space>10837020623953</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>4</Iteration_iter-num>
+  <Iteration_query-ID>Query_4</Iteration_query-ID>
+  <Iteration_query-def>LUMI01000042.1;size=2_24 # 19035 # 19535 # -1 # ID=351_24;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.447</Iteration_query-def>
+  <Iteration_query-len>167</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1147508108|gb|AQQ55446.1|</Hit_id>
+  <Hit_def>hypothetical protein B0X71_20000 (plasmid) [Planococcus sp. Y42]</Hit_def>
+  <Hit_accession>AQQ55446</Hit_accession>
+  <Hit_len>93</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.2022</Hsp_bit-score>
+      <Hsp_score>95</Hsp_score>
+      <Hsp_evalue>0.112435</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>72</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>72</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>24</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>78</Hsp_align-len>
+      <Hsp_qseq>MVKEKKSYTTEDKQEAMGLYLRGHGNTDIARKMNERYNYNMTAKTISRWAAK----GGWDEY--RNQVEIDLIEHTKK</Hsp_qseq>
+      <Hsp_hseq>MPQKRRTFTVEFKKQVVALHEGGKSRTDIVRE------YNLTASALDRWIAQYKQSGSFQEKDNRNPLETELLAYKKR</Hsp_hseq>
+      <Hsp_midline>M ++++++T E K++ + L+  G   TDI R+      YN+TA  + RW A+    G + E   RN +E +L+ + K+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1686996434|ref|WP_139313906.1|</Hit_id>
+  <Hit_def>IS3 family transposase [Bacillus pseudofirmus]</Hit_def>
+  <Hit_accession>WP_139313906</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>42.743</Hsp_bit-score>
+      <Hsp_score>99</Hsp_score>
+      <Hsp_evalue>0.241909</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>131</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>142</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>39</Hsp_identity>
+      <Hsp_positive>68</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>149</Hsp_align-len>
+      <Hsp_qseq>MVKEKKSYTTEDKQEAMGLYLRGHGNTDIARKMNERYNYNMTAKTISRWAAK----GGWDE--YRNQVEIDLIEHTK------------KTVVGDMAKNMHELEEARQTFMSNLRDGRAEIRGHEFVKMTEVLGKLQDFERDKEEMIAK</Hsp_qseq>
+      <Hsp_hseq>MSKKRRTFTTEFKKQVVALYESGKSRQDIVRE------YDLTASALDRWITQFQQSGSFKEKDNRSPEEQELIELRKRNKQLEMEVDIFKASRADHGTKIEVIEKNRHIYSVSAMCDVLQIARSSFYHVTEIVAK-KNLEKAKEEQVLK</Hsp_hseq>
+      <Hsp_midline>M K+++++TTE K++ + LY  G    DI R+      Y++TA  + RW  +    G + E   R+  E +LIE  K            K    D    +  +E+ R  +  +      +I    F  +TE++ K ++ E+ KEE + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|401170081|gb|EJQ77322.1|</Hit_id>
+  <Hit_def>hypothetical protein IGC_03621 [Bacillus cereus HuA4-10]</Hit_def>
+  <Hit_accession>EJQ77322</Hit_accession>
+  <Hit_len>83</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.2762</Hsp_bit-score>
+      <Hsp_score>90</Hsp_score>
+      <Hsp_evalue>0.501519</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>53</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>48</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>17</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>51</Hsp_align-len>
+      <Hsp_qseq>KEKKSYTTEDKQEAMGLYLRGHGNTDIARKMNERYNYNMTAKTISRWAAKG</Hsp_qseq>
+      <Hsp_hseq>KERRTFTTEFKQQIVQLYLNGKPRKDIIRE------YDLTPSSLDKWVSQS</Hsp_hseq>
+      <Hsp_midline>KE++++TTE KQ+ + LYL G    DI R+      Y++T  ++ +W ++ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1045861577|ref|WP_065545269.1|</Hit_id>
+  <Hit_def>terminase [Vibrio scophthalmi] &gt;gi|1045042996|gb|ANU36285.1| putative terminase, ATPase subunit [Vibrio scophthalmi]</Hit_def>
+  <Hit_accession>WP_065545269</Hit_accession>
+  <Hit_len>585</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.5874</Hsp_bit-score>
+      <Hsp_score>96</Hsp_score>
+      <Hsp_evalue>0.523964</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>67</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>66</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>18</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>58</Hsp_align-len>
+      <Hsp_qseq>TEDKQEAMGLYLRGHGNTDIARKMNERYNYNMTAKTISRWAAKGGWDEYRNQVEIDLI</Hsp_qseq>
+      <Hsp_hseq>TSVQTQALGLYLRQHKSAEVAEKIG------VATRTVQQWISKFGWKEMRDDAPVELM</Hsp_hseq>
+      <Hsp_midline>T  + +A+GLYLR H + ++A K+       +  +T+ +W +K GW E R+   ++L+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|763309281|ref|WP_044167920.1|</Hit_id>
+  <Hit_def>terminase [Porphyromonas catoniae] &gt;gi|583252738|gb|EWC93272.1| terminase, ATPase subunit, gpP-like protein [Porphyromonas catoniae ATCC 51270]</Hit_def>
+  <Hit_accession>WP_044167920</Hit_accession>
+  <Hit_len>156</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>40.817</Hsp_bit-score>
+      <Hsp_score>94</Hsp_score>
+      <Hsp_evalue>0.551204</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>59</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>50</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>49</Hsp_align-len>
+      <Hsp_qseq>EDKQEAMGLYLRGHGNTDIARKMNERYNYNMTAKTISRWAAKGGWDEYR</Hsp_qseq>
+      <Hsp_hseq>EKKEHARLLYMQGDDQKTIASRLN------VSEVTISRWAASGGWRELR</Hsp_hseq>
+      <Hsp_midline>E K+ A  LY++G     IA ++N      ++  TISRWAA GGW E R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>129</Statistics_hsp-len>
+      <Statistics_eff-space>1984896154084</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>5</Iteration_iter-num>
+  <Iteration_query-ID>Query_5</Iteration_query-ID>
+  <Iteration_query-def>OBMK010001243.1;size=1_23 # 17735 # 18964 # -1 # ID=709_23;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.479</Iteration_query-def>
+  <Iteration_query-len>410</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707902079|gb|QDP58529.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP58529</Hit_accession>
+  <Hit_len>405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.248</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>8.74287e-85</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>393</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>392</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>YVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEA-CSVPKWPTGSGKYFAGVDLGRQGDYTVCTIVDSNGQVVEIYRDNQREWSAMIEEIVKLLRKYNAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA-WKAKE</Hsp_qseq>
+      <Hsp_hseq>FYTMVCGRQIGKTLLLINMLLYYGINKPRHTLLWVSPYYSMAVKVLSQILDAIEFTPITKEANKSEKIITLINGTRIYFRSAEKPETIRGLSIDYAFLDESQDISDDAFNKAILPTLTAKGKKCLIAGTPKSKNWFHSYFQRGGD---PNYNSYTAPSSVSPYVSEEFLKEQQESLPPSIYNQEFLAEWQEGDGEVFTNIDGVCILDDFVSTREKTYGGLDIGTKQDYTVLTILDRNGRCVHMWRERGLEYSQIVSKVVYLCKQYRTHLMIEANSIGDVVYEMVRKQYKDVKPFITTNTSKENIIRRLISDIADTNVELPSPNLFNPLYKELQLFQYKYLPSGK-VSYEAMSGFHDDTVMSLAICNWNRIE</Hsp_hseq>
+      <Hsp_midline>+ T V  RQ GK+ L I ++L++ +N P   + W+SP Y+ A K   +I+D I  +   K AN+S   +   NG+ +YF+S E+P  +RG + D+   DE+   +DD +   + P L   GK CL   TP+  N+F S +  G     P Y S     S +P++++E + E   +LP  I+  E+   + +    VFTN++  C +  + +   K + G+D+G + DYTV TI+D NG+ V ++R+   E+S ++ ++V L ++Y    ++EAN IGDVV+E ++KQYKDV+PFIT++TSK+ II  LI       +++PS  LF PL  EL +F+Y+Y    + V Y A + FHDDTVMSLAI  W   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1404627759|gb|PZN00714.1|</Hit_id>
+  <Hit_def>hypothetical protein DIU76_12120 [Firmicutes bacterium]</Hit_def>
+  <Hit_accession>PZN00714</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>239.965</Hsp_bit-score>
+      <Hsp_score>611</Hsp_score>
+      <Hsp_evalue>2.51565e-71</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>413</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>388</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEAC----SVPKW--PTGSGKYFAGVDLGRQGDYTVCTIVDSNGQ-VVEIYRDNQREWSAMIEEIVKLLRKYN-AKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HAGQIPLHQ---SKARFRVVCCGRRWGKTYACVNEIVKFAWENPGTITWWVAPSYQQADIAMRIMFNHF--RGAIRNINRSKNYFEWHSGSYTFFKSTTNFDSLRGEGVSFMVIDEARDVPEEAWTAALRPTLSDTMGKAIIISTPRGYNWFYNEWARGNDPEYPEYESFRFPTSSNPYIHPDEIEHARKTLPRDIFMQEYEAEFLDDTAGVFRGVKDCIKGEHKPKGEDPVPKRKYVVGLDLAKHQDYTVITVMDQKTRHVVYIDRFNQLEWDRVLDRLEHVVKRYNKARVWPDATGLGDPLIHEMRKRGIKVEPFKFTATSKQQLIHLLATKIEQGEISFPN---YGPLIHELNIFEYEITS-SGHIRYSAPEGQHDDCVISLALA</Hsp_hseq>
+      <Hsp_midline>H GQ+ + Q   S A++      R+ GK++  +  I+ +A  NP    +W++P+Y QA      + +     GA+++ NRS    ++ +GS  +FKS     +LRG    FMV DEA    ++ W + L+P L       + ISTPRG N+F + +  G   ++PEY S R   S NP+I+ +EI  A +TLP  IF  EYE  F+D  A VF  ++ C      PK   P    KY  G+DL +  DYTV T++D   + VV I R NQ EW  +++ +  ++++YN A+   +A G+GD +  +++K+   VEPF  ++TSKQQ+I  L     +  I  P+   + PL  EL+IFEY+ ++ S  ++YSAP   HDD V+SLA+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1134103711|ref|WP_076346919.1|</Hit_id>
+  <Hit_def>hypothetical protein [Alicyclobacillus vulcanalis] &gt;gi|1131787422|emb|SIS88535.1| Terminase-like family protein [Alicyclobacillus vulcanalis]</Hit_def>
+  <Hit_accession>WP_076346919</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>232.646</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.76599e-68</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEACSVPKW--PTGSGKYFAGVDLGRQGDYTVCTIVD-SNGQVVEIYRDNQREWSAMIEEIVKLLRKY-NAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAI-AWKAKEAMANSGSY</Hsp_qseq>
+      <Hsp_hseq>HDGQ-KVLHRSQARFRVATC--GRRWGKTYACANEIAKWAWEHPNAMTWWVAPTYRQTMTAFRILTRNF--RPAIESVSLTHLRLTWKSGSVTEFRSTENYDALRGEGLDFLVIDEAAMVPKEAWEAALRPTLSDKNGRAIIVSTPKGRNWFYHVWARGQDPEFPEWASFRFPTSANPYIPPDEIEEARMTLPADVFRQEYEAEFLEDSAGVFRGICDCIAGELDEPKPGRRYVVGWDVAKHQDFSVLVTMDVERGHVVAFDRFNQVDYALQLERVRTMCKKYNNARLLMDATGVGDPLLEQVKRMGIQAEGYSLTNTAKQQLIEHLAVKIERREITFPDIPV---LVHELQTYQYEVT-RAGNIRYSAPEGFHDDCVIALALAAWCLRAESGYSGLW</Hsp_hseq>
+      <Hsp_midline>H+GQ  V+   Q+  +  TC   R+ GK++     I  WA  +PNA  +W++PTY Q    F  +        A++S + + + L +++GS+  F+S E    LRG   DF+V DEAA    + W + L+P L       + +STP+G N+F  ++  GQ  + PE+AS R   S NP+I  +EI EA  TLP  +F+ EYE  F++  A VF  +  C   +   P    +Y  G D+ +  D++V   +D   G VV   R NQ +++  +E +  + +KY NA+ L++A G+GD + EQ+K+     E +  ++T+KQQ+IE L V   ++ I  P   +   L  EL  ++Y+ + R+  ++YSAP  FHDD V++LA+ AW  +     SG +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1723986651|ref|WP_146823918.1|</Hit_id>
+  <Hit_def>hypothetical protein [Alicyclobacillus acidoterrestris] &gt;gi|1713406750|dbj|GEO26678.1| hypothetical protein AAC03nite_24630 [Alicyclobacillus acidoterrestris]</Hit_def>
+  <Hit_accession>WP_146823918</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>232.261</Hsp_bit-score>
+      <Hsp_score>591</Hsp_score>
+      <Hsp_evalue>2.20672e-68</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEAC--SVPKWPTGSGKYFAGVDLGRQGDYTVCTIVDS-NGQVVEIYRDNQREWSAMIEEIVKLLRKYNAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HQGQ-RVLHRSEARFRVATC--GRRWGKTYACANEIVKFAWEHPGTLTWWVAPTYRQTMTAYRLITRNFRD--AIVKDTRTELRIEWESGGVTEFRSADNFDALRGEGVSFLVIDEAAMIPREAWEAALRPTLSDTGGHCIIVSTPKGRNWFFGVWSRGQDPAFPEWESFKFPTWANPYISPEEIEEARATLPSDVFRQEYEAEFLEDSAGVFRGIRDCVSGVLEEPQAGRRYVAGWDIAKHQDFSVVVVMDAERGHVVAFGRFNQVDYALQLHRVEAVCKKYNARLLMDATGVGDPLLEQVKRLGVNVEGYHLSATSKQQLIEHLAVKIERAEITFPDIPV---LINELQQFQYEVT-RAGNIRYSAPEGFHDDCVIALALA</Hsp_hseq>
+      <Hsp_midline>H+GQ  V+   ++  +  TC   R+ GK++     I+ +A  +P    +W++PTY Q    +  I     +  A+    R+ + +++++G +  F+S +    LRG    F+V DEAA    + W + L+P L   G  C+ +STP+G N+F  ++  GQ    PE+ S +     NP+I+ EEI EA  TLP  +F+ EYE  F++  A VF  +  C   V + P    +Y AG D+ +  D++V  ++D+  G VV   R NQ +++  +  +  + +KYNA+ L++A G+GD + EQ+K+   +VE +  S+TSKQQ+IE L V   +  I  P   +   L  EL  F+Y+ + R+  ++YSAP  FHDD V++LA+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1655059293|ref|WP_137569153.1|</Hit_id>
+  <Hit_def>hypothetical protein [Bacteroides fragilis] &gt;gi|1650118845|gb|QCQ37990.1| hypothetical protein IA74_018830 [Bacteroides fragilis]</Hit_def>
+  <Hit_accession>WP_137569153</Hit_accession>
+  <Hit_len>470</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>230.72</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>3.02244e-67</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>393</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQ--TIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGAL---KSANRSTMELKFQNGSIVYFKSVERPA--NLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGN-NYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSG-ATVFTNLEACSVP-KWPTGSGKYFAGVDLGRQGDYTVCTIVDSN-GQVVEIYRDNQREWSAMIEEIVKLLRKYN-AKGLVEANGIGDVVFEQIKKQYK-DVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HEGQRKIHQYLLLNPDTKFIILNCGRRFGKSFFASNQALFWALSNPNVAVGYCTPSYKLAKYIFELVVSAITEKFPFLKKQGINKSDLKITFTNNSYIEFVSAGEGAVDNLRGRGYAFGIIDEAAQISDDAWNKVLRPIFLLAKQVIL-CSTPLGKGSWYYQIFQEGLKEEQTKYKSFVMGTASNPLVPPEELEDMKKQLPANIYKQEVLAEFLDDGEGSVFKNINDCIIDYNLITYSGKYVAGLDIGRAEDYTVLSIIDLNTHQLVYQNRWNKMDYNAITKAVAAQLLKWNPVDCWVETNSIGDFFFDSLKEKYKGKLSSFYTLNKNKQQIIESLIVDFETEAIKIINSE---SLLNELKTFGIEFSKKNRSVVYRGMHGAHDDCVMSLAFA</Hsp_hseq>
+      <Hsp_midline>HEGQ  + Q   +    K++     R+ GKSF A    LFWAL+NPN  + + +P+Y  A+  F+ ++  I E       +  N+S +++ F N S + F S    A  NLRG    F + DEAA  +DD W  VL+P+ L+A +V L  STP G  +++  ++  G  ++  +Y S  M  + NP +  EE+ +  + LP +I+K E    F+D G  +VF N+  C +     T SGKY AG+D+GR  DYTV +I+D N  Q+V   R N+ +++A+ + +   L K+N     VE N IGD  F+ +K++YK  +  F T + +KQQIIESLIV F  +AIK+ + E    L  EL  F  ++S ++R+V Y   +  HDD VMSLA A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>161</Statistics_hsp-len>
+      <Statistics_eff-space>11235102746934</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>6</Iteration_iter-num>
+  <Iteration_query-ID>Query_6</Iteration_query-ID>
+  <Iteration_query-def>OCVQ010001081.1;size=1_32 # 20919 # 22148 # 1 # ID=723_32;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.478</Iteration_query-def>
+  <Iteration_query-len>410</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707902079|gb|QDP58529.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP58529</Hit_accession>
+  <Hit_len>405</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>274.248</Hsp_bit-score>
+      <Hsp_score>700</Hsp_score>
+      <Hsp_evalue>8.74287e-85</Hsp_evalue>
+      <Hsp_query-from>25</Hsp_query-from>
+      <Hsp_query-to>393</Hsp_query-to>
+      <Hsp_hit-from>26</Hsp_hit-from>
+      <Hsp_hit-to>392</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>139</Hsp_identity>
+      <Hsp_positive>217</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>371</Hsp_align-len>
+      <Hsp_qseq>YVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEA-CSVPKWPTGSGKYFAGVDLGRQGDYTVCTIVDSNGQVVEIYRDNQREWSAMIEEIVKLLRKYNAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA-WKAKE</Hsp_qseq>
+      <Hsp_hseq>FYTMVCGRQIGKTLLLINMLLYYGINKPRHTLLWVSPYYSMAVKVLSQILDAIEFTPITKEANKSEKIITLINGTRIYFRSAEKPETIRGLSIDYAFLDESQDISDDAFNKAILPTLTAKGKKCLIAGTPKSKNWFHSYFQRGGD---PNYNSYTAPSSVSPYVSEEFLKEQQESLPPSIYNQEFLAEWQEGDGEVFTNIDGVCILDDFVSTREKTYGGLDIGTKQDYTVLTILDRNGRCVHMWRERGLEYSQIVSKVVYLCKQYRTHLMIEANSIGDVVYEMVRKQYKDVKPFITTNTSKENIIRRLISDIADTNVELPSPNLFNPLYKELQLFQYKYLPSGK-VSYEAMSGFHDDTVMSLAICNWNRIE</Hsp_hseq>
+      <Hsp_midline>+ T V  RQ GK+ L I ++L++ +N P   + W+SP Y+ A K   +I+D I  +   K AN+S   +   NG+ +YF+S E+P  +RG + D+   DE+   +DD +   + P L   GK CL   TP+  N+F S +  G     P Y S     S +P++++E + E   +LP  I+  E+   + +    VFTN++  C +  + +   K + G+D+G + DYTV TI+D NG+ V ++R+   E+S ++ ++V L ++Y    ++EAN IGDVV+E ++KQYKDV+PFIT++TSK+ II  LI       +++PS  LF PL  EL +F+Y+Y    + V Y A + FHDDTVMSLAI  W   E</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1404627759|gb|PZN00714.1|</Hit_id>
+  <Hit_def>hypothetical protein DIU76_12120 [Firmicutes bacterium]</Hit_def>
+  <Hit_accession>PZN00714</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>239.965</Hsp_bit-score>
+      <Hsp_score>611</Hsp_score>
+      <Hsp_evalue>2.51565e-71</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>35</Hsp_hit-from>
+      <Hsp_hit-to>413</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>140</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>388</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEAC----SVPKW--PTGSGKYFAGVDLGRQGDYTVCTIVDSNGQ-VVEIYRDNQREWSAMIEEIVKLLRKYN-AKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HAGQIPLHQ---SKARFRVVCCGRRWGKTYACVNEIVKFAWENPGTITWWVAPSYQQADIAMRIMFNHF--RGAIRNINRSKNYFEWHSGSYTFFKSTTNFDSLRGEGVSFMVIDEARDVPEEAWTAALRPTLSDTMGKAIIISTPRGYNWFYNEWARGNDPEYPEYESFRFPTSSNPYIHPDEIEHARKTLPRDIFMQEYEAEFLDDTAGVFRGVKDCIKGEHKPKGEDPVPKRKYVVGLDLAKHQDYTVITVMDQKTRHVVYIDRFNQLEWDRVLDRLEHVVKRYNKARVWPDATGLGDPLIHEMRKRGIKVEPFKFTATSKQQLIHLLATKIEQGEISFPN---YGPLIHELNIFEYEITS-SGHIRYSAPEGQHDDCVISLALA</Hsp_hseq>
+      <Hsp_midline>H GQ+ + Q   S A++      R+ GK++  +  I+ +A  NP    +W++P+Y QA      + +     GA+++ NRS    ++ +GS  +FKS     +LRG    FMV DEA    ++ W + L+P L       + ISTPRG N+F + +  G   ++PEY S R   S NP+I+ +EI  A +TLP  IF  EYE  F+D  A VF  ++ C      PK   P    KY  G+DL +  DYTV T++D   + VV I R NQ EW  +++ +  ++++YN A+   +A G+GD +  +++K+   VEPF  ++TSKQQ+I  L     +  I  P+   + PL  EL+IFEY+ ++ S  ++YSAP   HDD V+SLA+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1134103711|ref|WP_076346919.1|</Hit_id>
+  <Hit_def>hypothetical protein [Alicyclobacillus vulcanalis] &gt;gi|1131787422|emb|SIS88535.1| Terminase-like family protein [Alicyclobacillus vulcanalis]</Hit_def>
+  <Hit_accession>WP_076346919</Hit_accession>
+  <Hit_len>423</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>232.646</Hsp_bit-score>
+      <Hsp_score>592</Hsp_score>
+      <Hsp_evalue>1.76599e-68</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>401</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEACSVPKW--PTGSGKYFAGVDLGRQGDYTVCTIVD-SNGQVVEIYRDNQREWSAMIEEIVKLLRKY-NAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAI-AWKAKEAMANSGSY</Hsp_qseq>
+      <Hsp_hseq>HDGQ-KVLHRSQARFRVATC--GRRWGKTYACANEIAKWAWEHPNAMTWWVAPTYRQTMTAFRILTRNF--RPAIESVSLTHLRLTWKSGSVTEFRSTENYDALRGEGLDFLVIDEAAMVPKEAWEAALRPTLSDKNGRAIIVSTPKGRNWFYHVWARGQDPEFPEWASFRFPTSANPYIPPDEIEEARMTLPADVFRQEYEAEFLEDSAGVFRGICDCIAGELDEPKPGRRYVVGWDVAKHQDFSVLVTMDVERGHVVAFDRFNQVDYALQLERVRTMCKKYNNARLLMDATGVGDPLLEQVKRMGIQAEGYSLTNTAKQQLIEHLAVKIERREITFPDIPV---LVHELQTYQYEVT-RAGNIRYSAPEGFHDDCVIALALAAWCLRAESGYSGLW</Hsp_hseq>
+      <Hsp_midline>H+GQ  V+   Q+  +  TC   R+ GK++     I  WA  +PNA  +W++PTY Q    F  +        A++S + + + L +++GS+  F+S E    LRG   DF+V DEAA    + W + L+P L       + +STP+G N+F  ++  GQ  + PE+AS R   S NP+I  +EI EA  TLP  +F+ EYE  F++  A VF  +  C   +   P    +Y  G D+ +  D++V   +D   G VV   R NQ +++  +E +  + +KY NA+ L++A G+GD + EQ+K+     E +  ++T+KQQ+IE L V   ++ I  P   +   L  EL  ++Y+ + R+  ++YSAP  FHDD V++LA+ AW  +     SG +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1723986651|ref|WP_146823918.1|</Hit_id>
+  <Hit_def>hypothetical protein [Alicyclobacillus acidoterrestris] &gt;gi|1713406750|dbj|GEO26678.1| hypothetical protein AAC03nite_24630 [Alicyclobacillus acidoterrestris]</Hit_def>
+  <Hit_accession>WP_146823918</Hit_accession>
+  <Hit_len>415</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>232.261</Hsp_bit-score>
+      <Hsp_score>591</Hsp_score>
+      <Hsp_evalue>2.20672e-68</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>390</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>383</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQTIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGALKSANRSTMELKFQNGSIVYFKSVERPANLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGNNYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSGATVFTNLEAC--SVPKWPTGSGKYFAGVDLGRQGDYTVCTIVDS-NGQVVEIYRDNQREWSAMIEEIVKLLRKYNAKGLVEANGIGDVVFEQIKKQYKDVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HQGQ-RVLHRSEARFRVATC--GRRWGKTYACANEIVKFAWEHPGTLTWWVAPTYRQTMTAYRLITRNFRD--AIVKDTRTELRIEWESGGVTEFRSADNFDALRGEGVSFLVIDEAAMIPREAWEAALRPTLSDTGGHCIIVSTPKGRNWFFGVWSRGQDPAFPEWESFKFPTWANPYISPEEIEEARATLPSDVFRQEYEAEFLEDSAGVFRGIRDCVSGVLEEPQAGRRYVAGWDIAKHQDFSVVVVMDAERGHVVAFGRFNQVDYALQLHRVEAVCKKYNARLLMDATGVGDPLLEQVKRLGVNVEGYHLSATSKQQLIEHLAVKIERAEITFPDIPV---LINELQQFQYEVT-RAGNIRYSAPEGFHDDCVIALALA</Hsp_hseq>
+      <Hsp_midline>H+GQ  V+   ++  +  TC   R+ GK++     I+ +A  +P    +W++PTY Q    +  I     +  A+    R+ + +++++G +  F+S +    LRG    F+V DEAA    + W + L+P L   G  C+ +STP+G N+F  ++  GQ    PE+ S +     NP+I+ EEI EA  TLP  +F+ EYE  F++  A VF  +  C   V + P    +Y AG D+ +  D++V  ++D+  G VV   R NQ +++  +  +  + +KYNA+ L++A G+GD + EQ+K+   +VE +  S+TSKQQ+IE L V   +  I  P   +   L  EL  F+Y+ + R+  ++YSAP  FHDD V++LA+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1655059293|ref|WP_137569153.1|</Hit_id>
+  <Hit_def>hypothetical protein [Bacteroides fragilis] &gt;gi|1650118845|gb|QCQ37990.1| hypothetical protein IA74_018830 [Bacteroides fragilis]</Hit_def>
+  <Hit_accession>WP_137569153</Hit_accession>
+  <Hit_len>470</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>230.72</Hsp_bit-score>
+      <Hsp_score>587</Hsp_score>
+      <Hsp_evalue>3.02244e-67</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>388</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>449</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>146</Hsp_identity>
+      <Hsp_positive>220</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>393</Hsp_align-len>
+      <Hsp_qseq>HEGQLSVVQ--TIQSGAKYVTCVAPRQTGKSFLAIQVILFWALNNPNAKIFWISPTYAQARKPFDEIIDGIYESGAL---KSANRSTMELKFQNGSIVYFKSVERPA--NLRGYTADFMVCDEAAYYTDDVWPSVLKPMLLVAGKVCLFISTPRGN-NYFKSMYDLGQSQDHPEYASVRMHYSQNPFINQEEINEAARTLPEHIFKAEYEGSFVDSG-ATVFTNLEACSVP-KWPTGSGKYFAGVDLGRQGDYTVCTIVDSN-GQVVEIYRDNQREWSAMIEEIVKLLRKYN-AKGLVEANGIGDVVFEQIKKQYK-DVEPFITSSTSKQQIIESLIVAFNKQAIKVPSKELFAPLAFELSIFEYQYSARSRTVQYSAPNSFHDDTVMSLAIA</Hsp_qseq>
+      <Hsp_hseq>HEGQRKIHQYLLLNPDTKFIILNCGRRFGKSFFASNQALFWALSNPNVAVGYCTPSYKLAKYIFELVVSAITEKFPFLKKQGINKSDLKITFTNNSYIEFVSAGEGAVDNLRGRGYAFGIIDEAAQISDDAWNKVLRPIFLLAKQVIL-CSTPLGKGSWYYQIFQEGLKEEQTKYKSFVMGTASNPLVPPEELEDMKKQLPANIYKQEVLAEFLDDGEGSVFKNINDCIIDYNLITYSGKYVAGLDIGRAEDYTVLSIIDLNTHQLVYQNRWNKMDYNAITKAVAAQLLKWNPVDCWVETNSIGDFFFDSLKEKYKGKLSSFYTLNKNKQQIIESLIVDFETEAIKIINSE---SLLNELKTFGIEFSKKNRSVVYRGMHGAHDDCVMSLAFA</Hsp_hseq>
+      <Hsp_midline>HEGQ  + Q   +    K++     R+ GKSF A    LFWAL+NPN  + + +P+Y  A+  F+ ++  I E       +  N+S +++ F N S + F S    A  NLRG    F + DEAA  +DD W  VL+P+ L+A +V L  STP G  +++  ++  G  ++  +Y S  M  + NP +  EE+ +  + LP +I+K E    F+D G  +VF N+  C +     T SGKY AG+D+GR  DYTV +I+D N  Q+V   R N+ +++A+ + +   L K+N     VE N IGD  F+ +K++YK  +  F T + +KQQIIESLIV F  +AIK+ + E    L  EL  F  ++S ++R+V Y   +  HDD VMSLA A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>161</Statistics_hsp-len>
+      <Statistics_eff-space>11235102746934</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>7</Iteration_iter-num>
+  <Iteration_query-ID>Query_7</Iteration_query-ID>
+  <Iteration_query-def>PVBE010724668.1;size=1_11 # 3794 # 5113 # 1 # ID=1093_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.386</Iteration_query-def>
+  <Iteration_query-len>440</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1490070855|gb|RKX66046.1|</Hit_id>
+  <Hit_def>hypothetical protein DRP42_03880 [Tenericutes bacterium]</Hit_def>
+  <Hit_accession>RKX66046</Hit_accession>
+  <Hit_len>389</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>263.077</Hsp_bit-score>
+      <Hsp_score>671</Hsp_score>
+      <Hsp_evalue>2.5274e-80</Hsp_evalue>
+      <Hsp_query-from>38</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>162</Hsp_identity>
+      <Hsp_positive>234</Hsp_positive>
+      <Hsp_gaps>44</Hsp_gaps>
+      <Hsp_align-len>411</Hsp_align-len>
+      <Hsp_qseq>AAEYALKHSNKQILMIAPTERQAYELFDKTLSYLTFKSMKSIRKGKDRPTKHKINLYNKSVIHCLPTGLSGVGIRGRTIHRLYVDEASRVPEEVWTAVTPML-----LTTGGDTILLSTPFGRQGYFYRIWNNPDNSFSKFEITSQTALSNREICDSWSKLQKEKAMEYLKRERKEMSALEYGQEYEGRFIDELRQFFPTDLIKKCMTLKRDEYEPIKFNKIQTVDNFLGVDIARLGDDETVFFSLKRINREKLRENEVKIYR-----KVLLTETARNIIRLHRASNFRKIYIDDGGLGAGVLDILLEEETTKRRTEAINNSSK--AISKDKRMKKILKEDLYTNLLRIMEQNKLELFENDEVLHSLQSIQYEYTNSG----IRIFGRYTHITEALIRAAWCLHDKSLNIW</Hsp_qseq>
+      <Hsp_hseq>ACKFAMEHPGTTTLIIAASQRQSSLLFEKVRANFDIKEIEGDDIYKEQPTLTKIILKNGSKIYSLPAGRTGYFIRGFTIDLLIADEAAYIPEEVWKAVIPMIAVSQKLRGMGFLILLSTPFGKGGYFYDSFTDPD--FKHIHVSSE---------DCW-RIPK----DFLKKEKVRLTKAEYAQEYLGEFTDEWNQFFNTKLIKSCMTF----FEWSIKEKAVNSRLYLGVDIARYGGDENAFVIAELVG------TNIKIVKCLTTNRISTTDTIGRIEKLNEIYNFNKIFIDDSGVGGSVLDVLIDK--LGRKVMGLNNASKRVQVQGEEKRKGIFKEDLYSNALMLMETGKIELINHLGLLKSLKSIIYEYGQTSSSRKIKIFGNYSHLTEALVRACWCLKERGLDIY</Hsp_hseq>
+      <Hsp_midline>A ++A++H     L+IA ++RQ+  LF+K  +    K ++     K++PT  KI L N S I+ LP G +G  IRG TI  L  DEA+ +PEEVW AV PM+     L   G  ILLSTPFG+ GYFY  + +PD  F    ++S+         D W ++ K    ++LK+E+  ++  EY QEY G F DE  QFF T LIK CMT     +E     K      +LGVDIAR G DE  F   + +         +KI +     ++  T+T   I +L+   NF KI+IDD G+G  VLD+L+++    R+   +NN+SK   +  +++ K I KEDLY+N L +ME  K+EL  +  +L SL+SI YEY  +     I+IFG Y+H+TEAL+RA WCL ++ L+I+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1490641021|gb|RLC34451.1|</Hit_id>
+  <Hit_def>hypothetical protein DRZ76_02655 [Candidatus Nealsonbacteria bacterium]</Hit_def>
+  <Hit_accession>RLC34451</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>223.787</Hsp_bit-score>
+      <Hsp_score>569</Hsp_score>
+      <Hsp_evalue>1.2135e-64</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>432</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>423</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>160</Hsp_identity>
+      <Hsp_positive>253</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>441</Hsp_align-len>
+      <Hsp_qseq>LDPWQEDFLTKKGDK--ILCCGRQVGKSVIAARDAAEYALKHSNKQ---ILMIAPTERQAYELFDKTLSYLTFKSMKS-IRKGKDRPTKHKINLYNKSVIHCLPTGLSGVGIRGRTIHRLYVDEASRVPEEVWTAVTPMLLTTGGDTILLSTPFGRQG------YFYRIWNNPDNSFSKFEITSQTALSNREICDSWSKLQKEKAMEYLKRERKEMSALEYGQEYEGRFIDELRQFFPTDLIKKCMTLKRDEYEPIKFNKIQTVDNFLGVDIARLGDDETVFFSLKRINREKLRENEVKIYRKVLLTETARNIIRLHRASN-FRKIYIDDGGLGAGVLDILLEEETTKRRTEAINNSSKAISKDKRMKKILKEDLYTNLLRIMEQNKLELFENDEVLHSLQSIQYEYTNSGIRIFGRYTHITEALIRAAWCLH-DKSLNIW</Hsp_qseq>
+      <Hsp_hseq>LDEWQKEYIYQDPNQNCFLLTGRQCGKTTAMAIKSVELCV-HSFKEGENILICSITEKQAYRMLAKALAYAKVKYPEILIQRGPEKPTMHRIMFRTGAGIFCYAAGETGEGLRGDTIKKLMIDEGARMSEEFFISTIPMISVIKGSIDIASTPAGKKNPDGSEKFFYKC--SKDDNYKKWYISA-------EDCPRHDSL-------FLEEQRKKLTKLIYAQEYLAIFTDEIKRVFDDELIEKTCILKRDQ--------IKRGNFYLGVDIAGMGKDENSFEVIQKMSNGTLMQKENITTTKKFTTQTADKIIELDKRYNEIKKIGIDDGGIGFGVYSILMNNEETKRKTFALNNASRVINELGSTKKLLKEEMYILLLSLMENKKIKLLDDDEIKESLSSIQWDEG----KIYGSYSHITEGIIRACWLAEKDKNLNIW</Hsp_hseq>
+      <Hsp_midline>LD WQ++++ +  ++   L  GRQ GK+   A  + E  + HS K+   IL+ + TE+QAY +  K L+Y   K  +  I++G ++PT H+I     + I C   G +G G+RG TI +L +DE +R+ EE + +  PM+    G   + STP G++       +FY+   + D+++ K+ I++       E C     L       +L+ +RK+++ L Y QEY   F DE+++ F  +LI+K   LKRD+        I+  + +LGVDIA +G DE  F  +++++   L + E     K   T+TA  II L +  N  +KI IDDGG+G GV  IL+  E TKR+T A+NN+S+ I++    KK+LKE++Y  LL +ME  K++L ++DE+  SL SIQ++      +I+G Y+HITE +IRA W    DK+LNIW</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1490227787|gb|RKY98248.1|</Hit_id>
+  <Hit_def>hypothetical protein DRQ10_07620 [Candidatus Hydrothermae bacterium]</Hit_def>
+  <Hit_accession>RKY98248</Hit_accession>
+  <Hit_len>472</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>163.31</Hsp_bit-score>
+      <Hsp_score>412</Hsp_score>
+      <Hsp_evalue>2.09831e-41</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>403</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>411</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>415</Hsp_align-len>
+      <Hsp_qseq>MKLDPWQEDFLTKKGDKILCC-GRQVGKSVIAARDAAEYALKHSNKQILMIAPTERQAYELFDKTLSYLTFKSMKSIRKGKDRPTKHKINLYNKSVIHCLPTGLSGVGIRGRTIHRLYVDEASRVPEEVWTAVTPMLLTTGGDTILLSTPFGRQGYFYRIWNNPDNSFSKFEITSQTALSNREICDSWSKLQKEKAMEYLKRERKEMSALEYGQEYEGRFIDELRQFF-PTDLIKKCMTLKRDEYEPI--KFNKIQTVDNFLGVDIARLGDDETVFFSLKRINREKLRENEVKIYR--------KVLLTETARNIIRLHRASNFRKIYIDDGGLGAGVLDIL--LEEETTKRRTEAINNSSKAISKDKRMKKILKEDLYTNLLRIMEQNKLELFENDE-VLHSLQSIQYEYTNSG</Hsp_qseq>
+      <Hsp_hseq>MKPFQYQTEFLRDDHPYIIVASARQVGKSTMVSARALWEALANDGITVLILAPTFRQSQITFRKIRAAIE-RNKRIFSRLIKRLRSDYIQFINDSEIYCLPAGEEGITIRGFTADVLIIDEAAFVPDEVFASVLPSITTRHSKLYLLGTPAGKTGFFWKAWNNP--QFKRYRIRA-----------SDCPIHKKEKIELAK---TLMPSLKFKTEYEAEFVEEMDTFFSPSDINSAVIDIP-----PLTGPINNPAIRGYYIGVDVARMGKDETVYIV---IEASKAESDLQPVYRIVYAKAEAKTPLTAVAENVKELIRIWKPKAVAIDETGMGGGVIDILRSYEEEEITTQIIGITFTLKT-----------KADLYRRLRLLFEQRRIFIPSRFERLINQLKAIRYQYTQSG</Hsp_hseq>
+      <Hsp_midline>MK   +Q +FL      I+    RQVGKS + +  A   AL +    +L++APT RQ+   F K  + +  ++ +   +   R     I   N S I+CLP G  G+ IRG T   L +DEA+ VP+EV+ +V P + T      LL TP G+ G+F++ WNNP   F ++ I +           S   + K++ +E  K     M +L++  EYE  F++E+  FF P+D+    + +      P+    N       ++GVD+AR+G DETV+     I   K   +   +YR        K  LT  A N+  L R    + + ID+ G+G GV+DIL   EEE    +   I  + K            K DLY  L  + EQ ++ +    E +++ L++I+Y+YT SG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1491212582|gb|RLG90619.1|</Hit_id>
+  <Hit_def>hypothetical protein DRO34_05330 [Candidatus Bathyarchaeota archaeon]</Hit_def>
+  <Hit_accession>RLG90619</Hit_accession>
+  <Hit_len>436</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.073</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>4.10856e-40</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>436</Hsp_query-to>
+      <Hsp_hit-from>32</Hsp_hit-from>
+      <Hsp_hit-to>425</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>119</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>53</Hsp_gaps>
+      <Hsp_align-len>438</Hsp_align-len>
+      <Hsp_qseq>PWQEDFLTKKGDKILCC-GRQVGKSVIAARDAAEYALKHSNKQILMIAPTERQAYELFDKTLSYLTFKSMKSIRKGKDRPTKHKINLYNKSVIHCLPTGLSGVGIRGRTIHRLYVDEASRVPEEVWTAV-TPMLLTTGGDTILLSTPFGRQGYFYRIWNNPDNSFSKFEITSQTALSNREICDSWSKLQKEKAMEYLKRERKEMSALEYGQEYEGRFIDELRQFFPTDLIKKCMTLKRDEYEPIKFNKIQTV---DNFLGVDIARLGDDETVFFSLKRINREKLRENEVKIYRKVLLTETARN----IIRLHRASNFRKIYIDDGGLGAGVLDILLEEETTKRRTEAINNSSKAISKDKRMKKILKEDLYTNLLRIMEQNKLELFENDEVLHSLQSIQYEYTNSGIRIFGRYTHITEALIRAAWCLHDKSLNIWTGSK</Hsp_qseq>
+      <Hsp_hseq>PYQEKFLKDESKRVVACFGRQTGKTTVVAVRAVHFAFTNAEAVVLVVSPSLRQSMIMFERICRFI--ESNPYTAKSVRRKTCTVVELRNGSRIIALPC--AAHRLRGFTAHMVIVDEAAFVPDEVVTEILNPMLAATDGVLILAGTPWGR-NYFYKAFTDPDFSVHKVKSSECPLISE----------------EFLRKQRECMTAEAYAREYEAEFVEETQSYFSQNLVQRCLAPELQLYDERDVLTSQTILKGEYYMGVDLGKLQD----YSAAAIIEKKRNGTLELKLLKEFPLNTPYLTVSGWILRAYKTFRFKQVLIDQSGVGEPFLEIL--------KDQGMNTVSGV-----KLTLQAKTAMLSNLRMLMERSKLKMPYLPRLFQQLNEQRYEYTGTGQL---RFWHPPHAHDDQLWAL---ALAVYAAKK</Hsp_hseq>
+      <Hsp_midline>P+QE FL  +  +++ C GRQ GK+ + A  A  +A  ++   +L+++P+ RQ+  +F++   ++  +S     K   R T   + L N S I  LP   +   +RG T H + VDEA+ VP+EV T +  PML  T G  IL  TP+GR  YFY+ + +PD S  K + +    +S                 E+L+++R+ M+A  Y +EYE  F++E + +F  +L+++C+  +   Y+       QT+   + ++GVD+ +L D    + +   I +++    E+K+ ++  L          I+R ++   F+++ ID  G+G   L+IL        + + +N  S       ++    K  + +NL  +ME++KL++     +   L   +YEYT +G     R+ H   A     W L   +L ++   K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|939572620|gb|KPV62526.1|</Hit_id>
+  <Hit_def>Terminase-like family protein [Candidatus Bathyarchaeota archaeon BA2]</Hit_def>
+  <Hit_accession>KPV62526</Hit_accession>
+  <Hit_len>438</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>159.073</Hsp_bit-score>
+      <Hsp_score>401</Hsp_score>
+      <Hsp_evalue>4.31193e-40</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>407</Hsp_query-to>
+      <Hsp_hit-from>39</Hsp_hit-from>
+      <Hsp_hit-to>404</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>202</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>406</Hsp_align-len>
+      <Hsp_qseq>WQEDFLTKKGDKILCC-GRQVGKSVIAARDAAEYALKHSNKQILMIAPTERQAYELFDKTLSYLTFKSMKSIRKGKDRPTKHKINLYNKSVIHCLPTGLSGVGIRGRTIHRLYVDEASRVPEEVWTAVT-PMLLTTGGDTILLSTPFGRQGYFYRIWNNPDNSFSKFEITSQTALSNREICDSWSKLQKEKAMEYLKRERKEMSALEYGQEYEGRFIDELRQFFPTDLIKKCMTLKRDEYEPIKFNKIQTVDNFLGVDIARLGDDETVFFSLKRINREKLRENEVKIYRKVLLTETARN-----IIRLHRASNFRKIYIDDGGLGAGVLDILLEEETTKRRTEAINNSSKAISKDKRMKKILKEDLYTNLLRIMEQNKLELFENDEVLHSLQSIQYEYTNSGIRIF</Hsp_qseq>
+      <Hsp_hseq>YQEKLLRDQSKRLVACMGRQTGKTTTIAIKAVHFAFCNADVTVLITAPSRRQSIIMFSKIAGFI-FRTV--LRRSVIRSTQTTIQLSNGSEIIALPC--SGHLLRGFTAQMVIVDEASYIPEEVITNILYPMLATTNGSLILLSTPWGKDHFFYRAFVDPD--FSVYRVKS-----------SECPLISEK---FLKKQREFMTTETYRMEYEAEFVEAATSYFPQDLIRSCIDPELELERDLEGLARQEGDFYAGCDLGKL-QDYSVFAVV-----QKTRDHIKLVFLREFPLETSYSSIIGFMVQANKKFNLRRILIDRSGVGEVAIEEIKAQGLANAEGQSFTMQSKA-------------EMLANLRVKMEQGAFKMPYNHRLCQQINEQRYEYTKSGKLMF</Hsp_hseq>
+      <Hsp_midline>+QE  L  +  +++ C GRQ GK+   A  A  +A  +++  +L+ AP+ RQ+  +F K   ++ F+++  +R+   R T+  I L N S I  LP   SG  +RG T   + VDEAS +PEEV T +  PML TT G  ILLSTP+G+  +FYR + +PD  FS + + S           S   L  EK   +LK++R+ M+   Y  EYE  F++    +FP DLI+ C+  + +    ++    Q  D + G D+ +L  D +VF  +     +K R++   ++ +    ET+ +     +++ ++  N R+I ID  G+G   ++ +  +       ++    SKA             ++  NL   MEQ   ++  N  +   +   +YEYT SG  +F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>161</Statistics_hsp-len>
+      <Statistics_eff-space>12588729583914</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>8</Iteration_iter-num>
+  <Iteration_query-ID>Query_8</Iteration_query-ID>
+  <Iteration_query-def>PVBE012265656.1;size=1_23 # 18134 # 19639 # 1 # ID=1126_23;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.390</Iteration_query-def>
+  <Iteration_query-len>502</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707908090|gb|QDP64010.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP64010</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>675.241</Hsp_bit-score>
+      <Hsp_score>1741</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>499</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>317</Hsp_identity>
+      <Hsp_positive>390</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>499</Hsp_align-len>
+      <Hsp_qseq>SDLLTNFNLQRSRYDHRHFYEWLGYTWGNHIEEWFELFNDRLDKSVHRVLLIAPRDHSKSTTLRVKALHSLLFERWRNKPFTTWLFSASKDLAANRLEEIKDDLKRHPELSRMIDDSKSNKWKLQLTNGSWIKASSVGSAIRGEHPARIILDDVLDDGGDKTDEDIRQWFRKKLTPMLSPQTSIFVVGTPLSLTDLYHTEMLENTAWVSWKMGSVLNYDEWSKNPEEIEPIALWPEYRPINFLLEQRDAMGELAFSQEYLCRVVDDASAVFPQHLSRKHLQIETFLEKEKLHEGRYVIGFDPSHGIGKDYSVMVVMRQDKEGFLHLVDIWRRNDFEPSRQANEIVRLCATYKNPIFAAETAGFQRLYQSLLQNMGANVDYRPSPVSNRVLKQALLMRMRAWFEQGKVVFPYGDHATRTVVNELLHELETHAWDNGIIVDKGKHNDIVMAMAHAIDQFRNISSATNAPMVSKGVSLNSW-KNKASPRYPT--SNGKFVSF</Hsp_qseq>
+      <Hsp_hseq>SRIMTALHLERSKYDVRHFYEWLGYNWGKHIGEWLDLYGERGDAQVHRVCIIAPRDHSKSTTLRIKALHMLLFERWRGKPLKMWLFSSNKDLAANRLEEIRQDLKTHPELSRMLDPKKGNKLELHLTNGSWIKATSVGSGIRGEHPAAIILDDVLDDQNDMSYDYVQQWFRKKLTPMLSPGTSIYCVGTPMSMNDLYHTEMLSNKKWQTWVKGSILNYDEWRSDPDNVEPTCLWPEERPIEFLLEQRDAIGELAFTQEYLCKVVDDDSAVFPTTLTRKNLDMHSILENKKVHDNDYVIGFDPSHGIGQDYSVMVCMRKDEDGNLRLVNIWRKNDFPPAKQIDEIAVWNDKYSKPLFAFESAGFQHLYESLLKQKGLTVNVKQSKVSNKTLKQGLMTRLRTWFEQGRIIFPYGDDETRKIVSVLLLELESHAWKNGDIVDKGKHNDIVMALAHAVDQFKNVTG--DIPMMGSSVDMNKWGKPSQKGGRPTRKSSGKYVTF</Hsp_hseq>
+      <Hsp_midline>S ++T  +L+RS+YD RHFYEWLGY WG HI EW +L+ +R D  VHRV +IAPRDHSKSTTLR+KALH LLFERWR KP   WLFS++KDLAANRLEEI+ DLK HPELSRM+D  K NK +L LTNGSWIKA+SVGS IRGEHPA IILDDVLDD  D + + ++QWFRKKLTPMLSP TSI+ VGTP+S+ DLYHTEML N  W +W  GS+LNYDEW  +P+ +EP  LWPE RPI FLLEQRDA+GELAF+QEYLC+VVDD SAVFP  L+RK+L + + LE +K+H+  YVIGFDPSHGIG+DYSVMV MR+D++G L LV+IWR+NDF P++Q +EI      Y  P+FA E+AGFQ LY+SLL+  G  V+ + S VSN+ LKQ L+ R+R WFEQG+++FPYGD  TR +V+ LL ELE+HAW NG IVDKGKHNDIVMA+AHA+DQF+N++   + PM+   V +N W K       PT  S+GK+V+F</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1707893153|gb|QDP49855.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP49855</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>616.69</Hsp_bit-score>
+      <Hsp_score>1589</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>497</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>287</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>495</Hsp_align-len>
+      <Hsp_qseq>TNFNLQRSRYDHRHFYEWLGYTWGNHIEEWFELFNDRLDKSVHRVLLIAPRDHSKSTTLRVKALHSLLFERWRNKPFTTWLFSASKDLAANRLEEIKDDLKRHPELSRMIDDSKSNKWKLQLTNGSWIKASSVGSAIRGEHPARIILDDVLDDGGDKTDEDIRQWFRKKLTPMLSPQTSIFVVGTPLSLTDLYHTEMLENTAWVSWKMGSVLNYDEWSKNPEEIEPIALWPEYRPINFLLEQRDAMGELAFSQEYLCRVVDDASAVFPQHLSRKHLQIETFLEKEKLHEGRYVIGFDPSHGIGKDYSVMVVMRQDKEGFLHLVDIWRRNDFEPSRQANEIVRLCATYKNPIFAAETAGFQRLYQSLLQNMGANVDYRPSPVSNRVLKQALLMRMRAWFEQGKVVFPYGDHATRTVVNELLHELETHAWDNGIIVDKGKHNDIVMAMAHAIDQFRNISSATNAPMVSKGVSLNSWKN--KASPRYPTSNGKFVSFR</Hsp_qseq>
+      <Hsp_hseq>TDFAMARSRDDVEYFYKWLGYTWGDHIGEWMDMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHSALFEKWRDKPFTCWLFSASKDLAVRRLEEIREDMKRHPQLSRYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDTGDQNFEGIRQWFRKKVTPMLSPGTSIYCVGTPMSMTDLYHTEMLDNDTWKSGTWSAVKNWDEYKADPENVKAIELWPEFRPVEFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDLDVTLGQEKQDDCKYAIGFDPAHGLGKDYSVMICLKQDSDGFIHLVNIWRRNDFAPDRQADMMIEWSKRYGTPAFAVEAVGFQQMYESLLSQKGAMIDYRESKVSNKTLKQGLMNRMRVWFEREMIIFPYGDDATRRQVNILLEELNSHAWRDGEIIDLGRHNDCAMALAHALDQF--TYRTPEMPSVFKTMRKGEWTGGQRRINRSPTSFGGKVMRR</Hsp_hseq>
+      <Hsp_midline>T+F + RSR D  +FY+WLGYTWG+HI EW +++ +R D  VHRV +IAPRDHSKSTTLRVK LHS LFE+WR+KPFT WLFSASKDLA  RLEEI++D+KRHP+LSR +D  + NK +L+ TNG+WI+A+SVGSAIRGEHPA I  DDVLDD GD+  E IRQWFRKK+TPMLSP TSI+ VGTP+S+TDLYHTEML+N  W S    +V N+DE+  +PE ++ I LWPE+RP+ FLLEQ++AMGEL+F QEY+C+V+DD ++V+P+ L+ K L ++  L +EK  + +Y IGFDP+HG+GKDYSVM+ ++QD +GF+HLV+IWRRNDF P RQA+ ++     Y  P FA E  GFQ++Y+SLL   GA +DYR S VSN+ LKQ L+ RMR WFE+  ++FPYGD ATR  VN LL EL +HAW +G I+D G+HND  MA+AHA+DQF         P V K +    W    +   R PTS G  V  R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1707903562|gb|QDP59881.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP59881</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>613.994</Hsp_bit-score>
+      <Hsp_score>1582</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>497</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>494</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>283</Hsp_identity>
+      <Hsp_positive>371</Hsp_positive>
+      <Hsp_gaps>4</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>TNFNLQRSRYDHRHFYEWLGYTWGNHIEEWFELFNDRLDKSVHRVLLIAPRDHSKSTTLRVKALHSLLFERWRNKPFTTWLFSASKDLAANRLEEIKDDLKRHPELSRMIDDSKSNKWKLQLTNGSWIKASSVGSAIRGEHPARIILDDVLDDGGDKTDEDIRQWFRKKLTPMLSPQTSIFVVGTPLSLTDLYHTEMLENTAWVSWKMGSVLNYDEWSKNPEEIEPIALWPEYRPINFLLEQRDAMGELAFSQEYLCRVVDDASAVFPQHLSRKHLQIETFLEKEKLHEGRYVIGFDPSHGIGKDYSVMVVMRQDKEGFLHLVDIWRRNDFEPSRQANEIVRLCATYKNPIFAAETAGFQRLYQSLLQNMGANVDYRPSPVSNRVLKQALLMRMRAWFEQGKVVFPYGDHATRTVVNELLHELETHAWDNGIIVDKGKHNDIVMAMAHAIDQFRNISSATNAPMVSKGVSLNSWKNKAS--PRYPTSNGKFV</Hsp_qseq>
+      <Hsp_hseq>TDFAMARSRNDVEYFYKWLGYTWGDHIGEWMKMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHCALFEKWRDKPFTCWLFSASKDLAIRRLEEIREDMKRHPQLSKYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDSGDQNYDTIREWFRKKVTPMLSPGTSIYCVGTPLSMTDLYHTEMLDNDTWKSGTWSAVINWDEYKADPDNVKAKELWPEFRPIDFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDMDAVLNPEKTDDCKYAIGFDPAHGLGQDYSVMVCLKQDEQGFIHLVNIWRRNDFPPDKQADMMIEWSKNYGTPAFAVESVGFQSLYEGLLSQKNAMVDYRESKVSNRPLKQGLMNRMRVWFEREMIVFPYGDDSTRRKVNILLEELNTHAWRDGMIIDLGRHNDCAMAMAHALDQF--VYKTPDMPSVFKTMNKGAWQGGKTRINRTPTTFGGKV</Hsp_hseq>
+      <Hsp_midline>T+F + RSR D  +FY+WLGYTWG+HI EW +++ +R D  VHRV +IAPRDHSKSTTLRVK LH  LFE+WR+KPFT WLFSASKDLA  RLEEI++D+KRHP+LS+ +D  + NK +L+ TNG+WI+A+SVGSAIRGEHPA I  DDVLDD GD+  + IR+WFRKK+TPMLSP TSI+ VGTPLS+TDLYHTEML+N  W S    +V+N+DE+  +P+ ++   LWPE+RPI+FLLEQ++AMGEL+F QEY+C+V+DD ++V+P+ L+ K L ++  L  EK  + +Y IGFDP+HG+G+DYSVMV ++QD++GF+HLV+IWRRNDF P +QA+ ++     Y  P FA E+ GFQ LY+ LL    A VDYR S VSNR LKQ L+ RMR WFE+  +VFPYGD +TR  VN LL EL THAW +G+I+D G+HND  MAMAHA+DQF  +    + P V K ++  +W+   +   R PT+ G  V</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1707906471|gb|QDP62534.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP62534</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>551.977</Hsp_bit-score>
+      <Hsp_score>1421</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>481</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>268</Hsp_identity>
+      <Hsp_positive>348</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>484</Hsp_align-len>
+      <Hsp_qseq>LLTNFNLQRSRYDHRHFYEWLG--YTWGNHIEEWFELFNDRLDKSVHRVLLIAPRDHSKSTTLRVKALHSLLFERWRNKPFTTWLFSASKDLAANRLEEIKDDLKRHPELSRMIDDSKSNKWKLQLTNGSWIKASSVGSAIRGEHPARIILDDVLDDGGDKTDEDIRQWFRKKLTPMLSPQTSIFVVGTPLSLTDLYHTEMLENTAWVSWKMG---SVLNYDEWSKNPEEIEPIALWPEYRPINFLLEQRDAM-GELAFSQEYLCRVVDDASAVFPQHLSRKHLQIETFLEKE-KLHEG-RYVIGFDPSHGIGKDYSVMVVMRQDKEGFLHLVDIWRRNDFEPSRQANEIVRLCATYKNPIFAAETAGFQRLYQSLLQNMGANVDYRPSPVSNRVLKQALLMRMRAWFEQGKVVFPYGDHATRTVVNELLHELETHAWDNGIIVDKGKHNDIVMAMAHAIDQFRNISSATNAPMVSKGVSLNSW</Hsp_qseq>
+      <Hsp_hseq>VMPNFNFERSRHDIKHFYEWLSPEYKWADHIDEWMELYGNRKGAQVHRVCIIAPRSHSKSATLRVKLLHMCLFEQRHGQPMEIWLFSASIRQATNRLEEIKTDMRRHPELRKYLDDKRSNKQRIQFTNGAWIQATGVGSAIRGEHPAVVALDDVLAEMGDMTMDTVAEWFKKVVTPMLDPGTSLFCVGTPMSHTDLYHTEMLSEKAKQVWKSGVWSAFPNWDEHRADPDNIPLLPLWPEFRPTEFLLEQKISIDDDLAFAQEYLCKVVDDDSQVFNRHLIREHIDIGAISGFDGQLHDGSRFILGFDPAHGIGKDYSVLICLRQDEQGYIHFVDMWRKNDFPPDRQADTIIEWAKHYGAPV-AAEDVGFQRLYQTVIEQKGGHLDYRPSKASNKGLKQGLMNRLRVWFERKLVVFPYGDDATRKKVNIILDELEAHVWKNGEIVDVGKHNDTVMALAHAIDQFKP-KQNDQMPMISKTTSMGGW</Hsp_hseq>
+      <Hsp_midline>++ NFN +RSR+D +HFYEWL   Y W +HI+EW EL+ +R    VHRV +IAPR HSKS TLRVK LH  LFE+   +P   WLFSAS   A NRLEEIK D++RHPEL + +DD +SNK ++Q TNG+WI+A+ VGSAIRGEHPA + LDDVL + GD T + + +WF+K +TPML P TS+F VGTP+S TDLYHTEML   A   WK G   +  N+DE   +P+ I  + LWPE+RP  FLLEQ+ ++  +LAF+QEYLC+VVDD S VF +HL R+H+ I      + +LH+G R+++GFDP+HGIGKDYSV++ +RQD++G++H VD+WR+NDF P RQA+ I+     Y  P+ AAE  GFQRLYQ++++  G ++DYRPS  SN+ LKQ L+ R+R WFE+  VVFPYGD ATR  VN +L ELE H W NG IVD GKHND VMA+AHAIDQF+        PM+SK  S+  W</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1707895231|gb|QDP51900.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP51900</Hit_accession>
+  <Hit_len>484</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>167.162</Hsp_bit-score>
+      <Hsp_score>422</Hsp_score>
+      <Hsp_evalue>3.78151e-42</Hsp_evalue>
+      <Hsp_query-from>28</Hsp_query-from>
+      <Hsp_query-to>456</Hsp_query-to>
+      <Hsp_hit-from>38</Hsp_hit-from>
+      <Hsp_hit-to>444</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>128</Hsp_identity>
+      <Hsp_positive>219</Hsp_positive>
+      <Hsp_gaps>36</Hsp_gaps>
+      <Hsp_align-len>436</Hsp_align-len>
+      <Hsp_qseq>YTWGNHIEEWFELFNDRLDKSVHRVLLIAPRDHSKSTTLRVKALHSLLFERWRNKPFTTWLFSASKDLAANRLEEIKDDLKRHPELSRMIDDSKSNKWKLQLTNGSWIKASSVGSAIRGEHPARIILDDVLDDGGDKTDEDIRQWFRKKLTPMLSPQTSIFVVGTPLSLTDLYHTEMLENTAWV--SWKMGSVLNYDEWSKNPEEIEPIALWPEYRPINFLLEQRDAMGELAFSQEYLCRVVDDASAVF-PQHLSRKHLQIETFLEKEKLHEGRYVIGFDPSHGIGKDYSVMVVMRQDKEGFLHLVDIWRRNDFEPSRQANEIVRLCATYKNP-IFAAETAGFQRLYQSLLQNMG-ANV-DYRPSPVSNRVLKQALLMRMRAWFEQGKVVFPYGDHATRTVVNELLHELETHAW-DNGIIVDKGKHNDIVMAMAHA</Hsp_qseq>
+      <Hsp_hseq>YFYPHYMEEWLELMN-----STQRTVLICSRDHGKSVFMHCWVIWNLIFQP---KGYQMLYISSNQKQTLVHMREI-DKYFSHPMLQKFKPIRGWSVGHIRLTNGNELLARSVGSQIRGLHPNEIVIDDPLKEFSMSAIQKVTDWFYSDMIPTLHHSASLRVIGTPFSYTDIY-SQLAENEVYEVRTYPCLNALN-----------EP--LWPDRWDYNSLMLRKGEIGTIAFTREYLCVPMSTGTSLFNPEYLDNAKSK-DYILKPHRRKDFKYYVGVDPAISTDGDYNVITVLEVDENDNKTVVYVDRAKNVE-FRQNIEKVKMIGKIFNPEVVLFETNIFAKSFTQELKHVSDINVHDF----TTTRKKKQEIILNLQMNFENGKMRLPYGNEESRRVTSTLIEELSMFAITEGGKFEGIGAHDDMVMSLALA</Hsp_hseq>
+      <Hsp_midline>Y + +++EEW EL N     S  R +LI  RDH KS  +    + +L+F+    K +     S+++      + EI D    HP L +       +   ++LTNG+ + A SVGS IRG HP  I++DD L +      + +  WF   + P L    S+ V+GTP S TD+Y +++ EN  +   ++   + LN           EP  LWP+    N L+ ++  +G +AF++EYLC  +   +++F P++L     + +  L+  +  + +Y +G DP+     DY+V+ V+  D+     +V + R  + E  RQ  E V++     NP +   ET  F + +   L+++   NV D+     + R  KQ +++ ++  FE GK+  PYG+  +R V + L+ EL   A  + G     G H+D+VM++A A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>163</Statistics_hsp-len>
+      <Statistics_eff-space>15145272020316</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>9</Iteration_iter-num>
+  <Iteration_query-ID>Query_9</Iteration_query-ID>
+  <Iteration_query-def>PVBE012489346.1;size=1_3 # 757 # 2016 # 1 # ID=1133_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.354</Iteration_query-def>
+  <Iteration_query-len>420</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1490070855|gb|RKX66046.1|</Hit_id>
+  <Hit_def>hypothetical protein DRP42_03880 [Tenericutes bacterium]</Hit_def>
+  <Hit_accession>RKX66046</Hit_accession>
+  <Hit_len>389</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>347.436</Hsp_bit-score>
+      <Hsp_score>890</Hsp_score>
+      <Hsp_evalue>1.60901e-113</Hsp_evalue>
+      <Hsp_query-from>40</Hsp_query-from>
+      <Hsp_query-to>418</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>388</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>188</Hsp_identity>
+      <Hsp_positive>263</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>393</Hsp_align-len>
+      <Hsp_qseq>IAIKAGEYALKHPKKQVMVIASVERQAHLLFEKILAY--IQEVRPQAIKRGRDRPTKSKLQLRNGSIIHSLPTGLSGTGIRGFTIDLLIADEAAFIPEDVWVAVTPMLAITK-----GNIVLLSTPFGREGYFYRSFKDKTFKQFHVSSEECPRRNDEFLAEEKRRMTKLQYAQEYLGEFIDELRQFFPTKLIERCMKL---KRPEKIEKSKYYLGVDVARMGTDESTFEIIDASIAGRFKHVENLITTKTLLTATTKKIVELERKYDFKKIFIDDGGVGSGVFDPLLDIDETRRKVVAINNAARALD-KDEKRKKKLLKEDLYNNLLRLMERGELSLLDDAEVFQSLKSVQYEYTDDGN---IKLFGKYTHICEGLIRAAWGTKDKSLNIWI</Hsp_qseq>
+      <Hsp_hseq>MSAKACKFAMEHPGTTTLIIAASQRQSSLLFEKVRANFDIKEIEGDDIYK--EQPTLTKIILKNGSKIYSLPAGRTGYFIRGFTIDLLIADEAAYIPEEVWKAVIPMIAVSQKLRGMGFLILLSTPFGKGGYFYDSFTDPDFKHIHVSSEDCWRIPKDFLKKEKVRLTKAEYAQEYLGEFTDEWNQFFNTKLIKSCMTFFEWSIKEKAVNSRLYLGVDIARYGGDENAF-VIAELVGTNIKIVKCLTTNRISTTDTIGRIEKLNEIYNFNKIFIDDSGVGGSVLDVL--IDKLGRKVMGLNNASKRVQVQGEEKRKGIFKEDLYSNALMLMETGKIELINHLGLLKSLKSIIYEYGQTSSSRKIKIFGNYSHLTEALVRACWCLKERGLDIYI</Hsp_hseq>
+      <Hsp_midline>++ KA ++A++HP    ++IA+ +RQ+ LLFEK+ A   I+E+    I +  ++PT +K+ L+NGS I+SLP G +G  IRGFTIDLLIADEAA+IPE+VW AV PM+A+++     G ++LLSTPFG+ GYFY SF D  FK  HVSSE+C R   +FL +EK R+TK +YAQEYLGEF DE  QFF TKLI+ CM        EK   S+ YLGVD+AR G DE+ F +I   +    K V+ L T +   T T  +I +L   Y+F KIFIDD GVG  V D L  ID+  RKV+ +NNA++ +  + E+++K + KEDLY+N L LME G++ L++   + +SLKS+ YEY    +   IK+FG Y+H+ E L+RA W  K++ L+I+I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1490641021|gb|RLC34451.1|</Hit_id>
+  <Hit_def>hypothetical protein DRZ76_02655 [Candidatus Nealsonbacteria bacterium]</Hit_def>
+  <Hit_accession>RLC34451</Hit_accession>
+  <Hit_len>427</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>306.22</Hsp_bit-score>
+      <Hsp_score>783</Hsp_score>
+      <Hsp_evalue>7.0926e-97</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>418</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>424</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>183</Hsp_identity>
+      <Hsp_positive>286</Hsp_positive>
+      <Hsp_gaps>20</Hsp_gaps>
+      <Hsp_align-len>431</Hsp_align-len>
+      <Hsp_qseq>MDYNILKPHLSLDDWQREIIAYE--GNVTVRSGRQAGKSTAIAIKAGEYALKHPKK--QVMVIASVERQAHLLFEKILAYIQEVRPQA-IKRGRDRPTKSKLQLRNGSIIHSLPTGLSGTGIRGFTIDLLIADEAAFIPEDVWVAVTPMLAITKGNIVLLSTPFGR------EGYFYRSFKDKTFKQFHVSSEECPRRNDEFLAEEKRRMTKLQYAQEYLGEFIDELRQFFPTKLIERCMKLKRPEKIEKSKYYLGVDVARMGTDESTFEIIDASIAGRFKHVENLITTKTLLTATTKKIVELERKYD-FKKIFIDDGGVGSGVFDPLLDIDETRRKVVAINNAARALDKDEKRKKKLLKEDLYNNLLRLMERGELSLLDDAEVFQSLKSVQYEYTDDGNIKLFGKYTHICEGLIRAAW-GTKDKSLNIWI</Hsp_qseq>
+      <Hsp_hseq>MDYDLNRPWETLDEWQKEYIYQDPNQNCFLLTGRQCGKTTAMAIKSVELCVHSFKEGENILICSITEKQAYRMLAKALAYAKVKYPEILIQRGPEKPTMHRIMFRTGAGIFCYAAGETGEGLRGDTIKKLMIDEGARMSEEFFISTIPMISVIKGSIDIASTPAGKKNPDGSEKFFYKCSKDDNYKKWYISAEDCPRHDSLFLEEQRKKLTKLIYAQEYLAIFTDEIKRVFDDELIEKTCILKR-DQIKRGNFYLGVDIAGMGKDENSFEVIQKMSNGTLMQKENITTTKKFTTQTADKIIELDKRYNEIKKIGIDDGGIGFGVYSILMNNEETKRKTFALNNASRVIN-ELGSTKKLLKEEMYILLLSLMENKKIKLLDDDEIKESLSSIQW---DEG--KIYGSYSHITEGIIRACWLAEKDKNLNIWI</Hsp_hseq>
+      <Hsp_midline>MDY++ +P  +LD+WQ+E I  +   N  + +GRQ GK+TA+AIK+ E  +   K+   +++ +  E+QA+ +  K LAY +   P+  I+RG ++PT  ++  R G+ I     G +G G+RG TI  L+ DE A + E+ +++  PM+++ KG+I + STP G+      E +FY+  KD  +K++++S+E+CPR +  FL E+++++TKL YAQEYL  F DE+++ F  +LIE+   LKR ++I++  +YLGVD+A MG DE++FE+I     G     EN+ TTK   T T  KI+EL+++Y+  KKI IDDGG+G GV+  L++ +ET+RK  A+NNA+R ++ +    KKLLKE++Y  LL LME  ++ LLDD E+ +SL S+Q+   D+G  K++G Y+HI EG+IRA W   KDK+LNIWI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1147723001|gb|AQQ75489.1|</Hit_id>
+  <Hit_def>terminase large subunit [uncultured archaeal virus]</Hit_def>
+  <Hit_accession>AQQ75489</Hit_accession>
+  <Hit_len>452</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>195.282</Hsp_bit-score>
+      <Hsp_score>495</Hsp_score>
+      <Hsp_evalue>1.01551e-53</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>380</Hsp_query-to>
+      <Hsp_hit-from>31</Hsp_hit-from>
+      <Hsp_hit-to>388</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>120</Hsp_identity>
+      <Hsp_positive>215</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>374</Hsp_align-len>
+      <Hsp_qseq>LDDWQREIIA-YEGNVTVRSGRQAGKSTAIAIKAGEYALKHPKKQVMVIASVERQAHLLFEKILAYIQEVRPQAIKRGRDRPTKSKLQLRNGSIIHSLPTGLSGTGIRGFTIDLLIADEAAFIPEDVWVAVTPMLAITKGNIVLLSTPFGREGYFYRSF-KDKTFKQFHVSSEECPRRNDEFLAEEKRRMTKLQYAQEYLGEFIDELRQFFPTKLIERCMKL-KRPEKIEKS-KYYLGVDVARMGTDESTFEIIDASIAGRFKHVENLITTKTLLTATTKKIVELERKYDFKKIFIDDGGVGSGVFDPLLD-IDETRRKVVAINNAARALDKDEKRKKKLLKEDLYNNLLRLMERGELSLLDDAEVFQSLKSVQ</Hsp_qseq>
+      <Hsp_hseq>LYDYQAKFIADTNRRICFVSGRQIGKTTATALKALVFAFTEDDKVVLILSKSLRQSKIMFERIRMFLLAI--DALADYTFRMTINEIQLKNGSRIYCIPVGRTAEAARGYTADMIIADEAAYVPDLVFEAMMPSLAVTGGYLLLLGTPGGKTGFFYRAWMTEEGWSKYRVTCYDCPRIPKEFIEEYRHLVTEARFKREILAEFVEVEDMFFPIPVIEDLMVLPKRYSKPQKGFRYIAGLDIARHGKDETVLAIVGIAPDGHYELHAYYRRAKSTITQIVKFVLEKMEHWNVEKLIVDITGMGVGSYDILREFIPKSKLKGITMSV---------KKKK-----DLYDNLLKLIENHKIYFFEDDMLIEQFSNFE</Hsp_hseq>
+      <Hsp_midline>L D+Q + IA     +   SGRQ GK+TA A+KA  +A     K V++++   RQ+ ++FE+I  ++  +   A+     R T +++QL+NGS I+ +P G +    RG+T D++IADEAA++P+ V+ A+ P LA+T G ++LL TP G+ G+FYR++  ++ + ++ V+  +CPR   EF+ E +  +T+ ++ +E L EF++    FFP  +IE  M L KR  K +K  +Y  G+D+AR G DE+   I+  +  G ++        K+ +T   K ++E    ++ +K+ +D  G+G G +D L + I +++ K + ++          K+KK     DLY+NLL+L+E  ++   +D  + +   + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|509140332|ref|YP_008059213.1|</Hit_id>
+  <Hit_def>terminase large subunit [Halovirus HGTV-1] &gt;gi|505832626|gb|AGM11335.1| terminase large subunit [Halovirus HGTV-1]</Hit_def>
+  <Hit_accession>YP_008059213</Hit_accession>
+  <Hit_len>437</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>192.2</Hsp_bit-score>
+      <Hsp_score>487</Hsp_score>
+      <Hsp_evalue>9.67715e-53</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>414</Hsp_query-to>
+      <Hsp_hit-from>27</Hsp_hit-from>
+      <Hsp_hit-to>420</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>214</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>414</Hsp_align-len>
+      <Hsp_qseq>DWQREIIAYEGN-VTVRSGRQAGKSTAIAIKAGEYALKHPKKQVMVIASVERQAHLLFEKILAYIQEVRPQAIKRGRDRPTKSKLQLRNGSIIHSLPTGLSGTGIRGFTIDLLIADEAAFIPEDVWVAV-TPMLAITKGNIVLLSTPFGREGYFYRSFKDKTFKQFHVSSEECPRRNDEFLAEEKRRMTKLQYAQEYLGEFIDELRQFFPTKLIERCMKLKRPEKIEKSKYYLGVDVARMGTDESTFEIIDASIAGRFKHVENLITTKTLLTATTKKIVELERKYDFKKIFIDDGGVGSGVFDPLLDIDETRRKVVAINNAARALDKDEKRKKKLLKEDLYNNLLRLMERGELSLL-----DDAE---VFQSLKSVQYEYTDDGNIKLF---GKYTHICEGLIRAAWGTKDKSL</Hsp_qseq>
+      <Hsp_hseq>DYQKDFMDHNASRKAAVCGRRVGKSTMASWLALWYGITHANAEILITAKAQRQSMELFNEVKKQIRQSDIEEDQWGITRDTRTEINFDNGSRIICLPVGTDGSNIRGYGTDLLIVDEAAFINDSIFQEVLSPMLAVGDSSFVLLSTPFGKKGFLYERFNDEKWYTLQVPTWANPMIDDDFIEEQKSNLTSIQFRQEIKGEFVESADSFFTREELMNCA-YESVDRKDKQIAYLGVDLASTGGDESVYVSIDGD--GNVFDIEH--TKNKSMTDAMGRVRELDSYHDYTKIMIDSTGLGTGVVDQVK--EDLGRKVEGFKFT------NEK------KQSLYNTLKNHLQDGKIRYSFVPGKDEPENKMVDQCLE-LEYEYTSTGKTKIHHPSGGHDDFSDALALAVWAKSQKNL</Hsp_hseq>
+      <Hsp_midline>D+Q++ + +  +      GR+ GKST  +  A  Y + H   ++++ A  +RQ+  LF ++   I++   +  + G  R T++++   NGS I  LP G  G+ IRG+  DLLI DEAAFI + ++  V +PMLA+   + VLLSTPFG++G+ Y  F D+ +    V +   P  +D+F+ E+K  +T +Q+ QE  GEF++    FF  + +  C   +  ++ +K   YLGVD+A  G DES +  ID    G    +E+  T    +T    ++ EL+  +D+ KI ID  G+G+GV D +   ++  RKV            +EK      K+ LYN L   ++ G++        D+ E   V Q L+ ++YEYT  G  K+    G +    + L  A W    K+L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1491212582|gb|RLG90619.1|</Hit_id>
+  <Hit_def>hypothetical protein DRO34_05330 [Candidatus Bathyarchaeota archaeon]</Hit_def>
+  <Hit_accession>RLG90619</Hit_accession>
+  <Hit_len>436</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>191.815</Hsp_bit-score>
+      <Hsp_score>486</Hsp_score>
+      <Hsp_evalue>1.38083e-52</Hsp_evalue>
+      <Hsp_query-from>31</Hsp_query-from>
+      <Hsp_query-to>392</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>403</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>126</Hsp_identity>
+      <Hsp_positive>201</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>377</Hsp_align-len>
+      <Hsp_qseq>GRQAGKSTAIAIKAGEYALKHPKKQVMVIASVERQAHLLFEKILAYIQEVRPQAIKRGRDRPTKSKLQLRNGSIIHSLPTGLSGTGIRGFTIDLLIADEAAFIPEDVWVAV-TPMLAITKGNIVLLSTPFGREGYFYRSFKDKTFKQFHVSSEECPRRNDEFLAEEKRRMTKLQYAQEYLGEFIDELRQFFPTKLIERCMK----------LKRPEKIEKSKYYLGVDVARMGTDESTFEIIDASIAG--RFKHVENLITTKTLLTATTKKIVELERKYDFKKIFIDDGGVGSGVFDPLLDI--DETRRKVVAINNAARALDKDEKRKKKLLKEDLYNNLLRLMERGELSLLDDAEVFQSLKSVQYEYTDDGNIKLF</Hsp_qseq>
+      <Hsp_hseq>GRQTGKTTVVAVRAVHFAFTNAEAVVLVVSPSLRQSMIMFERICRFI-ESNPYTAKSVR-RKTCTVVELRNGSRIIALPC--AAHRLRGFTAHMVIVDEAAFVPDEVVTEILNPMLAATDGVLILAGTPWGR-NYFYKAFTDPDFSVHKVKSSECPLISEEFLRKQRECMTAEAYAREYEAEFVEETQSYFSQNLVQRCLAPELQLYDERDVLTSQTILKGEYYMGVDLGKL-QDYSAAAIIEKKRNGTLELKLLKEFPLNTPYLT-VSGWILRAYKTFRFKQVLIDQSGVG----EPFLEILKDQGMNTVSGVKLTLQA------------KTAMLSNLRMLMERSKLKMPYLPRLFQQLNEQRYEYTGTGQLRFW</Hsp_hseq>
+      <Hsp_midline>GRQ GK+T +A++A  +A  + +  V+V++   RQ+ ++FE+I  +I E  P   K  R R T + ++LRNGS I +LP   +   +RGFT  ++I DEAAF+P++V   +  PMLA T G ++L  TP+GR  YFY++F D  F    V S ECP  ++EFL +++  MT   YA+EY  EF++E + +F   L++RC+           +   + I K +YY+GVD+ ++  D S   II+    G    K ++        LT  +  I+   + + FK++ ID  GVG    +P L+I  D+    V  +    +A            K  + +NL  LMER +L +     +FQ L   +YEYT  G ++ +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>161</Statistics_hsp-len>
+      <Statistics_eff-space>11686311692594</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>10</Iteration_iter-num>
+  <Iteration_query-ID>Query_10</Iteration_query-ID>
+  <Iteration_query-def>VMHT01042436.1;size=3_95 # 63461 # 64966 # 1 # ID=1331_95;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.415</Iteration_query-def>
+  <Iteration_query-len>502</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707893153|gb|QDP49855.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP49855</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>642.114</Hsp_bit-score>
+      <Hsp_score>1655</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>496</Hsp_align-len>
+      <Hsp_qseq>LAFERAKNDVKYFYKWLGYSWGNHIGEWMDMYSAKDDMHINRVCIIAPRSHSKSVTLGVKLLHMCLFERFNKKPMDIWLFSASQDTAKRRLAEIRKDLTSHKELSRYLNTKKGGKEELWLTNGAVIRCSSVGSAIRGDHPAVVALDDVLLDAKKELNNEQLRHWLRKVVMPMLDPGSKLFCVGTPMAQTDLYHTEMLDNALWKSGVWTALPNWDEAKDEPD--KLVALWPEFRPVGFLLEQRAVCGELEFAQEFLCRVIDDESSVYPRKYTRRNLDLEQTFDTDKRAGMRYVIGFDPSQGLGKDYSVMVVVRQESDGSLVVCNIWRRNDFSPDKQADMIGEWCKRYGAP-LAAEDVGFQRLFKSLLEAKGINVDYRQSKVSNKGLKQGLLNRLRVWFEREKIVFAYGSDAVRRSVNLMLEELESHAWKAGEIVDTGRHNDLVMALAHAIDQFSSNINDVPVVMGSMNRGEWQGGSSGKTRAGRYSGLGGRVVSRRR</Hsp_qseq>
+      <Hsp_hseq>FAMARSRDDVEYFYKWLGYTWGDHIGEWMDMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHSALFEKWRDKPFTCWLFSASKDLAVRRLEEIREDMKRHPQLSRYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDTGDQ-NFEGIRQWFRKKVTPMLSPGTSIYCVGTPMSMTDLYHTEMLDNDTWKSGTWSAVKNWDEYKADPENVKAIELWPEFRPVEFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDLDVTLGQEKQDDCKYAIGFDPAHGLGKDYSVMICLKQDSDGFIHLVNIWRRNDFAPDRQADMMIEWSKRYGTPAFAVEAVGFQQMYESLLSQKGAMIDYRESKVSNKTLKQGLMNRMRVWFEREMIIFPYGDDATRRQVNILLEELNSHAWRDGEIIDLGRHNDCAMALAHALDQFTYRTPEMPSVFKTMRKGEWTGGQRRINRSP--TSFGGKVMRRRR</Hsp_hseq>
+      <Hsp_midline> A  R+++DV+YFYKWLGY+WG+HIGEWMDMY  + D+ ++RVC+IAPR HSKS TL VKLLH  LFE++  KP   WLFSAS+D A RRL EIR+D+  H +LSRYL+T++G K EL  TNGA IR +SVGSAIRG+HPA +A DDVL D   + N E +R W RK V PML PG+ ++CVGTPM+ TDLYHTEMLDN  WKSG W+A+ NWDE K +P+  K + LWPEFRPV FLLEQ+   GEL F QE++C+VIDDE+SVYPR  T + LDL+ T   +K+   +Y IGFDP+ GLGKDYSVM+ ++Q+SDG + + NIWRRNDF+PD+QADM+ EW KRYG P  A E VGFQ++++SLL  KG  +DYR+SKVSNK LKQGL+NR+RVWFERE I+F YG DA RR VN++LEEL SHAW+ GEI+D GRHND  MALAHA+DQF+    ++P V  +M +GEW GG     R+   +  GG+V+ RRR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1707903562|gb|QDP59881.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP59881</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>623.239</Hsp_bit-score>
+      <Hsp_score>1606</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>500</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>499</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>368</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>497</Hsp_align-len>
+      <Hsp_qseq>LAFERAKNDVKYFYKWLGYSWGNHIGEWMDMYSAKDDMHINRVCIIAPRSHSKSVTLGVKLLHMCLFERFNKKPMDIWLFSASQDTAKRRLAEIRKDLTSHKELSRYLNTKKGGKEELWLTNGAVIRCSSVGSAIRGDHPAVVALDDVLLDAKKELNNEQLRHWLRKVVMPMLDPGSKLFCVGTPMAQTDLYHTEMLDNALWKSGVWTALPNWDEAKDEPDKLVA--LWPEFRPVGFLLEQRAVCGELEFAQEFLCRVIDDESSVYPRKYTRRNLDLEQTFDTDKRAGMRYVIGFDPSQGLGKDYSVMVVVRQESDGSLVVCNIWRRNDFSPDKQADMIGEWCKRYGAP-LAAEDVGFQRLFKSLLEAKGINVDYRQSKVSNKGLKQGLLNRLRVWFEREKIVFAYGSDAVRRSVNLMLEELESHAWKAGEIVDTGRHNDLVMALAHAIDQFSSNINDVPVVMGSMNRGEWQGGSSGKTRAGRY-SGLGGRVVSRRR</Hsp_qseq>
+      <Hsp_hseq>FAMARSRNDVEYFYKWLGYTWGDHIGEWMKMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHCALFEKWRDKPFTCWLFSASKDLAIRRLEEIREDMKRHPQLSKYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDSGDQ-NYDTIREWFRKKVTPMLSPGTSIYCVGTPLSMTDLYHTEMLDNDTWKSGTWSAVINWDEYKADPDNVKAKELWPEFRPIDFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDMDAVLNPEKTDDCKYAIGFDPAHGLGQDYSVMVCLKQDEQGFIHLVNIWRRNDFPPDKQADMMIEWSKNYGTPAFAVESVGFQSLYEGLLSQKNAMVDYRESKVSNRPLKQGLMNRMRVWFEREMIVFPYGDDSTRRKVNILLEELNTHAWRDGMIIDLGRHNDCAMAMAHALDQFVYKTPDMPSVFKTMNKGAWQG---GKTRINRTPTTFGGKVIKRGR</Hsp_hseq>
+      <Hsp_midline> A  R++NDV+YFYKWLGY+WG+HIGEWM MY  + D+ ++RVC+IAPR HSKS TL VKLLH  LFE++  KP   WLFSAS+D A RRL EIR+D+  H +LS+YL+T++G K EL  TNGA IR +SVGSAIRG+HPA +A DDVL D+  + N + +R W RK V PML PG+ ++CVGTP++ TDLYHTEMLDN  WKSG W+A+ NWDE K +PD + A  LWPEFRP+ FLLEQ+   GEL F QE++C+VIDDE+SVYPR  T + LD++   + +K    +Y IGFDP+ GLG+DYSVMV ++Q+  G + + NIWRRNDF PDKQADM+ EW K YG P  A E VGFQ L++ LL  K   VDYR+SKVSN+ LKQGL+NR+RVWFERE IVF YG D+ RR VN++LEEL +HAW+ G I+D GRHND  MA+AHA+DQF     D+P V  +MN+G WQG   GKTR  R  +  GG+V+ R R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1707906471|gb|QDP62534.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP62534</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>573.548</Hsp_bit-score>
+      <Hsp_score>1477</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>475</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>269</Hsp_identity>
+      <Hsp_positive>356</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>477</Hsp_align-len>
+      <Hsp_qseq>FERAKNDVKYFYKWLG--YSWGNHIGEWMDMYSAKDDMHINRVCIIAPRSHSKSVTLGVKLLHMCLFERFNKKPMDIWLFSASQDTAKRRLAEIRKDLTSHKELSRYLNTKKGGKEELWLTNGAVIRCSSVGSAIRGDHPAVVALDDVLLDAKKELNNEQLRHWLRKVVMPMLDPGSKLFCVGTPMAQTDLYHTEMLDN---ALWKSGVWTALPNWDEAKDEPDK--LVALWPEFRPVGFLLEQR-AVCGELEFAQEFLCRVIDDESSVYPRKYTRRNLDLEQT--FDTDKRAGMRYVIGFDPSQGLGKDYSVMVVVRQESDGSLVVCNIWRRNDFSPDKQADMIGEWCKRYGAPLAAEDVGFQRLFKSLLEAKGINVDYRQSKVSNKGLKQGLLNRLRVWFEREKIVFAYGSDAVRRSVNLMLEELESHAWKAGEIVDTGRHNDLVMALAHAIDQFSSNIND-VPVVMGSMNRGEW</Hsp_qseq>
+      <Hsp_hseq>FERSRHDIKHFYEWLSPEYKWADHIDEWMELYGNRKGAQVHRVCIIAPRSHSKSATLRVKLLHMCLFEQRHGQPMEIWLFSASIRQATNRLEEIKTDMRRHPELRKYLDDKRSNKQRIQFTNGAWIQATGVGSAIRGEHPAVVALDDVLAEMG-DMTMDTVAEWFKKVVTPMLDPGTSLFCVGTPMSHTDLYHTEMLSEKAKQVWKSGVWSAFPNWDEHRADPDNIPLLPLWPEFRPTEFLLEQKISIDDDLAFAQEYLCKVVDDDSQVFNRHLIREHIDIGAISGFDGQLHDGSRFILGFDPAHGIGKDYSVLICLRQDEQGYIHFVDMWRKNDFPPDRQADTIIEWAKHYGAPVAAEDVGFQRLYQTVIEQKGGHLDYRPSKASNKGLKQGLMNRLRVWFERKLVVFPYGDDATRKKVNIILDELEAHVWKNGEIVDVGKHNDTVMALAHAIDQFKPKQNDQMPMISKTTSMGGW</Hsp_hseq>
+      <Hsp_midline>FER+++D+K+FY+WL   Y W +HI EWM++Y  +    ++RVCIIAPRSHSKS TL VKLLHMCLFE+ + +PM+IWLFSAS   A  RL EI+ D+  H EL +YL+ K+  K+ +  TNGA I+ + VGSAIRG+HPAVVALDDVL +   ++  + +  W +KVV PMLDPG+ LFCVGTPM+ TDLYHTEML      +WKSGVW+A PNWDE + +PD   L+ LWPEFRP  FLLEQ+ ++  +L FAQE+LC+V+DD+S V+ R   R ++D+     FD     G R+++GFDP+ G+GKDYSV++ +RQ+  G +   ++WR+NDF PD+QAD I EW K YGAP+AAEDVGFQRL+++++E KG ++DYR SK SNKGLKQGL+NRLRVWFER+ +VF YG DA R+ VN++L+ELE+H WK GEIVD G+HND VMALAHAIDQF    ND +P++  + + G W</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1707908090|gb|QDP64010.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP64010</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>562.377</Hsp_bit-score>
+      <Hsp_score>1448</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>488</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>496</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>264</Hsp_identity>
+      <Hsp_positive>358</Hsp_positive>
+      <Hsp_gaps>9</Hsp_gaps>
+      <Hsp_align-len>495</Hsp_align-len>
+      <Hsp_qseq>SNLKRALAFERAKNDVKYFYKWLGYSWGNHIGEWMDMYSAKDDMHINRVCIIAPRSHSKSVTLGVKLLHMCLFERFNKKPMDIWLFSASQDTAKRRLAEIRKDLTSHKELSRYLNTKKGGKEELWLTNGAVIRCSSVGSAIRGDHPAVVALDDVLLDAKKELNNEQLRHWLRKVVMPMLDPGSKLFCVGTPMAQTDLYHTEMLDNALWKSGVWTALPNWDEAKDEPDKL--VALWPEFRPVGFLLEQRAVCGELEFAQEFLCRVIDDESSVYPRKYTRRNLDLEQTFDTDKRAGMRYVIGFDPSQGLGKDYSVMVVVRQESDGSLVVCNIWRRNDFSPDKQADMIGEWCKRYGAPL-AAEDVGFQRLFKSLLEAKGINVDYRQSKVSNKGLKQGLLNRLRVWFEREKIVFAYGSDAVRRSVNLMLEELESHAWKAGEIVDTGRHNDLVMALAHAIDQFSSNINDVPVVMGSMNRGEW-----QGGSSGKTRAGRY</Hsp_qseq>
+      <Hsp_hseq>SRIMTALHLERSKYDVRHFYEWLGYNWGKHIGEWLDLYGERGDAQVHRVCIIAPRDHSKSTTLRIKALHMLLFERWRGKPLKMWLFSSNKDLAANRLEEIRQDLKTHPELSRMLDPKKGNKLELHLTNGSWIKATSVGSGIRGEHPAAIILDDV-LDDQNDMSYDYVQQWFRKKLTPMLSPGTSIYCVGTPMSMNDLYHTEMLSNKKWQTWVKGSILNYDEWRSDPDNVEPTCLWPEERPIEFLLEQRDAIGELAFTQEYLCKVVDDDSAVFPTTLTRKNLDMHSILENKKVHDNDYVIGFDPSHGIGQDYSVMVCMRKDEDGNLRLVNIWRKNDFPPAKQIDEIAVWNDKYSKPLFAFESAGFQHLYESLLKQKGLTVNVKQSKVSNKTLKQGLMTRLRTWFEQGRIIFPYGDDETRKIVSVLLLELESHAWKNGDIVDKGKHNDIVMALAHAVDQFKNVTGDIPMMGSSVDMNKWGKPSQKGGRPTRKSSGKY</Hsp_hseq>
+      <Hsp_midline>S +  AL  ER+K DV++FY+WLGY+WG HIGEW+D+Y  + D  ++RVCIIAPR HSKS TL +K LHM LFER+  KP+ +WLFS+++D A  RL EIR+DL +H ELSR L+ KKG K EL LTNG+ I+ +SVGS IRG+HPA + LDDV LD + +++ + ++ W RK + PML PG+ ++CVGTPM+  DLYHTEML N  W++ V  ++ N+DE + +PD +    LWPE RP+ FLLEQR   GEL F QE+LC+V+DD+S+V+P   TR+NLD+    +  K     YVIGFDPS G+G+DYSVMV +R++ DG+L + NIWR+NDF P KQ D I  W  +Y  PL A E  GFQ L++SLL+ KG+ V+ +QSKVSNK LKQGL+ RLR WFE+ +I+F YG D  R+ V+++L ELESHAWK G+IVD G+HND+VMALAHA+DQF +   D+P++  S++  +W     +GG   +  +G+Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1707903251|gb|QDP59598.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP59598</Hit_accession>
+  <Hit_len>478</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>139.043</Hsp_bit-score>
+      <Hsp_score>349</Hsp_score>
+      <Hsp_evalue>4.38099e-32</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>452</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>439</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>216</Hsp_positive>
+      <Hsp_gaps>55</Hsp_gaps>
+      <Hsp_align-len>469</Hsp_align-len>
+      <Hsp_qseq>NLKRALAFERAKNDVKYFYK-WLGYSWGNHIGEWMDMYSAKDDMHINRVCIIAPRSHSKSVTLGVKLLHMCLFERFNKKPMDIWLFSASQDTAKRRLAEIRKDLTSHKELSRYLNT---KKGGKEELW------LTNGAVIRCSSVGSAIRGDHPAVVALDDVLLDAKKELNN---EQLRHWLRKVVMPMLDPGSKLFCVGTPMAQTDLYHTEMLDNALWKSGVWTALPNWDEAKDEPDKLVALWPEFRPVGFLLEQRAVCGELEFAQEFLCRVIDDESSVYPRKYTR--RNLDLEQTFDTDKRAGMRYVIGFDPSQGLGKDYSVMVVVRQESDGSLVVCNIWRRNDFSPDKQAD---MIGEWCKRYGAPLAAEDVGFQRLFKSLLEAKGINVDYRQSKVSNKGLKQGLLNRLRVWFEREKIVFAYGSDAVRRSVNLMLEELESHAWK-AGEIVDTGRHNDLVMALAHA</Hsp_qseq>
+      <Hsp_hseq>NFTHRMDMELSKHSFPYFFKNVLGMMYPKYMEEWLESMETTD-----RTVIICSRDHGKSVFMHSWVVWNLIFQ---EPPFQMLYISSNQ----------KQTMVHMREIDRYFNIPALKQFKPSRGWAIGNITLTNGNSVLERSVGSQIRGLHPQEIIIDDPL----KEFSIAGISRVTDWFFGDMIPTLHHTAKLRMIGTPFTYTDIF-SQLEENPAYFVRKYPCFNSLEEP---------LWPERWDYDSLMQRRAEIGSLKFTREYLCIPVSTGTALFGIEHLENAKNKDFVLRLGQRRDKGFRYCVGVDPAISTDGDYNVIMVLEVDDEGNKTIVHVDRAKNVSFRENIDKLRIIGQVFQPDN--ILYETNTFAKAFTQELRAVS-DLNVRDFDTTRKKKQEIILN-LQMNFENNKINLPYGDNNSRAVTNMLIEELSMFSITDSGRFEGVGAHDDLVMALALA</Hsp_hseq>
+      <Hsp_midline>N    +  E +K+   YF+K  LG  +  ++ EW++     D     R  II  R H KSV +   ++   +F+   + P  +   S++Q          ++ +   +E+ RY N    K+      W      LTNG  +   SVGS IRG HP  + +DD L    KE +     ++  W    ++P L   +KL  +GTP   TD++ +++ +N  +    +    + +E          LWPE      L+++RA  G L+F +E+LC  +   ++++  ++    +N D        +  G RY +G DP+     DY+V++V+  + +G+  + ++ R  + S  +  D   +IG+  +     +  E   F + F   L A   +++ R    + K  ++ +LN L++ FE  KI   YG +  R   N+++EEL   +   +G     G H+DLVMALA A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>163</Statistics_hsp-len>
+      <Statistics_eff-space>15145272020316</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>11</Iteration_iter-num>
+  <Iteration_query-ID>Query_11</Iteration_query-ID>
+  <Iteration_query-def>VMHT01213301.1;size=1_11 # 8983 # 10446 # 1 # ID=1681_11;partial=00;start_type=ATG;rbs_motif=TAA;rbs_spacer=10bp;gc_cont=0.389</Iteration_query-def>
+  <Iteration_query-len>488</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1707903562|gb|QDP59881.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP59881</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>669.078</Hsp_bit-score>
+      <Hsp_score>1725</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>473</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>479</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>297</Hsp_identity>
+      <Hsp_positive>376</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>472</Hsp_align-len>
+      <Hsp_qseq>SLLRSKNDIKYFYEWLGYTWGEHIDEWVNLYTDRKDAQVHRTCIIAPRDHSKSTTLRIVLLHHALFLKWRSKPFTCWLFSASRDTASRRLQEIREDILKHPELSKYLDTKRGGKYELFFTNGAWIRATSVGSAIRGEHPACIALDDVLMDMGDMSMDSVRGWLRKVVTPMLSPGTSLYCVGTPMAMTDIYHTEMLGNKVWKAGVWSAILNWDEYKADPDNVKPECLWPQHRPIDFILEQKEAMQELEFTQEYLCRVIDEDSQVFPRKISRQNMDMELMLEKEKFHDGKYVIGFDPSHGLGKDYSVLVVLRQDSDGYIYLVDIWRKNDFPPEKQVNVIAQYNERYNMPPIAIEDVGFQRLYNAILMQKGVTIDYRPSKASNKSLKQGLMSRLRAWFEQGRIVLPFGDEPTRRVIRLFLEELESHAWKNGDIVDLGKHNDMVMAFAHAIDQFIMPTKHESFSMSSTSLNNWQNS</Hsp_qseq>
+      <Hsp_hseq>AMARSRNDVEYFYKWLGYTWGDHIGEWMKMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHCALFEKWRDKPFTCWLFSASKDLAIRRLEEIREDMKRHPQLSKYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDSGDQNYDTIREWFRKKVTPMLSPGTSIYCVGTPLSMTDLYHTEMLDNDTWKSGTWSAVINWDEYKADPDNVKAKELWPEFRPIDFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDMDAVLNPEKTDDCKYAIGFDPAHGLGQDYSVMVCLKQDEQGFIHLVNIWRRNDFPPDKQADMMIEWSKNYGTPAFAVESVGFQSLYEGLLSQKNAMVDYRESKVSNRPLKQGLMNRMRVWFEREMIVFPYGDDSTRRKVNILLEELNTHAWRDGMIIDLGRHNDCAMAMAHALDQFVYKTPDMPSVFKTMNKGAWQGG</Hsp_hseq>
+      <Hsp_midline>++ RS+ND++YFY+WLGYTWG+HI EW+ +Y +R D QVHR C+IAPRDHSKSTTLR+ LLH ALF KWR KPFTCWLFSAS+D A RRL+EIRED+ +HP+LSKYLDT+RG K EL FTNGAWIRATSVGSAIRGEHPACIA DDVL D GD + D++R W RK VTPMLSPGTS+YCVGTP++MTD+YHTEML N  WK+G WSA++NWDEYKADPDNVK + LWP+ RPIDF+LEQKEAM EL F QEY+C+VID+++ V+PR ++ + +DM+ +L  EK  D KY IGFDP+HGLG+DYSV+V L+QD  G+I+LV+IWR+NDFPP+KQ +++ ++++ Y  P  A+E VGFQ LY  +L QK   +DYR SK SN+ LKQGLM+R+R WFE+  IV P+GD+ TRR + + LEEL +HAW++G I+DLG+HND  MA AHA+DQF+  T        + +   WQ  </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1707893153|gb|QDP49855.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP49855</Hit_accession>
+  <Hit_len>499</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>668.307</Hsp_bit-score>
+      <Hsp_score>1723</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>2</Hsp_query-from>
+      <Hsp_query-to>455</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>461</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>292</Hsp_identity>
+      <Hsp_positive>377</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>454</Hsp_align-len>
+      <Hsp_qseq>SLLRSKNDIKYFYEWLGYTWGEHIDEWVNLYTDRKDAQVHRTCIIAPRDHSKSTTLRIVLLHHALFLKWRSKPFTCWLFSASRDTASRRLQEIREDILKHPELSKYLDTKRGGKYELFFTNGAWIRATSVGSAIRGEHPACIALDDVLMDMGDMSMDSVRGWLRKVVTPMLSPGTSLYCVGTPMAMTDIYHTEMLGNKVWKAGVWSAILNWDEYKADPDNVKPECLWPQHRPIDFILEQKEAMQELEFTQEYLCRVIDEDSQVFPRKISRQNMDMELMLEKEKFHDGKYVIGFDPSHGLGKDYSVLVVLRQDSDGYIYLVDIWRKNDFPPEKQVNVIAQYNERYNMPPIAIEDVGFQRLYNAILMQKGVTIDYRPSKASNKSLKQGLMSRLRAWFEQGRIVLPFGDEPTRRVIRLFLEELESHAWKNGDIVDLGKHNDMVMAFAHAIDQFIMPT</Hsp_qseq>
+      <Hsp_hseq>AMARSRDDVEYFYKWLGYTWGDHIGEWMDMYGERGDVQVHRVCVIAPRDHSKSTTLRVKLLHSALFEKWRDKPFTCWLFSASKDLAVRRLEEIREDMKRHPQLSRYLDTRRGNKLELRFTNGAWIRATSVGSAIRGEHPACIAFDDVLDDTGDQNFEGIRQWFRKKVTPMLSPGTSIYCVGTPMSMTDLYHTEMLDNDTWKSGTWSAVKNWDEYKADPENVKAIELWPEFRPVEFLLEQKEAMGELSFIQEYMCKVIDDEASVYPRSLTHKQLDLDVTLGQEKQDDCKYAIGFDPAHGLGKDYSVMICLKQDSDGFIHLVNIWRRNDFAPDRQADMMIEWSKRYGTPAFAVEAVGFQQMYESLLSQKGAMIDYRESKVSNKTLKQGLMNRMRVWFEREMIIFPYGDDATRRQVNILLEELNSHAWRDGEIIDLGRHNDCAMALAHALDQFTYRT</Hsp_hseq>
+      <Hsp_midline>++ RS++D++YFY+WLGYTWG+HI EW+++Y +R D QVHR C+IAPRDHSKSTTLR+ LLH ALF KWR KPFTCWLFSAS+D A RRL+EIRED+ +HP+LS+YLDT+RG K EL FTNGAWIRATSVGSAIRGEHPACIA DDVL D GD + + +R W RK VTPMLSPGTS+YCVGTPM+MTD+YHTEML N  WK+G WSA+ NWDEYKADP+NVK   LWP+ RP++F+LEQKEAM EL F QEY+C+VID+++ V+PR ++ + +D+++ L +EK  D KY IGFDP+HGLGKDYSV++ L+QDSDG+I+LV+IWR+NDF P++Q +++ ++++RY  P  A+E VGFQ++Y ++L QKG  IDYR SK SNK+LKQGLM+R+R WFE+  I+ P+GD+ TRR + + LEEL SHAW++G+I+DLG+HND  MA AHA+DQF   T</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1707908090|gb|QDP64010.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP64010</Hit_accession>
+  <Hit_len>500</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>652.514</Hsp_bit-score>
+      <Hsp_score>1682</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>487</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>500</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>299</Hsp_identity>
+      <Hsp_positive>381</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>492</Hsp_align-len>
+      <Hsp_qseq>MSLLRSKNDIKYFYEWLGYTWGEHIDEWVNLYTDRKDAQVHRTCIIAPRDHSKSTTLRIVLLHHALFLKWRSKPFTCWLFSASRDTASRRLQEIREDILKHPELSKYLDTKRGGKYELFFTNGAWIRATSVGSAIRGEHPACIALDDVLMDMGDMSMDSVRGWLRKVVTPMLSPGTSLYCVGTPMAMTDIYHTEMLGNKVWKAGVWSAILNWDEYKADPDNVKPECLWPQHRPIDFILEQKEAMQELEFTQEYLCRVIDEDSQVFPRKISRQNMDMELMLEKEKFHDGKYVIGFDPSHGLGKDYSVLVVLRQDSDGYIYLVDIWRKNDFPPEKQVNVIAQYNERYNMPPIAIEDVGFQRLYNAILMQKGVTIDYRPSKASNKSLKQGLMSRLRAWFEQGRIVLPFGDEPTRRVIRLFLEELESHAWKNGDIVDLGKHNDMVMAFAHAIDQFIMPTKHESFSMSSTSLNNWQNSTE-----SPKPGGKFPFFF</Hsp_qseq>
+      <Hsp_hseq>LHLERSKYDVRHFYEWLGYNWGKHIGEWLDLYGERGDAQVHRVCIIAPRDHSKSTTLRIKALHMLLFERWRGKPLKMWLFSSNKDLAANRLEEIRQDLKTHPELSRMLDPKKGNKLELHLTNGSWIKATSVGSGIRGEHPAAIILDDVLDDQNDMSYDYVQQWFRKKLTPMLSPGTSIYCVGTPMSMNDLYHTEMLSNKKWQTWVKGSILNYDEWRSDPDNVEPTCLWPEERPIEFLLEQRDAIGELAFTQEYLCKVVDDDSAVFPTTLTRKNLDMHSILENKKVHDNDYVIGFDPSHGIGQDYSVMVCMRKDEDGNLRLVNIWRKNDFPPAKQIDEIAVWNDKYSKPLFAFESAGFQHLYESLLKQKGLTVNVKQSKVSNKTLKQGLMTRLRTWFEQGRIIFPYGDDETRKIVSVLLLELESHAWKNGDIVDKGKHNDIVMALAHAVDQFKNVTGDIPMMGSSVDMNKWGKPSQKGGRPTRKSSGKYVTFF</Hsp_hseq>
+      <Hsp_midline>+ L RSK D+++FYEWLGY WG+HI EW++LY +R DAQVHR CIIAPRDHSKSTTLRI  LH  LF +WR KP   WLFS+++D A+ RL+EIR+D+  HPELS+ LD K+G K EL  TNG+WI+ATSVGS IRGEHPA I LDDVL D  DMS D V+ W RK +TPMLSPGTS+YCVGTPM+M D+YHTEML NK W+  V  +ILN+DE+++DPDNV+P CLWP+ RPI+F+LEQ++A+ EL FTQEYLC+V+D+DS VFP  ++R+N+DM  +LE +K HD  YVIGFDPSHG+G+DYSV+V +R+D DG + LV+IWRKNDFPP KQ++ IA +N++Y+ P  A E  GFQ LY ++L QKG+T++ + SK SNK+LKQGLM+RLR WFEQGRI+ P+GD+ TR+++ + L ELESHAWKNGDIVD GKHND+VMA AHA+DQF   T       SS  +N W   ++     + K  GK+  FF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1707906471|gb|QDP62534.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP62534</Hit_accession>
+  <Hit_len>505</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>594.734</Hsp_bit-score>
+      <Hsp_score>1532</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>470</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>483</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>284</Hsp_identity>
+      <Hsp_positive>364</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>476</Hsp_align-len>
+      <Hsp_qseq>RSKNDIKYFYEWLG--YTWGEHIDEWVNLYTDRKDAQVHRTCIIAPRDHSKSTTLRIVLLHHALFLKWRSKPFTCWLFSASRDTASRRLQEIREDILKHPELSKYLDTKRGGKYELFFTNGAWIRATSVGSAIRGEHPACIALDDVLMDMGDMSMDSVRGWLRKVVTPMLSPGTSLYCVGTPMAMTDIYHTEMLGNK---VWKAGVWSAILNWDEYKADPDNVKPECLWPQHRPIDFILEQKEAM-QELEFTQEYLCRVIDEDSQVFPRKISRQNMDMELMLEKE-KFHDG-KYVIGFDPSHGLGKDYSVLVVLRQDSDGYIYLVDIWRKNDFPPEKQVNVIAQYNERYNMPPIAIEDVGFQRLYNAILMQKGVTIDYRPSKASNKSLKQGLMSRLRAWFEQGRIVLPFGDEPTRRVIRLFLEELESHAWKNGDIVDLGKHNDMVMAFAHAIDQFIMPTKHESFSMSS--TSLNNW</Hsp_qseq>
+      <Hsp_hseq>RSRHDIKHFYEWLSPEYKWADHIDEWMELYGNRKGAQVHRVCIIAPRSHSKSATLRVKLLHMCLFEQRHGQPMEIWLFSASIRQATNRLEEIKTDMRRHPELRKYLDDKRSNKQRIQFTNGAWIQATGVGSAIRGEHPAVVALDDVLAEMGDMTMDTVAEWFKKVVTPMLDPGTSLFCVGTPMSHTDLYHTEMLSEKAKQVWKSGVWSAFPNWDEHRADPDNIPLLPLWPEFRPTEFLLEQKISIDDDLAFAQEYLCKVVDDDSQVFNRHLIREHIDIGAISGFDGQLHDGSRFILGFDPAHGIGKDYSVLICLRQDEQGYIHFVDMWRKNDFPPDRQADTIIEWAKHYG-APVAAEDVGFQRLYQTVIEQKGGHLDYRPSKASNKGLKQGLMNRLRVWFERKLVVFPYGDDATRKKVNIILDELEAHVWKNGEIVDVGKHNDTVMALAHAIDQF-KPKQNDQMPMISKTTSMGGW</Hsp_hseq>
+      <Hsp_midline>RS++DIK+FYEWL   Y W +HIDEW+ LY +RK AQVHR CIIAPR HSKS TLR+ LLH  LF +   +P   WLFSAS   A+ RL+EI+ D+ +HPEL KYLD KR  K  + FTNGAWI+AT VGSAIRGEHPA +ALDDVL +MGDM+MD+V  W +KVVTPML PGTSL+CVGTPM+ TD+YHTEML  K   VWK+GVWSA  NWDE++ADPDN+    LWP+ RP +F+LEQK ++  +L F QEYLC+V+D+DSQVF R + R+++D+  +   + + HDG ++++GFDP+HG+GKDYSVL+ LRQD  GYI+ VD+WRKNDFPP++Q + I ++ + Y   P+A EDVGFQRLY  ++ QKG  +DYRPSKASNK LKQGLM+RLR WFE+  +V P+GD+ TR+ + + L+ELE+H WKNG+IVD+GKHND VMA AHAIDQF  P +++   M S  TS+  W</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1707895231|gb|QDP51900.1|</Hit_id>
+  <Hit_def>putative terminase large subunit [Prokaryotic dsDNA virus sp.]</Hit_def>
+  <Hit_accession>QDP51900</Hit_accession>
+  <Hit_len>484</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>156.377</Hsp_bit-score>
+      <Hsp_score>394</Hsp_score>
+      <Hsp_evalue>2.60813e-38</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>447</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>444</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>207</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>456</Hsp_align-len>
+      <Hsp_qseq>MSLLRSKNDIKYFYEWL--------GYTWGEHIDEWVNLYTDRKDAQVHRTCIIAPRDHSKSTTLRIVLLHHALFLKWRSKPFTCWLFSASRDTASRRLQEIREDILKHPELSKYLDTKRGGKYELFFTNGAWIRATSVGSAIRGEHPACIALDDVLMDMGDMSMDSVRGWLRKVVTPMLSPGTSLYCVGTPMAMTDIYHTEMLGNKVWKAGVWSAILNWDEYKADPDNVKPECLWPQHRPIDFILEQKEAMQELEFTQEYLCRVIDEDSQVFPRKISRQNMDMELMLEKEKFHDGKYVIGFDPSHGLGKDYSVLVVLRQDSDGYIYLVDIWRKNDFPPEKQVNVIAQYNERYNMPPIAIEDVGFQRLYNAILMQKGVTIDYRPSKASNKSLKQGLMSRLRAWFEQGRIVLPFGDEPTRRVIRLFLEELESHA-WKNGDIVDLGKHNDMVMAFAHA</Hsp_qseq>
+      <Hsp_hseq>MDFELSRNSFPYFFQHVCGPAMGIDKYFYPHYMEEWLELMN-----STQRTVLICSRDHGKSVFMHCWVIWNLIF---QPKGYQMLYISSNQKQTLVHMREI-DKYFSHPMLQKFKPIRGWSVGHIRLTNGNELLARSVGSQIRGLHPNEIVIDDPLKEFSMSAIQKVTDWFYSDMIPTLHHSASLRVIGTPFSYTDIY-SQLAENEVYEVRTYPCL-----------NALNEPLWPDRWDYNSLMLRKGEIGTIAFTREYLCVPMSTGTSLFNPEYLDNAKSKDYILKPHRRKDFKYYVGVDPAISTDGDYNVITVLEVDENDNKTVVYVDRAKNVEFRQNIEKVKMIGKIFNPEVVLFETNIFAKSFTQEL--KHVSDINVHDFTTTRKKKQEIILNLQMNFENGKMRLPYGNEESRRVTSTLIEELSMFAITEGGKFEGIGAHDDMVMSLALA</Hsp_hseq>
+      <Hsp_midline>M    S+N   YF++ +         Y +  +++EW+ L          RT +I  RDH KS  +   ++ + +F   + K +     S+++      ++EI +    HP L K+   +      +  TNG  + A SVGS IRG HP  I +DD L +    ++  V  W    + P L    SL  +GTP + TDIY +++  N+V++   +  +           N   E LWP     + ++ +K  +  + FT+EYLC  +   + +F  +        + +L+  +  D KY +G DP+     DY+V+ VL  D +    +V + R  +    + +  +    + +N   +  E   F + +   L  K V+        + +  KQ ++  L+  FE G++ LP+G+E +RRV    +EEL   A  + G    +G H+DMVM+ A A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>162</Statistics_hsp-len>
+      <Statistics_eff-space>14636945753230</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

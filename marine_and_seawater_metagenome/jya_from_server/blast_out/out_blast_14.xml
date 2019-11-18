@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>FUIF01015187.1;size=1_43 # 29156 # 29707 # 1 # ID=241_43;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.504</BlastOutput_query-def>
+  <BlastOutput_query-len>184</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>FUIF01015187.1;size=1_43 # 29156 # 29707 # 1 # ID=241_43;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.504</Iteration_query-def>
+  <Iteration_query-len>184</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1464227885|ref|WP_116904181.1|</Hit_id>
+  <Hit_def>hypothetical protein [Thalassobacter stenotrophicus] &gt;gi|1387580325|gb|PVZ48406.1| hypothetical protein DD557_06480 [Thalassobacter stenotrophicus]</Hit_def>
+  <Hit_accession>WP_116904181</Hit_accession>
+  <Hit_len>111</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.5077</Hsp_bit-score>
+      <Hsp_score>223</Hsp_score>
+      <Hsp_evalue>4.50096e-20</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>114</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>109</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>52</Hsp_identity>
+      <Hsp_positive>68</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>103</Hsp_align-len>
+      <Hsp_qseq>LAEDLEVSLTTVRDMTQKNILNRTTNG-YDLRQARLDYIAHLREMAAGRYS-GELNLQEERARLAKEQADAKEMENMIERGELVYIDHIVKRFEKQLIKCKTK</Hsp_qseq>
+      <Hsp_hseq>LAEHLGMSHKNANELIKKGVIEAKGRGKYDLDVARNQYITHVREIAAGRAKVGDLDLQEERARLAKEQADAKEMENEVLRGSLVAIEDVASSMEKQLTRVRVR</Hsp_hseq>
+      <Hsp_midline>LAE L +S     ++ +K ++     G YDL  AR  YI H+RE+AAGR   G+L+LQEERARLAKEQADAKEMEN + RG LV I+ +    EKQL + + +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1049698009|emb|SCB41818.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase [Rhizobium miluonense]</Hit_def>
+  <Hit_accession>SCB41818</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.0409</Hsp_bit-score>
+      <Hsp_score>214</Hsp_score>
+      <Hsp_evalue>1.06109e-17</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>174</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>181</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>54</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>179</Hsp_align-len>
+      <Hsp_qseq>TQAALAEDLEVSLTTVRDMTQKNILNRTT-NGYDLRQARLDYIAHLREMAAGR------YSGELNLQEERARLAKEQADAKEMENMIERGELVYIDHIVKRFEKQLIKCKTKLLAAPTKIAAEVHAAADVKEAKAIMEEAIEEALNELVG-------YDQDDEQEEAGSQADGNVTQDD</Hsp_qseq>
+      <Hsp_hseq>TIAEVAEHIDVNTRTAADLVARGVITKSTRSSYDLDTVRLEYIRHIREVAAGREAAQAVPPGKIDGEQERARKDKEAADRLELQNAVTRGELAPLSEMVSAVTSAFARVRAKILTIPSKVAPLIVGETSTVVVRDVVKNEIHNALEELAGTRLRDWTFSPPGDSEELLEGSDTSAGSDD</Hsp_hseq>
+      <Hsp_midline>T A +AE ++V+  T  D+  + ++ ++T + YDL   RL+YI H+RE+AAGR        G+++ ++ERAR  KE AD  E++N + RGEL  +  +V        + + K+L  P+K+A  +         + +++  I  AL EL G       +    + EE    +D +   DD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1715486470|gb|TWB19504.1|</Hit_id>
+  <Hit_def>hypothetical protein FBZ99_101277 [Rhizobium sp. ERR1071]</Hit_def>
+  <Hit_accession>TWB19504</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.1149</Hsp_bit-score>
+      <Hsp_score>209</Hsp_score>
+      <Hsp_evalue>5.28472e-17</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>152</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>152</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>48</Hsp_identity>
+      <Hsp_positive>84</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>150</Hsp_align-len>
+      <Hsp_qseq>TQAALAEDLEVSLTTVRDMTQKNILNRTT-NGYDLRQARLDYIAHLREMAAGR------YSGELNLQEERARLAKEQADAKEMENMIERGELVYIDHIVKRFEKQLIKCKTKLLAAPTKIAAEVHAAADVKEAKAIMEEAIEEALNELVG</Hsp_qseq>
+      <Hsp_hseq>TIAEVADHIDVNTRTAADLVARGVITKSTRSSYDLNVARVEYIRHLREVAAGREAAQAVPPGKIDGEQERARKDKEAADRLELQNAVTRGELAPLAEMVSAVTSAFARVRAKILTIPSKVAPLIVGETSTVVVRDVVKNEVHNALEELAG</Hsp_hseq>
+      <Hsp_midline>T A +A+ ++V+  T  D+  + ++ ++T + YDL  AR++YI HLRE+AAGR        G+++ ++ERAR  KE AD  E++N + RGEL  +  +V        + + K+L  P+K+A  +         + +++  +  AL EL G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|917050817|ref|WP_051657529.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Acidiphilium] &gt;gi|1131861224|emb|SIQ46647.1| Phage DNA packaging protein, Nu1 subunit of terminase [Acidiphilium rubrum]</Hit_def>
+  <Hit_accession>WP_051657529</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.9593</Hsp_bit-score>
+      <Hsp_score>206</Hsp_score>
+      <Hsp_evalue>1.80371e-16</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>179</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>178</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>178</Hsp_align-len>
+      <Hsp_qseq>WVTQAALAEDLEVSLTTVRDMTQKNILNRTTN-GYDLRQARLDYIAHLREMAAGRYSG----ELNLQEERARLAKEQADAKEMENMIERGELVYIDHIVKRFEKQLIKCKTKLLAAPTKIAAEVHAAADVKEAKAIMEEAIEEALNELV-GYDQDDEQEEAGSQADGNVTQDDGTPAK</Hsp_qseq>
+      <Hsp_hseq>MATQSEVAAHLGIGQSAVAKLVDMGIFPRTARRGLDLDQCRVAYLGRLREEAAGRAAQGDGEELDLVTERARLAKEQADRIAMENDLTRRNVVLIEDVVKIVSPLLSNLRTRLLAIPAECAVALAGVKSPAAAEAIVMRIVIDALTDLASGTTAISDHCGTDHNALADVARPDASPAP</Hsp_hseq>
+      <Hsp_midline>  TQ+ +A  L +  + V  +    I  RT   G DL Q R+ Y+  LRE AAGR +     EL+L  ERARLAKEQAD   MEN + R  +V I+ +VK     L   +T+LLA P + A  +        A+AI+   + +AL +L  G     +       A  +V + D +PA </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1403844309|gb|AWV21725.1|</Hit_id>
+  <Hit_def>Phage Terminase Small Subunit [Roseomonas mucosa]</Hit_def>
+  <Hit_accession>AWV21725</Hit_accession>
+  <Hit_len>173</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>7.85262e-16</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>180</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>172</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>66</Hsp_identity>
+      <Hsp_positive>91</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>178</Hsp_align-len>
+      <Hsp_qseq>WVTQAALAEDLEVSLTTVRDMTQKNILNRTT-NGYDLRQARLDYIAHLREMAAGRY----SGELNLQEERARLAKEQADAKEMENMIERGELVYIDHIVKRFEKQLIKCKTKLLAAPTKIAAEVHAAADVKEAKAIMEEAIEEALNELVGYDQDDEQEEAGSQADGNVTQDDGTPAKA</Hsp_qseq>
+      <Hsp_hseq>MATDAELAAHLDISDRLVRELRKKGVFPEVPRGGNDLDGCRTAYIRHLRERAAGRQGDADAGDLDLVQERARLAKEQADATAMRNAQARGEMVPITAVTVAVVGAIELAKSRLLRVPAIV-----AKADGK-LKLRIQTAVEDALDSLATVRVEDIAAGGTSADEPDGEQDEGDGANA</Hsp_hseq>
+      <Hsp_midline>  T A LA  L++S   VR++ +K +       G DL   R  YI HLRE AAGR     +G+L+L +ERARLAKEQADA  M N   RGE+V I  +       +   K++LL  P  +     A AD K  K  ++ A+E+AL+ L     +D      S  + +  QD+G  A A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>143</Statistics_hsp-len>
+      <Statistics_eff-space>2014005192424</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>MDTE01060759.1;size=1_7 # 6815 # 7327 # -1 # ID=564_7;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.347</Iteration_query-def>
+  <Iteration_query-len>171</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|787061369|dbj|BAR32694.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR32694</Hit_accession>
+  <Hit_len>174</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>254.218</Hsp_bit-score>
+      <Hsp_score>648</Hsp_score>
+      <Hsp_evalue>6.81018e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>169</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>169</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>169</Hsp_align-len>
+      <Hsp_qseq>MATQKEVSEHLDLSVKRVSELIRNGIFPSKTGRSPLNLDVCRIAYISYLRKLGGYNKKTGSADIQEEKTRLTRFQADKAELEVSELEKRLIPADLVESTWIDYVANVRAKLLSLPNKLAHQVITIDNYAEAEILIKDTVYEALKELADNGLPEKYQSSGKPDQQDLESS</Hsp_qseq>
+      <Hsp_hseq>MATQREVADHLDLSVKRISELIRDGILPSKQGRSPLNIDVCRVAYISYLRKLGGYHKRSGSGDIAEEKTKLTAAQARKAELEVEELEGNLIPAQLVEDTWVDYVSNARAKLLGLPSRIAHQVITVDKYAEAELIIKEQVHEALNELAQNGIPQKYRKGDTGDESDMDST</Hsp_hseq>
+      <Hsp_midline>MATQ+EV++HLDLSVKR+SELIR+GI PSK GRSPLN+DVCR+AYISYLRKLGGY+K++GS DI EEKT+LT  QA KAELEV ELE  LIPA LVE TW+DYV+N RAKLL LP+++AHQVIT+D YAEAE++IK+ V+EAL ELA NG+P+KY+     D+ D++S+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|787057049|dbj|BAR29178.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED] &gt;gi|787057053|dbj|BAR29179.1| Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR29178</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>238.424</Hsp_bit-score>
+      <Hsp_score>607</Hsp_score>
+      <Hsp_evalue>9.73094e-78</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>166</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MATQKEVSEHLDLSVKRVSELIRNGIFPSKTGRSPLNLDVCRIAYISYLRKLGGYNKKTGSADIQEEKTRLTRFQADKAELEVSELEKRLIPADLVESTWIDYVANVRAKLLSLPNKLAHQVITIDNYAEAEILIKDTVYEALKELADNGLPEKYQSSGKPDQQDL</Hsp_qseq>
+      <Hsp_hseq>MATQRDVAEHLDLSTKSISELITKGVLPSKKGRSPLNVDVCRHSYISYLRKLAGYHKKSGSGDIAEEKTRLTKAQADKAELEVSELEGKLIPAPLVQDTWTDFVANVRAKLLGMPSRLAHQMIATENYAEAEKLLKDSIYDALNELADNGIPTEYADRVEKHESDI</Hsp_hseq>
+      <Hsp_midline>MATQ++V+EHLDLS K +SELI  G+ PSK GRSPLN+DVCR +YISYLRKL GY+KK+GS DI EEKTRLT+ QADKAELEVSELE +LIPA LV+ TW D+VANVRAKLL +P++LAHQ+I  +NYAEAE L+KD++Y+AL ELADNG+P +Y    +  + D+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|787056302|dbj|BAR28557.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR28557</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>237.269</Hsp_bit-score>
+      <Hsp_score>604</Hsp_score>
+      <Hsp_evalue>2.8163e-77</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>166</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MATQKEVSEHLDLSVKRVSELIRNGIFPSKTGRSPLNLDVCRIAYISYLRKLGGYNKKTGSADIQEEKTRLTRFQADKAELEVSELEKRLIPADLVESTWIDYVANVRAKLLSLPNKLAHQVITIDNYAEAEILIKDTVYEALKELADNGLPEKYQSSGKPDQQDL</Hsp_qseq>
+      <Hsp_hseq>MATQRDVAEHLDLSTKSISELITKGVLPSKKGRSPLNIDVCRHSYISYLRKLAGYHKKSGSGDIAEEKTRLTKAQADKAELEVSELEGKLIPAPLVQDTWTDFVANVRAKLLGIPSRLAHQMIATENYAEAEKLLKDCIYDALNELADNGIPTEYADRVEKHESDI</Hsp_hseq>
+      <Hsp_midline>MATQ++V+EHLDLS K +SELI  G+ PSK GRSPLN+DVCR +YISYLRKL GY+KK+GS DI EEKTRLT+ QADKAELEVSELE +LIPA LV+ TW D+VANVRAKLL +P++LAHQ+I  +NYAEAE L+KD +Y+AL ELADNG+P +Y    +  + D+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|787057205|dbj|BAR29314.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR29314</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>236.884</Hsp_bit-score>
+      <Hsp_score>603</Hsp_score>
+      <Hsp_evalue>3.35587e-77</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>166</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MATQKEVSEHLDLSVKRVSELIRNGIFPSKTGRSPLNLDVCRIAYISYLRKLGGYNKKTGSADIQEEKTRLTRFQADKAELEVSELEKRLIPADLVESTWIDYVANVRAKLLSLPNKLAHQVITIDNYAEAEILIKDTVYEALKELADNGLPEKYQSSGKPDQQDL</Hsp_qseq>
+      <Hsp_hseq>MATQREIAEHLSLSVSSISELIKKGVLPSKRGRSPLDIDVCRHAYISYLRKLAGYHKKSGSGDIAEEKTRLTKAQADKAELEVSELEGKLIPAPLVQDTWTDFVANVRAKLLGIPSRLAHQMIATENYAEAEKLIQDCIYDALNELADNGIPTKYADRVEKHETDI</Hsp_hseq>
+      <Hsp_midline>MATQ+E++EHL LSV  +SELI+ G+ PSK GRSPL++DVCR AYISYLRKL GY+KK+GS DI EEKTRLT+ QADKAELEVSELE +LIPA LV+ TW D+VANVRAKLL +P++LAHQ+I  +NYAEAE LI+D +Y+AL ELADNG+P KY    +  + D+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|787057266|dbj|BAR29355.1|</Hit_id>
+  <Hit_def>Phage DNA packaging protein, Nu1 subunit of terminase (COG4220) [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR29355</Hit_accession>
+  <Hit_len>166</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>236.113</Hsp_bit-score>
+      <Hsp_score>601</Hsp_score>
+      <Hsp_evalue>6.47552e-77</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>166</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>166</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>111</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>166</Hsp_align-len>
+      <Hsp_qseq>MATQKEVSEHLDLSVKRVSELIRNGIFPSKTGRSPLNLDVCRIAYISYLRKLGGYNKKTGSADIQEEKTRLTRFQADKAELEVSELEKRLIPADLVESTWIDYVANVRAKLLSLPNKLAHQVITIDNYAEAEILIKDTVYEALKELADNGLPEKYQSSGKPDQQDL</Hsp_qseq>
+      <Hsp_hseq>MATQREVAEHLGLSVASISELIKKGVLPSKRGRSPIDIDVCRHAYISYLRKLAGYHKKSGSGDIAEEKTRLTKAQADKAELEVSELEGKLIPAPLVQDTWTDFVANVRAKLLGIPSRLAHQMIATENYAEAEKLIQDCIYDALNELADNGIPTKYADRVEKHETDI</Hsp_hseq>
+      <Hsp_midline>MATQ+EV+EHL LSV  +SELI+ G+ PSK GRSP+++DVCR AYISYLRKL GY+KK+GS DI EEKTRLT+ QADKAELEVSELE +LIPA LV+ TW D+VANVRAKLL +P++LAHQ+I  +NYAEAE LI+D +Y+AL ELADNG+P KY    +  + D+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>132</Statistics_hsp-len>
+      <Statistics_eff-space>2011122571965</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>3</Iteration_iter-num>
+  <Iteration_query-ID>Query_3</Iteration_query-ID>
+  <Iteration_query-def>MDTG01018970.1;size=1_30 # 22901 # 23521 # -1 # ID=585_30;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.641</Iteration_query-def>
+  <Iteration_query-len>207</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1391123262|ref|WP_109314758.1|</Hit_id>
+  <Hit_def>DUF1441 family protein [Pseudovibrio sp. AU243]</Hit_def>
+  <Hit_accession>WP_109314758</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.994</Hsp_bit-score>
+      <Hsp_score>528</Hsp_score>
+      <Hsp_evalue>1.44064e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>207</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>107</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>MVDTNKYPLPDGVADADVNRAQLAEALGVSEPTIDRFRKEGLPVVREGTNGQAYQFLLSECWAWVQEREAGRRAREARAQESVQQLRLQVLGGRLGDSEMALTPKERAELYAAEVNYNKLATDRGQLIPRDEVIELLDHVLSTVRSSVMGLPDRLSRDAGLTGRQAEQAVAVTDDLIGEIHRTLGAYIERMQERQAQG-ADVAEAAE</Hsp_qseq>
+      <Hsp_hseq>MENVERYPLPDGVEDVVVNKRHLAEAFKKSLPTIDQWISEGMPCESKGTNGQAYEFRLSVCYAWQKDREAVEAAEEEKIQSNIRQMQMALLGGGSGSSEMALTPRQRKELYETEAAYNKLAQSRGELIARADVVALLERTFSAVRNAVNGMPDRLSRDVGLDGRQSEAAVVVADDLLAELHRELSEFMQAMSTEENTGQAAMMEAAE</Hsp_hseq>
+      <Hsp_midline>M +  +YPLPDGV D  VN+  LAEA   S PTID++  EG+P   +GTNGQAY+F LS C+AW ++REA   A E + Q +++Q+++ +LGG  G SEMALTP++R ELY  E  YNKLA  RG+LI R +V+ LL+   S VR++V G+PDRLSRD GL GRQ+E AV V DDL+ E+HR L  +++ M   +  G A + EAAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1021262362|ref|WP_063289083.1|</Hit_id>
+  <Hit_def>MULTISPECIES: DUF1441 family protein [unclassified Pseudovibrio] &gt;gi|1020185199|gb|KZL00451.1| Phage DNA packaging protein Nu1 [Pseudovibrio sp. W74] &gt;gi|1020192546|gb|KZL07451.1| Phage DNA packaging protein Nu1 [Pseudovibrio sp. Ad14]</Hit_def>
+  <Hit_accession>WP_063289083</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>207.608</Hsp_bit-score>
+      <Hsp_score>527</Hsp_score>
+      <Hsp_evalue>2.40603e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>207</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>110</Hsp_identity>
+      <Hsp_positive>145</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>MVDTNKYPLPDGVADADVNRAQLAEALGVSEPTIDRFRKEGLPVVREGTNGQAYQFLLSECWAWVQEREAGRRAREARAQESVQQLRLQVLGGRLGDSEMALTPKERAELYAAEVNYNKLATDRGQLIPRDEVIELLDHVLSTVRSSVMGLPDRLSRDAGLTGRQAEQAVAVTDDLIGEIHRTLGAYIERMQ-ERQAQGADVAEAAE</Hsp_qseq>
+      <Hsp_hseq>MENVERYPLPDGVEDVVVNKRHLAEAFKKSLPTIDQWICEGMPCESKGTNGQAYEFRLSVCYAWQKEREASEAAEEEKIQSNIRQMQMALLGGGSGNSEMALTPRQRKELYETEAAYNKLAQSRGELIARADVVALLERTFSAVRNAVNGMPDRLSRDVGLDGRQSEAAVVVADDLLAELHRELSEFMQAMSAEENAGQAEVMEAAE</Hsp_hseq>
+      <Hsp_midline>M +  +YPLPDGV D  VN+  LAEA   S PTID++  EG+P   +GTNGQAY+F LS C+AW +EREA   A E + Q +++Q+++ +LGG  G+SEMALTP++R ELY  E  YNKLA  RG+LI R +V+ LL+   S VR++V G+PDRLSRD GL GRQ+E AV V DDL+ E+HR L  +++ M  E  A  A+V EAAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1021271193|ref|WP_063297624.1|</Hit_id>
+  <Hit_def>DUF1441 family protein [Pseudovibrio sp. Ad37] &gt;gi|1020202915|gb|KZL17543.1| Phage DNA packaging protein Nu1 [Pseudovibrio sp. Ad37]</Hit_def>
+  <Hit_accession>WP_063297624</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>206.068</Hsp_bit-score>
+      <Hsp_score>523</Hsp_score>
+      <Hsp_evalue>7.48425e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>207</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>108</Hsp_identity>
+      <Hsp_positive>144</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>MVDTNKYPLPDGVADADVNRAQLAEALGVSEPTIDRFRKEGLPVVREGTNGQAYQFLLSECWAWVQEREAGRRAREARAQESVQQLRLQVLGGRLGDSEMALTPKERAELYAAEVNYNKLATDRGQLIPRDEVIELLDHVLSTVRSSVMGLPDRLSRDAGLTGRQAEQAVAVTDDLIGEIHRTLGAYIERMQERQAQG-ADVAEAAE</Hsp_qseq>
+      <Hsp_hseq>MENVERYPLPDGVEDVVVNKRHLAEAFKKSLPTIDQWISEGMPCESKGTNGQAYEFRLSVCYAWQKEREASEAAEEEKIQSNIRQMQMALLGGGSGNSEMALTPRQRKELYETEAAYNKLAQSRGELIARTDVVALLERTFSAVRNAVNGMPDRLSRDVGLDGRQSEAAVVVADDLLAELHRELSEFMQTMSAEENTGQAGMLEAAE</Hsp_hseq>
+      <Hsp_midline>M +  +YPLPDGV D  VN+  LAEA   S PTID++  EG+P   +GTNGQAY+F LS C+AW +EREA   A E + Q +++Q+++ +LGG  G+SEMALTP++R ELY  E  YNKLA  RG+LI R +V+ LL+   S VR++V G+PDRLSRD GL GRQ+E AV V DDL+ E+HR L  +++ M   +  G A + EAAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1387908197|ref|WP_108820266.1|</Hit_id>
+  <Hit_def>DUF1441 family protein [Pseudovibrio sp. Alg231-02]</Hit_def>
+  <Hit_accession>WP_108820266</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>206.068</Hsp_bit-score>
+      <Hsp_score>523</Hsp_score>
+      <Hsp_evalue>9.61917e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>207</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>106</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>MVDTNKYPLPDGVADADVNRAQLAEALGVSEPTIDRFRKEGLPVVREGTNGQAYQFLLSECWAWVQEREAGRRAREARAQESVQQLRLQVLGGRLGDSEMALTPKERAELYAAEVNYNKLATDRGQLIPRDEVIELLDHVLSTVRSSVMGLPDRLSRDAGLTGRQAEQAVAVTDDLIGEIHRTLGAYIERMQERQAQG-ADVAEAAE</Hsp_qseq>
+      <Hsp_hseq>MENVERYPLPDGVEDVVVNKRHLAEAFKKSLPTIDQWICEGMPCESKGTNGQAYEFRLSVCYAWQKDREAVEAAEEEKIQSNIRQMQMALLGGGSGNSEMALTPRQRKELYETEAAYNKLAQSRGELIAHADVVALLERTFSAVRNAVNGMPDRLSRDVGLDGRQSEAAVVVADDLLAELHRELSEFMQAMSAEENTGQAAMMEAAE</Hsp_hseq>
+      <Hsp_midline>M +  +YPLPDGV D  VN+  LAEA   S PTID++  EG+P   +GTNGQAY+F LS C+AW ++REA   A E + Q +++Q+++ +LGG  G+SEMALTP++R ELY  E  YNKLA  RG+LI   +V+ LL+   S VR++V G+PDRLSRD GL GRQ+E AV V DDL+ E+HR L  +++ M   +  G A + EAAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1387908298|ref|WP_108820367.1|</Hit_id>
+  <Hit_def>DUF1441 family protein [Pseudovibrio sp. Alg231-02]</Hit_def>
+  <Hit_accession>WP_108820367</Hit_accession>
+  <Hit_len>207</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>205.682</Hsp_bit-score>
+      <Hsp_score>522</Hsp_score>
+      <Hsp_evalue>9.93924e-64</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>206</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>207</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>106</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>207</Hsp_align-len>
+      <Hsp_qseq>MVDTNKYPLPDGVADADVNRAQLAEALGVSEPTIDRFRKEGLPVVREGTNGQAYQFLLSECWAWVQEREAGRRAREARAQESVQQLRLQVLGGRLGDSEMALTPKERAELYAAEVNYNKLATDRGQLIPRDEVIELLDHVLSTVRSSVMGLPDRLSRDAGLTGRQAEQAVAVTDDLIGEIHRTLGAYIERMQERQAQG-ADVAEAAE</Hsp_qseq>
+      <Hsp_hseq>MENVERYPLPDGVEDVVVNKRHLAEAFKKSLPTIDQWISEGMPCESKGTNGQAYEFRLSVCYAWQKDREAVEAAEEEKIQSNIRQMQMALLGGGSGSSEMALTPRQRKELYETEAAYNKLAQSRGELIARADVVALLERTFSAVRNAVNGMPDRLSRDVGLDGRQSEAAVVVADDLLAELHRELTEFMQAMSTEENTGQTAMMEAAE</Hsp_hseq>
+      <Hsp_midline>M +  +YPLPDGV D  VN+  LAEA   S PTID++  EG+P   +GTNGQAY+F LS C+AW ++REA   A E + Q +++Q+++ +LGG  G SEMALTP++R ELY  E  YNKLA  RG+LI R +V+ LL+   S VR++V G+PDRLSRD GL GRQ+E AV V DDL+ E+HR L  +++ M   +  G   + EAAE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>150</Statistics_hsp-len>
+      <Statistics_eff-space>2711265541809</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

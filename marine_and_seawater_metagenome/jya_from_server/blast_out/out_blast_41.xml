@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>MPMD02205496.1;size=1_36 # 19304 # 19972 # 1 # ID=675_36;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.348</BlastOutput_query-def>
+  <BlastOutput_query-len>223</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>MPMD02205496.1;size=1_36 # 19304 # 19972 # 1 # ID=675_36;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.348</Iteration_query-def>
+  <Iteration_query-len>223</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1725423977|gb|TXH42913.1|</Hit_id>
+  <Hit_def>hypothetical protein E6Q97_34960 [Desulfurellales bacterium]</Hit_def>
+  <Hit_accession>TXH42913</Hit_accession>
+  <Hit_len>202</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.9593</Hsp_bit-score>
+      <Hsp_score>206</Hsp_score>
+      <Hsp_evalue>3.65398e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>202</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>193</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>61</Hsp_identity>
+      <Hsp_positive>99</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>206</Hsp_align-len>
+      <Hsp_qseq>MALIASSAFLISVSDIKLHLNIGTSGPDGWLDKAVSSVTKRIETFCRRTFIATQYTEFHDGSGRRGFVYVDNPPIVAIDELNDDVNRDFGNSTKFATSEFVSYDDE-GRIELLNQSDLIPAGLQTGVVFSQGQQNIKIVYTGGF--ADVPEDIRMGAAEWVSKLYHRR-DKKRWGHSASSKGDTSVTFESIGLMPEDVKGFVSPYR</Hsp_qseq>
+      <Hsp_hseq>MALDTVNA-LVSPDDVKAFLKIASESEDPIIETFINKASIWANDFTQRLLLSRTLTEYYDGEGETELL-LRQYPVTALTNLYDDPLRAFGAGTAIDIANNVVLDGEKGIVRLWNQA----------VAFNDGIFNVKVVYTAGYALASVPESIKEAVLLYIGNLYRRQYQDQRFGVSSETIGDRTTNYAN-DEFPAKAKALLNPYR</Hsp_hseq>
+      <Hsp_midline>MAL   +A L+S  D+K  L I +   D  ++  ++  +     F +R  ++   TE++DG G    + +   P+ A+  L DD  R FG  T    +  V  D E G + L NQ+          V F+ G  N+K+VYT G+  A VPE I+     ++  LY R+   +R+G S+ + GD +  + +    P   K  ++PYR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1725421585|gb|TXH40686.1|</Hit_id>
+  <Hit_def>hypothetical protein E6Q97_39085 [Desulfurellales bacterium]</Hit_def>
+  <Hit_accession>TXH40686</Hit_accession>
+  <Hit_len>199</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.6481</Hsp_bit-score>
+      <Hsp_score>200</Hsp_score>
+      <Hsp_evalue>2.41903e-15</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>195</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>201</Hsp_align-len>
+      <Hsp_qseq>LISVSDIKLHLNIGTSGPDGWLDKAVSSVTKRIETFCRRTFIATQYTEFHDGSGRRGFVYVDNPPIVAIDELNDDVNRDFGNSTKFATSEFVSYDDEGRIELLNQSDLIPAGLQTGVVFSQGQQNIKIVYTGGF--ADVPEDIRMGAAEWVSKLYHRRD-KKRWGHSASSKGDTSVTFESIGLMPEDVKGFVSPYRIVRRL</Hsp_qseq>
+      <Hsp_hseq>LVSVDQAKEYLKITSEEEDGIVENLINRASAWANDFTSRLLLSRPLTEYYDGEGGTELL-LNQYPVTTVTAIHDDPLRAFGANTLVAASDYYVDQESGAVRLLN-----------GVAFLTGVASIKAAYTAGYALASVPASIQEAVLLYIGHSYRREHLDQRFGVSTETVGDRTTTFKDEP-FPEKAEQLLLPYRSERAL</Hsp_hseq>
+      <Hsp_midline>L+SV   K +L I +   DG ++  ++  +     F  R  ++   TE++DG G    + ++  P+  +  ++DD  R FG +T  A S++    + G + LLN           GV F  G  +IK  YT G+  A VP  I+     ++   Y R    +R+G S  + GD + TF+     PE  +  + PYR  R L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1743423365|gb|KAA3609386.1|</Hit_id>
+  <Hit_def>hypothetical protein DWQ01_08620 [Planctomycetes bacterium]</Hit_def>
+  <Hit_accession>KAA3609386</Hit_accession>
+  <Hit_len>198</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>3.20687e-15</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>158</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>151</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>88</Hsp_positive>
+      <Hsp_gaps>6</Hsp_gaps>
+      <Hsp_align-len>152</Hsp_align-len>
+      <Hsp_qseq>LISVSDIKLHLNIGTSGPDGWLDKAVSSVTKRIETFCRR-TFIATQYTEFHDGSGRRGFVYVDNPPIVAIDELNDDVNRDFGNSTKFATSEFVSYDDEGRIELLNQSDLIPAGLQTGVVFSQGQQNIKIVYTGGFA--DVPEDIRMGAAEWV</Hsp_qseq>
+      <Hsp_hseq>LLTLSEVKTYLGVGGTNEDDFLNAVIPQAEAAAARFCRRDSFESGNFTELFDGRGMNE-VWLRNTPILSVSSVHDDIENNFDSNTELAASDF-AFSADGQLWLKPSAELGSRFLRRG-WFANGTNNVRVVYDGGYTAQTVPHDLRLALMELI</Hsp_hseq>
+      <Hsp_midline>L+++S++K +L +G +  D +L+  +         FCRR +F +  +TE  DG G    V++ N PI+++  ++DD+  +F ++T+ A S+F ++  +G++ L   ++L    L+ G  F+ G  N+++VY GG+    VP D+R+   E +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1400912140|gb|PYS91496.1|</Hit_id>
+  <Hit_def>hypothetical protein DMF62_02475 [Acidobacteria bacterium]</Hit_def>
+  <Hit_accession>PYS91496</Hit_accession>
+  <Hit_len>201</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.1814</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>5.52182e-14</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>202</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>196</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>57</Hsp_identity>
+      <Hsp_positive>100</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>202</Hsp_align-len>
+      <Hsp_qseq>LISVSDIKLHLNIGTSGPDGWLDKAVSSVTKRIETFCRRTFI--ATQYTEFHDGSGRRGFVYVDNPPIVAIDELNDDVNRDFGNSTKFATSEFVSYDDE-GRIELLNQSDLIPAGLQTGVVFSQGQQNIKIVYTGGF---ADVPEDIRMGA---AEWVSKLYHRRDKKRWGHSASSKGDTSVTFESIGLMPEDVKGFVSPYR</Hsp_qseq>
+      <Hsp_hseq>LITLAEAKSFLKITTTSEDSIVGDLINECSVWINTYCGRKLIYPAVPYTEYYDGNGTSQ-LFLKNWPIITVTSLYMDYLRAWTADTAIDLTADVQTDLESGILTLWNNQSL----------YGQGVGNVRVIYTAGYTHNSNVPYDLKLACKKLAAW--KYFQDYSQRRYGVASESTGERQVNYSDEPLLP-DVKQILNRYR</Hsp_hseq>
+      <Hsp_midline>LI++++ K  L I T+  D  +   ++  +  I T+C R  I  A  YTE++DG+G    +++ N PI+ +  L  D  R +   T    +  V  D E G + L N   L          + QG  N++++YT G+   ++VP D+++     A W  K +    ++R+G ++ S G+  V +    L+P DVK  ++ YR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|504001326|ref|WP_014235320.1|</Hit_id>
+  <Hit_def>phage head-tail connector protein [Azospira oryzae] &gt;gi|359353447|gb|AEV24618.1| phage conserved hypothetical protein, phiE125 gp8 family [Azospira oryzae PS]</Hit_def>
+  <Hit_accession>WP_014235320</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.2554</Hsp_bit-score>
+      <Hsp_score>186</Hsp_score>
+      <Hsp_evalue>2.03109e-13</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>207</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>182</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>97</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>198</Hsp_align-len>
+      <Hsp_qseq>LISVSDIKLHLNIGTSGPDGWLDKAVSSVTKRIETFCRRTFIATQYTEFHDGSGRRGFVYVDNPPIVAIDELNDDVNRDFGNSTKFATSEFVSYDDEGRIELLNQSDLIPAGLQTGVVFSQGQQNIKIVYTGGFADVPEDIRMGAAEWVSKLYHRRDKKRWGHSASSKGDTSVTFESIGLMPEDVKGFVSPYRIVRRL</Hsp_qseq>
+      <Hsp_hseq>LTTLANVKAWMGLKTADDDALLSRLITAVSAYIETWTNRTFAQQTYDEVRDGTGCARMMFADF-PVTAVSSVVVD-----GRAIPLA----VAAGDQG--YRFDTTGVVLAGY----VFTRGVGNVQLSYTAGYATTPPDIEQACIELVSLRYKERD--RIGHQSKSLAGETVSF-MIRDFPDSVRTILGNYRKVLPL</Hsp_hseq>
+      <Hsp_midline>L +++++K  + + T+  D  L + +++V+  IET+  RTF    Y E  DG+G    ++ D  P+ A+  +  D     G +   A    V+  D+G     + + ++ AG     VF++G  N+++ YT G+A  P DI     E VS  Y  RD  R GH + S    +V+F  I   P+ V+  +  YR V  L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>152</Statistics_hsp-len>
+      <Statistics_eff-space>3345625521265</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>VMHT01076764.1;size=1_8 # 7859 # 8374 # -1 # ID=1414_8;partial=00;start_type=TTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.570</Iteration_query-def>
+  <Iteration_query-len>172</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1055621629|ref|WP_067262304.1|</Hit_id>
+  <Hit_def>hypothetical protein [Sulfitobacter sp. HI0054] &gt;gi|1024546443|gb|KZY53130.1| hypothetical protein A3734_16775 [Sulfitobacter sp. HI0054]</Hit_def>
+  <Hit_accession>WP_067262304</Hit_accession>
+  <Hit_len>182</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.9745</Hsp_bit-score>
+      <Hsp_score>232</Hsp_score>
+      <Hsp_evalue>7.86191e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>165</Hsp_query-to>
+      <Hsp_hit-from>17</Hsp_hit-from>
+      <Hsp_hit-to>178</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>92</Hsp_positive>
+      <Hsp_gaps>13</Hsp_gaps>
+      <Hsp_align-len>170</Hsp_align-len>
+      <Hsp_qseq>MADAKEFLRVDSNDEDTTITALLRAAVAWVEDYCN--RSFTTGGSAVFYLERW--RNAALAYGPVTAITHVKYNDTSGAEQTLAASKYYTTAATDGSMLIYFHDTPDLET-YNAHPVRVTAAVGVEESANVKHAVKMLVAHWYENRRAVVTGTITATIPIAVESLLSVER</Hsp_qseq>
+      <Hsp_hseq>LAEAKEHLRVDHDDEDTLIEALIGAATAWLDGWTGVLGMCLEAQTWEMTLDRFPAREFCIPLGPVVSVDAITYVDSDDVEQTLAGTEYEAA----GARVRPVDGWPSTSTNYDAVKVRFTAGTGTPE--NIKHVVRLLIGHWYENRESV--GDKMEAVPMAVDMLIAPIR</Hsp_hseq>
+      <Hsp_midline>+A+AKE LRVD +DEDT I AL+ AA AW++ +           +    L+R+  R   +  GPV ++  + Y D+   EQTLA ++Y       G+ +      P   T Y+A  VR TA  G  E  N+KH V++L+ HWYENR +V  G     +P+AV+ L++  R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1223221741|ref|WP_091261357.1|</Hit_id>
+  <Hit_def>hypothetical protein [Aneurinibacillus thermoaerophilus] &gt;gi|1086488543|emb|SDH73138.1| phage conserved hypothetical protein, phiE125 gp8 family [Aneurinibacillus thermoaerophilus]</Hit_def>
+  <Hit_accession>WP_091261357</Hit_accession>
+  <Hit_len>193</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>1.69178e-19</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>167</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>193</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>87</Hsp_positive>
+      <Hsp_gaps>14</Hsp_gaps>
+      <Hsp_align-len>180</Hsp_align-len>
+      <Hsp_qseq>MADAKEFLRVDSNDEDTTITALLRAAVAWVEDYCNRSFTTGGSAVFYLERWRNAALAYGPVTAITHVKYNDTSGAEQTLAASKYYTTAATDGSMLIYFHDTPDLETYNAHPVRVTAAVGVEESAN-------------VKHAVKMLVAHWYENRRAVVTGTITATIPIAVESLLSVERII</Hsp_qseq>
+      <Hsp_hseq>LEEAKMHLRVEYDDEDAMIQSLIRAAREYCENFQRRAYVSQVWELYLDTFPAQIELPRPPLLSVEAITYRDAKGEQHTLSPDAYIIDAATEPGR-VFITSAPKIALFPASPVTIRFVAGYEPVITDGNTDYAAGVPDAVKQAMRLLIGHWYENREAVTIGQMPTAVPFSVEALLWQDRVF</Hsp_hseq>
+      <Hsp_midline>+ +AK  LRV+ +DED  I +L+RAA  + E++  R++ +    ++         L   P+ ++  + Y D  G + TL+   Y   AAT+    ++    P +  + A PV +    G E                 VK A+++L+ HWYENR AV  G +   +P +VE+LL  +R+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1246882423|ref|WP_096466654.1|</Hit_id>
+  <Hit_def>hypothetical protein [Aneurinibacillus soli] &gt;gi|974003805|dbj|BAU28963.1| Phage gp6-like head-tail connector protein [Aneurinibacillus soli] &gt;gi|1399316401|gb|PYE62978.1| putative phiE125 gp8 family phage protein [Aneurinibacillus soli]</Hit_def>
+  <Hit_accession>WP_096466654</Hit_accession>
+  <Hit_len>197</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>86.6557</Hsp_bit-score>
+      <Hsp_score>213</Hsp_score>
+      <Hsp_evalue>8.35158e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>167</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>197</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>56</Hsp_identity>
+      <Hsp_positive>90</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>187</Hsp_align-len>
+      <Hsp_qseq>MADAKEFLRVDSNDEDTTITALLRAAVAWVEDYCNRSFTTGGSAVFYLERWR-NAALAYGPVTAITHVKYNDTSGAEQTLAASKYYT-TAATDGSMLIYFHDTPDLETYNAHPVRVTAAVGVEESAN------------------VKHAVKMLVAHWYENRRAVVTGTITATIPIAVESLLSVERII</Hsp_qseq>
+      <Hsp_hseq>LAEAKTHLRVEYDEEDSLIQGLIRAAREYCENFQRRAYVSQVWEL-YLDRFPVQIETSRPPLLSVEAILYRDAEGMQHTLEQQAYIVDTAPEPGRIL--FKTAPTVALFPASPVTIRFVAGYAPVTTPTDDGGEHIDYVARVPDAVKQAMRLLIGHWYENREAVTIGQTPTTVPFAVEALLWQDRVF</Hsp_hseq>
+      <Hsp_midline>+A+AK  LRV+ ++ED+ I  L+RAA  + E++  R++ +    + YL+R+      +  P+ ++  + Y D  G + TL    Y   TA   G +L  F   P +  + A PV +    G                        VK A+++L+ HWYENR AV  G    T+P AVE+LL  +R+ </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|736401457|ref|WP_034424987.1|</Hit_id>
+  <Hit_def>hypothetical protein [Clostridiales bacterium DRI-13]</Hit_def>
+  <Hit_accession>WP_034424987</Hit_accession>
+  <Hit_len>191</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.5001</Hsp_bit-score>
+      <Hsp_score>210</Hsp_score>
+      <Hsp_evalue>2.16689e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>167</Hsp_query-to>
+      <Hsp_hit-from>16</Hsp_hit-from>
+      <Hsp_hit-to>189</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>62</Hsp_identity>
+      <Hsp_positive>93</Hsp_positive>
+      <Hsp_gaps>15</Hsp_gaps>
+      <Hsp_align-len>178</Hsp_align-len>
+      <Hsp_qseq>MADAKEFLRVDSNDEDTTITALLRAAVAWVEDYCNRSFTTGGSAVFYLERWRNAAL--AYGPVTAITHVKYNDTSGAEQTLAASKYYTTAATD------GSMLIYFHDTPDLETYNAHPVRVTAAVGVEESA---NVKHAVKMLVAHWYENRRAVVTGTITATIPIAVESLLSVERII</Hsp_qseq>
+      <Hsp_hseq>LQEAKNHLRVDGTDEDTLIASLITAAREYCEGFQNRAYLTQ-TWEMTLDSFPDMPLKIPKPPLQAVDTIKYTDQDGVETVFDAANYVVDADSEPGRIALGSGVSWPKVT--LKPIGGVKIRFTAGYG-EASAVPMMVKQAMLLLIGHWYEHREAVLSGTITKEIEFAVHALLWTNRVV</Hsp_hseq>
+      <Hsp_midline>+ +AK  LRVD  DEDT I +L+ AA  + E + NR++ T  +    L+ + +  L     P+ A+  +KY D  G E    A+ Y   A ++      GS + +   T  L+      +R TA  G E SA    VK A+ +L+ HWYE+R AV++GTIT  I  AV +LL   R++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1697829023|ref|WP_141304355.1|</Hit_id>
+  <Hit_def>hypothetical protein [Moorella sp. E306M] &gt;gi|1666305889|dbj|GEA17503.1| hypothetical protein E306M_06370 [Moorella sp. E306M]</Hit_def>
+  <Hit_accession>WP_141304355</Hit_accession>
+  <Hit_len>194</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>85.1149</Hsp_bit-score>
+      <Hsp_score>209</Hsp_score>
+      <Hsp_evalue>2.59904e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>167</Hsp_query-to>
+      <Hsp_hit-from>18</Hsp_hit-from>
+      <Hsp_hit-to>192</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>58</Hsp_identity>
+      <Hsp_positive>89</Hsp_positive>
+      <Hsp_gaps>10</Hsp_gaps>
+      <Hsp_align-len>176</Hsp_align-len>
+      <Hsp_qseq>MADAKEFLRVDSNDEDTTITALLRAAVAWVEDYCNRSFTTGGSAVFYLERWRNAA---LAYGPVTAITHVKYNDTSGAEQTLAASKYYTTAATDGS--MLIYFHDTPD--LETYNAHPVRVTAAVGVEESA--NVKHAVKMLVAHWYENRRAVVTGTITATIPIAVESLLSVERII</Hsp_qseq>
+      <Hsp_hseq>LAEAKNHLRVDVADDDGLISALIIAAREYCEAFQNRAYITQ-TWQLWLDAWPNGSEIKIPRPPLQAVNSVKYYGADNAEYVLPPSEYIVDSAGEPGRIVLAYGKSWPSVALRPANAVCVEFVAGYGGADKVPRRVKQAMLLLISHWYDTREIAAVGHVTAEVPFTVNALLWQERVV</Hsp_hseq>
+      <Hsp_midline>+A+AK  LRVD  D+D  I+AL+ AA  + E + NR++ T  +   +L+ W N +   +   P+ A+  VKY     AE  L  S+Y   +A +    +L Y    P   L   NA  V   A  G  +     VK A+ +L++HWY+ R     G +TA +P  V +LL  ER++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>133</Statistics_hsp-len>
+      <Statistics_eff-space>2002453341486</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

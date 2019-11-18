@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>OLKC01000557.1;size=1_1 # 840 # 1499 # -1 # ID=993_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424</BlastOutput_query-def>
+  <BlastOutput_query-len>220</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>OLKC01000557.1;size=1_1 # 840 # 1499 # -1 # ID=993_1;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.424</Iteration_query-def>
+  <Iteration_query-len>220</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1436200741|gb|AXH73703.1|</Hit_id>
+  <Hit_def>capsid protein [CRESS virus sp.]</Hit_def>
+  <Hit_accession>AXH73703</Hit_accession>
+  <Hit_len>219</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>453.751</Hsp_bit-score>
+      <Hsp_score>1166</Hsp_score>
+      <Hsp_evalue>2.39096e-161</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>219</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>217</Hsp_identity>
+      <Hsp_positive>218</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>219</Hsp_align-len>
+      <Hsp_qseq>MVKYYKRKNVRRGRRKIGMKKYRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQTIAPPVYSQTLGRPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNCNITYYLQFRKVR</Hsp_qseq>
+      <Hsp_hseq>MVKYYKRKNVRRGRRKIGMKKYRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQTIAPPVYSQTLGKPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNANITYYLQFRKVR</Hsp_hseq>
+      <Hsp_midline>MVKYYKRKNVRRGRRKIGMKKYRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQTIAPPVYSQTLG+PKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVN NITYYLQFRKVR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1436204523|gb|AXH74479.1|</Hit_id>
+  <Hit_def>capsid protein [CRESS virus sp.]</Hit_def>
+  <Hit_accession>AXH74479</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>307.76</Hsp_bit-score>
+      <Hsp_score>787</Hsp_score>
+      <Hsp_evalue>1.25944e-103</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>218</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>167</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>YRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQ--TIAPPVYSQTLGRPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNCNITYYLQFRKVR</Hsp_qseq>
+      <Hsp_hseq>YKKKMPTNRTGYLSIRQKDFFSITLPSGPLPNGYIKQLVFNLSSLPNWGEFDRLFDQYRLCAVAGSFSPHTNTNDTINPGQSYIQSVDLDGGVITTYDQLLACANAKQSAWNTAGGMVPTKKWYVKPRTAQVIIKDPDAVPITYSNVLGRKGAWIDLADGGDTEHFGMNFGWRTASPVGLNQPQVVNCNITYYIQFRKVR</Hsp_hseq>
+      <Hsp_midline>Y+KK    RTG+LSI+QKDFFSIT+P+GPLPNG+I+QL FN+++LPN+ E  RLFDQYR+CAVAGSF+PHTNTNDTINPGQSYIQSVDLDGG++T YDQ+LAC+NAKQS+W TAGGMVP K WY +PR    I++     P  YS  LGR  AWIDL+D G T H+GMNFGWRTASPVGLN  QVVNCNITYY+QFRKVR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1436209706|gb|AXH75827.1|</Hit_id>
+  <Hit_def>capsid protein [CRESS virus sp.]</Hit_def>
+  <Hit_accession>AXH75827</Hit_accession>
+  <Hit_len>218</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>303.908</Hsp_bit-score>
+      <Hsp_score>777</Hsp_score>
+      <Hsp_evalue>4.7767e-102</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>19</Hsp_hit-from>
+      <Hsp_hit-to>218</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>143</Hsp_identity>
+      <Hsp_positive>163</Hsp_positive>
+      <Hsp_gaps>2</Hsp_gaps>
+      <Hsp_align-len>200</Hsp_align-len>
+      <Hsp_qseq>YRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQ--TIAPPVYSQTLGRPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNCNITYYLQFRKVR</Hsp_qseq>
+      <Hsp_hseq>YKKKMPTNRTGYLSIRQKDFFSYTIPSGPLPNGFIKQLVFNLSNLPNWGEFDRLFDQYRLCAVAGSFSPHTNTNDTINPGQAYIQSVDLDGGLITSYDQLLACANAKQSAWNTAGGMVPTKKWYVKPRTAQVIIKDPDAVPITYSNILGRKGAWIDLKDGGDTEHFGMNFGWRTASPVGLNQPQVVNCNITYYIQFRKVR</Hsp_hseq>
+      <Hsp_midline>Y+KK    RTG+LSI+QKDFFS TIP+GPLPNG I+QL FN++ LPN+ E  RLFDQYR+CAVAGSF+PHTNTNDTINPGQ+YIQSVDLDGGL+T YDQ+LAC+NAKQS+W TAGGMVP K WY +PR    I++     P  YS  LGR  AWIDL D G T H+GMNFGWRTASPVGLN  QVVNCNITYY+QFRKVR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1436207702|gb|AXH75401.1|</Hit_id>
+  <Hit_def>capsid protein [CRESS virus sp.]</Hit_def>
+  <Hit_accession>AXH75401</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>287.73</Hsp_bit-score>
+      <Hsp_score>735</Hsp_score>
+      <Hsp_evalue>1.95047e-95</Hsp_evalue>
+      <Hsp_query-from>32</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>36</Hsp_hit-from>
+      <Hsp_hit-to>231</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>142</Hsp_identity>
+      <Hsp_positive>158</Hsp_positive>
+      <Hsp_gaps>8</Hsp_gaps>
+      <Hsp_align-len>196</Hsp_align-len>
+      <Hsp_qseq>GFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLVTQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNIL--------QTIAPPVYSQTLGRPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNCNITYYLQFRKVR</Hsp_qseq>
+      <Hsp_hseq>GFLSIRQKEFLSYTIPAGPLPNGFVRQLSFNIQSLPNFAALNRLFDQYRIFAVAGSLTPHTNTDDTINPGQSYIQSIDLDGGPVANYDTILQCANAKQSPWCTAGGMVPMKKFFLRPRFLNTIVVDPGDPAAVPPVPPTYSQTLGNRKAWIDLADNGLTEHYGMNFGWRTASPVGLNVEQTVNVALTFYLQFRKVR</Hsp_hseq>
+      <Hsp_midline>GFLSI+QK+F S TIPAGPLPNG ++QL+FNI +LPNFA L+RLFDQYRI AVAGS TPHTNT+DTINPGQSYIQS+DLDGG V  YD IL C+NAKQS W TAGGMVP K ++ RPRFLN I+            PP YSQTLG  KAWIDL+D GLT HYGMNFGWRTASPVGLNVEQ VN  +T+YLQFRKVR</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1436223266|gb|AXH78580.1|</Hit_id>
+  <Hit_def>capsid protein [Circular genetic element sp.]</Hit_def>
+  <Hit_accession>AXH78580</Hit_accession>
+  <Hit_len>231</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>152.91</Hsp_bit-score>
+      <Hsp_score>385</Hsp_score>
+      <Hsp_evalue>1.73123e-42</Hsp_evalue>
+      <Hsp_query-from>8</Hsp_query-from>
+      <Hsp_query-to>219</Hsp_query-to>
+      <Hsp_hit-from>23</Hsp_hit-from>
+      <Hsp_hit-to>231</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>121</Hsp_positive>
+      <Hsp_gaps>7</Hsp_gaps>
+      <Hsp_align-len>214</Hsp_align-len>
+      <Hsp_qseq>KNVRRGRRKIGMKKYRKKPARQRTGFLSIQQKDFFSITIPAGPLPNGHIQQLTFNIATLPNFAELSRLFDQYRICAVAGSFTPHTNTNDTINPGQSYIQSVDLDGGLV-TQYDQILACSNAKQSSWVTAGGMVPKKTWYCRPRFLNNILQTIAPP-VYSQTLGRPKAWIDLSDAGLTTHYGMNFGWRTASPVGLNVEQVVNCNITYYLQFRKVR</Hsp_qseq>
+      <Hsp_hseq>QNAWRNRKR--RNTYKRGGTSRRTGFLAVQQKEIESTTIPTGS--SGYIDRLDFTIGLLPNLQAFIRLFDQYRIVSVRCQFIPQNEINQ-VNAGMVFLTSIDLDGGAVPATFADAMQASNARISPWLDIAGWKAGRSVTVRPRFKNQIIKTVGPPPTYTYTLGNPSAWIDMTDVGATEHHGLIYGFDLPGADVLAAPVMFSVIKTYKIEFRKIR</Hsp_hseq>
+      <Hsp_midline>+N  R R++     Y++    +RTGFL++QQK+  S TIP G   +G+I +L F I  LPN     RLFDQYRI +V   F P    N  +N G  ++ S+DLDGG V   +   +  SNA+ S W+   G    ++   RPRF N I++T+ PP  Y+ TLG P AWID++D G T H+G+ +G+       L    + +   TY ++FRK+R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>152</Statistics_hsp-len>
+      <Statistics_eff-space>3204261062620</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

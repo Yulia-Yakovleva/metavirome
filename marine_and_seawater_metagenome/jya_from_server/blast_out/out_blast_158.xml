@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>VMHT01136141.1;size=1_44 # 22459 # 26319 # -1 # ID=1526_44;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360</BlastOutput_query-def>
+  <BlastOutput_query-len>1287</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>VMHT01136141.1;size=1_44 # 22459 # 26319 # -1 # ID=1526_44;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.360</Iteration_query-def>
+  <Iteration_query-len>1287</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1713113114|ref|WP_143924547.1|</Hit_id>
+  <Hit_def>hypothetical protein [Brevibacterium aurantiacum] &gt;gi|1709328540|gb|TSI11962.1| hypothetical protein FO013_21195 [Brevibacterium aurantiacum]</Hit_def>
+  <Hit_accession>WP_143924547</Hit_accession>
+  <Hit_len>365</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.035</Hsp_bit-score>
+      <Hsp_score>336</Hsp_score>
+      <Hsp_evalue>6.18779e-30</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>313</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>303</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>100</Hsp_identity>
+      <Hsp_positive>155</Hsp_positive>
+      <Hsp_gaps>16</Hsp_gaps>
+      <Hsp_align-len>316</Hsp_align-len>
+      <Hsp_qseq>MAYDPVNNEQLVESQAEVFRDISEFLTELTANEVLDGNTNAEYLSSVESWLQFKQKSYKKLFEEATKQADKAIAAIPTSITNAVEIAYSIGEQTAAAELLAAGITPDVSGGFQTLSQY-ALDGLMDAAINRMGNRVNKLNIVNGVQDAFREATESAAALVLGGGATLEDATEIAVNSLLDKGLKTI-NVGNRKMAIDAYAETSIRTIAGNAQVQGSIDRYEDADQYLSFVTDSPMECDLCRPYEGKVIRTTNDLE-KLPPKFHEVPSLDTAKADGLFHPNCTHSLQVYIDGYSEPPTDTDDSVNGDRRSKIRRLQK</Hsp_qseq>
+      <Hsp_hseq>MAISPDFARELVQGIRDVYETATTKLIQTIAREVARG---AQGTTGADQRLE----AFTLLMAQVDIIIDELRRDVPGAVEKAIAFAYRRGSSVATVDAKDAGVPNAMGGAVASVGRTDAITRLLSDAMRPHEEAV--FHIRRRVQDMFDRAVTAAVAQLLTGVGTRQEAARDAVLDLMRSGILTFTDKSGRKWDLASYVEMATRTSAGNAMVEGHTDRLVDLGQDLVIVSNAPEECKICRPFEGEVLSISGDTRGKLSDGKTVMTSVADAKREGLLHPNCRHSLNIYIPGITEAPTRTADP-EGD---KLRQRQR</Hsp_hseq>
+      <Hsp_midline>MA  P    +LV+   +V+   +  L +  A EV  G   A+  +  +  L+    ++  L  +     D+    +P ++  A+  AY  G   A  +   AG+   + G   ++ +  A+  L+  A+      V   +I   VQD F  A  +A A +L G  T ++A   AV  L+  G+ T  +   RK  + +Y E + RT AGNA V+G  DR  D  Q L  V+++P EC +CRP+EG+V+  + D   KL      + S+  AK +GL HPNC HSL +YI G +E PT T D   GD   K+R+ Q+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1543083340|ref|WP_125990313.1|</Hit_id>
+  <Hit_def>capsid protein [Halocella sp. SP3-1] &gt;gi|1538075044|gb|AZO95271.1| capsid protein [Halocella sp. SP3-1]</Hit_def>
+  <Hit_accession>WP_125990313</Hit_accession>
+  <Hit_len>463</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>130.183</Hsp_bit-score>
+      <Hsp_score>326</Hsp_score>
+      <Hsp_evalue>8.56065e-28</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>290</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>277</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>23</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>MAYDPVNNEQLVESQAEVFRDI---SEFLT-ELTANEVLDGNTNAEYLSSVESWLQFKQKSYKKLFEEATKQADKAIAAIPTSITNAVEIAYSIGEQTAAAELLAAGITPDVSGGFQTLSQYALDGLMDAAINRMGNRVNKLNIVNGVQDAFREATESAAALVLGGGATLEDATEIAVNSLLDKGLKTI-NVGNRKMAIDAYAETSIRTIAGNAQVQGSIDRYEDADQYLSFVTDSPMECDLCRPYEGKVIRTTNDLEKLPPKFHEVPSLDTAKADGLFHPNCTHSLQVYIDGYS</Hsp_qseq>
+      <Hsp_hseq>MPISPYDGEQLI---AEEIRRIYANAELRTIEAIAKRLKKGNPDAP------QWAQEKLRELRSLKGEINEDVIEYLKNVNPDIEDTIEQAYKMGQRVAETDLKEAGFKVNIQGTFGSINQRAVEALATETVNKLNS--THFRILRQADDVYRQAVAEASSRVITGTETRRQAAQRVIDKLANRGITGFKDEAGRYWKLDTYAEMATRSATGRAALEGHASRIQENGRDLVIVSDHGEECELCRPWERRIL-------SLSGKSKKYPSLAEAQKAGLFHSNCRHTYNLYIRGLT</Hsp_hseq>
+      <Hsp_midline>M   P + EQL+   AE  R I   +E  T E  A  +  GN +A        W Q K +  + L  E  +   + +  +   I + +E AY +G++ A  +L  AG   ++ G F +++Q A++ L    +N++ +      I+    D +R+A   A++ V+ G  T   A +  ++ L ++G+    +   R   +D YAE + R+  G A ++G   R ++  + L  V+D   EC+LCRP+E +++        L  K  + PSL  A+  GLFH NC H+  +YI G +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1242938053|ref|WP_095875116.1|</Hit_id>
+  <Hit_def>capsid protein [Streptomyces sp. TLI_235] &gt;gi|1241891852|gb|PBC80121.1| minor capsid protein 2 [Streptomyces sp. TLI_235]</Hit_def>
+  <Hit_accession>WP_095875116</Hit_accession>
+  <Hit_len>373</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>127.487</Hsp_bit-score>
+      <Hsp_score>319</Hsp_score>
+      <Hsp_evalue>1.22511e-27</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>354</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>108</Hsp_identity>
+      <Hsp_positive>171</Hsp_positive>
+      <Hsp_gaps>39</Hsp_gaps>
+      <Hsp_align-len>372</Hsp_align-len>
+      <Hsp_qseq>MAYDPVNNEQLVESQAEVFRDISEFLTELTANEVLDGNTNAEYLSSVESWLQFKQKSYKKLFEEATKQADKAIAAIPTSITNAVEIAYSIGEQTAAAELLAAGITPDVSGGFQTLSQYALDGLMDAAINRMGN------RVNKLNIVNGVQDAFREATESAAALVLGGGATLEDATEIAVNSLLDKGLKT-INVGNRKMAIDAYAETSIRTIAGNAQVQGSIDRYEDADQYLSFVTDSPMECDLCRPYEGKVIRTTND------------LEKLPPKFHEVPSLDTAKADGLFHPNCTHSLQVYIDGYSEPPTDTDDSVNGDRRSKIRRLQKLEKTNRL--KEKIYRENGSKNRAAGAKKRAAKYKAERRRL</Hsp_qseq>
+      <Hsp_hseq>MPASPADAEDLARAVGRIYQDAEAALLEILARALAEGIESPRWAEAKLWAIGDVRRAVEELTTALQHDADGAIG-------RAIREAYARGGQAAVAEL---GMLPE---GQRAAALRALPGARNA--DRLANEALDDTRPIYRRILRAVPDAYRNIVQRVSGSVLLGGLTRRQATQRALDQLAARGITGFVDRRGRNWEMAAYAEMAVRSVAGRAAIQGHVDRLEAVGQELVIVSDAPLECPLCRPWEGEVLAINGQSGPHTLVEEHAIKDGQPVVVHVAGSLPEARAAGLFHCNCRHSLSLYLPGVTTRPKSPPHP-GGATYEDTQQQRYLERQVRQWKRRQAAALNDDARRLAGVRIRA--YQARIREL</Hsp_hseq>
+      <Hsp_midline>M   P + E L  +   +++D    L E+ A  + +G  +  +  +    +   +++ ++L       AD AI         A+  AY+ G Q A AEL   G+ P+   G +  +  AL G  +A  +R+ N      R     I+  V DA+R   +  +  VL GG T   AT+ A++ L  +G+   ++   R   + AYAE ++R++AG A +QG +DR E   Q L  V+D+P+EC LCRP+EG+V+                  +  P   H   SL  A+A GLFH NC HSL +Y+ G +  P        G      ++ + LE+  R   + +    N    R AG + RA  Y+A  R L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1496175892|ref|WP_121794248.1|</Hit_id>
+  <Hit_def>capsid protein [Aeromicrobium sp. 9W16Y-2] &gt;gi|1495109703|gb|RLV56052.1| capsid protein [Aeromicrobium sp. 9W16Y-2]</Hit_def>
+  <Hit_accession>WP_121794248</Hit_accession>
+  <Hit_len>354</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>125.176</Hsp_bit-score>
+      <Hsp_score>313</Hsp_score>
+      <Hsp_evalue>5.65888e-27</Hsp_evalue>
+      <Hsp_query-from>64</Hsp_query-from>
+      <Hsp_query-to>349</Hsp_query-to>
+      <Hsp_hit-from>64</Hsp_hit-from>
+      <Hsp_hit-to>334</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>83</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>17</Hsp_gaps>
+      <Hsp_align-len>287</Hsp_align-len>
+      <Hsp_qseq>EATKQADKAIAAIPTSITNAVEIAYSIGEQTAAAELLAAGITPDVSGGFQTLSQYALDGLMDAAINRMGNRVNKLNIVNGVQDAFREATESAAALVLGGGATLEDATEIAVNSLLDKGLKT-INVGNRKMAIDAYAETSIRTIAGNAQVQGSIDRYEDADQYLSFVTDSPMECDLCRPYEGKVIRTTNDLEKLPPKFHEVPSLDTAKADGLFHPNCTHSLQVYIDGYSEPPTDTDDSVNGDRRSKIRRLQKLEKTNRLKEKIYRENGSKNRAAGAKKRAAKYKAERR</Hsp_qseq>
+      <Hsp_hseq>ELTGKSSEEIAA---AIVRSYNRGAAMAEQDLAELVARSATAPMVPPGLP-----AVEGLVSETVAHV--QLANQRILRAADDIYRQVIASAAPQVLLGTQTRREAAQSALNRFANRGITGFVDSRGRQWAMESYVEMSMRAGVMNAQVQGHVERLLSRGQDLVIVSDAPQECALCRPWEGKVLSLTGSQHV---DVRVAGTLDAARSAGLFHPGCRHSVSLFIQGVTKRPTDTADAASQHDREHLRSRERQVRKWKRREAVALDDAAREQ---ARAKVRHYQAQIR</Hsp_hseq>
+      <Hsp_midline>E T ++ + IAA   +I  +     ++ EQ  A  +  +   P V  G       A++GL+   +  +  ++    I+    D +R+   SAA  VL G  T  +A + A+N   ++G+   ++   R+ A+++Y E S+R    NAQVQG ++R     Q L  V+D+P EC LCRP+EGKV+  T              +LD A++ GLFHP C HS+ ++I G ++ PTDT D+ +   R  +R  ++  +  + +E +  ++ ++ +   A+ +   Y+A+ R</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|1225346538|ref|WP_093357078.1|</Hit_id>
+  <Hit_def>MULTISPECIES: hypothetical protein [Bacteria] &gt;gi|1099767167|emb|SFM89298.1| ADP-ribosyltransferase exoenzyme [Rugamonas rubra] &gt;gi|1099903778|emb|SFE68593.1| ADP-ribosyltransferase exoenzyme [Saccharopolyspora jiangxiensis] &gt;gi|1378011705|gb|PTX71187.1| ADP-ribosyltransferase exoenzyme [Saccharopolyspora hirsuta]</Hit_def>
+  <Hit_accession>WP_093357078</Hit_accession>
+  <Hit_len>799</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>129.798</Hsp_bit-score>
+      <Hsp_score>325</Hsp_score>
+      <Hsp_evalue>1.32331e-26</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>361</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>378</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>108</Hsp_identity>
+      <Hsp_positive>185</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>391</Hsp_align-len>
+      <Hsp_qseq>MAYDPVNNEQLVESQAEVFRDISEFLTELTANEVLDGNTNAEYLSSVESWLQFKQKSYKKLFEEATK-----QADKAIAAIPTSITNAVEIAYSIGEQTAAAELLA-----AGITPDVSGGFQTLSQY-ALDGLMDAAINRMGNRVNKLNIVNGVQDAFREATESAAALVLGGGATLEDATEIAVNSLLDKGLKTI-NVGNRKMAIDAYAETSIRTIAGNAQVQGSIDRYEDADQYLSFVTDSPMECDLCRPYEGKVIR----------TTNDLEKLPPKFHEVPSLDTAKADGLFHPNCTHSLQVYIDGYSEPPTDTDDSVNGDR-RSKIRRLQKLEKTNRLKEKIYRENGSKNRAAGAKKRAAKYKAERR-------RLENLLERNSLG</Hsp_qseq>
+      <Hsp_hseq>MAVDPEYLDEIAATVAQLYREAETALAQLIAKH-LDGDLDADMPAPV--WAERKLAAVRALRASAQAVLAGLQADSS-----AATRQAAAEAFRAGWSSALAELPARWFPHSGLSAAAKQAAEEVPGFGAVEALAAAVHADVGQRSR--NVLRDVVDVYRGVIAAATARTLTGTQTRRQAAQAAWQRFVDRGITGFTDRAGRRWRLSSYVEMATRTVAQRAAVQGQTDRLHAAGVSLVYVSNAPQECVLCRPFEGRVLRLGTGPTGRVQVPHQLTDAPVEVEVVDTLAGAQLAGLFHPNCRHSVSAFLPGVTKPPPQPTADPEGDKARQRQRAIEREIRKHKQRQAVALDEPAR-KAASQKVRA--WQAEMREHLDAHPELKRLRYREQLG</Hsp_hseq>
+      <Hsp_midline>MA DP   +++  + A+++R+    L +L A   LDG+ +A+  + V  W + K  + + L   A       QAD +      +   A   A+  G  +A AEL A     +G++       + +  + A++ L  A    +G R    N++  V D +R    +A A  L G  T   A + A    +D+G+    +   R+  + +Y E + RT+A  A VQG  DR   A   L +V+++P EC LCRP+EG+V+R            + L   P +   V +L  A+  GLFHPNC HS+  ++ G ++PP        GD+ R + R +++  + ++ ++ +  +  ++ +AA  K RA  ++AE R        L+ L  R  LG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>171</Statistics_hsp-len>
+      <Statistics_eff-space>47874184690896</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

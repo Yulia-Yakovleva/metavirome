@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>VMHT01051086.1;size=1_11 # 11202 # 12476 # -1 # ID=1355_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397</BlastOutput_query-def>
+  <BlastOutput_query-len>425</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>VMHT01051086.1;size=1_11 # 11202 # 12476 # -1 # ID=1355_11;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.397</Iteration_query-def>
+  <Iteration_query-len>425</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|664802684|gb|AIF72184.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Qinghai Lake virophage]</Hit_def>
+  <Hit_accession>AIF72184</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.9213e-82</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>418</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>398</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>167</Hsp_identity>
+      <Hsp_positive>233</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>414</Hsp_align-len>
+      <Hsp_qseq>MSQLNPFKNAASPDQIYFDITVSNLQSTTTEPPVFYFNEQRSSPFVMNPEDYYLSILRFTVETGTLPVFIPSIQPDQADRDLTIYSCSLEWTDPATSTVYSSGE--TFLRYYPQDKSAVLPPAPNATTNGIQNNLTGYYNIYNYSVLPLLVNAALQVAYAALNTAVVAAGLTLPSDFAPVMTWDSSSDSAVLYFDVAGYSTYFPASTYPVPPAGYSPIQLYFNAPLYGLFPSFPTEYLGYKTSLNGKNFRFDPVNFGGIDNGTITPFPVPTAPIPSTWTSVQVYQEYSTIANFSPIVGLVFTSNTLPIQPNQVSTPVVYNNAQELVLGGNNSDFANVITDLVSDTGQYKPNLVYNPTSEYRLITLYGNRPLSNIDIQVFWRDKFGKLNPFRLASGEAITIKVAFLKKGKYNRKA</Hsp_qseq>
+      <Hsp_hseq>MSQ--QVSKATTPDMVYYDIVVTNFQSITTKAPKLRFNESRTNPIIDKTEDYYMSIVRFSLDTYNLPNIICEIQPNQADPNLSIYSVTLQALLPDGVGGFTTTEVQTFLNWIPQNRDIPTPLAPSLTTTGFQMTNTEYYYCYQFQYFLALMNQAFQTCLVDLITATGGGASPINTAQQPIILWDFTSNSAILNAPSNFYEVTIDPTVNPI-------INIFFNKPLFALFNSFLNIDFGVSIT-NGKNHQIVIDSYLGTQT---IQFPYGLDP---ELEYTQTFQEFSTIDTWTPVSSIVFTSNTIPIVSNQLSAPLIFNDGQIVVGDGNNCNFAQIITDLETNQQVYKPQLLYVPTAEYRRIDLTGNRPLTNIDIEVYWRDKLGGLNQLNLESGGSATIKFLFEKKDKLGIKG</Hsp_hseq>
+      <Hsp_midline>MSQ      A +PD +Y+DI V+N QS TT+ P   FNE R++P +   EDYY+SI+RF+++T  LP  I  IQP+QAD +L+IYS +L+   P     +++ E  TFL + PQ++    P AP+ TT G Q   T YY  Y +     L+N A Q     L TA       + +   P++ WD +S+SA+L      Y      +  P+       I ++FN PL+ LF SF     G   + NGKN +    ++ G        FP    P        Q +QE+STI  ++P+  +VFTSNT+PI  NQ+S P+++N+ Q +V  GNN +FA +ITDL ++   YKP L+Y PT+EYR I L GNRPL+NIDI+V+WRDK G LN   L SG + TIK  F KK K   K </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|948298296|ref|YP_009177821.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Yellowstone Lake virophage 6] &gt;gi|701905656|gb|AIW01896.1| putative minor capsid protein [Yellowstone Lake virophage 6]</Hit_def>
+  <Hit_accession>YP_009177821</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>260.381</Hsp_bit-score>
+      <Hsp_score>664</Hsp_score>
+      <Hsp_evalue>1.4025e-79</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>417</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>377</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>159</Hsp_identity>
+      <Hsp_positive>228</Hsp_positive>
+      <Hsp_gaps>31</Hsp_gaps>
+      <Hsp_align-len>399</Hsp_align-len>
+      <Hsp_qseq>PDQIYFDITVSNLQSTTTEPPVFYFNEQRSSPFVMNPEDYYLSILRFTVETGTLPVFIPSIQPDQADRDLTIYSCSLEWTDPATSTVYSSGETFLRYYPQDKSAVLPPAPNATTNGIQNNLTGYYNIYNYSVLPLLVNAALQVAYAALNTAVVAAGLTLPSDFAPVMTWDSSSDSAVLYFDVAGYSTYFPASTYPVPPAGYSPIQLYFNAPLYGLFPSFPTEYLGYKTSLNGKNFRFDPVNFGGIDNGTITPFPVPTAPIPSTWTSVQVYQEYSTIANFSPIVGLVFTSNTLPIQPNQVSTPVVYNNAQELVLGGNNSDFANVITDLVSDTGQYKPNLVYNPTSEYRLITLYGNRPLSNIDIQVFWRDKFGKLNPFRLASGEAITIKVAFLKKGKYNRK</Hsp_qseq>
+      <Hsp_hseq>PDKVYYDMVISNLNNTNSKPPFAYYNENRSSPIVYDPYKYDLIIARWQLDTNYLPIFIPLIQSSSIDPNLTIYSITLEYSGTIGNPAYVS------FAPQNLVASVPLAPFYTTNKLQDNSQGYYDIYTYQYWIYLVNVCFQQAYTNLDTAYAPA---LPSSFAPVMTWDTQNNIGIINADVLGY--------------GVGGIKVYFNQALSQLFSSFPFTINSFNDAYN-RNFQLQINSFSVANQADYPSFGA------SDFTAYQLFQEFSTISAWNPVLSIVLVSNTLPIVPNNEGVPSLIVNGIYQQQSGNNNIQSQVITDFVAD-GIYKPIITYIPSGEYRRLSLVGDKPINNIDITVMYKDRLGRLNPVLLPAGCSASIKFLFEKKEIYKEK</Hsp_hseq>
+      <Hsp_midline>PD++Y+D+ +SNL +T ++PP  Y+NE RSSP V +P  Y L I R+ ++T  LP+FIP IQ    D +LTIYS +LE++    +  Y S      + PQ+  A +P AP  TTN +Q+N  GYY+IY Y     LVN   Q AY  L+TA   A   LPS FAPVMTWD+ ++  ++  DV GY              G   I++YFN  L  LF SFP     +  + N +NF+    +F   +      F        S +T+ Q++QE+STI+ ++P++ +V  SNTLPI PN    P +  N       GNN+  + VITD V+D G YKP + Y P+ EYR ++L G++P++NIDI V ++D+ G+LNP  L +G + +IK  F KK  Y  K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|952094882|gb|ALN97665.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Dishui lake virophage 1]</Hit_def>
+  <Hit_accession>ALN97665</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>169.474</Hsp_bit-score>
+      <Hsp_score>428</Hsp_score>
+      <Hsp_evalue>2.72313e-44</Hsp_evalue>
+      <Hsp_query-from>19</Hsp_query-from>
+      <Hsp_query-to>413</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>407</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>204</Hsp_positive>
+      <Hsp_gaps>51</Hsp_gaps>
+      <Hsp_align-len>425</Hsp_align-len>
+      <Hsp_qseq>PDQIYFDITVSNL------QSTTTEPPVFYFNEQRSSPFVMNPEDYYLSILRFTVET-GTLPVFIPSIQPDQA----DRDLTIYSCSLEWTDPATSTVYSSGETFLRYYPQ----DKSAVLPPAPNATTNGIQNNLTGYYNIYNYSVLPLLVNAALQVAYAALNTAVVAAGLTLPSDF----APVMTWDSSSDSAVLYFDVAGYSTYFPASTYPVPPAGYSPIQLYFNAPLYGLFPSFPTEYLGYKTSLNGKNFRFDPVNF--------GGIDNGTITPFPVPTAPIPSTWTSVQVYQEYSTIANFSPIVGLVFTSNTLPIQPNQVSTPVVYNNAQELVLGGNNSDFANVITDLV---SDTGQYKPNLVYNPTSEYRLITLYGNRPLSNIDIQVFWRDKFGKLNPFRLASGEAITIKVAFLKKGK</Hsp_qseq>
+      <Hsp_hseq>PTQVYYDLDVVNTITPSLTTSQTAQPNRLTFTEVRSSPILDNPSDYFLSIIRFSLDTAGSMPLFIPQIELQNAVGPTPWNNTVYYVSVEYNPPATPANRLISKKRVIYVPQSNIYDPPAVVPATLNEATEP-------YYWVNNIQAFICMINEALKDAYADIIAQATAGGIVLPATWIAGNEPYLLWNAERSIATL----VAQADIFAQDCLGV---GTAEGFVYFNNPLFTLFSSFQSIH-NYTYDPNPASVNDGEANYLIKVFNKKGGVGNNYVATDATAGPP----YNALYMEQPYSTGATLCPIQSLVFTTTLLPVLPQLIGIPRILSNNNGSV--GQNDNLSNEITDLVVNLTNGTEYFPNVLYLPTAEYRLIDLQSNSPLYGIQISVAWKDVYGIYHDFYLQYGCSCSLKIMFRKKDQ</Hsp_hseq>
+      <Hsp_midline>P Q+Y+D+ V N        S T +P    F E RSSP + NP DY+LSI+RF+++T G++P+FIP I+   A      + T+Y  S+E+  PAT       +  + Y PQ    D  AV+P   N  T         YY + N      ++N AL+ AYA +     A G+ LP+ +     P + W++    A L       +  F      V   G +   +YFN PL+ LF SF + +  Y    N  +      N+        GG+ N  +        P    + ++ + Q YST A   PI  LVFT+  LP+ P  +  P + +N    V  G N + +N ITDLV   ++  +Y PN++Y PT+EYRLI L  N PL  I I V W+D +G  + F L  G + ++K+ F KK +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|322510454|gb|ADX05769.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Organic Lake virophage]</Hit_def>
+  <Hit_accession>ADX05769</Hit_accession>
+  <Hit_len>388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>151.754</Hsp_bit-score>
+      <Hsp_score>382</Hsp_score>
+      <Hsp_evalue>6.83231e-38</Hsp_evalue>
+      <Hsp_query-from>22</Hsp_query-from>
+      <Hsp_query-to>410</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>47</Hsp_gaps>
+      <Hsp_align-len>408</Hsp_align-len>
+      <Hsp_qseq>IYFDITVSNLQSTT--TEPPVFYFNEQRSSPFVMNPEDYYLSILRFTVETGTLPVFIPSIQPDQAD-----RDLTIYSCSLEWTDPATSTVYSSGETFLRYYPQDKS-AVLPPAPNATTNGIQNNLTGYYNIYNYSVLPLLVNAALQVAYAALNTAVVAAGLT--LPSDFAPVMTWDSSSDSAVLYFDVAGYSTYFPASTYPVPPAGYSPIQLYFNAPLYGLFPSFP-----TEYLGYKTSLNGKNFRFDPVNFGGIDNGTITPFPVPTAPIPSTWTS-VQVYQEYSTIANFSPIVGLVFTSNTLPIQPNQVSTPVVYNNAQELVLGGNNSDFANVITDLVSD--TGQYKPNLVYNPTSEYRLITLYGNRPLSNIDIQVFWRDKF-GKLNPFRLASGEAITIKVAFLK</Hsp_qseq>
+      <Hsp_hseq>VYLNCLINNIDSNSDFNHEPHLVFNEDRTSPLITNCENYDMSIANFKVDLKTLPVFIPTIKYSEDDTNESIRNRTIYSITLEYGGYAST-------AHIYFEPQDKTNGTTPPRFKG---GYADYRSGYYNLYNYEFFFVLVNEAVKQAFIGLQKTLLEFGQSKDIGTDM-PYFIFD--KDTGLVFLNA-------PELTFNDDTPN-DVVNIYLNKPLYRLFNSLPFTHELTTFETMTTKVTANAYKIKMSDFGNVAENQVFP-PQSDGTIASVKVNYISVLQDYSTLDTWSPVESIVVTSNTIPVQSSNTSANHSFQNGSETISGS-----SNIVELELSDFKAGTPIPGVIYEP-SYPRWINMRNQSELSNINIEMYYRSKLDGSLIPITISSGGTFSIKLVFRK</Hsp_hseq>
+      <Hsp_midline>+Y +  ++N+ S +     P   FNE R+SP + N E+Y +SI  F V+  TLPVFIP+I+  + D     R+ TIYS +LE+   A++         + + PQDK+    PP       G  +  +GYYN+YNY    +LVN A++ A+  L   ++  G +  + +D  P   +D   D+ +++ +        P  T+         + +Y N PLY LF S P     T +    T +    ++    +FG +    + P P     I S   + + V Q+YST+  +SP+  +V TSNT+P+Q +  S    + N  E + G      +N++   +SD   G   P ++Y P S  R I +     LSNI+I++++R K  G L P  ++SG   +IK+ F K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|409973674|pdb|3J26|N</Hit_id>
+  <Hit_def>Chain N, The 3.5 A resolution structure of the Sputnik virophage by cryo-EM &gt;gi|384254904|gb|AFH75272.1| minor virion protein [Sputnik virophage 2] &gt;gi|384254925|gb|AFH75292.1| minor virion protein [Sputnik virophage 3] &gt;gi|1315516157|gb|AUG85005.1| minor virion protein [Sputnik virophage 2]</Hit_def>
+  <Hit_accession>3J26_N</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>132.494</Hsp_bit-score>
+      <Hsp_score>332</Hsp_score>
+      <Hsp_evalue>6.85792e-31</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>412</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>369</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>124</Hsp_identity>
+      <Hsp_positive>200</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>409</Hsp_align-len>
+      <Hsp_qseq>MSQLNPFKNAASPDQIYFDITVSNLQSTTTEPPVFYFNEQRSSPFVMNPEDYYLSILRFTVETGTLPVFIPSIQP-DQADRDLTIYSCSLEWTDPATSTVYSSGETFLRYYPQDKSAVLPPAPNATTNGIQN-NLTGYYNIYNYSVLPLLVNAALQVAYAALNTAVVAAGLTLPSDFAPVMTWDSSSDSAVLYFDVAGYSTYFPASTYPVPPAGYSPIQLYFNAPLYGLFPSFPTEYLGYKTSLNGKNFRFDPVNFGGIDNGTITPFPVPTAPIPSTWTSVQVYQEYSTIANFSPIVGLVFTSNTLPIQPNQVSTPVVYN-NAQELVLGGNNSDFANVITDLVSDTGQYKPNLVYNPTSEYRLITLYGNRPLSNIDIQVFWRDKFGKLNPFRLASGEAITIKVAFLKKG</Hsp_qseq>
+      <Hsp_hseq>MSYSHSIKDCQEPDTVYYDILIPFKPNDQGFSPAI-FQAQLTQPIVHNPSEYFLSVVRFSIPTQNIPLTIPQIQPYPNTNVNNTIYSVSIGY-----NGTYSS-QNFVQFDPSLTSPNI-PAPNAPTVTSPNVEVTPYYYIYDYSTFLQMINTALENAFNEISAPVGAD--------APFFFYDSNTEKISLIAQAAYYDRTLT-----------TPIEIYCNVNLFTFFDSIKHIGLGYNTP-TGRDILFD-VRFLG-NNYYQDPETAPSYPP----EFIQMQQEYPTLSNWNAVKTIQLVSNLLPI--NKESIPSFRNSNVGIINAQGILADFV----PLVTNGPEARISIDFVATGPWRLIDMFGSVPIYMVDLYVYWTDQTGGQYLINIPPGRILTCKLVFIKKS</Hsp_hseq>
+      <Hsp_midline>MS  +  K+   PD +Y+DI +    +     P   F  Q + P V NP +Y+LS++RF++ T  +P+ IP IQP    + + TIYS S+ +     +  YSS + F+++ P   S  + PAPNA T    N  +T YY IY+YS    ++N AL+ A+  ++  V A         AP   +DS+++   L    A Y                +PI++Y N  L+  F S     LGY T   G++  FD V F G +N    P   P+ P       +Q+ QEY T++N++ +  +   SN LPI  N+ S P   N N   +   G  +DF      LV++  + + ++ +  T  +RLI ++G+ P+  +D+ V+W D+ G      +  G  +T K+ F+KK </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>161</Statistics_hsp-len>
+      <Statistics_eff-space>11911916165424</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+<Iteration>
+  <Iteration_iter-num>2</Iteration_iter-num>
+  <Iteration_query-ID>Query_2</Iteration_query-ID>
+  <Iteration_query-def>VMHT01137215.1;size=1_16 # 11939 # 13144 # 1 # ID=1529_16;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.289</Iteration_query-def>
+  <Iteration_query-len>402</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|664802684|gb|AIF72184.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Qinghai Lake virophage]</Hit_def>
+  <Hit_accession>AIF72184</Hit_accession>
+  <Hit_len>399</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>222.246</Hsp_bit-score>
+      <Hsp_score>565</Hsp_score>
+      <Hsp_evalue>8.40393e-65</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>400</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>391</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>155</Hsp_identity>
+      <Hsp_positive>222</Hsp_positive>
+      <Hsp_gaps>33</Hsp_gaps>
+      <Hsp_align-len>408</Hsp_align-len>
+      <Hsp_qseq>QQANEVLPDYVYFDVLQTNFKSTTTEPPIFTINETRSSPFIQLPEKYDLSILRFQIDTGSVPLFIPSIEPDQADINKTIYSVTLVDTDYPD-------QPQQVFLNWVAQDQSAPIPAPPSNRTSKTQDNTKGYYNCYSYNWLCDLVYQALQGALNNLATEIGTSNMIVTGDLDNNGDNAVYSPLIYWDANSKSAIIQGQLGAYSETLSRK----IQIFFNAPLFDLFNSFQSVYLGYEDVTFGRNNRIILAD-IGGINIQSVIPNYTNNIADDSEYIYKAITIQQEYSTQEQISPIASLVFASNTLPIQTNQTSNTIVFIDG-IPVIKGTNASSENIITDMVSSSGQYRSGITYSPTAEFRRVHLYGNRPLSNLDINIYYRLKNGELIPFRMISGGKVSMKIGFLRK</Hsp_qseq>
+      <Hsp_hseq>QVSKATTPDMVYYDIVVTNFQSITTKAPKLRFNESRTNPIIDKTEDYYMSIVRFSLDTYNLPNIICEIQPNQADPNLSIYSVTL-QALLPDGVGGFTTTEVQTFLNWIPQNRDIPTPLAPSLTTTGFQMTNTEYYYCYQFQYFLALMNQAFQTCLVDLITATGGGASPI---------NTAQQPIILWDFTSNSAILNAPSNFYEVTIDPTVNPIINIFFNKPLFALFNSFLNIDFGVS-ITNGKNHQIVIDSYLGTQTIQ-----FPYGLDPELEYTQTF----QEFSTIDTWTPVSSIVFTSNTIPIVSNQLSAPLIFNDGQIVVGDGNNCNFAQIITDLETNQQVYKPQLLYVPTAEYRRIDLTGNRPLTNIDIEVYWRDKLGGLNQLNLESGGSATIKFLFEKK</Hsp_hseq>
+      <Hsp_midline>Q +    PD VY+D++ TNF+S TT+ P    NE+R++P I   E Y +SI+RF +DT ++P  I  I+P+QAD N +IYSVTL     PD          Q FLNW+ Q++  P P  PS  T+  Q     YY CY + +   L+ QA Q  L +L T  G     +         N    P+I WD  S SAI+      Y  T+       I IFFN PLF LFNSF ++  G   +T G+N++I++   +G   IQ     +   +  + EY        QE+ST +  +P++S+VF SNT+PI +NQ S  ++F DG I V  G N +   IITD+ ++   Y+  + Y PTAE+RR+ L GNRPL+N+DI +Y+R K G L    + SGG  ++K  F +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|948298296|ref|YP_009177821.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Yellowstone Lake virophage 6] &gt;gi|701905656|gb|AIW01896.1| putative minor capsid protein [Yellowstone Lake virophage 6]</Hit_def>
+  <Hit_accession>YP_009177821</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>186.808</Hsp_bit-score>
+      <Hsp_score>473</Hsp_score>
+      <Hsp_evalue>1.70418e-51</Hsp_evalue>
+      <Hsp_query-from>12</Hsp_query-from>
+      <Hsp_query-to>400</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>371</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>130</Hsp_identity>
+      <Hsp_positive>205</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>390</Hsp_align-len>
+      <Hsp_qseq>LPDYVYFDVLQTNFKSTTTEPPIFTINETRSSPFIQLPEKYDLSILRFQIDTGSVPLFIPSIEPDQADINKTIYSVTLVDTDYPDQPQQVFLNWVAQDQSAPIPAPPSNRTSKTQDNTKGYYNCYSYNWLCDLVYQALQGALNNLATEIGTSNMIVTGDLDNNGDNAVYSPLIYWDANSKSAIIQGQLGAYSETLSRKIQIFFNAPLFDLFNSFQSVYLGYEDVTFGRNNRIILADIGGINIQSVIPNYTNNIADDSEYIYKAITIQQEYSTQEQISPIASLVFASNTLPIQTNQTSNTIVFIDGIPVIK-GTNASSENIITDMVSSSGQYRSGITYSPTAEFRRVHLYGNRPLSNLDINIYYRLKNGELIPFRMISGGKVSMKIGFLRK</Hsp_qseq>
+      <Hsp_hseq>LPDKVYYDMVISNLNNTNSKPPFAYYNENRSSPIVYDPYKYDLIIARWQLDTNYLPIFIPLIQSSSIDPNLTIYSITLEYSGTIGNP--AYVSFAPQNLVASVPLAPFYTTNKLQDNSQGYYDIYTYQYWIYLVNVCFQQAYTNLDTAYAPA------------LPSSFAPVMTWDTQNNIGIINADVLGYG---VGGIKVYFNQALSQLFSSFPFTINSFND-AYNRNFQLQINSFSVAN-QADYPSFG---ASD----FTAYQLFQEFSTISAWNPVLSIVLVSNTLPIVPNNEGVPSLIVNGIYQQQSGNNNIQSQVITDFV-ADGIYKPIITYIPSGEYRRLSLVGDKPINNIDITVMYKDRLGRLNPVLLPAGCSASIKFLFEKK</Hsp_hseq>
+      <Hsp_midline>LPD VY+D++ +N  +T ++PP    NE RSSP +  P KYDL I R+Q+DT  +P+FIP I+    D N TIYS+TL  +     P   ++++  Q+  A +P  P   T+K QDN++GYY+ Y+Y +   LV    Q A  NL T    +              + ++P++ WD  +   II   +  Y       I+++FN  L  LF+SF      + D  + RN ++ +      N Q+  P++    A D    + A  + QE+ST    +P+ S+V  SNTLPI  N      + ++GI   + G N     +ITD V + G Y+  ITY P+ E+RR+ L G++P++N+DI + Y+ + G L P  + +G   S+K  F +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|322510454|gb|ADX05769.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Organic Lake virophage]</Hit_def>
+  <Hit_accession>ADX05769</Hit_accession>
+  <Hit_len>388</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>140.969</Hsp_bit-score>
+      <Hsp_score>354</Hsp_score>
+      <Hsp_evalue>4.50973e-34</Hsp_evalue>
+      <Hsp_query-from>14</Hsp_query-from>
+      <Hsp_query-to>399</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>118</Hsp_identity>
+      <Hsp_positive>196</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>400</Hsp_align-len>
+      <Hsp_qseq>DYVYFDVLQTNFKSTT--TEPPIFTINETRSSPFIQLPEKYDLSILRFQIDTGSVPLFIPSIEPDQADI-----NKTIYSVTLVDTDYPDQPQQVFLNWVAQDQSAPIPAPPSNRTSKTQDNTKGYYNCYSYNWLCDLVYQALQGALNNLATEIGTSNMIVTGDLDNNGDNAVYSPLIYWDANSKSAIIQG-QLGAYSETLSRKIQIFFNAPLFDLFNS--FQSVYLGYEDVT---FGRNNRIILADIGGINIQSVIPNYTNNIADDSEYIYKAITIQQEYSTQEQISPIASLVFASNTLPIQTNQTSNTIVFIDGIPVIKGTNASSENIITDMVSSSGQYRSGITYSPTAEFRRVHLYGNRPLSNLDINIYYRLK-NGELIPFRMISGGKVSMKIGFLR</Hsp_qseq>
+      <Hsp_hseq>EYVYLNCLINNIDSNSDFNHEPHLVFNEDRTSPLITNCENYDMSIANFKVDLKTLPVFIPTIKYSEDDTNESIRNRTIYSITL---EYGGYASTAHIYFEPQDKTNGT-TPPRFK-GGYADYRSGYYNLYNYEFFFVLVNEAVKQAF------IGLQKTLL--EFGQSKDIGTDMPYFIFDKDTGLVFLNAPELTFNDDTPNDVVNIYLNKPLYRLFNSLPFTHELTTFETMTTKVTANAYKIKMSDFGNVAENQVFPPQSDGTIASVKVNY--ISVLQDYSTLDTWSPVESIVVTSNTIPVQSSNTSANHSFQNGSETISGSSNIVELELSDF--KAGTPIPGVIYEPSYP-RWINMRNQSELSNINIEMYYRSKLDGSLIPITISSGGTFSIKLVFRK</Hsp_hseq>
+      <Hsp_midline>+YVY + L  N  S +     P    NE R+SP I   E YD+SI  F++D  ++P+FIP+I+  + D      N+TIYS+TL   +Y        + +  QD++     PP  +     D   GYYN Y+Y +   LV +A++ A       IG    ++  +   + D     P   +D ++    +   +L    +T +  + I+ N PL+ LFNS  F      +E +T        +I ++D G +    V P  ++      +  Y  I++ Q+YST +  SP+ S+V  SNT+P+Q++ TS    F +G   I G++   E  ++D    +G    G+ Y P+   R +++     LSN++I +YYR K +G LIP  + SGG  S+K+ F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|952094882|gb|ALN97665.1|</Hit_id>
+  <Hit_def>putative minor capsid protein [Dishui lake virophage 1]</Hit_def>
+  <Hit_accession>ALN97665</Hit_accession>
+  <Hit_len>410</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>122.094</Hsp_bit-score>
+      <Hsp_score>305</Hsp_score>
+      <Hsp_evalue>4.24775e-27</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>400</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>405</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>122</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>64</Hsp_gaps>
+      <Hsp_align-len>427</Hsp_align-len>
+      <Hsp_qseq>PDYVYFDVLQTNF------KSTTTEPPIFTINETRSSPFIQLPEKYDLSILRFQIDT-GSVPLFIPSIEPDQA----DINKTIYSVTLVDTDYPDQPQQVFLN-----WVAQDQSAPIPAPPSNRTSKTQDNTKGYYNCYSYNWLCDLVYQALQGALNNLATEIGTSNMIVTGDLDNNGDNAVYSPLIYWDANSKSAIIQGQLGAYSETL----SRKIQIFFNAPLFDLFNSFQSVYLGYED-----VTFGRNNRII--LADIGGINIQSVIPNYTNNIADDSEY--IYKAITIQQEYSTQEQISPIASLVFASNTLPIQTNQTSNTIVFIDGIPVI-------KGTNASSENIITDMV---SSSGQYRSGITYSPTAEFRRVHLYGNRPLSNLDINIYYRLKNGELIPFRMISGGKVSMKIGFLRK</Hsp_qseq>
+      <Hsp_hseq>PTQVYYDLDVVNTITPSLTTSQTAQPNRLTFTEVRSSPILDNPSDYFLSIIRFSLDTAGSMPLFIPQIELQNAVGPTPWNNTVYYVS-VEYNPPATPANRLISKKRVIYVPQSN---IYDPPAVVPATLNEATEPYYWVNNIQAFICMINEALKDAYADIIAQATAGGIVLPATWIAGNE-----PYLLWNAERSIATLVAQADIFAQDCLGVGTAEGFVYFNNPLFTLFSSFQSIHNYTYDPNPASVNDGEANYLIKVFNKKGGVG--------NNYVATDATAGPPYNALYMEQPYSTGATLCPIQSLVFTTTLLPVLPQ--------LIGIPRILSNNNGSVGQNDNLSNEITDLVVNLTNGTEYFPNVLYLPTAEYRLIDLQSNSPLYGIQISVAWKDVYGIYHDFYLQYGCSCSLKIMFRKK</Hsp_hseq>
+      <Hsp_midline>P  VY+D+   N        S T +P   T  E RSSP +  P  Y LSI+RF +DT GS+PLFIP IE   A      N T+Y V+ V+ + P  P    ++     +V Q     I  PP+   +   + T+ YY   +      ++ +AL+ A  ++  +     +++        +     P + W+A    A +  Q   +++      + +  ++FN PLF LF+SFQS++    D     V  G  N +I      GG+          N +A D+     Y A+ ++Q YST   + PI SLVF +  LP+           + GIP I        G N +  N ITD+V   ++  +Y   + Y PTAE+R + L  N PL  + I++ ++   G    F +  G   S+KI F +K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|409973674|pdb|3J26|N</Hit_id>
+  <Hit_def>Chain N, The 3.5 A resolution structure of the Sputnik virophage by cryo-EM &gt;gi|384254904|gb|AFH75272.1| minor virion protein [Sputnik virophage 2] &gt;gi|384254925|gb|AFH75292.1| minor virion protein [Sputnik virophage 3] &gt;gi|1315516157|gb|AUG85005.1| minor virion protein [Sputnik virophage 2]</Hit_def>
+  <Hit_accession>3J26_N</Hit_accession>
+  <Hit_len>378</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>120.553</Hsp_bit-score>
+      <Hsp_score>301</Hsp_score>
+      <Hsp_evalue>9.15729e-27</Hsp_evalue>
+      <Hsp_query-from>13</Hsp_query-from>
+      <Hsp_query-to>400</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>368</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>106</Hsp_identity>
+      <Hsp_positive>184</Hsp_positive>
+      <Hsp_gaps>52</Hsp_gaps>
+      <Hsp_align-len>398</Hsp_align-len>
+      <Hsp_qseq>PDYVYFDVLQTNFKSTTT--EPPIFTINETRSSPFIQLPEKYDLSILRFQIDTGSVPLFIPSIEP-DQADINKTIYSVTL-VDTDYPDQPQQVFLNWVAQDQSAPIPAPPSNRTSKTQDNTKGYYNCYSYNWLCDLVYQALQGALNNLATEIGTSNMIVTGDLDNNGDNAVYSPLIYWDANSKSAIIQGQLGAYSETLSRKIQIFFNAPLFDLFNSFQSVYLGYEDVTFGRNNRIILADIGGINIQSVIPNYTNNIADDSEYIYKAITIQQEYSTQEQISPIASLVFASNTLPIQTNQTSNTIVFIDGIPVIKGTNA---SSENIITD---MVSSSGQYRSGITYSPTAEFRRVHLYGNRPLSNLDINIYYRLKNGELIPFRMISGGKVSMKIGFLRK</Hsp_qseq>
+      <Hsp_hseq>PDTVYYDIL-IPFKPNDQGFSPAIFQAQLTQ--PIVHNPSEYFLSVVRFSIPTQNIPLTIPQIQPYPNTNVNNTIYSVSIGYNGTYSSQ---NFVQFDPSLTSPNIPAPNAPTVTSPNVEVTPYYYIYDYSTFLQMINTALENAFNEISAPVGAD-----------------APFFFYDSNTEKISLIAQAAYYDRTLTTPIEIYCNVNLFTFFDSIKHIGLGYNTPT-GRD---ILFDVRFLGN-----NYYQDPETAPSYPPEFIQMQQEYPTLSNWNAVKTIQLVSNLLPINK----------ESIPSFRNSNVGIINAQGILADFVPLVTNGPEARISIDFVATGPWRLIDMFGSVPIYMVDLYVYWTDQTGGQYLINIPPGRILTCKLVFIKK</Hsp_hseq>
+      <Hsp_midline>PD VY+D+L   FK       P IF    T+  P +  P +Y LS++RF I T ++PL IP I+P    ++N TIYSV++  +  Y  Q    F+ +     S  IPAP +   +        YY  Y Y+    ++  AL+ A N ++  +G                   +P  ++D+N++   +  Q   Y  TL+  I+I+ N  LF  F+S + + LGY   T GR+   IL D+  +       NY  +      Y  + I +QQEY T    + + ++   SN LPI            + IP  + +N    +++ I+ D   +V++  + R  I +  T  +R + ++G+ P+  +D+ +Y+  + G      +  G  ++ K+ F++K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>160</Statistics_hsp-len>
+      <Statistics_eff-space>10973050171534</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.5.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Bmo/ncbi_nr_database/nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>VMHT01101711.1;size=1_12 # 7850 # 8137 # -1 # ID=1460_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372</BlastOutput_query-def>
+  <BlastOutput_query-len>96</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_1</Iteration_query-ID>
+  <Iteration_query-def>VMHT01101711.1;size=1_12 # 7850 # 8137 # -1 # ID=1460_12;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.372</Iteration_query-def>
+  <Iteration_query-len>96</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>gi|1200690226|gb|OUX84513.1|</Hit_id>
+  <Hit_def>hypothetical protein CBB95_15740 [Alteromonas sp. TMED35]</Hit_def>
+  <Hit_accession>OUX84513</Hit_accession>
+  <Hit_len>105</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>115.931</Hsp_bit-score>
+      <Hsp_score>289</Hsp_score>
+      <Hsp_evalue>2.0847e-31</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>93</Hsp_query-to>
+      <Hsp_hit-from>21</Hsp_hit-from>
+      <Hsp_hit-to>105</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>51</Hsp_identity>
+      <Hsp_positive>69</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>85</Hsp_align-len>
+      <Hsp_qseq>RLDRIEEKIDKLSDAMISLARAEEKLIAIENNHNNHFERMNKFSQKLDAIEKKVDDNARTVQIINSIVYLVAVATVGVVIDYFWL</Hsp_qseq>
+      <Hsp_hseq>RFDRLEVKIDKLAEALVALARVEEKMMAMEKNNQNQYERMNRFSQKLDEIEKKVDDNAHTVAIINKVVYLIGAAIVAGLVNYLWM</Hsp_hseq>
+      <Hsp_midline>R DR+E KIDKL++A+++LAR EEK++A+E N+ N +ERMN+FSQKLD IEKKVDDNA TV IIN +VYL+  A V  +++Y W+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>gi|1387960327|ref|WP_108865435.1|</Hit_id>
+  <Hit_def>hypothetical protein [Rhodobacteraceae bacterium Water-Bin34]</Hit_def>
+  <Hit_accession>WP_108865435</Hit_accession>
+  <Hit_len>93</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>4.08844e-22</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>93</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>93</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>93</Hsp_align-len>
+      <Hsp_qseq>MAADTNQKRLDRIEEKIDKLSDAMISLARAEEKLIAIENNHNNHFERMNKFSQKLDAIEKKVDDNARTVQIINSIVYLVAVATVGVVIDYFWL</Hsp_qseq>
+      <Hsp_hseq>MANNPVNNRLDRIEEKLDQMSEVLISLARFEEKMDAYNEYRERSWDRMNKFSEKLDVIEKKCDDNARTVHTINKLFWVGIVAIITAITAQIWM</Hsp_hseq>
+      <Hsp_midline>MA +    RLDRIEEK+D++S+ +ISLAR EEK+ A        ++RMNKFS+KLD IEKK DDNARTV  IN + ++  VA +  +    W+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gi|1519660218|gb|RPG31850.1|</Hit_id>
+  <Hit_def>hypothetical protein CBB72_011830 [Muricauda sp. TMED12]</Hit_def>
+  <Hit_accession>RPG31850</Hit_accession>
+  <Hit_len>101</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.1889</Hsp_bit-score>
+      <Hsp_score>204</Hsp_score>
+      <Hsp_evalue>1.4999e-18</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>93</Hsp_query-to>
+      <Hsp_hit-from>13</Hsp_hit-from>
+      <Hsp_hit-to>101</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>61</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>TNQKRLDRIEEKIDKLSDAMISLARAEEKLIAIENNHNNHFERMNKFSQKLDAIEKKVDDNARTVQIINSIVYLVAVATVGVVIDYFWL</Hsp_qseq>
+      <Hsp_hseq>TNQQRLDRIETKIDKLSETVISLARAEEKLVALETDREETRKRLTTIETAVNVVDRKVDEYAVTVKVINRLFWIVITVTASVLAGTFLM</Hsp_hseq>
+      <Hsp_midline>TNQ+RLDRIE KIDKLS+ +ISLARAEEKL+A+E +     +R+      ++ +++KVD+ A TV++IN + ++V   T  V+   F +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gi|1276690573|gb|ATV46320.1|</Hit_id>
+  <Hit_def>hypothetical protein [Lake Baikal phage Baikal-20-5m-C28]</Hit_def>
+  <Hit_accession>ATV46320</Hit_accession>
+  <Hit_len>114</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>75.485</Hsp_bit-score>
+      <Hsp_score>184</Hsp_score>
+      <Hsp_evalue>2.04672e-15</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>91</Hsp_query-to>
+      <Hsp_hit-from>30</Hsp_hit-from>
+      <Hsp_hit-to>112</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>57</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>83</Hsp_align-len>
+      <Hsp_qseq>RLDRIEEKIDKLSDAMISLARAEEKLIAIENNHNNHFERMNKFSQKLDAIEKKVDDNARTVQIINSIVYLVAVATVGVVIDYF</Hsp_qseq>
+      <Hsp_hseq>RLDRIENKIDKLSDAVISLARAEEKLINLENDRNTMLDKIIRIEKKIDNVDLRMTEQETTSRVIIKIFWIVLTALVGACIAFL</Hsp_hseq>
+      <Hsp_midline>RLDRIE KIDKLSDA+ISLARAEEKLI +EN+ N   +++ +  +K+D ++ ++ +   T ++I  I ++V  A VG  I + </Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gi|787065123|dbj|BAR35901.1|</Hit_id>
+  <Hit_def>hypothetical protein [uncultured Mediterranean phage uvMED]</Hit_def>
+  <Hit_accession>BAR35901</Hit_accession>
+  <Hit_len>92</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>70.4774</Hsp_bit-score>
+      <Hsp_score>171</Hsp_score>
+      <Hsp_evalue>1.15198e-13</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>91</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>89</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>62</Hsp_positive>
+      <Hsp_gaps>1</Hsp_gaps>
+      <Hsp_align-len>89</Hsp_align-len>
+      <Hsp_qseq>ADTNQKRLDRIEEKIDKLSDAMISLARAEEKLIAIENNHNNHFERMNKFSQKLDAIEKKVDDNARTVQIINSIVYLVAVATVGVVIDYF</Hsp_qseq>
+      <Hsp_hseq>SDSQDQRLEKIEEKLDRLADAVVSIARIEERVATVLRQNDRFFIRMDKIEQRLEDVESQSDVNSNTGRFIERFMWIVVAAGIGLLV-YF</Hsp_hseq>
+      <Hsp_midline>+D+  +RL++IEEK+D+L+DA++S+AR EE++  +   ++  F RM+K  Q+L+ +E + D N+ T + I   +++V  A +G+++ YF</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>222287961</Statistics_db-num>
+      <Statistics_db-len>80909256287</Statistics_db-len>
+      <Statistics_hsp-len>66</Statistics_hsp-len>
+      <Statistics_eff-space>1987147525830</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
+
