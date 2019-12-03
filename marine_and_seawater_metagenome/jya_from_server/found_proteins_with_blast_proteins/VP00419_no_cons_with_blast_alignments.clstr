@@ -1,0 +1,55 @@
+>Cluster 0
+0	445aa, >CAACVD010000003.1;s... at 64.94%
+1	445aa, >CAACVD010000006.1;s... at 65.84%
+2	444aa, >CAACVD010000007.1;s... at 63.51%
+3	447aa, >QDP51912.1... at 63.53%
+4	446aa, >QDP65179.1... at 71.30%
+5	463aa, >QDP59609.1... *
+6	450aa, >QDP57080.1... at 62.22%
+7	455aa, >QDP53614.1... at 58.24%
+>Cluster 1
+0	425aa, >TXH42150.1... *
+>Cluster 2
+0	424aa, >WP_122012374.1... *
+>Cluster 3
+0	421aa, >TXH58382.1... *
+>Cluster 4
+0	418aa, >RLA65480.1... *
+>Cluster 5
+0	410aa, >MDTA01090680.1;size... *
+1	397aa, >QDP61676.1... at 79.60%
+2	397aa, >KHD88846.1... at 51.64%
+>Cluster 6
+0	409aa, >RLF65528.1... *
+1	409aa, >RLF67245.1... at 98.53%
+>Cluster 7
+0	405aa, >CESM01017265.1;size... *
+>Cluster 8
+0	404aa, >FLOH01000719.1;size... *
+>Cluster 9
+0	404aa, >YP_009594305.1... *
+>Cluster 10
+0	398aa, >RJQ07539.1... *
+>Cluster 11
+0	396aa, >WP_042124870.1... *
+>Cluster 12
+0	393aa, >WP_068663647.1... *
+1	393aa, >REK59888.1... at 73.03%
+>Cluster 13
+0	393aa, >ANS05244.1... *
+>Cluster 14
+0	392aa, >MPLU02000654.1;size... *
+>Cluster 15
+0	381aa, >RSD36523.1... at 53.81%
+1	389aa, >RZD54528.1... *
+2	388aa, >ANS04809.1... at 86.86%
+>Cluster 16
+0	387aa, >WP_006719113.1... *
+>Cluster 17
+0	387aa, >OYT64176.1... *
+>Cluster 18
+0	379aa, >LUMI01000042.1;size... *
+>Cluster 19
+0	378aa, >RLF66127.1... *
+>Cluster 20
+0	377aa, >RME52498.1... *

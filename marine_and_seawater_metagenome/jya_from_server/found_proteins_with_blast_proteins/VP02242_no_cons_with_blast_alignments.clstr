@@ -1,0 +1,98 @@
+>Cluster 0
+0	8333aa, >WP_072522566.1... *
+>Cluster 1
+0	5747aa, >XP_026872744.1... *
+>Cluster 2
+0	3847aa, >XP_028251320.1... *
+>Cluster 3
+0	1146aa, >WP_133718624.1... *
+>Cluster 4
+0	1004aa, >XP_028457974.1... at 75.10%
+1	1117aa, >TDH01802.1... *
+>Cluster 5
+0	808aa, >SQI39260.1... at 100.00%
+1	981aa, >WP_006659237.1... *
+2	981aa, >WP_036975031.1... at 99.39%
+3	981aa, >WP_036960320.1... at 99.59%
+>Cluster 6
+0	899aa, >WP_121254053.1... *
+>Cluster 7
+0	823aa, >WP_140961164.1... *
+>Cluster 8
+0	761aa, >KXA95465.1... *
+>Cluster 9
+0	706aa, >PCI92224.1... *
+>Cluster 10
+0	656aa, >RZD31001.1... *
+>Cluster 11
+0	642aa, >OLP75035.1... *
+>Cluster 12
+0	637aa, >WP_060478036.1... *
+>Cluster 13
+0	622aa, >VMHT01023378.1;size... *
+1	622aa, >VMHT01030759.1;size... at 99.84%
+>Cluster 14
+0	616aa, >YP_007676626.1... *
+>Cluster 15
+0	594aa, >VMHT01053713.1;size... at 54.04%
+1	607aa, >VMHT01079041.1;size... *
+2	594aa, >VMHT01085293.1;size... at 54.04%
+>Cluster 16
+0	587aa, >VMHT01001889.1;size... *
+1	583aa, >VMHT01187383.1;size... at 60.38%
+>Cluster 17
+0	576aa, >VMHT01003389.1;size... *
+>Cluster 18
+0	573aa, >XP_011076284.1... *
+>Cluster 19
+0	544aa, >VMHT01176003.1;size... *
+>Cluster 20
+0	526aa, >XP_016611480.1... *
+>Cluster 21
+0	518aa, >WP_076814305.1... *
+>Cluster 22
+0	502aa, >WP_091391897.1... *
+>Cluster 23
+0	501aa, >PHX81472.1... *
+>Cluster 24
+0	491aa, >WP_012638533.1... *
+1	490aa, >WP_018952855.1... at 89.80%
+>Cluster 25
+0	476aa, >WP_075791786.1... *
+>Cluster 26
+0	473aa, >RZK26862.1... *
+1	465aa, >RZK05658.1... at 72.90%
+>Cluster 27
+0	454aa, >VMHT01011580.1;size... *
+>Cluster 28
+0	444aa, >VMHT01001647.1;size... *
+1	444aa, >VMHT01045567.1;size... at 100.00%
+>Cluster 29
+0	427aa, >VMHT01062923.1;size... *
+1	426aa, >VMHT01133737.1;size... at 66.43%
+2	426aa, >VMHT01202110.1;size... at 66.43%
+>Cluster 30
+0	422aa, >VMHT01031667.1;size... *
+1	415aa, >VMHT01152759.1;size... at 63.86%
+>Cluster 31
+0	382aa, >XP_019038844.1... *
+>Cluster 32
+0	353aa, >OGM57719.1... at 100.00%
+1	354aa, >OGM26582.1... *
+>Cluster 33
+0	314aa, >WP_079003104.1... *
+>Cluster 34
+0	292aa, >WP_093347974.1... *
+1	292aa, >WP_150064872.1... at 96.23%
+2	292aa, >WP_093146417.1... at 99.32%
+>Cluster 35
+0	281aa, >WP_054703932.1... *
+>Cluster 36
+0	232aa, >WP_141676142.1... *
+1	232aa, >WP_143723993.1... at 99.14%
+>Cluster 37
+0	216aa, >OQX65853.1... *
+>Cluster 38
+0	179aa, >WP_147116887.1... *
+>Cluster 39
+0	135aa, >RPI48326.1... *

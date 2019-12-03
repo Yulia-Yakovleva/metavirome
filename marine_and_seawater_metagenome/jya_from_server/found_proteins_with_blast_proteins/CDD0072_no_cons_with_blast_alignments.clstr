@@ -1,0 +1,295 @@
+>Cluster 0
+0	250aa, >QCQ84651.1... *
+1	156aa, >AXH76301.1... at 63.46%
+>Cluster 1
+0	159aa, >OLKC01000056.1;size... at 65.41%
+1	222aa, >AXH74060.1... *
+2	166aa, >AXQ66376.1... at 92.17%
+3	166aa, >AXQ65597.1... at 91.57%
+4	222aa, >AXQ65896.1... at 88.74%
+5	219aa, >AXL14776.1... at 84.93%
+>Cluster 2
+0	216aa, >AXL15222.1... *
+>Cluster 3
+0	199aa, >AXH73615.1... *
+>Cluster 4
+0	192aa, >AXH75151.1... *
+>Cluster 5
+0	184aa, >AXL15083.1... *
+>Cluster 6
+0	182aa, >AXH75995.1... *
+>Cluster 7
+0	156aa, >AXL15479.1... at 50.00%
+1	180aa, >AXL15043.1... *
+>Cluster 8
+0	178aa, >OLKC01000009.1;size... *
+>Cluster 9
+0	177aa, >OLKC01000015.1;size... *
+>Cluster 10
+0	177aa, >AXL14826.1... *
+>Cluster 11
+0	171aa, >AXL15327.1... at 54.97%
+1	176aa, >AXL15078.1... *
+>Cluster 12
+0	174aa, >AXL14423.1... *
+>Cluster 13
+0	174aa, >AXL14684.1... *
+>Cluster 14
+0	174aa, >AXL14700.1... *
+>Cluster 15
+0	172aa, >AXH74790.1... *
+1	160aa, >AXH73540.1... at 56.88%
+>Cluster 16
+0	156aa, >OLKC01000024.1;size... at 53.21%
+1	149aa, >OLKC01000031.1;size... at 54.36%
+2	153aa, >AXL14816.1... at 70.59%
+3	172aa, >AXL14811.1... *
+4	153aa, >AXL14806.1... at 54.25%
+5	158aa, >AJK28236.1... at 50.00%
+>Cluster 17
+0	172aa, >AXH73268.1... *
+>Cluster 18
+0	172aa, >AXH73279.1... *
+>Cluster 19
+0	153aa, >AXL15005.1... at 66.67%
+1	153aa, >AXQ66145.1... at 69.28%
+2	153aa, >AXL15010.1... at 72.55%
+3	171aa, >AXL15000.1... *
+4	153aa, >AXH75640.1... at 73.20%
+5	166aa, >AXL15399.1... at 87.95%
+6	166aa, >AXL15564.1... at 87.95%
+7	165aa, >AXL14995.1... at 86.06%
+8	164aa, >AGT39940.1... at 82.32%
+9	167aa, >AXL15394.1... at 91.62%
+>Cluster 20
+0	168aa, >AZL82816.1... *
+>Cluster 21
+0	167aa, >AXL14705.1... *
+1	158aa, >AXH78148.1... at 58.86%
+>Cluster 22
+0	166aa, >AXL15449.1... *
+>Cluster 23
+0	166aa, >AXH76104.1... *
+1	145aa, >ALS03704.1... at 59.31%
+>Cluster 24
+0	157aa, >AXH71831.1... at 54.78%
+1	165aa, >AXH75464.1... *
+>Cluster 25
+0	165aa, >AXH74724.1... *
+>Cluster 26
+0	165aa, >AXL15404.1... *
+>Cluster 27
+0	164aa, >AXH73927.1... *
+1	161aa, >QCQ85080.1... at 51.55%
+>Cluster 28
+0	164aa, >AYP28839.1... *
+>Cluster 29
+0	149aa, >AXL14665.1... at 53.02%
+1	163aa, >AXL14674.1... *
+2	154aa, >AXL15247.1... at 51.95%
+>Cluster 30
+0	163aa, >AJK28280.1... *
+>Cluster 31
+0	162aa, >AXH78034.1... *
+>Cluster 32
+0	161aa, >FUIF01013444.1;size... *
+>Cluster 33
+0	161aa, >RLA51446.1... *
+>Cluster 34
+0	161aa, >AXL14720.1... *
+1	161aa, >AXL15272.1... at 82.61%
+>Cluster 35
+0	161aa, >AJK28329.1... *
+>Cluster 36
+0	160aa, >OLKC01000051.1;size... *
+>Cluster 37
+0	160aa, >AJK28275.1... *
+>Cluster 38
+0	160aa, >AXH76110.1... *
+>Cluster 39
+0	160aa, >AXH75591.1... *
+>Cluster 40
+0	159aa, >AZL82882.1... *
+>Cluster 41
+0	158aa, >OLKC01000014.1;size... *
+>Cluster 42
+0	158aa, >AXL14771.1... *
+>Cluster 43
+0	158aa, >AZL82697.1... *
+>Cluster 44
+0	108aa, >MDSV01144814.1;size... at 100.00%
+1	157aa, >MDSV01144814.1;size... *
+>Cluster 45
+0	157aa, >MDTG01239443.1;size... *
+1	143aa, >OKRO01000007.1;size... at 93.71%
+>Cluster 46
+0	157aa, >OLKC01000027.1;size... *
+>Cluster 47
+0	157aa, >AZL82962.1... *
+>Cluster 48
+0	147aa, >OLKC01000012.1;size... at 55.78%
+1	156aa, >OLKC01000013.1;size... *
+>Cluster 49
+0	156aa, >AJK28314.1... *
+>Cluster 50
+0	156aa, >QCQ84895.1... *
+>Cluster 51
+0	156aa, >AXL15297.1... *
+>Cluster 52
+0	155aa, >FUIF01019059.1;size... *
+>Cluster 53
+0	155aa, >MDSZ01085446.1;size... *
+>Cluster 54
+0	155aa, >AXL14645.1... *
+1	144aa, >AXL15587.1... at 52.78%
+2	155aa, >AXL15592.1... at 51.61%
+3	153aa, >AXL14660.1... at 56.21%
+>Cluster 55
+0	155aa, >AZL82952.1... *
+1	135aa, >AZL83008.1... at 52.59%
+>Cluster 56
+0	154aa, >MDTE01060766.1;size... *
+1	153aa, >ADR80652.1... at 77.78%
+>Cluster 57
+0	154aa, >AXH73030.1... *
+>Cluster 58
+0	154aa, >AXH74242.1... *
+>Cluster 59
+0	150aa, >MDSZ01085920.1;size... at 50.67%
+1	145aa, >OLKC01000035.1;size... at 55.86%
+2	152aa, >OLKC01000039.1;size... at 62.50%
+3	151aa, >OLKC01000044.1;size... at 60.26%
+4	147aa, >OLKC01000045.1;size... at 50.34%
+5	145aa, >OLKC01000048.1;size... at 62.76%
+6	154aa, >AXL15574.1... *
+7	144aa, >AXL15161.1... at 52.08%
+>Cluster 60
+0	153aa, >FUIF01019029.1;size... *
+>Cluster 61
+0	153aa, >MDTB01086806.1;size... *
+1	151aa, >MDTC01136431.1;size... at 76.16%
+2	152aa, >MDTG01239565.1;size... at 75.66%
+3	153aa, >MDTG01239970.1;size... at 81.05%
+4	152aa, >MDTG01428234.1;size... at 73.03%
+5	152aa, >AXL14548.1... at 86.84%
+6	151aa, >AXL14553.1... at 64.90%
+7	122aa, >AXH75288.1... at 77.87%
+>Cluster 62
+0	153aa, >AJK28286.1... *
+>Cluster 63
+0	103aa, >MDTB01025159.1;size... at 78.64%
+1	144aa, >MDTB01025159.1;size... at 78.47%
+2	145aa, >MDTG01240435.1;size... at 83.45%
+3	145aa, >MDTG01240435.1;size... at 83.45%
+4	150aa, >OLKC01000055.1;size... at 50.00%
+5	144aa, >AXL14543.1... at 86.11%
+6	144aa, >AXH76220.1... at 86.81%
+7	145aa, >AXH76253.1... at 85.52%
+8	144aa, >AXH76594.1... at 85.42%
+9	144aa, >AXL14980.1... at 84.72%
+10	145aa, >ADR80654.1... at 82.76%
+11	152aa, >AXQ66111.1... *
+12	149aa, >AXL14975.1... at 84.56%
+13	146aa, >AGT39920.1... at 64.38%
+14	147aa, >AXQ65858.1... at 63.95%
+15	147aa, >AXL14990.1... at 62.59%
+16	152aa, >AXL14985.1... at 61.84%
+17	149aa, >AXL15202.1... at 65.10%
+>Cluster 64
+0	152aa, >AXL14615.1... *
+1	152aa, >AXL14620.1... at 70.39%
+>Cluster 65
+0	152aa, >AXL14715.1... *
+>Cluster 66
+0	150aa, >OLKC01000054.1;size... *
+1	149aa, >AXQ66625.1... at 65.10%
+>Cluster 67
+0	150aa, >AYQ58152.1... *
+>Cluster 68
+0	149aa, >OLKC01000016.1;size... *
+>Cluster 69
+0	149aa, >OLKC01000032.1;size... *
+>Cluster 70
+0	149aa, >AXL14766.1... *
+>Cluster 71
+0	149aa, >AXL14694.1... *
+>Cluster 72
+0	139aa, >FUIF01018810.1;size... at 72.66%
+1	148aa, >FUIF01018925.1;size... *
+2	82aa, >FUIF01018948.1;size... at 60.98%
+>Cluster 73
+0	148aa, >OLKC01000046.1;size... *
+>Cluster 74
+0	148aa, >OLKC01000052.1;size... *
+>Cluster 75
+0	148aa, >AXL15302.1... *
+1	139aa, >AXL14761.1... at 67.63%
+>Cluster 76
+0	147aa, >OLKC01000037.1;size... *
+1	106aa, >AXL14418.1... at 60.38%
+>Cluster 77
+0	147aa, >OLKC01000038.1;size... *
+>Cluster 78
+0	147aa, >AXH75931.1... *
+>Cluster 79
+0	140aa, >AXL15282.1... at 55.71%
+1	147aa, >AXL15277.1... *
+>Cluster 80
+0	147aa, >AXL14528.1... *
+>Cluster 81
+0	146aa, >OLKC01000043.1;size... *
+>Cluster 82
+0	146aa, >AXH77992.1... *
+>Cluster 83
+0	146aa, >AXL15207.1... *
+>Cluster 84
+0	146aa, >AYP28742.1... *
+>Cluster 85
+0	145aa, >AXF52677.1... *
+>Cluster 86
+0	145aa, >AXL15217.1... *
+>Cluster 87
+0	144aa, >OLKC01000036.1;size... *
+>Cluster 88
+0	144aa, >AXH76873.1... *
+>Cluster 89
+0	144aa, >AZL82932.1... *
+>Cluster 90
+0	144aa, >AXH73787.1... *
+>Cluster 91
+0	143aa, >OLKC01000030.1;size... *
+1	143aa, >OLKC01000034.1;size... at 95.10%
+>Cluster 92
+0	143aa, >AXL15038.1... *
+>Cluster 93
+0	143aa, >AXL15267.1... *
+>Cluster 94
+0	143aa, >AXL14489.1... *
+>Cluster 95
+0	143aa, >AXH77469.1... *
+>Cluster 96
+0	143aa, >AXH77649.1... *
+>Cluster 97
+0	142aa, >OLKC01000019.1;size... *
+>Cluster 98
+0	142aa, >AXL15414.1... *
+>Cluster 99
+0	142aa, >AXH77875.1... *
+>Cluster 100
+0	141aa, >FUIF01019001.1;size... *
+>Cluster 101
+0	141aa, >OLKC01000023.1;size... *
+>Cluster 102
+0	140aa, >AXH72196.1... *
+>Cluster 103
+0	138aa, >FUIF01018986.1;size... *
+>Cluster 104
+0	135aa, >FUIF01010698.1;size... *
+>Cluster 105
+0	135aa, >AXH74590.1... *
+>Cluster 106
+0	133aa, >AXH74181.1... *
+>Cluster 107
+0	132aa, >FUIF01018783.1;size... *
+>Cluster 108
+0	124aa, >FUIF01019056.1;size... *
