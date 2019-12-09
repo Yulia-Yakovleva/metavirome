@@ -16,7 +16,7 @@ def collect_m_centroids(clusters, model, m_centroids):
 
         centroid = cluster[0].replace(';size', '')
         if is_m and not is_b:
-            m_centroids[centroid].append(model + f'_Centroid_{i}')
+            m_centroids[centroid].append(model + f'_Centroid_{i}_Size_{len(cluster)}')
 
 all_contigs_filename = 'marine_and_seawater_metagenome/circular_merged.fna'
 resulting_file = 'marine_and_seawater_metagenome/viral_annotated_circular_merged.fna'
