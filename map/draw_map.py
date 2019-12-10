@@ -9,6 +9,6 @@ m = folium.Map()
 cluster = MarkerCluster().add_to(m)
 
 for d in data.itertuples():
-    folium.Marker([d.latitude, d.longitude], popup=d.id, tooltip=d.id2).add_to(cluster)
+    folium.Marker([d.latitude, d.longitude], popup=d.id2, tooltip=d.id).add_to(cluster)
 
 m.save("map.html")
