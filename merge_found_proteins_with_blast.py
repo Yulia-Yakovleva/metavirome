@@ -5,6 +5,7 @@ import pandas as pd
 
 Entrez.email = "yakovleva.spbu@gmail.com"
 
+# This script just merge hmmsearch proteins with blast proteins and does not anything complex
 
 sub_folder = 'marine_and_seawater_metagenome/jya_from_server/'
 protein_names_file_path = sub_folder + 'protein_names.txt'

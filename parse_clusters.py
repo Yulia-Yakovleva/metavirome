@@ -1,8 +1,16 @@
+import argparse
+
 from glob import glob
-from pprint import pprint
 from Bio import SeqIO
 
+# Parsing arguments
+parser = argparse.ArgumentParser(description='Parse clusters and filter fasta files by leaving only cluster centorid in given folder with protein .fasta files and them .clstr clusters file. '
+                                             'New fasta centroids fasta file names have name equal name as original files, but with `_centroids` in the end.')
+parser.add_argument('--folder', '-d', required=True, help='Working folder')
+d = vars(parser.parse_args())
+folder = d['folder']
 
+# Parse cluster file
 def parse_clusters_file(file_name):
     clusters = []
 
@@ -23,7 +31,7 @@ def parse_clusters_file(file_name):
 
     return clusters
 
-
+# Get centroids from fasta by given parsed clusters
 def get_centroids_from_fasta(file_name, clusters):
     fasta_contigs = list(SeqIO.parse(open(file_name), 'fasta'))
     centroid_contigs = []
@@ -49,7 +57,6 @@ def get_centroids_from_fasta(file_name, clusters):
     return centroid_contigs
 
 
-folder = 'marine_and_seawater_metagenome/jya_from_server/found_proteins_with_blast_proteins/'
 clstr_files = glob(folder + '*.clstr')
 
 for clstr_file in clstr_files:

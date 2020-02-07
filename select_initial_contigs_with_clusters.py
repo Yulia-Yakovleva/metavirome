@@ -6,6 +6,8 @@ from Bio import SeqIO
 from collections import defaultdict
 
 
+# Just selecting desired contigs from original nucleotide fasta file and does not anything complex
+
 def collect_m_centroids(clusters, model, m_centroids):
     for i, cluster in enumerate(clusters):
 
@@ -33,7 +35,12 @@ for clstr_file in clstr_files:
     clusters = parse_clusters_file(clstr_file)
     collect_m_centroids(clusters, model, m_centroids)
 
-pprint(m_centroids)
+with open('centroids_on_final_contigs.txt', 'w') as f:
+    for k, v in m_centroids.items():
+        print(k, end=': ', file=f)
+        print(','.join(v), file=f)
+
+# pprint(m_centroids)
 all_circular_contigs = SeqIO.parse(open(all_contigs_filename), 'fasta')
 
 m_contigs = []
@@ -46,4 +53,4 @@ for contig in all_circular_contigs:
 
         m_contigs.append(contig)
 
-SeqIO.write(m_contigs, open(resulting_file, mode='w'), 'fasta')
+# SeqIO.write(m_contigs, open(resulting_file, mode='w'), 'fasta')
